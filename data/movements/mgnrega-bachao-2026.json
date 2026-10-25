@@ -1,0 +1,59 @@
+{
+  "id": "mgnrega-bachao-2026",
+  "name": "Protests against replacing MGNREGA with the VB-G RAM G Act",
+  "short_name": "MGNREGA Bachao",
+  "aliases": [
+    "MGNREGA Bachao Sangram",
+    "Save MGNREGA"
+  ],
+  "keywords": [
+    "=MGNREGA",
+    "MGNREGA",
+    "VB-G RAM G",
+    "rural employment guarantee",
+    "NREGA"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Nationwide"
+  ],
+  "places": "Nationwide; Congress protests at the AICC office, New Delhi",
+  "locations": [
+    {
+      "name": "AICC office, New Delhi",
+      "lat": 28.6052,
+      "lon": 77.2105
+    }
+  ],
+  "started": "2026-01-10",
+  "about": "Parliament passed the VB-G RAM G Act in December 2025 to replace MGNREGA, the rural employment guarantee law. The Congress launched a 45-day MGNREGA Bachao Sangram on 10 January 2026, with fasts, village meetings, sit-ins and planned gheraos of state legislatures, and trade unions added the demand to their 12 February strike. In May the government announced that MGNREGA would be repealed on 1 July 2026.",
+  "demands": "Repeal of the VB-G RAM G Act and restoration of MGNREGA as a rights-based law; protection of panchayats' role in rural work.",
+  "context": {
+    "question": "What replaced MGNREGA, and why do critics object?",
+    "short": "In December 2025 Parliament replaced MGNREGA, the rural jobs guarantee law, with the VB-G RAM G Act. The Congress and trade unions campaigned for its repeal; the old law was set to end on 1 July 2026.",
+    "explainer": [
+      "MGNREGA, the UPA-era rural employment law, gave rural households a legal right to wage work. Parliament passed the VB-G RAM G Act to replace it in December 2025, and the President assented on 21 December. The new Act guarantees 125 days of wage work per rural household a year, according to Deccan Herald.",
+      "The Congress launched a 45-day MGNREGA Bachao Sangram on 10 January 2026, with fasts, village meetings, sit-ins and planned gheraos of state assemblies, arguing that the change erodes a legal right. Trade unions added the restoration of MGNREGA to their 12 February strike.",
+      "In May the government announced that MGNREGA would be repealed on 1 July, with its assets, liabilities and records moving to the new scheme."
+    ],
+    "impact": [
+      "MGNREGA's assets, liabilities and records move to the VB-G RAM G scheme from 1 July 2026, according to The Wire.",
+      "The new Act guarantees 125 days of work a year. Critics, including the Congress, say it still erodes the legal right to work and the role of panchayats."
+    ],
+    "sources": [
+      {
+        "title": "Congress launches 45-day nationwide MGNREGA Bachao Sangram (Deccan Herald)",
+        "url": "https://www.deccanherald.com/amp/story/india%2Fcongress-launches-45-day-nationwide-mgnrega-bachao-sangram-3857985"
+      },
+      {
+        "title": "Govt attacking poor, jobs now taken away: Congress during MGNREGA protest (Business Standard, PTI)",
+        "url": "https://www.business-standard.com/politics/govt-attacking-poor-jobs-now-taken-away-congress-during-mgnrega-protest-126013000650_1.html"
+      },
+      {
+        "title": "Modi government announces MGNREGA will be repealed on July 1 (The Wire)",
+        "url": "https://thewire.in/labour/modi-government-announces-mgnrega-will-be-repealed-on-july-1"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

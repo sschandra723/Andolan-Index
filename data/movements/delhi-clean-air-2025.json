@@ -1,0 +1,62 @@
+{
+  "id": "delhi-clean-air-2025",
+  "name": "Delhi clean-air protests at India Gate",
+  "short_name": "Delhi clean-air protests",
+  "aliases": [
+    "India Gate pollution protest",
+    "Delhi air pollution protest"
+  ],
+  "keywords": [
+    "air pollution",
+    "toxic air",
+    "clean air",
+    "smog",
+    "India Gate",
+    "=AQI",
+    "Delhi Coordination Committee for Clean Air"
+  ],
+  "cause": "Environment",
+  "states": [
+    "Delhi"
+  ],
+  "places": "India Gate, New Delhi",
+  "locations": [
+    {
+      "name": "India Gate, New Delhi",
+      "lat": 28.6129,
+      "lon": 77.2295
+    }
+  ],
+  "started": "2025-11-09",
+  "about": "Residents, environmental activists and students gathered at India Gate on 9 November 2025 to demand action on Delhi's toxic air; police detained several of them, saying India Gate is not a permitted protest site and only Jantar Mantar is. A second protest there on 23 November ended in arrests: police say protesters blocked a road, used pepper spray on officers and raised slogans in support of a Maoist leader, and at least 22 people were arrested. Bail was granted in stages, and the last of those arrested was released on 31 December, according to The Polis Project.",
+  "demands": "Firm government action on air pollution and a permanent solution rather than cosmetic measures; accountability from the Delhi government; the right to protest at India Gate.",
+  "context": {
+    "question": "Why were people arrested for protesting about Delhi's air?",
+    "short": "Residents went to India Gate in November 2025 to demand lasting action on Delhi's toxic air. Police said the site was not a permitted venue, and a second protest ended in more than 20 arrests and serious charges.",
+    "explainer": [
+      "On 9 November 2025, with Delhi's air quality index at about 370 ('very poor'), residents, environmental activists and students gathered near India Gate. Organisers told Scroll that police had spent days pressing them to call it off. Police detained several people that evening, describing the detentions as preventive, and said Jantar Mantar is the only place in New Delhi designated for protests.",
+      "A second protest at India Gate on 23 November turned into a scuffle. Police say protesters jumped barricades, blocked a road and used pepper spray on officers. They arrested at least 22 people under two FIRs and said they were examining slogans allegedly raised in support of a Maoist leader.",
+      "According to The Polis Project, a sedition charge was added later and the accused were granted bail in stages through December. It also reports that the state told the court it had no material linking any of them to Maoist groups. The Delhi Coordination Committee for Clean Air, which backed the protests, says the authorities rely on cosmetic steps such as water sprinklers and cloud seeding."
+    ],
+    "impact": [
+      "Raised the question of where Delhi residents may protest: police say India Gate is off-limits and only Jantar Mantar is designated.",
+      "More than 20 people, many of them students, spent between days and weeks in custody after the 23 November protest, according to The Tribune and The Polis Project.",
+      "The clean-air coalition says the government still relies on cosmetic measures rather than tackling the sources of pollution."
+    ],
+    "sources": [
+      {
+        "title": "Delhi pollution protest organisers allege police pressured them to call off stir (Scroll)",
+        "url": "https://scroll.in/latest/1088408/scroll_in"
+      },
+      {
+        "title": "Arrests for assault and pepper spray during air pollution protest (The Tribune)",
+        "url": "https://www.tribuneindia.com/news/delhi/15-arrested-for-using-pepper-spray-on-delhi-police-during-air-pollution-protest"
+      },
+      {
+        "title": "From Smog to Sedition in Delhi (The Polis Project)",
+        "url": "https://thepolisproject.com/?p=19830"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

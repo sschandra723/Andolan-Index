@@ -1,0 +1,55 @@
+{
+  "id": "tn-hospital-workers-2026",
+  "name": "Tamil Nadu hospital multipurpose workers' protest",
+  "short_name": "Tamil Nadu hospital workers",
+  "aliases": [
+    "Tamil Nadu multipurpose hospital workers"
+  ],
+  "keywords": [
+    "multipurpose hospital worker",
+    "multipurpose health worker",
+    "hospital workers",
+    "Tamil Nadu",
+    "Chennai",
+    "hunger strike"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Tamil Nadu"
+  ],
+  "places": "Chennai",
+  "locations": [
+    {
+      "name": "Chennai",
+      "lat": 13.0827,
+      "lon": 80.2707
+    }
+  ],
+  "started": "2026-10-12",
+  "about": "More than 2,500 daily-wage multipurpose health workers in Tamil Nadu government hospitals began protesting on 12 October, including a hunger strike. Police detained over 200 in Chennai.",
+  "demands": "Job security, better employment conditions, action on long-pending demands.",
+  "context": {
+    "question": "Who are Tamil Nadu's multipurpose hospital workers?",
+    "short": "More than 2,500 multipurpose workers in Tamil Nadu's government hospitals are employed on daily wages. They want job security and better terms, and began a hunger strike in Chennai on 12 October.",
+    "explainer": [
+      "Multipurpose health workers do support work in Tamil Nadu's government multi-speciality hospitals, employed on a daily-wage basis.",
+      "They submitted a charter of demands to the health minister and announced a hunger strike near Rajarathinam Stadium in Chennai on 12 October. Police detained more than 200 people in Chennai and stopped others in their home districts."
+    ],
+    "impact": [
+      "Health Minister K G Arunraj said the protest came barely five days after the demands were submitted and that the government needs time to meet them step by step.",
+      "Opposition leader Udhayanidhi Stalin criticised the pre-emptive detentions.",
+      "The workers are asking for job security and better employment conditions."
+    ],
+    "sources": [
+      {
+        "title": "TN government needs time to evaluate demands (ThePrint/PTI, 12 Oct 2026)",
+        "url": "https://theprint.in/india/health-workers-protest-tn-govt-needs-time-to-evaluate-demands-says-minister-arunraj/3069444/"
+      },
+      {
+        "title": "Workers struggles: Asia and Australia (WSWS, 16 Oct 2026)",
+        "url": "https://www.wsws.org/en/articles/2026/10/16/nrbi-o16.html"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

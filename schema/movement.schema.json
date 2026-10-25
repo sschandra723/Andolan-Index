@@ -1,0 +1,255 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "movement.schema.json",
+  "title": "Movement",
+  "description": "One named protest movement. Reports (news articles) point at it by id.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "cause",
+    "states",
+    "places",
+    "started",
+    "about",
+    "demands",
+    "keywords"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "maxLength": 60,
+      "description": "Stable slug. Also the file name and the page URL. Never change it once published."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 5,
+      "maxLength": 120
+    },
+    "short_name": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 40,
+      "description": "A few words for maps and tight spaces, e.g. 'Anti-SIR protests'."
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 2
+      },
+      "uniqueItems": true,
+      "description": "Other names the movement is reported under. A match on an alias counts double when sorting new articles."
+    },
+    "keywords": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 2
+      },
+      "uniqueItems": true,
+      "description": "Terms used to match new articles. Prefix with = for an exact, case-sensitive whole word (for acronyms such as =SIR)."
+    },
+    "cause": {
+      "enum": [
+        "Elections",
+        "Labour",
+        "Exams",
+        "Agriculture",
+        "Autonomy",
+        "Environment",
+        "Rights",
+        "Land",
+        "Other"
+      ]
+    },
+    "states": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "$ref": "#/$defs/state"
+      }
+    },
+    "places": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 160
+    },
+    "locations": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Where it is happening, for the map. One point per city or site, in WGS84 degrees.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "lat",
+          "lon"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 2
+          },
+          "lat": {
+            "type": "number",
+            "minimum": 6,
+            "maximum": 37.2
+          },
+          "lon": {
+            "type": "number",
+            "minimum": 68,
+            "maximum": 97.5
+          }
+        }
+      }
+    },
+    "started": {
+      "$ref": "#/$defs/partialDate",
+      "description": "When the movement began, or the earliest date we know of. YYYY-MM-DD, or YYYY-MM when the day is unknown."
+    },
+    "ended": {
+      "$ref": "#/$defs/date",
+      "description": "Set by hand when the protest is called off or resolved. Leave out while it is ongoing."
+    },
+    "about": {
+      "type": "string",
+      "minLength": 40,
+      "maxLength": 1200
+    },
+    "demands": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 500
+    },
+    "context": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Background on the issue behind the movement, shown at the end of its page and in short on the landing page. Write it from the sources listed, and say who makes each contested claim.",
+      "required": [
+        "question",
+        "short",
+        "explainer",
+        "impact",
+        "sources",
+        "updated"
+      ],
+      "properties": {
+        "question": {
+          "type": "string",
+          "minLength": 10,
+          "maxLength": 90,
+          "description": "The question a reader would ask, e.g. 'What is the SIR, and what does it change?'"
+        },
+        "short": {
+          "type": "string",
+          "minLength": 40,
+          "maxLength": 320,
+          "description": "Two sentences at most. Used on the landing page."
+        },
+        "explainer": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 5,
+          "items": {
+            "type": "string",
+            "minLength": 40,
+            "maxLength": 900
+          }
+        },
+        "impact": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 8,
+          "items": {
+            "type": "string",
+            "minLength": 20,
+            "maxLength": 420
+          },
+          "description": "What it changes for people. Attribute contested claims."
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "title",
+              "url"
+            ],
+            "properties": {
+              "title": {
+                "type": "string",
+                "minLength": 4
+              },
+              "url": {
+                "type": "string",
+                "pattern": "^https?://[^\\s]+$"
+              }
+            }
+          }
+        },
+        "updated": {
+          "$ref": "#/$defs/date"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "partialDate": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}(-\\d{2})?$"
+    },
+    "state": {
+      "enum": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Andaman and Nicobar Islands",
+        "Chandigarh",
+        "Dadra and Nagar Haveli and Daman and Diu",
+        "Delhi",
+        "Jammu and Kashmir",
+        "Ladakh",
+        "Lakshadweep",
+        "Puducherry",
+        "Nationwide"
+      ]
+    }
+  }
+}

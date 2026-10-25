@@ -1,0 +1,74 @@
+{
+  "id": "gig-workers-strike-2025",
+  "name": "Gig delivery workers' strikes against 10-minute delivery",
+  "short_name": "Gig workers' strike",
+  "aliases": [
+    "App Bandh",
+    "gig workers strike",
+    "delivery workers strike"
+  ],
+  "keywords": [
+    "gig workers",
+    "gig worker",
+    "delivery workers",
+    "10-minute delivery",
+    "Blinkit",
+    "Zepto",
+    "Swiggy",
+    "Zomato",
+    "=IFAT"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Nationwide"
+  ],
+  "places": "Nationwide; strongest in Gurugram and Delhi",
+  "locations": [
+    {
+      "name": "Gurugram",
+      "lat": 28.4595,
+      "lon": 77.0266
+    },
+    {
+      "name": "Bengaluru",
+      "lat": 12.9716,
+      "lon": 77.5946
+    },
+    {
+      "name": "Hyderabad",
+      "lat": 17.385,
+      "lon": 78.4867
+    }
+  ],
+  "started": "2025-12-25",
+  "about": "Delivery workers' unions, including the Indian Federation of App-Based Transport Workers and the Telangana Gig and Platform Workers Union, called all-India strikes on 25 and 31 December 2025. They demanded an end to 10-minute delivery, fair pay, safety cover and an end to arbitrary account blocking. The Christmas strike disrupted deliveries in Gurugram and parts of Delhi. In January 2026, after Labour Minister Mansukh Mandaviya met the platforms, Blinkit dropped its 10-minute promise, and Zepto and Swiggy's Instamart were expected to follow.",
+  "demands": "A ban on the 10-minute delivery model; fair and transparent pay; accident insurance and social security; an end to account blocking without due process; regulation of platforms under labour law.",
+  "context": {
+    "question": "What do India's gig delivery workers want?",
+    "short": "Delivery workers struck on 25 and 31 December 2025 against 10-minute delivery and for fair pay and safety. In January 2026 platforms began dropping the 10-minute promise after the labour minister stepped in.",
+    "explainer": [
+      "Unions of app-based delivery workers say riders face unclear pay and arbitrary account blocking, and that promises of delivery in 10 minutes push them to take risks on the road.",
+      "The Indian Federation of App-Based Transport Workers and the Telangana Gig and Platform Workers Union called strikes on Christmas Day and New Year's Eve 2025. The federation says it has about 7 lakh members. Deccan Herald reported that the first strike disrupted deliveries in Gurugram and parts of Delhi but had little effect in Bengaluru.",
+      "In January 2026 Labour Minister Mansukh Mandaviya met Blinkit, Zepto, Zomato and Swiggy about delivery deadlines and worker safety. Blinkit then dropped its 10-minute promise, and the others were expected to follow."
+    ],
+    "impact": [
+      "Blinkit removed the 10-minute delivery claim from its branding in January 2026.",
+      "The unions' other demands, such as social security, accident insurance and an end to arbitrary account blocking, were not part of that announcement."
+    ],
+    "sources": [
+      {
+        "title": "Gig workers call all-India strike on Christmas and New Year's Eve: what they demand (Outlook Business)",
+        "url": "https://www.outlookbusiness.com/start-up/e-commerce/gig-workers-call-all-india-strike-on-christmas-and-new-years-eve-heres-what-they-demand"
+      },
+      {
+        "title": "Gig workers want ban on 10-min delivery, plan nationwide strike (Deccan Herald)",
+        "url": "https://www.deccanherald.com/amp/story/india%2Fkarnataka%2Fbengaluru%2Fgig-workers-want-ban-on-10-min-delivery-plan-nationwide-strike-on-new-years-eve-3846118"
+      },
+      {
+        "title": "Blinkit drops 10-minute delivery claim after Labour Min intervenes (The Week, PTI)",
+        "url": "https://www.theweek.in/wire-updates/business/2026/01/13/blinkit-drops-10-minute-delivery-claim-after-labour-min-intervenes-swiggy-zepto-may-follow-suit.html"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

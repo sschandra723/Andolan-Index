@@ -1,0 +1,67 @@
+{
+  "id": "save-aravalli-2025",
+  "name": "Save Aravalli protests over the hill range's new definition",
+  "short_name": "Save Aravalli",
+  "aliases": [
+    "Aravalli Bachao",
+    "Save Aravalli"
+  ],
+  "keywords": [
+    "Aravalli",
+    "Aravallis",
+    "Aravalli Bachao",
+    "100-metre",
+    "100 metre"
+  ],
+  "cause": "Environment",
+  "states": [
+    "Haryana",
+    "Rajasthan",
+    "Gujarat",
+    "Delhi"
+  ],
+  "places": "Gurugram and Delhi-NCR; Vijaynagar, Sabarkantha (Gujarat)",
+  "locations": [
+    {
+      "name": "Gurugram",
+      "lat": 28.4595,
+      "lon": 77.0266
+    },
+    {
+      "name": "Vijaynagar, Sabarkantha",
+      "lat": 23.99,
+      "lon": 73.26
+    }
+  ],
+  "started": "2025-12",
+  "about": "Protests spread in December 2025 after the Supreme Court accepted the Environment Ministry's proposal to define an Aravalli hill as a landform at least 100 metres high. Critics said the rule leaves most of the range unprotected and open to mining. Groups such as Aravalli Bachao organised marches and human chains around Gurugram and Delhi-NCR, and tribal residents protested in Gujarat's Sabarkantha district. On 29 December the Supreme Court, which had taken up the matter on its own, stayed its order and directed a new expert committee to survey the range.",
+  "demands": "Withdrawal of the 100-metre definition; no new mining in the Aravallis; protection of the range's forests, wildlife and water.",
+  "context": {
+    "question": "Why did the Aravalli definition spark protests?",
+    "short": "In November 2025 the Supreme Court accepted a 100-metre height rule for what counts as an Aravalli hill. Critics said it left most of the range open to mining; after protests, the court stayed its own order in December.",
+    "explainer": [
+      "The Aravalli range runs from Gujarat through Rajasthan and Haryana to Delhi. In November 2025 the Supreme Court accepted the Environment Ministry's proposal that only landforms at least 100 metres high count as Aravalli hills, while pausing fresh mining leases, according to The Logical Indian.",
+      "Critics called the rule a death warrant for the range. They said it would strip protection from most of the hills, expose lower ridges to mining and worsen groundwater loss, desertification and air pollution in Delhi-NCR. Groups such as Aravalli Bachao organised marches and human chains around Gurugram, and tribal residents protested in Gujarat's Sabarkantha district.",
+      "The Supreme Court took up the matter on its own. On 29 December it stayed its order and directed that a new committee be formed to survey the range."
+    ],
+    "impact": [
+      "The 100-metre definition is on hold while a new expert committee surveys the range.",
+      "Environmentalists say the rule would have opened lower ridges to mining, putting forests, wildlife, groundwater and Delhi-NCR's air at risk."
+    ],
+    "sources": [
+      {
+        "title": "Save Aravalli trends as mass protests erupt in north India (The Logical Indian)",
+        "url": "https://thelogicalindian.com/save-aravalli-trends-as-mass-protests-erupt-in-north-india-over-supreme-court-ruling/"
+      },
+      {
+        "title": "Protests in Gujarat over Aravalli mining controversy (ETV Bharat)",
+        "url": "https://www.etvbharat.com/en/state/environmentalists-stage-protests-against-supreme-court-ruling-on-aravalli-mining-enn25122302331"
+      },
+      {
+        "title": "Supreme Court stays own order, directs new committee to survey Aravallis (The Wire)",
+        "url": "https://thewire.in/environment/supreme-court-stays-own-order-directs-new-committee-to-be-formed-to-survey-aravallis"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

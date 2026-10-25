@@ -1,0 +1,67 @@
+{
+  "id": "labour-codes-strike-2025",
+  "name": "Trade union protests against the four labour codes",
+  "short_name": "Labour codes protests",
+  "aliases": [
+    "Bharat Bandh 12 February",
+    "general strike against labour codes"
+  ],
+  "keywords": [
+    "labour codes",
+    "labour code",
+    "central trade unions",
+    "general strike",
+    "Bharat Bandh",
+    "=CITU",
+    "=AITUC",
+    "=INTUC"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Nationwide"
+  ],
+  "places": "Nationwide; largest shutdowns reported in Kerala",
+  "locations": [
+    {
+      "name": "Thiruvananthapuram",
+      "lat": 8.5241,
+      "lon": 76.9366
+    },
+    {
+      "name": "Bengaluru",
+      "lat": 12.9716,
+      "lon": 77.5946
+    }
+  ],
+  "started": "2025-11-26",
+  "about": "After the Centre notified four labour codes replacing 29 labour laws in November 2025, a joint forum of ten central trade unions, the Samyukt Kisan Morcha and power engineers held protests on 26 November in over 500 districts, by AITUC's count. The same unions, backed by farmer groups, called a nationwide strike on 12 February 2026, which also demanded the restoration of MGNREGA. In Kerala public transport stopped and shops and colleges closed; in Bengaluru protesters were detained.",
+  "demands": "Withdrawal of the four labour codes and their rules; restoration of MGNREGA and repeal of the VB-G RAM G Act; a legal guarantee of MSP for farmers; an end to electricity privatisation.",
+  "context": {
+    "question": "What are the labour codes, and why do unions oppose them?",
+    "short": "In November 2025 the Centre brought in four labour codes in place of 29 older labour laws. Unions say they weaken job security and workers' rights, and called protests and a nationwide strike.",
+    "explainer": [
+      "The four labour codes replace 29 labour laws, and the Centre notified all four in November 2025. The unions say the codes weaken workers' rights and job security and make hiring and firing easier.",
+      "On 26 November a joint forum of ten central trade unions, the Samyukt Kisan Morcha and power engineers held protests. AITUC counted them in over 500 districts. The protesters added demands such as a legal guarantee of minimum support prices for crops and an end to electricity privatisation.",
+      "The unions then called a nationwide strike for 12 February 2026, backed by the Samyukt Kisan Morcha and the All India Kisan Sabha. It also demanded the restoration of MGNREGA and the repeal of the law that replaced it, the VB-G RAM G Act. Kerala saw the widest shutdown, with buses, shops and colleges closed, and police detained protesters in Bengaluru."
+    ],
+    "impact": [
+      "As of the February strike the codes were in force, and the unions' demand that they be withdrawn had not been met.",
+      "The 12 February strike disrupted public transport, banking and shops, most of all in Kerala, where the state government said unauthorised absence would cost a day's pay."
+    ],
+    "sources": [
+      {
+        "title": "Trade Unions, Farmer Bodies Hold Joint Protest Against Labour Codes (Outlook Business, PTI)",
+        "url": "https://www.outlookbusiness.com/news/trade-unions-farmer-bodies-hold-joint-protest-against-labour-codes"
+      },
+      {
+        "title": "Bharat Bandh on Feb 12: why trade unions called the nationwide strike (Business Today)",
+        "url": "https://www.businesstoday.in/amp/india/story/bharat-bandh-on-feb-12-why-trade-unions-called-the-nationwide-strike-what-are-their-demands-services-impacted-515664-2026-02-11"
+      },
+      {
+        "title": "Bharat Bandh disrupts normal life in Kerala (The South First)",
+        "url": "https://thesouthfirst.com/beyond-south/bharat-bandh-disrupts-normal-life-in-kerala-public-transport-affected/"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

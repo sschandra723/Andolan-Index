@@ -1,0 +1,59 @@
+{
+  "id": "jharkhand-exam-protests-2026",
+  "name": "Jharkhand recruitment-exam protests (JPSC / JSSC)",
+  "short_name": "Jharkhand exam protests",
+  "aliases": [
+    "JPSC JSSC protest"
+  ],
+  "keywords": [
+    "=JPSC",
+    "=JSSC",
+    "Jharkhand Public Service Commission",
+    "Jharkhand Staff Selection Commission",
+    "Ranchi",
+    "Jaipal Singh Munda"
+  ],
+  "cause": "Exams",
+  "states": [
+    "Jharkhand"
+  ],
+  "places": "Ranchi",
+  "locations": [
+    {
+      "name": "Ranchi",
+      "lat": 23.3441,
+      "lon": 85.3096
+    }
+  ],
+  "started": "2026-07-29",
+  "about": "Students rallied from 29 July at Ranchi's Jaipal Singh Munda Stadium over alleged irregularities by the state's public service and staff selection commissions. The JPSC chairman resigned on 22 July after malpractice allegations. On 10 August, tens of thousands marched on the legislature and police used tear gas and water cannon. On 18 August the state cancelled 22 recruitment exams held since 2014 and ordered probes into 23 others; the High Court has since stayed several of the cancellations.",
+  "demands": "Action on exam irregularities by the JPSC and JSSC.",
+  "context": {
+    "question": "What are the JPSC and JSSC, and what went wrong?",
+    "short": "The Jharkhand Public Service Commission and Staff Selection Commission run the state's government recruitment exams. After a long student agitation over alleged irregularities, the state cancelled 22 exams held since 2014; the High Court has stayed several of those cancellations.",
+    "explainer": [
+      "The JPSC and the JSSC hold the exams through which Jharkhand fills government posts. Allegations of malpractice surfaced again in 2026 after JPSC preliminary results were announced. The main exam was postponed, the case was handed to the state's Criminal Investigation Department, and the JPSC chairman resigned on 22 July.",
+      "Students began a sit-in at Ranchi's Jaipal Singh Munda Stadium on 29 July and marched on the legislature on 10 August. On 18 August the state cancelled 22 recruitment exams held since 2014 by the JPSC, the JSSC and an outsourced agency, and ordered probes into 23 others.",
+      "Candidates already selected through some of those exams went to court. The Jharkhand High Court stayed the cancellation for appointments from the 11th and 13th JPSC exams, Food Safety Officer posts, the JSSC combined graduate-level exam and CDPO recruitment."
+    ],
+    "impact": [
+      "Thousands of candidates face uncertainty: some wait for exams to be held again, while those already appointed rely on court stays.",
+      "Students accuse the government of not defending the cancellations strongly in court. Police used force when protesters left the agreed route in Ranchi, and students alleged assaults by ruling-party workers."
+    ],
+    "sources": [
+      {
+        "title": "HC stay on exam cancellation sparks fresh protests (The Week, 22 Aug 2026)",
+        "url": "https://www.theweek.in/news/india/2026/08/22/ranchi-student-protest-jpsc-jssc-cancellation-high-court-stay.html"
+      },
+      {
+        "title": "Student protest rises again in India (Daily Observer, 3 Aug 2026)",
+        "url": "https://observerbd.com/news/586288"
+      },
+      {
+        "title": "Students march on Jharkhand legislature (Democracy Now!, 11 Aug 2026)",
+        "url": "https://www.democracynow.org/2026/8/11/headlines/tens_of_thousands_of_student_protesters_march_on_state_legislature_in_jharkhand_india"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "blo-sir-workload-2025",
+  "name": "Booth-level officers' protests over SIR workload",
+  "short_name": "BLO protests",
+  "aliases": [
+    "BLO protest",
+    "BLO Adhikar Raksha Committee"
+  ],
+  "keywords": [
+    "=BLO",
+    "=BLOs",
+    "booth level officer",
+    "booth-level officer",
+    "SIR workload"
+  ],
+  "cause": "Labour",
+  "states": [
+    "West Bengal",
+    "Kerala"
+  ],
+  "places": "Kolkata; across Kerala",
+  "locations": [
+    {
+      "name": "Kolkata",
+      "lat": 22.5697,
+      "lon": 88.3493
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "lat": 8.5241,
+      "lon": 76.9366
+    }
+  ],
+  "started": "2025-11-17",
+  "about": "During the second phase of the Special Intensive Revision of voter rolls in late 2025, booth-level officers (BLOs), mostly teachers and other government employees, protested over workload and deadlines. In Kerala, after a BLO in Kannur district died in a case colleagues linked to work pressure, employees' and teachers' action councils boycotted BLO duties on 17 November. In Kolkata, BLOs marched to the Chief Electoral Officer's office on 24 November and clashed with police; the CEO called them the 'real heroes' of the revision.",
+  "demands": "Relief from the workload and deadlines, or longer deadlines; working tools such as an edit option in the BLO app; support for the families of BLOs who died.",
+  "context": {
+    "question": "Why did booth-level officers protest during the SIR?",
+    "short": "Booth-level officers, mostly teachers and government staff, go door to door to update voter lists. During the 2025 revision they protested over workload and deadlines, after deaths that colleagues linked to the pressure.",
+    "explainer": [
+      "Booth-level officers (BLOs) visit homes to hand out and collect forms when voter rolls are revised. In the second phase of the Special Intensive Revision in late 2025, they had to collect and digitise enumeration forms on tight deadlines. In West Bengal alone, 7.64 crore forms were handed out, the state's chief electoral officer said.",
+      "In Kerala, a BLO in Kannur district died, and colleagues linked the death to work pressure. Employees' and teachers' action councils then boycotted BLO duties on 17 November and planned marches to election offices. In Kolkata, BLOs marched to the Chief Electoral Officer's office on 24 November and clashed with police, demanding relief and longer deadlines.",
+      "West Bengal's chief electoral officer called the BLOs the 'real heroes' of the revision and promised better connectivity. Election Commission officials received their demands but declined to comment on the agitation."
+    ],
+    "impact": [
+      "Deaths of BLOs during the revision became a political issue in West Bengal and Kerala, where opposition leaders called for the work to be halted or postponed.",
+      "BLOs asked for more time, extra staff, a working app and support for the families of those who died."
+    ],
+    "sources": [
+      {
+        "title": "Kerala BLO's death ignites statewide protest against Election Commission (Maktoob)",
+        "url": "https://maktoobmedia.com/india/unbearable-sir-pressure-kerala-blos-suicide-ignites-statewide-protest-against-election-commission/"
+      },
+      {
+        "title": "BLOs protest outside Bengal CEO's office over work pressure (Deccan Herald, PTI)",
+        "url": "https://www.deccanherald.com/amp/story/india%2Fwest-bengal%2Fblos-protest-outside-bengal-ceos-office-over-excessive-work-pressure-ec-calls-them-real-heroes-3808529"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

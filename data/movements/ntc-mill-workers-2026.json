@@ -1,0 +1,60 @@
+{
+  "id": "ntc-mill-workers-2026",
+  "name": "NTC mill workers' relay hunger strike, Mumbai",
+  "short_name": "NTC mill workers",
+  "aliases": [
+    "NTC mill workers strike"
+  ],
+  "keywords": [
+    "National Textile Corporation",
+    "=NTC",
+    "textile mill",
+    "National Mill Mazdoor Union",
+    "mill workers",
+    "relay hunger strike"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Maharashtra"
+  ],
+  "places": "Mumbai",
+  "locations": [
+    {
+      "name": "Mumbai",
+      "lat": 19.0176,
+      "lon": 72.8562
+    }
+  ],
+  "started": "2026-10-06",
+  "about": "Workers from National Textile Corporation mills, organised by the National Mill Mazdoor Union, began an indefinite relay hunger strike on 6 October.",
+  "demands": "Payment of long-pending wages and retirement benefits.",
+  "context": {
+    "question": "Why are NTC mill workers on hunger strike?",
+    "short": "The government-owned National Textile Corporation stopped production at its mills in the March 2020 COVID-19 lockdown and has not restarted. Workers say they have been paid half wages, irregularly, ever since, and are owed months of arrears.",
+    "explainer": [
+      "The National Textile Corporation runs 23 mills across seven states and one union territory. Production at its mills stopped in March 2020.",
+      "In Mumbai, four NTC mills (Tata Mills, Podar Mills, India United No. 5 and Digvijay) closed during the pandemic and have not reopened. Pay was cut to half after a few months, and only a small number of workers are called in, mostly for maintenance.",
+      "Members of the National Mill Mazdoor Union began an indefinite relay hunger strike in Mumbai on 6 October 2026."
+    ],
+    "impact": [
+      "The Bharatiya Mazdoor Sangh says 11 months of wages are unpaid and has asked the Prime Minister to fund a restart of 12 modernised mills.",
+      "Authorities have reportedly said the dues can be cleared only after mill properties are sold.",
+      "Workers have described taking loans and drawing down their provident funds; in 2023 some reported taking home less than Rs 2,000 a month after deductions."
+    ],
+    "sources": [
+      {
+        "title": "BMS urges PM to restart 12 NTC mills (Organiser, 23 Oct 2026)",
+        "url": "https://organiser.org/2026/10/23/419763/international/intl-rss-news/bms-urges-pm-modi-to-restart-production-in-12-national-textile-mills-across-8-states-resolve-workers-pending-wage-dues/"
+      },
+      {
+        "title": "Mumbai mill workers still without work (Citizen Matters, 7 Jul 2023)",
+        "url": "https://citizenmatters.in/ntc-mills-closure-after-covid-mumbai/"
+      },
+      {
+        "title": "Workers struggles: Asia and Australia (WSWS, 16 Oct 2026)",
+        "url": "https://www.wsws.org/en/articles/2026/10/16/nrbi-o16.html"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

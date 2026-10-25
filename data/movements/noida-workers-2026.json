@@ -1,0 +1,49 @@
+{
+  "id": "noida-workers-2026",
+  "name": "Noida factory workers' wage protest",
+  "short_name": "Noida factory workers",
+  "aliases": [
+    "Noida workers protest"
+  ],
+  "keywords": [
+    "Noida",
+    "minimum wage",
+    "factory workers",
+    "Gautam Buddha Nagar",
+    "National Security Act"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Uttar Pradesh"
+  ],
+  "places": "Noida (Gautam Buddha Nagar)",
+  "locations": [
+    {
+      "name": "Noida",
+      "lat": 28.5355,
+      "lon": 77.391
+    }
+  ],
+  "started": "2026-04",
+  "about": "Factory workers protested in April over wages and conditions; the protest turned violent on its fourth day and about 300 people were arrested. The state then raised minimum wages by about 20%. On 2 September the Allahabad High Court quashed the National Security Act detention of an activist and ordered compensation; the state says it will appeal. Rights groups say some workers and activists are still jailed.",
+  "demands": "Higher wages and better conditions; release of jailed workers and activists.",
+  "context": {
+    "question": "Why did Noida's factory workers protest?",
+    "short": "Factory workers in Noida protested in April 2026 over low wages and working conditions. Uttar Pradesh raised minimum wages by about 20% soon after, but some workers and activists arrested in the crackdown are still in jail.",
+    "explainer": [
+      "Factory workers in Gautam Buddha Nagar district, which includes Noida, began protesting in April 2026 for higher wages and better conditions, and some domestic workers joined them. The protest turned violent on its fourth day, and about 300 people had been arrested by 14 April."
+    ],
+    "impact": [
+      "Minimum wages were raised by about 20 to 21%, and the state approved revised rates statewide on 18 April.",
+      "On 2 September the Allahabad High Court quashed the National Security Act detention of an activist and ordered compensation to be recovered from officials' salaries. The state has said it will appeal.",
+      "In mid-September a rights group reported that 8 activists and between 15 and 50 workers were still jailed, and that many workers face job losses and legal debts."
+    ],
+    "sources": [
+      {
+        "title": "2026 Noida workers protest (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/2026_Noida_workers_protest"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

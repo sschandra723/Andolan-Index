@@ -1,0 +1,72 @@
+{
+  "id": "ugc-equity-rules-2026",
+  "name": "Protests for and against the UGC equity regulations",
+  "short_name": "UGC equity rules",
+  "aliases": [
+    "UGC Equity Regulations 2026",
+    "UGC Promotion of Equity Regulations"
+  ],
+  "keywords": [
+    "=UGC",
+    "equity regulations",
+    "Promotion of Equity",
+    "caste discrimination",
+    "Equity Committee"
+  ],
+  "cause": "Rights",
+  "states": [
+    "Delhi",
+    "Uttar Pradesh",
+    "Telangana"
+  ],
+  "places": "Jantar Mantar and JNU, New Delhi; BHU, Varanasi; University of Hyderabad",
+  "locations": [
+    {
+      "name": "Jantar Mantar, New Delhi",
+      "lat": 28.6271,
+      "lon": 77.2166
+    },
+    {
+      "name": "BHU, Varanasi",
+      "lat": 25.2677,
+      "lon": 82.9913
+    },
+    {
+      "name": "University of Hyderabad",
+      "lat": 17.4586,
+      "lon": 78.333
+    }
+  ],
+  "started": "2026-01",
+  "about": "The UGC notified equity regulations on 13 January 2026 requiring universities to set up equity committees and anti-discrimination cells. In late January, groups including general-category students protested in Delhi and other cities, calling the rules arbitrary and open to misuse. On 29 January the Supreme Court stayed the regulations as vague, kept the 2012 rules in force and asked the Centre to redraft them. Groups of SC, ST and OBC students then marched, including at BHU on 3 February, to demand that the regulations be implemented.",
+  "demands": "Opponents: withdrawal of the regulations. Supporters: implementation of the regulations and an end to caste discrimination on campuses.",
+  "context": {
+    "question": "What were the UGC equity rules, and why were they stayed?",
+    "short": "In January 2026 the UGC told universities to set up equity committees to handle discrimination complaints. Some groups protested that the rules were open to misuse; the Supreme Court stayed them, and others then marched for them.",
+    "explainer": [
+      "Notified on 13 January 2026, the UGC (Promotion of Equity) Regulations required institutions to set up equity committees, equity officers and anti-discrimination cells covering caste, religion, gender and disability. Serious complaints had to be acted on within 24 hours, and institutions had to report to the UGC, with penalties for those that did not comply.",
+      "Protests followed in late January in Delhi and other cities. Critics called the rules arbitrary and warned of misuse and surveillance, and some argued they would discriminate against general-category students.",
+      "On 29 January the Supreme Court stayed the regulations, calling parts of them vague and open to misuse. It kept the 2012 regulations in force and asked the Centre to redraft the rules. Groups of SC, ST and OBC students and teachers then protested in favour of the regulations, including a march at BHU on 3 February."
+    ],
+    "impact": [
+      "Universities remain under the 2012 regulations until the Centre redrafts the rules.",
+      "The court said the separate definition of caste-based discrimination was too vague and needed rewording.",
+      "Students who back the rules say the stay leaves caste discrimination on campus without stronger safeguards."
+    ],
+    "sources": [
+      {
+        "title": "SC stays implementation of new UGC norms; 2012 regulations to continue (Business Standard)",
+        "url": "https://www.business-standard.com/india-news/sc-stays-implementation-of-new-ugc-norms-2012-regulations-to-continue-126012900678_1.html"
+      },
+      {
+        "title": "BHU students demand implementation of UGC Equity Regulations 2026 (Careers360)",
+        "url": "https://news.careers360.com/bhu-banaras-hindu-university-students-demand-ugc-equity-regulations-2026-flag-concerns-supreme-court-stay-caste-discrimination/amp"
+      },
+      {
+        "title": "UGC Equity Regulations, 2026 (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/UGC_Equity_Regulations,_2026"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

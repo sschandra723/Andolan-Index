@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sample Atom Desk</title>
+<entry><title>Nurses begin indefinite strike in Lucknow; NHM contract staff demand permanent jobs</title>
+ <link rel="alternate" href="https://example-atom.test/lucknow-nhm-strike"/>
+ <link rel="self" href="https://example-atom.test/feed"/>
+ <published>2026-10-24T06:15:00+05:30</published><summary>Staff say they want equal pay.</summary></entry>
+<entry><title>Protesters clash with police in Nairobi</title>
+ <link rel="alternate" href="https://example-atom.test/nairobi-protest"/>
+ <published>2026-10-24T08:00:00Z</published><summary>Unrelated to this country.</summary></entry>
+</feed>

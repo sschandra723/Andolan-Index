@@ -1,0 +1,51 @@
+{
+  "id": "panjab-university-staff-2026",
+  "name": "Panjab University multitasking staff protest",
+  "short_name": "Panjab University staff",
+  "aliases": [
+    "Panjab University staff protest"
+  ],
+  "keywords": [
+    "Panjab University",
+    "multitasking staff",
+    "multi-tasking staff",
+    "Chandigarh"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Chandigarh"
+  ],
+  "places": "Chandigarh",
+  "locations": [
+    {
+      "name": "Chandigarh",
+      "lat": 30.7333,
+      "lon": 76.7794
+    }
+  ],
+  "started": "2026-10-14",
+  "about": "Contractual multitasking staff at Panjab University protested on 14 October, their third protest in six months.",
+  "demands": "Timely and higher wages; regularisation of long-term contract jobs; end to alleged gender pay gaps.",
+  "context": {
+    "question": "What do Panjab University's multitasking staff want?",
+    "short": "Multitasking support staff at Panjab University in Chandigarh are hired on contracts, some for years. On 14 October they protested for the third time in six months over late pay, permanent posts and alleged gender pay gaps.",
+    "explainer": [
+      "Panjab University employs multitasking support staff on contract, some of them for many years.",
+      "They protested on 14 October 2026, their third protest in six months."
+    ],
+    "impact": [
+      "They want salaries paid on time, higher pay, permanent posts for long-serving contract workers and an end to alleged gender-based pay differences."
+    ],
+    "sources": [
+      {
+        "title": "Strikes across India highlight worker demands (HRKatha, 14 Oct 2026)",
+        "url": "https://www.hrkatha.com/protests-and-strikes/strikes-across-india-highlight-worker-demands/"
+      },
+      {
+        "title": "Workers struggles: Asia and Australia (WSWS, 16 Oct 2026)",
+        "url": "https://www.wsws.org/en/articles/2026/10/16/nrbi-o16.html"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

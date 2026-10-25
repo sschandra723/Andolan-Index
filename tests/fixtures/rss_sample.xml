@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Sample India Desk</title>
+<item><title>Hundreds detained as protesters demand Gyanesh Kumar resign over SIR</title>
+ <link>https://example-news.test/india/sir-protest-detained/?utm_source=rss&amp;utm_medium=feed</link>
+ <pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
+ <description>&lt;p&gt;Police stopped a march against the &lt;b&gt;voter roll&lt;/b&gt; revision.&lt;/p&gt;</description></item>
+<item><title>Over 100 detained in Delhi as protests against CEC Gyanesh Kumar resume</title>
+ <link>https://www.business-standard.com/india-news/over-100-detained-in-delhi-as-protests-against-cec-gyanesh-kumar-resume-126102301637_1.html</link>
+ <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate><description>Already in the dataset (the dataset holds the /amp/ form of this URL).</description></item>
+<item><title>Sensex rises 300 points as banks rally</title>
+ <link>https://example-news.test/business/sensex-rises</link>
+ <pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate><description>Markets closed higher.</description></item>
+<item><title>Protest over dam breaks into second month</title>
+ <link>https://example-news.test/india/old-dam-protest</link>
+ <pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate><description>Too old to collect.</description></item>
+<item><title>Villagers stage dharna over water shortage in Bundelkhand</title>
+ <link>https://example-news.test/india/bundelkhand-dharna</link>
+ <pubDate>Sun, 25 Oct 2026 02:30:00 +0000</pubDate><description>No known movement fits.</description></item>
+</channel></rss>

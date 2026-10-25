@@ -1,0 +1,7 @@
+{
+  "name": "andolan-index-map-tools",
+  "private": true,
+  "type": "module",
+  "description": "Regenerates site_src/india-map.json. Not needed to build the site.",
+  "dependencies": { "d3-geo": "3.1.1", "mapshaper": "0.6.121" }
+}

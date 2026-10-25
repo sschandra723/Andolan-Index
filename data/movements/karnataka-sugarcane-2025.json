@@ -1,0 +1,65 @@
+{
+  "id": "karnataka-sugarcane-2025",
+  "name": "Karnataka sugarcane farmers' price protest",
+  "short_name": "Karnataka sugarcane farmers",
+  "aliases": [
+    "sugarcane farmers protest",
+    "Gurlapur protest"
+  ],
+  "keywords": [
+    "sugarcane",
+    "sugarcane farmers",
+    "Gurlapur",
+    "Mudhol",
+    "=FRP",
+    "per tonne"
+  ],
+  "cause": "Agriculture",
+  "states": [
+    "Karnataka"
+  ],
+  "places": "Gurlapur Cross (Belagavi), Mudhol (Bagalkot), Haveri",
+  "locations": [
+    {
+      "name": "Gurlapur Cross, Belagavi",
+      "lat": 16.3,
+      "lon": 74.96
+    },
+    {
+      "name": "Mudhol",
+      "lat": 16.3343,
+      "lon": 75.283
+    }
+  ],
+  "started": "2025-10-30",
+  "about": "Sugarcane farmers in north Karnataka protested from late October 2025 for a net price of Rs 3,500 a tonne after harvesting and transport deductions. The protest began at Gurlapur Cross in Belagavi district and spread to Bagalkot, Vijayapura and Haveri. On 8 November the Belagavi farmers called off their 10-day protest after the state set a price of Rs 3,300 a tonne. Farmers in Mudhol rejected that offer and kept protesting, and by 12 November protests had halted 26 sugar factories, according to The South First.",
+  "demands": "A net price of Rs 3,500 a tonne regardless of sugar recovery; lower harvesting and transport deductions; uniform prices across factories.",
+  "context": {
+    "question": "Why did Karnataka's sugarcane farmers protest?",
+    "short": "Farmers in north Karnataka wanted Rs 3,500 a tonne for their cane after harvesting and transport costs. The state offered Rs 3,300; some called off their protest and others held out.",
+    "explainer": [
+      "The Centre sets a fair and remunerative price for sugarcane: Rs 3,550 a tonne for 2025-26 at a 10.25% sugar recovery rate. Farmers say that once factories deduct harvesting and transport costs, they receive only about Rs 2,600 to 3,000, The News Minute reported.",
+      "The protest began in late October at Gurlapur Cross in Belagavi district and spread to Bagalkot, Vijayapura and Haveri. Chief Minister Siddaramaiah wrote to the Prime Minister seeking changes to the pricing rules. Union Minister Pralhad Joshi accused him of politics and said the state should sort out the deductions.",
+      "On 8 November the state set a price of Rs 3,300 a tonne, with factories paying Rs 3,250 and the state adding Rs 50, and the Belagavi farmers ended their protest. Farmers in Mudhol rejected the offer and blocked roads. By 12 November protests had stopped 26 sugar factories, according to The South First."
+    ],
+    "impact": [
+      "The state set a price of Rs 3,300 a tonne, Rs 200 short of the farmers' demand.",
+      "Protests halted operations at 26 sugar factories in north Karnataka, The South First reported."
+    ],
+    "sources": [
+      {
+        "title": "Explainer: Why Karnataka's sugarcane farmers are protesting (The News Minute)",
+        "url": "https://www.thenewsminute.com/karnataka/explainer-why-karnatakas-sugarcane-farmers-are-protesting"
+      },
+      {
+        "title": "Sugarcane farmers call off protest after minister visits site (Deccan Herald)",
+        "url": "https://www.deccanherald.com/amp/story/india%2Fkarnataka%2Fsugarcane-farmers-call-off-protest-after-minister-shivanand-patil-visits-site-persuades-them-3791622"
+      },
+      {
+        "title": "Karnataka sugarcane farmers continue protest in Mudhol, reject Rs 3,300 offer (The South First)",
+        "url": "https://thesouthfirst.com/karnataka/karnataka-sugarcane-farmers-continue-protest-in-mudhol-reject-rs-3300-offer/"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

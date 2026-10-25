@@ -1,0 +1,49 @@
+{
+  "id": "jaipur-sanitation-2026",
+  "name": "Jaipur sanitation workers' strike",
+  "short_name": "Jaipur sanitation strike",
+  "aliases": [
+    "Jaipur sanitation workers strike"
+  ],
+  "keywords": [
+    "sanitation workers",
+    "safai",
+    "Jaipur",
+    "Kishanpole",
+    "Valmiki",
+    "experience certificate"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Rajasthan"
+  ],
+  "places": "Kishanpole zone, Jaipur",
+  "locations": [
+    {
+      "name": "Jaipur",
+      "lat": 26.9124,
+      "lon": 75.7873
+    }
+  ],
+  "started": "2026-10-09",
+  "about": "Sanitation workers began a strike on 9 October over delays in experience certificates they needed before a 13 October recruitment deadline. Officials attributed the delay to checks on salary and PF/ESI records.",
+  "demands": "Timely issue of experience certificates.",
+  "context": {
+    "question": "Why do Jaipur's sanitation workers need experience certificates?",
+    "short": "Sanitation workers in Jaipur's Kishanpole zone went on strike on 9 October because the certificates proving their years of service, which they needed for a recruitment process closing on 13 October, had not been issued.",
+    "explainer": [
+      "Experience certificates confirm how long someone has worked. The workers needed them to apply in a recruitment process with a 13 October deadline.",
+      "Officials said the delay came from verifying salary, provident fund and ESI records."
+    ],
+    "impact": [
+      "Without the certificates, workers could not complete their applications before the deadline."
+    ],
+    "sources": [
+      {
+        "title": "Workers struggles: Asia and Australia (WSWS, 16 Oct 2026)",
+        "url": "https://www.wsws.org/en/articles/2026/10/16/nrbi-o16.html"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "anti-sir-2026",
+  "name": "Anti-SIR protests: demand for the Chief Election Commissioner's resignation",
+  "short_name": "Anti-SIR protests",
+  "aliases": [
+    "anti-SIR protests",
+    "anti-CEC protests",
+    "Scrap SIR",
+    "Vote Chori"
+  ],
+  "keywords": [
+    "Special Intensive Revision",
+    "=SIR",
+    "Gyanesh Kumar",
+    "chief election commissioner",
+    "=CEC",
+    "voter roll",
+    "voter list",
+    "electoral roll",
+    "vote chori",
+    "Cockroach Janta Party",
+    "Cockroach Janata Party",
+    "=CJP",
+    "Election Commission"
+  ],
+  "cause": "Elections",
+  "states": [
+    "Delhi",
+    "Maharashtra"
+  ],
+  "places": "New Delhi, Mumbai and other cities",
+  "locations": [
+    {
+      "name": "New Delhi",
+      "lat": 28.6139,
+      "lon": 77.209
+    },
+    {
+      "name": "Mumbai",
+      "lat": 18.9388,
+      "lon": 72.8354
+    }
+  ],
+  "started": "2026-10-02",
+  "about": "Protests against the Special Intensive Revision (SIR) of electoral rolls, which critics say has removed millions of names from draft voter lists. They began after a late-September media investigation into the revision. The youth-led Cockroach Janta Party (CJP), student groups, opposition parties and, since 23 October, farmers' and trade unions are taking part. The Election Commission denies wrongdoing and says the revision removes duplicate, dead or ineligible voters.",
+  "demands": "Resignation of CEC Gyanesh Kumar; scrap the SIR; no elections held on revised rolls.",
+  "context": {
+    "question": "What is the SIR, and what does it change?",
+    "short": "The Special Intensive Revision is the Election Commission's house-to-house recheck of India's voter lists. Voters must link themselves, or a parent, to the roll from their state's last such revision two decades ago.",
+    "explainer": [
+      "The Special Intensive Revision (SIR) is a fresh verification of the electoral rolls by the Election Commission of India, carried out under Article 324 of the Constitution and Section 21(3) of the Representation of the People Act, 1950. Unlike the routine yearly update, booth-level officers go house to house with pre-filled enumeration forms, and voters are asked to trace their name, or a parent's, to the roll from their state's last intensive revision, around 2002 to 2004. Those who can do not need further documents.",
+      "It began in Bihar in June 2025, was extended to 12 states and union territories in November 2025, and a third phase covering 19 more, including Delhi, Maharashtra and Karnataka, began in mid-2026. Each phase publishes a draft roll; people left off can file claims and appeals before the final roll.",
+      "The Election Commission says the aim is a transparent, error-free roll: removing people who have died, moved permanently or are registered twice, and people who are not citizens, while keeping every eligible voter. In May 2026 the Supreme Court upheld the Commission's power to run the revision, adding that it does not allow the Commission to decide whether someone is a citizen."
+    ],
+    "impact": [
+      "About 13.3 crore names had been removed from draft rolls by the end of September 2026. By the Election Commission's breakdown, 71.5% were marked absent or permanently shifted, 21% dead and 7.5% duplicate entries. People marked absent or shifted can apply to be re-added.",
+      "Final rolls are smaller too. In the 12 phase-two states and territories, the electorate fell from about 51 crore to 45.8 crore, a net drop of roughly 10%.",
+      "The burden of proof sits with voters. Critics say this falls hardest on migrants, the poor and people with patchy paperwork. In West Bengal, 93% of appeals decided by tribunals ended with the name being restored, according to Election Commission data reported by Scroll.",
+      "There are reports of names removed in the revision being used to deny ration cards and hold up passport renewals in some states.",
+      "Two election commissioners reportedly objected at least 14 times in 10 months to SIR decisions. The Commission says internal disagreement is a normal part of decision-making.",
+      "The numbers are contested. Economist Surjit Bhalla argues that deletions alone cannot prove mass disenfranchisement, because rolls also carry the dead, the moved and duplicates; what matters is how many eligible voters were wrongly removed, which needs data on appeals and restored names."
+    ],
+    "sources": [
+      {
+        "title": "Special Intensive Revision (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Special_Intensive_Revision"
+      },
+      {
+        "title": "SIR explained (Scroll, 23 Sep 2026)",
+        "url": "https://scroll.in/latest/1095934/sir-explained-what-has-happened-since-voter-list-revision-began"
+      },
+      {
+        "title": "13.3 crore names removed from draft lists (Deccan Herald, 30 Sep 2026)",
+        "url": "https://www.deccanherald.com/india/sir-133-crore-names-wiped-out-of-draft-voter-lists-so-far-triggering-opposition-backlash-4164836"
+      },
+      {
+        "title": "Election Commission announces phase two (All India Radio, 27 Oct 2025)",
+        "url": "https://www.newsonair.gov.in/election-commission-to-conduct-special-intensive-revision-sir-in-12-states-uts"
+      },
+      {
+        "title": "Surjit Bhalla on deletions (Business Today, 17 Oct 2026)",
+        "url": "https://www.businesstoday.in/india/story/electoral-roll-revision-surjit-bhalla-weighs-in-on-deletions-missing-voters-disenfranchisement-562224-2026-10-17"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

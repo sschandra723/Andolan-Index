@@ -1,0 +1,16 @@
+{
+  "_note": "Feed URLs were written from memory and have NOT been tested from the build environment. Run `python -m andolan collect --check-feeds` on a machine with internet access; remove or fix any that fail. Set enabled to false to pause a feed.",
+  "feeds": [
+    {"name": "The Hindu", "url": "https://www.thehindu.com/news/national/feeder/default.rss", "require_india": false, "enabled": true},
+    {"name": "The Indian Express", "url": "https://indianexpress.com/section/india/feed/", "require_india": false, "enabled": true},
+    {"name": "Hindustan Times", "url": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml", "require_india": false, "enabled": true},
+    {"name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-india-news", "require_india": false, "enabled": true},
+    {"name": "The Wire", "url": "https://thewire.in/feed", "require_india": false, "enabled": true},
+    {"name": "Scroll.in", "url": "https://feeds.feedburner.com/ScrollinArticles.rss", "require_india": false, "enabled": true},
+    {"name": "ThePrint", "url": "https://theprint.in/feed/", "require_india": false, "enabled": true},
+    {"name": "Factly", "url": "https://factly.in/feed/", "require_india": false, "enabled": true},
+    {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "require_india": true, "enabled": true},
+    {"name": "Google News (India protests)", "url": "https://news.google.com/rss/search?q=protest+India+when:2d&hl=en-IN&gl=IN&ceid=IN:en", "require_india": false, "enabled": false,
+     "note": "Disabled: its links are Google redirects, not article URLs, so a person has to find the real link before promoting."}
+  ]
+}

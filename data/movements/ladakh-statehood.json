@@ -1,0 +1,70 @@
+{
+  "id": "ladakh-statehood",
+  "name": "Ladakh statehood and Sixth Schedule movement",
+  "short_name": "Ladakh statehood movement",
+  "aliases": [
+    "Ladakh protests",
+    "Ladakh Sixth Schedule demand"
+  ],
+  "keywords": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Kargil Democratic Alliance",
+    "Sixth Schedule",
+    "Sonam Wangchuk",
+    "Leh",
+    "Kargil",
+    "=LAB",
+    "=KDA"
+  ],
+  "cause": "Autonomy",
+  "states": [
+    "Ladakh"
+  ],
+  "places": "Leh and Kargil",
+  "locations": [
+    {
+      "name": "Leh",
+      "lat": 34.1526,
+      "lon": 77.5771
+    },
+    {
+      "name": "Kargil",
+      "lat": 34.5539,
+      "lon": 76.1349
+    }
+  ],
+  "started": "2025-09",
+  "about": "Led by the Leh Apex Body and the Kargil Democratic Alliance. Sonam Wangchuk was released on 14 March 2026 after 170 days in detention following the September 2025 violence in Leh. Groups held rallies and a shutdown on 16 March; talks with the Home Ministry resumed on 22 May.",
+  "demands": "Statehood; Sixth Schedule protections; separate MPs for Leh and Kargil; a Ladakh public service commission and local job reservation; withdrawal of 2025 cases.",
+  "context": {
+    "question": "What is the Sixth Schedule, and why does Ladakh want it?",
+    "short": "The Sixth Schedule lets tribal areas in four north-eastern states run elected councils that make laws on land, forests and local customs. Ladakh, a union territory without a legislature since 2019, wants the same protection, and statehood.",
+    "explainer": [
+      "Article 244(2) and the Sixth Schedule of the Constitution set up autonomous district councils in tribal areas of Assam, Meghalaya, Tripura and Mizoram. The councils can make laws on land, forests, water, village administration, marriage and inheritance, subject to the Governor's assent, and can collect land revenue and some taxes.",
+      "Ladakh became a union territory without a legislature in 2019, when Jammu and Kashmir was reorganised. More than 97% of its roughly 3 lakh people belong to tribal communities. Groups in Leh and Kargil say that without a legislature or constitutional safeguards, land, jobs and the fragile cold-desert environment are exposed to outside interests.",
+      "The movement is led jointly by the Leh Apex Body and the Kargil Democratic Alliance. Its demands are statehood, Sixth Schedule status, a Ladakh public service commission and two seats in Parliament."
+    ],
+    "impact": [
+      "The government cites security and constitutional hurdles. Extending the Sixth Schedule would need a constitutional amendment and could prompt similar demands elsewhere.",
+      "A 2025 regulation reserved 85% of government jobs for local residents, with a 15-year domicile rule, and named official languages. The groups have kept up their wider demands since.",
+      "Without a public service commission, Ladakh has no local body to recruit for government jobs. Graduate unemployment there has been put at 26.5%, about twice the national average.",
+      "Clashes in Leh in September 2025 left several people dead, with official and activist counts differing. Sonam Wangchuk was held for 170 days before his release in March 2026. Talks with the Home Ministry resumed in May."
+    ],
+    "sources": [
+      {
+        "title": "Statehood and Sixth Schedule demand in Ladakh (Drishti IAS, 17 Mar 2026)",
+        "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/statehood-and-6th-schedule-demand-in-ladakh/print_manually"
+      },
+      {
+        "title": "Ladakh protests (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ladakh_protests"
+      },
+      {
+        "title": "Ladakh protest to continue (Dynamite News, 14 Mar 2026)",
+        "url": "https://www.dynamitenews.com/national/ladakh-protest-to-continue-despite-sonam-wangchuks-release-demand-for-statehood-grows"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

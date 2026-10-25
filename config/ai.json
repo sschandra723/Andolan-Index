@@ -1,0 +1,9 @@
+{
+  "_note": "provider: ollama (an open model running on the GitHub Actions machine or your own computer, no key or payment), anthropic (Claude through the API, needs ANTHROPIC_API_KEY), or off. autonomy: review (nothing appears until an editor approves) or links (headlines and links of stories waiting for review also appear on the site, clearly marked; AI-written text never appears without approval).",
+  "provider": "ollama",
+  "ollama": {"url": "http://localhost:11434", "model": "qwen3:4b"},
+  "anthropic": {"model": "claude-haiku-5-5", "api_key_env": "ANTHROPIC_API_KEY"},
+  "autonomy": "links",
+  "max_articles_per_run": 25,
+  "article_chars": 6000
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Delhi Student Protest",
+    "url": "https://www.delhistudentprotest.com/post",
+    "kind": "Movement archive",
+    "about": "Day-by-day archive of posts from the NEET / Jantar Mantar protest, with timeline, demands and campus pages, in English and Hindi."
+  },
+  {
+    "name": "2026 anti-CEC protests",
+    "url": "https://en.wikipedia.org/wiki/2026_anti-CEC_protests",
+    "kind": "Encyclopedia",
+    "about": "Running, cited record of the October protests over the voter-roll revision, including court cases and detentions."
+  },
+  {
+    "name": "Ladakh protests",
+    "url": "https://en.wikipedia.org/wiki/Ladakh_protests",
+    "kind": "Encyclopedia",
+    "about": "Timeline of the statehood and Sixth Schedule movement since 2019."
+  },
+  {
+    "name": "Factly",
+    "url": "https://factly.in/",
+    "kind": "Fact-checker",
+    "about": "Checks viral protest videos and claims, such as old footage shared as new."
+  }
+]

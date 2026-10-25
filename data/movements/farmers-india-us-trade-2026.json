@@ -1,0 +1,71 @@
+{
+  "id": "farmers-india-us-trade-2026",
+  "name": "Farmers' protest against the India–US trade deal",
+  "short_name": "Farmers against the US trade deal",
+  "aliases": [
+    "Desh Bachao Morcha"
+  ],
+  "keywords": [
+    "Samyukt Kisan Morcha",
+    "Samyukta Kisan Morcha",
+    "=SKM",
+    "India-US trade",
+    "India–US trade",
+    "free trade agreement",
+    "Desh Bachao Morcha",
+    "Kisan Ghat",
+    "Bharatiya Kisan Union",
+    "farmers"
+  ],
+  "cause": "Agriculture",
+  "states": [
+    "Delhi",
+    "Punjab",
+    "Haryana"
+  ],
+  "places": "Kisan Ghat, Delhi; Punjab–Haryana border",
+  "locations": [
+    {
+      "name": "Kisan Ghat, Delhi",
+      "lat": 28.6476,
+      "lon": 77.2475
+    }
+  ],
+  "started": "2026-02",
+  "about": "Farmer unions and networks oppose the interim India–US trade framework announced in February 2026, which cuts Indian tariffs on several US farm goods; farmer groups called nationwide protests for 12 February. In July, convoys under the Samyukta Kisan Morcha and Desh Bachao Morcha banners were stopped at the Punjab–Haryana border on their way to Delhi, though some reached Kisan Ghat on 21 July. SKM has since joined the anti-SIR protests.",
+  "demands": "Cancel the India–US FTA; protect seed-saving rights; publish negotiating texts and debate them in Parliament.",
+  "context": {
+    "question": "What does the India–US trade deal mean for farmers?",
+    "short": "Under an interim framework announced in February 2026, India agreed to cut tariffs on some US farm goods, such as animal feed, tree nuts, fruit and soybean oil, in return for lower US tariffs on Indian exports. Farmer groups fear cheaper, subsidised imports.",
+    "explainer": [
+      "In early February 2026, India and the United States announced an interim trade framework. The US said it would cut its tariff on Indian goods from 50% to 18%. India agreed to lower tariffs on several US farm products, including dried distillers' grains (DDGS) and red sorghum for animal feed, tree nuts, fresh and processed fruit, soybean oil, and wine and spirits, and to address non-tariff barriers.",
+      "Commerce Minister Piyush Goyal said the deal ensures complete protection of farmers' interests, and that farm and dairy products India grows in sufficient quantity, including maize, wheat, rice, sugar, soybean and poultry, were kept outside tariff concessions.",
+      "No legal text had been published when the deal was announced, which left enforcement, dispute settlement and timelines unclear."
+    ],
+    "impact": [
+      "Farmer networks say cheaper DDGS and sorghum could undercut maize, jowar and soybean growers, and that soybean oil imports could hurt soybean farmers already in distress in Maharashtra, Telangana, Madhya Pradesh and Rajasthan.",
+      "Unions point to heavy US farm support, which exceeds the value of production for some crops, and to earlier duty cuts on US apples, almonds and walnuts.",
+      "Imports of GM material could rise, since DDGS can come from GM maize. Indian rules currently require non-GM certificates for imports linked to 24 notified crops.",
+      "According to the government, spices, tea, coffee, cashew and several fruits from India now enter the US at zero duty."
+    ],
+    "sources": [
+      {
+        "title": "Interim trade deal triggers farmer concern (Mongabay India, 9 Feb 2026)",
+        "url": "https://india.mongabay.com/short-article/2026/02/india-u-s-interim-trade-deal-triggers-farmer-concern/"
+      },
+      {
+        "title": "Goyal: farmers' interests fully protected (All India Radio, 8 Feb 2026)",
+        "url": "https://www.newsonair.gov.in/india-us-interim-trade-agreement-ensures-complete-protection-of-farmers-interests-piyush-goyal"
+      },
+      {
+        "title": "Centre says agriculture and dairy protected (Down To Earth, 5 Feb 2026)",
+        "url": "https://www.downtoearth.org.in/agriculture/india-us-trade-deal-centre-says-agriculture-and-dairy-protected-but-lack-of-text-fuels-uncertainty"
+      },
+      {
+        "title": "Convoys stopped near Delhi (Down To Earth, 21 Jul 2026)",
+        "url": "https://www.downtoearth.org.in/agriculture/farmers-protest-against-india-us-trade-talks-as-convoys-stopped-near-delhi"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

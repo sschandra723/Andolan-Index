@@ -1,0 +1,53 @@
+{
+  "id": "jharkhand-108-ambulance-2026",
+  "name": "Jharkhand '108' ambulance workers' strike",
+  "short_name": "Jharkhand ambulance strike",
+  "aliases": [
+    "Jharkhand 108 ambulance strike"
+  ],
+  "keywords": [
+    "108 ambulance",
+    "ambulance workers",
+    "ambulance employees",
+    "Jharkhand",
+    "Ambulance Employees Union"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Jharkhand"
+  ],
+  "places": "Across Jharkhand",
+  "locations": [
+    {
+      "name": "Ranchi",
+      "lat": 23.3441,
+      "lon": 85.3096
+    }
+  ],
+  "started": "2026-10-06",
+  "about": "The Jharkhand Pradesh Ambulance Employees Union began protests on 6 October and held a one-day strike on 16 October. A strike planned for 21 October was put off after assurances from the health department; the union has now called an indefinite statewide strike from 26 October.",
+  "demands": "Pay salaries pending since July; reinstate dismissed staff; stop salary deductions; EPF, ESI, overtime and gratuity; run the service at district level through the civil surgeon.",
+  "context": {
+    "question": "Why are Jharkhand's 108 ambulance workers striking?",
+    "short": "108 is India's toll-free emergency ambulance number. In Jharkhand, ambulance staff say their salaries have not been paid since July, and their union has called an indefinite statewide strike from 26 October.",
+    "explainer": [
+      "More than 300 ambulances answer the 108 emergency number across Jharkhand.",
+      "The Jharkhand Pradesh Ambulance Employees Union began protests on 6 October and held a one-day strike on 16 October. A strike planned for 21 October was put off after assurances from the health department. With no result, the union has called an indefinite statewide strike from 26 October."
+    ],
+    "impact": [
+      "If the strike goes ahead, more than 300 ambulances could stop running. As of 22 October, the health department had not announced alternative arrangements.",
+      "Workers want salaries pending since July paid, dismissed staff reinstated, deductions stopped, EPF, ESI, overtime and gratuity paid, and the service run at district level through the civil surgeon."
+    ],
+    "sources": [
+      {
+        "title": "108 ambulance strike from 26 October (Mediasaheb, 22 Oct 2026, Hindi)",
+        "url": "https://mediasaheb.com/the-108-ambulance-service-in-jharkhand-is-at-risk-of-being-disrupted-from-october-26th-with-employees-going-on-an-indefinite-strike"
+      },
+      {
+        "title": "Workers struggles: Asia and Australia (WSWS, 16 Oct 2026)",
+        "url": "https://www.wsws.org/en/articles/2026/10/16/nrbi-o16.html"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

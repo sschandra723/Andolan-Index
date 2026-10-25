@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "report.schema.json",
+  "title": "Report",
+  "description": "One published article, post or reference page about a movement. We store a link and a short summary written in our own words, never the article text.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "movement",
+    "date",
+    "outlet",
+    "kind",
+    "url",
+    "summary",
+    "read",
+    "added"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}-[a-z0-9-]+$",
+      "maxLength": 90,
+      "description": "<date>-<outlet-slug>-<4 hex chars of a hash of url+movement>. Also the file name. The same article may be filed under several movements, once each."
+    },
+    "movement": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "date": {
+      "$ref": "#/$defs/date",
+      "description": "Publication date of the article."
+    },
+    "outlet": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 80
+    },
+    "kind": {
+      "enum": [
+        "news",
+        "explainer",
+        "opinion",
+        "reference",
+        "fact-check",
+        "archive",
+        "background",
+        "roundup"
+      ]
+    },
+    "url": {
+      "type": "string",
+      "pattern": "^https?://[^\\s]+$"
+    },
+    "archive_url": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^https?://[^\\s]+$",
+      "description": "Wayback Machine (or similar) copy, so the link survives link rot."
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 400,
+      "description": "One or two sentences in our own words. Attribute contested claims to whoever made them."
+    },
+    "read": {
+      "type": "boolean",
+      "description": "true if the full article was opened and read when the summary was written; false if it rests on the headline or a snippet."
+    },
+    "added": {
+      "$ref": "#/$defs/date",
+      "description": "Date the entry was added to the index."
+    },
+    "drafted_by": {
+      "enum": [
+        "person",
+        "ai"
+      ],
+      "description": "Who wrote the summary. 'ai' means the AI assistant drafted it and an editor approved it."
+    }
+  },
+  "$defs": {
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    }
+  }
+}

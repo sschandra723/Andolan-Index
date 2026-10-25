@@ -1,0 +1,61 @@
+{
+  "id": "neet-jantar-mantar-2026",
+  "name": "NEET paper-leak protest at Jantar Mantar",
+  "short_name": "NEET paper-leak protest",
+  "aliases": [
+    "Sansad Chalo",
+    "NEET-UG protests",
+    "Cockroach movement"
+  ],
+  "keywords": [
+    "NEET",
+    "paper leak",
+    "Jantar Mantar",
+    "Dharmendra Pradhan",
+    "Sonam Wangchuk",
+    "Cockroach Janta Party",
+    "=CJP"
+  ],
+  "cause": "Exams",
+  "states": [
+    "Delhi"
+  ],
+  "places": "Jantar Mantar, New Delhi; solidarity protests in many cities",
+  "locations": [
+    {
+      "name": "Jantar Mantar, New Delhi",
+      "lat": 28.6271,
+      "lon": 77.2166
+    }
+  ],
+  "started": "2026-06-21",
+  "ended": "2026-07-25",
+  "about": "A CJP-led sit-in from late June over the NEET-UG paper leak, including Sonam Wangchuk's hunger strike, the 20 July Parliament march and police action against it. It ended on 25 July after Education Minister Dharmendra Pradhan resigned and the movement accepted assurances from the Centre.",
+  "demands": "Pradhan's resignation; compensation for affected families; release of detained protesters.",
+  "context": {
+    "question": "What went wrong with NEET-UG 2026?",
+    "short": "NEET-UG is the single entrance exam for India's medical colleges. The 2026 paper, taken by more than 22 lakh students, was cancelled nine days after the exam over a suspected leak, and students sat it again in June.",
+    "explainer": [
+      "NEET-UG is run by the National Testing Agency (NTA) and is the only route into undergraduate medical and dental courses in India. The 2026 exam was held on 3 May for more than 22.7 lakh candidates.",
+      "Soon after, a \"guess paper\" circulating from Sikar in Rajasthan was found to match much of the real paper. The NTA cancelled the exam on 12 May and held a re-test on 21 June. The CBI took over the investigation and has arrested teachers and coaching-centre owners, among others. Those charges have not yet been tested in court.",
+      "Students led by the Cockroach Janta Party camped at Jantar Mantar from late June. The protest grew after police action against the 20 July march to Parliament and ended on 25 July, when Education Minister Dharmendra Pradhan resigned."
+    ],
+    "impact": [
+      "More than 22 lakh students had to prepare for and sit the exam twice. About 2.7 lakh did not take the re-test, according to reported figures.",
+      "At least 12 student suicides were reported in the weeks after the leak became public. A direct link to the leak is not established in each case.",
+      "The government says NEET will become computer-based from next year and plans to amend the Public Examinations (Prevention of Unfair Means) Act, 2024, adding fast-track courts and longer jail terms.",
+      "The CBI says the same network also compromised the 2025 paper. That is an investigators' finding, not a court ruling."
+    ],
+    "sources": [
+      {
+        "title": "2026 NEET scandal (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/2026_NEET_scandal"
+      },
+      {
+        "title": "Delhi Student Protest archive",
+        "url": "https://www.delhistudentprotest.com/post"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

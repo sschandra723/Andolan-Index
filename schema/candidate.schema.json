@@ -1,0 +1,103 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "candidate.schema.json",
+  "title": "Inbox candidate",
+  "description": "A story the collector found. It becomes a report only after a person reads it, picks a movement and writes a summary.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "url",
+    "title",
+    "outlet",
+    "published",
+    "collected",
+    "suggested_movement",
+    "score"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{10}$"
+    },
+    "url": {
+      "type": "string",
+      "pattern": "^https?://[^\\s]+$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 300
+    },
+    "outlet": {
+      "type": "string",
+      "minLength": 2
+    },
+    "published": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "collected": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "suggested_movement": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "score": {
+      "type": "number",
+      "minimum": 0
+    },
+    "matched": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "alternatives": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "ai": {
+      "type": "object",
+      "description": "What the AI editor's assistant drafted for this story (see andolan/ai.py). Never published without an editor.",
+      "required": [
+        "model",
+        "movement",
+        "summary",
+        "checks",
+        "importance"
+      ],
+      "properties": {
+        "model": {
+          "type": "string"
+        },
+        "movement": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "checks": {
+          "type": "object",
+          "required": [
+            "passed"
+          ]
+        },
+        "importance": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        }
+      }
+    }
+  }
+}

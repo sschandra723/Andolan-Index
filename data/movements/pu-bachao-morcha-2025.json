@@ -1,0 +1,58 @@
+{
+  "id": "pu-bachao-morcha-2025",
+  "name": "Panjab University senate protest (PU Bachao Morcha)",
+  "short_name": "PU senate protest",
+  "aliases": [
+    "PU Bachao Morcha",
+    "Panjab University Bachao Morcha",
+    "Save Panjab University"
+  ],
+  "keywords": [
+    "Panjab University",
+    "senate",
+    "syndicate",
+    "PU Bachao Morcha",
+    "senate election",
+    "Chandigarh"
+  ],
+  "cause": "Autonomy",
+  "states": [
+    "Chandigarh"
+  ],
+  "places": "Panjab University, Chandigarh",
+  "locations": [
+    {
+      "name": "Panjab University, Chandigarh",
+      "lat": 30.7606,
+      "lon": 76.7684
+    }
+  ],
+  "started": "2025-10-29",
+  "ended": "2025-11-28",
+  "about": "Students protested after the Centre's 28 October 2025 notification restructuring Panjab University's senate and syndicate, which critics said would replace an elected body with a small nominated one; Punjab's chief minister called the move unconstitutional. The Education Ministry withdrew the notification on 7 November, but the PU Bachao Morcha kept up the protest until a date was set for senate elections, which had not been held for over a year. The protest ended on 28 November after the university's chancellor, Vice President C P Radhakrishnan, approved a senate poll schedule for September and October 2026.",
+  "demands": "Withdrawal of the notification restructuring the senate and syndicate; restoration of the elected senate; a schedule for senate elections.",
+  "context": {
+    "question": "Why did Panjab University students protest the senate changes?",
+    "short": "A Centre notification in October 2025 would have replaced Panjab University's elected senate with a smaller nominated body. Students protested for a month until it was withdrawn and senate elections were scheduled.",
+    "explainer": [
+      "Panjab University in Chandigarh is governed by a senate and a syndicate, partly elected by graduates and teachers. On 28 October 2025 the Centre notified a restructuring that, according to The Quint, cut the senate from 91 members to 24 nominated ones and abolished the graduates' constituency.",
+      "Students were already protesting a new affidavit that limited protests on campus. They then began a wider agitation under the PU Bachao Morcha. Punjab Chief Minister Bhagwant Mann called the move unconstitutional, and many in Punjab saw it as an attack on the state's stake in the university, The Quint reported.",
+      "The Education Ministry withdrew the notification on 7 November. Students kept protesting because senate elections had not been held for more than a year. On 27 November the chancellor, Vice President C P Radhakrishnan, approved an election schedule running from 7 September to 4 October 2026, and the students ended their protest the next day."
+    ],
+    "impact": [
+      "The restructuring was withdrawn and the elected senate kept.",
+      "Senate elections, delayed for over a year, were scheduled for September and October 2026."
+    ],
+    "sources": [
+      {
+        "title": "Panjab University Protest: Why Has Dissolution of Senate Sparked a Massive Row? (The Quint)",
+        "url": "https://www.thequint.com/amp/story/news/education/panjab-university-senate-students-protest-centre-bjp-saffronisation-controversy"
+      },
+      {
+        "title": "Vice President approves senate poll schedule, students say will end stir (Careers360, PTI)",
+        "url": "https://news.careers360.com/panjab-university-vice-president-approves-senate-poll-schedule-students-say-will-end-stir-on-friday/amp"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

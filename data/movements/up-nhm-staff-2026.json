@@ -1,0 +1,55 @@
+{
+  "id": "up-nhm-staff-2026",
+  "name": "National Health Mission contract staff protest, Uttar Pradesh",
+  "short_name": "UP health mission staff",
+  "aliases": [
+    "NHM staff protest",
+    "NHM contract workers"
+  ],
+  "keywords": [
+    "National Health Mission",
+    "=NHM",
+    "contract health workers",
+    "Lucknow",
+    "Uttar Pradesh",
+    "equal pay"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Uttar Pradesh"
+  ],
+  "places": "Lucknow",
+  "locations": [
+    {
+      "name": "Lucknow",
+      "lat": 26.8467,
+      "lon": 80.9462
+    }
+  ],
+  "started": "2026-10-14",
+  "about": "More than 50,000 contract NHM employees, including nurses, doctors and health officers, rallied in Lucknow on 14 October. They also cited heavy online reporting loads and unrecognised COVID-19 service.",
+  "demands": "Permanent jobs; equal pay with permanent staff.",
+  "context": {
+    "question": "Who are the National Health Mission's contract staff?",
+    "short": "Much of India's public health work is funded through the National Health Mission, and many of its nurses, doctors and health officers are hired on contract. In Uttar Pradesh they want permanent jobs and the same pay as permanent staff.",
+    "explainer": [
+      "The National Health Mission is the scheme through which the central and state governments fund a large share of public health care. Many of its posts are filled on contract rather than as permanent government jobs.",
+      "On 14 October 2026 more than 50,000 contract NHM employees, including nurses, doctors and health officers, rallied in Lucknow."
+    ],
+    "impact": [
+      "Contract staff say they do the same work as permanent employees for less pay and without job security.",
+      "They also point to a growing load of online reporting tasks and say their work during COVID-19 has gone unrecognised."
+    ],
+    "sources": [
+      {
+        "title": "Strikes across India highlight worker demands (HRKatha, 14 Oct 2026)",
+        "url": "https://www.hrkatha.com/protests-and-strikes/strikes-across-india-highlight-worker-demands/"
+      },
+      {
+        "title": "Workers struggles: Asia and Australia (WSWS, 16 Oct 2026)",
+        "url": "https://www.wsws.org/en/articles/2026/10/16/nrbi-o16.html"
+      }
+    ],
+    "updated": "2026-10-25"
+  }
+}

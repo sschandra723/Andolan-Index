@@ -1,0 +1,47 @@
+{
+  "id": "8518e9cb1b",
+  "url": "https://www.ndtv.com/india-news/hardeep-puri-files-nominaton-for-madhya-pradesh-rajya-sabha-bypoll-12263368",
+  "title": "Hardeep Puri Files Nominaton For Madhya Pradesh Rajya Sabha Bypoll",
+  "outlet": "NDTV",
+  "published": "2026-10-31",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-10-31",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Hardeep Puri filed nomination for Madhya Pradesh Rajya Sabha bypoll, but no protest details were provided in the article.",
+    "facts": [
+      {
+        "claim": "Hardeep Puri filed nomination for Madhya Pradesh Rajya Sabha bypoll",
+        "quote": "Hardeep Puri Files Nominaton For Madhya Pradesh Rajya Sabha Bypoll"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

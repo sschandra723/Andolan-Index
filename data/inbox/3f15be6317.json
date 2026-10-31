@@ -1,0 +1,66 @@
+{
+  "id": "3f15be6317",
+  "url": "https://scroll.in/latest/1096779/hc-orders-tamil-nadu-police-to-deny-permission-for-protests-targeting-judges",
+  "title": "HC orders Tamil Nadu Police to deny permission for protests ‘targeting’ judges",
+  "outlet": "Scroll.in",
+  "published": "2026-10-31",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Tamil Nadu"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1949,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "tn-hospital-workers-2026",
+    "new_movement": null,
+    "summary": "The Madras High Court ordered Tamil Nadu Police to deny protest permits targeting judges and disperse gatherings that personally attack judges, following protests against a Supreme Court ruling on religious conversion and reservations.",
+    "facts": [
+      {
+        "claim": "The Madras High Court directed Tamil Nadu Police to deny permission for protests against judges",
+        "quote": "The Madras High Court on Friday directed the Tamil Nadu Police to deny permission for protests against judges and to immediately disperse any gatherings where personal attacks are made on a judge."
+      },
+      {
+        "claim": "The court ruled that a 'blanket order' banning all public discussions or peaceful gatherings concerning court rulings would go too far",
+        "quote": "The court ruled that a \"blanket order\" banning all public discussions or peaceful gatherings concerning court rulings \"would go too far\"."
+      },
+      {
+        "claim": "The court directed state police to consider protest applications on a case-by-case basis for judicial decisions",
+        "quote": "The bench directed state police and district administrations to consider applications for protests pertaining to judicial decisions on a case-by-case basis."
+      },
+      {
+        "claim": "The court said no permission shall be granted for gatherings aiming to personally target, defame or intimidate a sitting judge",
+        "quote": "\"No permission shall be granted for any public gathering or march that aims to personally target, defame or intimidate a sitting judge,\" the court said."
+      },
+      {
+        "claim": "The court closed the petition after ruling that coordinated attacks against judges are not protected by constitutional free speech",
+        "quote": "The bench added that while citizens have \"an undeniable right\" to disagree with a judgement, coordinated attacks against judges are not protected by the constitutional right to free speech."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The court's order addresses protests against a Supreme Court ruling on religious conversion and reservations, which were organized by groups like Tamil Nadu Thowheed Jamaath and Tamil Nadu Muslim Munnetra Kazhagam.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The court ruled that a \"blanket order\" banning all public discussions or peacefu”"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

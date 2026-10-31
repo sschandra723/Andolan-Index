@@ -1,0 +1,82 @@
+{
+  "id": "b4f6e0c0fb",
+  "url": "https://scroll.in/latest/1096745/jamia-millia-islamia-agrees-to-hold-student-elections-after-weeks-long-protest",
+  "title": "Jamia Millia Islamia agrees to hold student elections after weeks-long protest",
+  "outlet": "Scroll.in",
+  "published": "2026-10-30",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2147,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "panjab-university-staff-2026",
+    "new_movement": null,
+    "summary": "Students at Jamia Millia Islamia university ended an 18-day protest after administration agreed to hold student union elections with a May 15 deadline for implementing the constitution.",
+    "facts": [
+      {
+        "claim": "Students ended their 18-day protest",
+        "quote": "Students at Jamia Millia Islamia university in Delhi ended their 18-day protest on Thursday after the institute’ administration agreed to their demands, including setting a timeline for restoring the students’ union."
+      },
+      {
+        "claim": "Administration set May 15 as deadline for approving student union constitution",
+        "quote": "In an order issued on Thursday evening, the administration set May 15 as the deadline for approving and implementing the university’s student union constitution."
+      },
+      {
+        "claim": "Elections would be held within six weeks of next academic session start",
+        "quote": "Elections would be held within six weeks of the start of the next academic session, or by the end of August, the order added."
+      },
+      {
+        "claim": "University hasn't held student union elections since 2006",
+        "quote": "The university has not held student union elections since 2006."
+      },
+      {
+        "claim": "Students protested since October 12 with five on hunger strike",
+        "quote": "Students had been protesting on the campus since October 12, with five of them going on hunger strike, to demand the restoration of the union."
+      },
+      {
+        "claim": "University rusticated one student and suspended two on October 16",
+        "quote": "On October 16, the university rusticated one of the students on hunger strike, suspended two and banned all three from entering the campus for a year."
+      },
+      {
+        "claim": "University revoked disciplinary actions on Thursday",
+        "quote": "However, on Thursday it revoked all disciplinary action against protesting students."
+      },
+      {
+        "claim": "In-person classes resume on Monday",
+        "quote": "The university also said that in-person classes for all courses would resume on Monday and end-semester examinations would also be held offline."
+      },
+      {
+        "claim": "Students alleged pressure to sign agreement",
+        "quote": "They alleged that they had been pressured into signing the agreement."
+      },
+      {
+        "claim": "Delhi Police detained more than 70 students since October 12",
+        "quote": "They also said that the Delhi Police had detained more than 70 students since October 12."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Jamia Millia Islamia is a university in Delhi, not Panjab University. The movement listed is for Panjab University staff, but this article is about Jamia Millia Islamia students. This is a mismatch.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "10/10",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

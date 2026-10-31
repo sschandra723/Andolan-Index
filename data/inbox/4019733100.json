@@ -1,0 +1,62 @@
+{
+  "id": "4019733100",
+  "url": "https://scroll.in/article/1096699/november-indian-nonfiction-sonia-gandhis-memoir-and-five-more-titles-to-read-this-month",
+  "title": "November Indian nonfiction: Sonia Gandhi’s memoir and five more titles to read this month",
+  "outlet": "Scroll.in",
+  "published": "2026-10-31",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Sonia Gandhi's memoir 'Belonging' details her life from childhood in Italy to becoming India's longest-serving Congress president, covering her marriage to Rajiv Gandhi, political struggles, and the assassinations of her husband and mother-in-law.",
+    "facts": [
+      {
+        "claim": "Sonia Gandhi opens up with warmth and candour to tell the story of her remarkable life",
+        "quote": "the once famously reticent Sonia Gandhi opens up with warmth and candour to tell the story of her remarkable life"
+      },
+      {
+        "claim": "Sonia Gandhi's memoir covers her childhood in post-war Veneto",
+        "quote": "Belonging begins in Cambridge, England, where in 1965 Sonia Maino, a 19-year-old student, falls in love at first sight with the handsome, dark-eyed young man she’s destined to marry: Rajiv Gandhi, grandson of Jawaharlal Nehru, independent India’s first Prime Minister."
+      },
+      {
+        "claim": "Sonia Gandhi married Rajiv Gandhi, India's first Prime Minister's grandson",
+        "quote": "Sonia Maino, a 19-year-old student, falls in love at first sight with the handsome, dark-eyed young man she’s destined to marry: Rajiv Gandhi, grandson of Jawaharlal Nehru, independent India’s first Prime Minister."
+      },
+      {
+        "claim": "Sonia Gandhi's book covers her introduction to her mother-in-law, Indira Gandhi",
+        "quote": "We witness Sonia’s introduction to her formidable mother-in-law, Nehru’s daughter Indira Gandhi, India’s first female Prime Minister."
+      },
+      {
+        "claim": "Sonia Gandhi's book covers the assassinations of her husband and mother-in-law",
+        "quote": "when, in 1984, Indira Gandhi is brutally assassinated by her security guards in the garden of her home. In the wake of his mother’s death, and despite Sonia’s fears, Rajiv steps into the role of Prime Minister. The couple travel across India and the world. Then, through Sonia’s wrenching retelling, we feel the full force of the tragedy when seven years later Rajiv, too, is assassinated by a suicide bomber while on the campaign trail."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

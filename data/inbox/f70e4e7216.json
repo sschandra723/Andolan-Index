@@ -1,0 +1,87 @@
+{
+  "id": "f70e4e7216",
+  "url": "https://www.thehindu.com/news/national/karnataka/karnataka-bandh-called-by-sugarcane-farmers-hits-belagavi-but-neighbouring-districts-unaffected/article71648463.ece",
+  "title": "Karnataka bandh called by sugarcane farmers hits Belagavi, but neighbouring districts unaffected",
+  "outlet": "The Hindu",
+  "published": "2026-10-31",
+  "collected": "2026-10-31",
+  "suggested_movement": "karnataka-sugarcane-2025",
+  "score": 2.0,
+  "matched": [
+    "sugarcane",
+    "sugarcane farmers"
+  ],
+  "alternatives": [
+    "farmers-india-us-trade-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2623,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka sugarcane farmers called a bandh on October 31 demanding ₹5,500 per tonne, halting activities in Belagavi district towns but affecting only local areas with no impact in neighboring districts.",
+    "facts": [
+      {
+        "claim": "Karnataka bandh called by sugarcane growers who are demanding a price of ₹5,500 per tonne",
+        "quote": "Normal activities came to a halt in several towns and hobli centres in Belagavi district on October 31 in response to the Karnataka bandh called by sugarcane growers who are demanding a price of ₹5,500 per tonne."
+      },
+      {
+        "claim": "Protesting farmers briefly prevented buses from leaving the Central Bus Stand in Belagavi",
+        "quote": "Protesting farmers briefly prevented buses from leaving the Central Bus Stand in Belagavi."
+      },
+      {
+        "claim": "A scuffle broke out between the protesters and the police when the latter attempted to stop them",
+        "quote": "A scuffle broke out between the protesters and the police when the latter attempted to stop them."
+      },
+      {
+        "claim": "Several shops were reportedly closed during the protest",
+        "quote": "Several shops were reportedly closed during the protest."
+      },
+      {
+        "claim": "Commercial activity remained largely suspended in Hukkeri, Raibag, Mudalagi, Athani, Nipani, and Chikkodi taluk headquarters",
+        "quote": "Commercial activity remained largely suspended in Hukkeri, Raibag, Mudalagi, Athani, Nipani, and Chikkodi taluk headquarters"
+      },
+      {
+        "claim": "Farmers blocked roads at several locations across the district as part of the protest",
+        "quote": "Farmers blocked roads at several locations across the district as part of the protest."
+      },
+      {
+        "claim": "In Dharwad, Bagalkot, Vijayapura, Haveri, and Gadag districts, the protests were largely symbolic",
+        "quote": "In Dharwad, Bagalkot, Vijayapura, Haveri, and Gadag districts, the protests were largely symbolic."
+      },
+      {
+        "claim": "Chief Minister D.K. Shivakumar appealed to sugarcane farmers protesting over prices to abide by the understanding reached at the meeting on October 26",
+        "quote": "Chief Minister D.K. Shivakumar appealed to sugarcane farmers protesting over prices to abide by the understanding reached at the meeting on October 26."
+      },
+      {
+        "claim": "Sugar factories cannot afford higher procurement prices without a revision in sugar price by the Union Government",
+        "quote": "Mr. Shivakumar said that sugar factories cannot afford higher procurement prices without a revision in sugar price by the Union Government."
+      },
+      {
+        "claim": "The Centre should increase the price of sugar to at least ₹50 a kg",
+        "quote": "The Chief Minister reiterated that the Centre should increase the price of sugar to at least ₹50 a kg"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka sugarcane farmers demanded ₹5,500 per tonne after state offered ₹3,300, leading to a localized bandh in Belagavi district on October 31, 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "10/10",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

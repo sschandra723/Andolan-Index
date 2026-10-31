@@ -1,0 +1,70 @@
+{
+  "id": "5880728822",
+  "url": "https://factly.in/this-video-shows-a-confrontation-between-residents-of-arunachal-pradesh-and-police-during-a-2025-protest/",
+  "title": "This video shows a confrontation between residents of Arunachal Pradesh and police during a 2025 protest",
+  "outlet": "Factly",
+  "published": "2026-10-28",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3257,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A video shared online claims to show Arunachal Pradesh residents fighting Chinese soldiers in October 2026, but Factly verified it dates to May 2025 and shows police officers involved in a dam protest in Beging village, Siang district.",
+    "facts": [
+      {
+        "claim": "On 22 October 2026, Indo-Tibetan Border Police (ITBP) Director General Shatrujeet Kapur acknowledged that face-offs with Chinese forces had occurred at multiple locations along the Arunachal Pradesh border.",
+        "quote": "On 22 October 2026, Indo-Tibetan Border Police (ITBP) Director General Shatrujeet Kapur acknowledged that face-offs with Chinese forces had occurred at multiple locations along the Arunachal Pradesh border."
+      },
+      {
+        "claim": "On 23 October 2026, Ministry of External Affairs (MEA) spokesperson Randhir Jaiswal stated that the situation along the Line of Actual Control (LAC) becomes \"disturbed\" when Chinese troops deviate from established patrolling patterns.",
+        "quote": "On 23 October 2026, Ministry of External Affairs (MEA) spokesperson Randhir Jaiswal stated that the situation along the Line of Actual Control (LAC) becomes \"disturbed\" when Chinese troops deviate from established patrolling patterns."
+      },
+      {
+        "claim": "The video dates back to 23 May 2025 and shows a protest against the proposed Siang Dam project in Beging village, Siang district, Arunachal Pradesh, not residents fighting Chinese soldiers in October 2026.",
+        "quote": "The video dates back to 23 May 2025 and shows a protest against the proposed Siang Dam project in Beging village, Siang district, Arunachal Pradesh, not residents fighting Chinese soldiers in October 2026."
+      },
+      {
+        "claim": "Arunachal Pradesh Police officer Sangay Tenzin confirmed to Factly that the uniformed personnel in the video are police officers and identified the officer seen in the video as DySP Toguam Gongo.",
+        "quote": "Arunachal Pradesh Police officer Sangay Tenzin confirmed to Factly that the uniformed personnel in the video are police officers and identified the officer seen in the video as DySP Toguam Gongo."
+      },
+      {
+        "claim": "The Anti-Dam Party of Siang and Upper Siang districts organised an indefinite sit-in protest in Beging village, Siang district, where NHPC has proposed the Siang Dam project.",
+        "quote": "The Anti-Dam Party of Siang and Upper Siang districts organised an indefinite sit-in protest in Beging village, Siang district, where NHPC has proposed the Siang Dam project."
+      },
+      {
+        "claim": "Approximately 400 people participated in the protest.",
+        "quote": "Approximately 400 people participated in the protest."
+      },
+      {
+        "claim": "During the protest, a group of angry activists set fire to the village’s suspension bridge, partially damaging it.",
+        "quote": "During the protest, a group of angry activists set fire to the village’s suspension bridge, partially damaging it."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The video in question was part of a protest against the proposed Siang Dam project in Beging village, Siang district, Arunachal Pradesh, which occurred in May 2025, not the October 2026 border clashes.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

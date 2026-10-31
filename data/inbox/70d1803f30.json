@@ -1,0 +1,62 @@
+{
+  "id": "70d1803f30",
+  "url": "https://www.hindustantimes.com/india-news/a-blanket-order-would-go-too-far-madras-high-court-refuses-to-restrict-protests-against-court-rulings-101793433270507.html",
+  "title": "‘A blanket order would go too far’: Madras high court refuses to restrict protests against court rulings",
+  "outlet": "Hindustan Times",
+  "published": "2026-10-31",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Madras High Court refused to ban protests against court rulings, stating citizens have a right to disagree with judgments but must avoid targeting judges personally. Authorities must assess protest permits on a case-by-case basis under the BNSS law.",
+    "facts": [
+      {
+        "claim": "The Madras high court refused to restrict public protests against court rulings",
+        "quote": "The court said authorities must assess applications seeking permission for meetings, marches or protests relating to judicial matters on a \"case-by-case basis.\""
+      },
+      {
+        "claim": "Citizens have an undeniable right to disagree with a judgment",
+        "quote": "The Madras high court has refused to restrict public protests against court rulings and emphasised that citizens have an undeniable right to disagree with a judgment, underscoring citizens' right to \"question and peacefully protest\" against judicial decisions."
+      },
+      {
+        "claim": "Authorities must assess applications seeking permission for meetings, marches or protests relating to judicial matters on a \"case-by-case basis\"",
+        "quote": "In an order passed on Friday, October 30, a bench of Chief Justice Sushrut Arvind Dharmadhikari and Justice G Arul Murugan said authorities must assess applications seeking permission for meetings, marches or protests relating to judicial matters on a \"case-by-case basis,\" using their powers under the Bharatiya Nagarik Suraksha Sanhita (BNSS) and local police laws."
+      },
+      {
+        "claim": "A blanket order completely banning all public discussions or peaceful gatherings concerning court rulings would go too far",
+        "quote": "\"A blanket order completely banning all public discussions or peaceful gatherings concerning court rulings would go too far. It would infringe upon legitimate democratic expression,\" the high court said."
+      },
+      {
+        "claim": "The court directed the state and police authorities in Tamil Nadu to \"deny\" permission to any gathering aimed at \"personally targeting a sitting judge.\"",
+        "quote": "However, the court directed the state and police authorities in Tamil Nadu to \"deny\" permission to any gathering aimed at \"personally targeting a sitting judge.\""
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Madras High Court clarified the legal boundaries between criticizing judicial decisions and attacking individual judges, emphasizing case-by-case assessment of protest permits under BNSS law.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

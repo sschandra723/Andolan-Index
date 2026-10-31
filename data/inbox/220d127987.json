@@ -1,0 +1,52 @@
+{
+  "id": "220d127987",
+  "url": "https://scroll.in/article/1096755/foreign-funding-farce-the-hypocrisy-of-the-modi-governments-allegations-against-protesters",
+  "title": "‘Foreign funding’ farce: The hypocrisy of the Modi government’s allegations against protesters",
+  "outlet": "Scroll.in",
+  "published": "2026-10-31",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "The Modi government claims foreign funding for anti-SIR protests that have disenfranchised 130 million people, but the article shows the government itself has used dark money and loopholes to fund political parties without transparency.",
+    "facts": [
+      {
+        "claim": "anti-sir-2026",
+        "quote": "Besieged by youth protests against SIR that has disenfranchised 130 million people so far"
+      },
+      {
+        "claim": "130 million",
+        "quote": "disenfranchised 130 million people so far"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Modi government alleges foreign funding for anti-SIR protests, but the article reveals the government's own use of dark money and FCRA loopholes to fund political parties without transparency.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": [
+        "name “The Modi” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

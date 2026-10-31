@@ -10,5 +10,59 @@
   "matched": [
     "Chennai"
   ],
-  "alternatives": []
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1874,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "tn-hospital-workers-2026",
+    "new_movement": null,
+    "summary": "Over 200 multi-purpose medical workers were arrested in Chennai after protesting near Rajarathinam Stadium demanding permanent employment and benefits, following police denial of protest permission.",
+    "facts": [
+      {
+        "claim": "More than 200 multi-purpose medical workers were arrested",
+        "quote": "More than 200 multi-purpose medical workers were arrested after staging a protest near Rajarathinam Stadium in Egmore on Monday, demanding permanent employment and other benefits."
+      },
+      {
+        "claim": "Police placed protest organisers under house arrest",
+        "quote": "Police also placed several protest organisers and workers under house arrest in different parts of Tamil Nadu to prevent them from reaching Chennai for the planned agitation."
+      },
+      {
+        "claim": "Over 2,500 multi-purpose medical workers employed on daily wages",
+        "quote": "More than 2,500 multi-purpose medical workers are employed on a daily-wage basis in government hospitals across Tamil Nadu."
+      },
+      {
+        "claim": "Workers appointed on temporary basis in 2013 and 2014",
+        "quote": "They were appointed on a temporary basis in 2013 and 2014 through the joint directors of medical services in various districts, following reservation norms."
+      },
+      {
+        "claim": "Workers demanded permanent employment after five years",
+        "quote": "According to the workers, their appointment orders stated that they would be made permanent after completing five years of service."
+      },
+      {
+        "claim": "Police denied permission for protest",
+        "quote": "Police denied permission for the proposed protest and reportedly detained several office-bearers and workers at their residences in Chennai and other districts to prevent the agitation."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Medical workers in Tamil Nadu's government hospitals, employed on daily wages since 2013, have been demanding permanent employment and benefits after their appointment orders promised permanence after five years of service.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
 }

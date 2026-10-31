@@ -1,0 +1,54 @@
+{
+  "id": "2ce3e3883c",
+  "url": "https://www.thehindu.com/news/national/manipur/meitei-groups-hold-rally-in-imphal-manipur-cms-resignation-abrogation-of-soo-truce-pact-sought/article71648869.ece",
+  "title": "Meitei groups hold rally in Imphal; Manipur CM's resignation, abrogation of SoO truce pact sought",
+  "outlet": "The Hindu",
+  "published": "2026-10-31",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4167,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Meitei groups held a rally in Imphal demanding Chief Minister's resignation over ethnic violence and scrapping the SoO truce pact with militant groups.",
+    "facts": [
+      {
+        "claim": "Meitei groups held a rally in Imphal",
+        "quote": "An umbrella body of Meitei groups held a massive rally in Manipur's capital city on Saturday (October 31, 2026)"
+      },
+      {
+        "claim": "demanding Chief Minister's resignation over continued violence",
+        "quote": "We seek the resignation of the present government for its failure to protect the lives and properties of the indigenous people of the State."
+      },
+      {
+        "claim": "scrapping the SoO truce pact with militant groups",
+        "quote": "abrogate SoO pact"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Manipur has been in ethnic conflict between Meitei and Kuki communities since May 2023, claiming at least 306 lives. The SoO agreement, which expired on September 4 without renewal, has been central to addressing Kuki-Zo insurgency but faces compliance issues.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -8,5 +8,51 @@
   "suggested_movement": null,
   "score": 0.0,
   "matched": [],
-  "alternatives": []
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Protesters demanded the resignation of India's chief election commissioner over the Special Intensive Revision (SIR) voter purge, which removed over 130 million names from electoral rolls, disproportionately affecting marginalized communities.",
+    "facts": [
+      {
+        "claim": "over 130 million names",
+        "quote": "more than 130 million names"
+      },
+      {
+        "claim": "Special Intensive Revision (SIR)",
+        "quote": "Special Intensive Revision (SIR)"
+      },
+      {
+        "claim": "removal of names",
+        "quote": "removal of more than 130 million names from India’s electoral rolls"
+      },
+      {
+        "claim": "disproportionately affected marginalized communities",
+        "quote": "The exercise has disproportionately affected Muslims, women, migrants and other marginalised communities"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The SIR voter purge has led to significant disenfranchisement among marginalized groups, with the BJP gaining electoral advantage in states like Bihar and West Bengal after the removal of millions of voters.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
 }

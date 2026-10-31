@@ -1,0 +1,128 @@
+{
+  "id": "df5501409e",
+  "url": "https://scroll.in/latest/1096719/jamia-protests-two-nsui-members-detained-exams-to-be-held-online",
+  "title": "Jamia protests: Two NSUI members detained, exams to be held online",
+  "outlet": "Scroll.in",
+  "published": "2026-10-29",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3346,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Delhi Police detained two NSUI members from Jamia Millia Islamia campus as students continued protesting for time-bound student union elections since October 12, with five on hunger strike. University claims vandalism by protesters, students deny and allege police detained over 70 students.",
+    "facts": [
+      {
+        "claim": "The Delhi Police on Wednesday detained two members of the National Students’ Union of India from outside the Jamia Millia Islamia",
+        "quote": "The Delhi Police on Wednesday detained two members of the National Students’ Union of India from outside the Jamia Millia Islamia as protests continued on the campus to demand time-bound elections to the students’ union."
+      },
+      {
+        "claim": "Public assembly has been banned around the campus under Section 163 of the Bharatiya Nagarik Suraksha Sanhita",
+        "quote": "Public assembly has been banned around the campus under Section 163 of the Bharatiya Nagarik Suraksha Sanhita."
+      },
+      {
+        "claim": "The university has not held student union elections since 2006",
+        "quote": "The university has not held student union elections since 2006."
+      },
+      {
+        "claim": "Students have been protesting on the campus since October 12, with five of them going on hunger strike",
+        "quote": "Students have been protesting on the campus since October 12, with five of them going on hunger strike, to demand the restoration of their union."
+      },
+      {
+        "claim": "On October 16, the university rusticated one of the students on hunger strike, suspended two and banned all three from entering the campus for a year",
+        "quote": "On October 16, the university rusticated one of the students on hunger strike, suspended two and banned all three from entering the campus for a year."
+      },
+      {
+        "claim": "On Monday, the university administration announced that student union elections would be held within 15 days of the union’s constitution being approved",
+        "quote": "On Monday, the university administration announced that student union elections would be held within 15 days of the union’s constitution being approved."
+      },
+      {
+        "claim": "The administration also revoked suspension and show-cause notices issued to students during the protest and said a committee would be formed to investigate the conduct of security personnel during the agitation",
+        "quote": "The administration also revoked suspension and show-cause notices issued to students during the protest and said a committee would be formed to investigate the conduct of security personnel during the agitation."
+      },
+      {
+        "claim": "Students said the administration had not addressed all their demands",
+        "quote": "Students said the administration had not addressed all their demands."
+      },
+      {
+        "claim": "Two students, Ebin Basil and Rehan Khan, continue their hunger strike over the lack of clarity in the university’s order",
+        "quote": "Two students, Ebin Basil and Rehan Khan, continue their hunger strike over the lack of clarity in the university’s order."
+      },
+      {
+        "claim": "On Wednesday, the NSUI, the student wing of the Congress, said that police took Faizan Ali Khan and Zeeshan Ahmad Khan into custody from Gate No. 4 and took them to an “unknown location”",
+        "quote": "On Wednesday, the NSUI, the student wing of the Congress, said that police took Faizan Ali Khan and Zeeshan Ahmad Khan into custody from Gate No. 4 and took them to an “unknown location”."
+      },
+      {
+        "claim": "The police took them to Fatehpur Beri before bringing them back to the Jamia Nagar police station",
+        "quote": "The police took them to Fatehpur Beri before bringing them back to the Jamia Nagar police station, The Hindu reported."
+      },
+      {
+        "claim": "The university accused protesting students and locals of vandalising university property and breaching security on Tuesday night",
+        "quote": "On Wednesday, the university accused protesting students and locals of vandalising university property and breaching security on Tuesday night."
+      },
+      {
+        "claim": "The university said in a post on social media that groups of protesting students along with locals had vandalised university gates and walls, brought down Gate No. 4 C, pelted stones, damaged CCTV control room, cameras, and disrupted their connections",
+        "quote": "…groups of protesting students along with locals had vandalised university gates and walls, brought down Gate No. 4 C, pelted stones, damaged CCTV control room, cameras, and disrupted their connections,"
+      },
+      {
+        "claim": "A group of masked protesters also reportedly reached the university’s boys’ hostels in an attempt to mobilise additional support",
+        "quote": "A group of masked protesters also reportedly reached the university’s boys’ hostels in an attempt to mobilise additional support."
+      },
+      {
+        "claim": "The students denied the allegations and accused the administration of staging the vandalism to frame them",
+        "quote": "[The administration] had erected aluminium sheets, and by evening themselves got them broken and are blaming students,"
+      },
+      {
+        "claim": "The students also alleged that university officials had harassed them in hostels by snatching their identity cards",
+        "quote": "The students also alleged that university officials had harassed them in hostels by snatching their identity cards."
+      },
+      {
+        "claim": "They claimed that the mess had been ordered to shut from November 1 to pressure them into vacating the hostels",
+        "quote": "They claimed that the mess had been ordered to shut from November 1 to pressure them into vacating the hostels."
+      },
+      {
+        "claim": "Students also alleged that Delhi Police had detained more than 70 students since October 12",
+        "quote": "They also said that Delhi Police had detained more than 70 students since October 12, The Hindu reported."
+      },
+      {
+        "claim": "The university on Wednesday extended online classes until November 24 and announced that end-semester examinations would also be held online",
+        "quote": "The university on Wednesday extended online classes until November 24 and announced that end-semester examinations would also be held online, saying that the campus situation was “not conducive for an academic environment”."
+      },
+      {
+        "claim": "Earlier, it had shifted classes online until November 8",
+        "quote": "Earlier, it had shifted classes online until November 8."
+      },
+      {
+        "claim": "Practical examinations will be held online from November 25 to November 30, followed by theory examinations from December 1 to December 24",
+        "quote": "Practical examinations will be held online from November 25 to November 30, followed by theory examinations from December 1 to December 24, the latest order said."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students at Jamia Millia Islamia have been protesting since October 12 for time-bound student union elections, with five on hunger strike, after the university has not held elections since 2006.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "20/21",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The students also alleged that university officials had harassed them in hostels”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

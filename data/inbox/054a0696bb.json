@@ -1,0 +1,60 @@
+{
+  "id": "054a0696bb",
+  "url": "https://www.hindustantimes.com/india-news/anti-sir-protest-live-updates-public-impeachment-rahul-gandhi-cec-gyanesh-kumar-cjp-dipke-bora-chalo-dilli-march-news-101793418660900.html",
+  "title": "Anti-SIR protest LIVE: Kharge demands CEC's removal; BJP calls INDIA bloc's mock impeachment a 'mockery of Parliament",
+  "outlet": "Hindustan Times",
+  "published": "2026-10-31",
+  "collected": "2026-10-31",
+  "suggested_movement": "anti-sir-2026",
+  "score": 5.0,
+  "matched": [
+    "=SIR",
+    "Gyanesh Kumar",
+    "chief election commissioner",
+    "=CEC",
+    "Election Commission"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "The INDIA bloc staged a symbolic public impeachment of Chief Election Commissioner Gyanesh Kumar, alleging threats to voting rights and accusing the Election Commission of working under the Modi government's influence during the Special Intensive Revision (SIR) voter list recheck.",
+    "facts": [
+      {
+        "claim": "The INDIA bloc staged a symbolic public impeachment of Chief Election Commissioner Gyanesh Kumar",
+        "quote": "The INDIA bloc on Saturday staged a symbolic \"public impeachment\" of Chief Election Commissioner Gyanesh Kumar, alleging that the right to vote was under threat and accusing the Election Commission of functioning at the behest of the Modi government."
+      },
+      {
+        "claim": "alleging threats to voting rights",
+        "quote": "alleging that the right to vote was under threat"
+      },
+      {
+        "claim": "accusing the Election Commission of working under the Modi government's influence",
+        "quote": "accusing the Election Commission of functioning at the behest of the Modi government"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The INDIA bloc is protesting the Special Intensive Revision (SIR), an Election Commission initiative to recheck voter lists, which they claim is being conducted with undue influence from the Modi government.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

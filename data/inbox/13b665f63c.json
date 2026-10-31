@@ -1,0 +1,80 @@
+{
+  "id": "13b665f63c",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-women-cadre-protest-across-tamil-nadu-over-price-rise-law-and-order/article71648544.ece",
+  "title": "DMK women cadre protest across Tamil Nadu over price rise, law and order",
+  "outlet": "The Hindu",
+  "published": "2026-10-31",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Tamil Nadu"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3558,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "DMK Women's Wing staged protests across Tamil Nadu accusing the ruling TVK government of failing to protect women and children, maintain law and order, and control rising prices of essentials like rice and cooking oil.",
+    "facts": [
+      {
+        "claim": "DMK Women’s Wing staged protests at district headquarters across Tamil Nadu",
+        "quote": "The Dravida Munnetra Kazhagam (DMK) Women’s Wing on Saturday (October 31, 2026) staged protests at district headquarters across Tamil Nadu"
+      },
+      {
+        "claim": "accusing the ruling Tamilaga Vettri Kazhagam (TVK) government of failing to maintain law and order, protect women and children, and control the rising cost of essential commodities",
+        "quote": "accusing the ruling Tamilaga Vettri Kazhagam (TVK) government of failing to maintain law and order, protect women and children, and control the rising cost of essential commodities in the State."
+      },
+      {
+        "claim": "protesters carried sacks of rice, cans of cooking oil, and other essential commodities to highlight the increase in prices",
+        "quote": "They carried sacks of rice, cans of cooking oil, and other essential commodities to highlight the increase in prices."
+      },
+      {
+        "claim": "protesters held placards bearing slogans such as 'Law and order has become a laughing stock' and 'Wake up from your sleep, Chief Minister!'",
+        "quote": "They also held placards bearing slogans such as “Law and order has become a laughing stock” and “Wake up from your sleep, Chief Minister!”"
+      },
+      {
+        "claim": "Kanimozhi Karunanidhi accused the government of failing to ensure children’s safety even within their homes",
+        "quote": "Addressing the gathering, Ms. Kanimozhi referred to incidents of child abduction and alleged trafficking, accusing the government of failing to ensure children’s safety even within their homes."
+      },
+      {
+        "claim": "Kanimozhi Karunanidhi alleged that members of the ruling party were involved in 'abducting and selling children'",
+        "quote": "She also alleged that members of the ruling party were involved in “abducting and selling children.”"
+      },
+      {
+        "claim": "Kanimozhi Karunanidhi said rice and pulses had become twice as expensive",
+        "quote": "She said rice and pulses had become twice as expensive."
+      },
+      {
+        "claim": "Kanimozhi Karunanidhi questioned the government’s claim that better-quality rice would be distributed through ration shops",
+        "quote": "She also questioned the government’s claim that better-quality rice would be distributed through ration shops, alleging that the existing rice was merely being polished and presented differently."
+      },
+      {
+        "claim": "Kanimozhi Karunanidhi contrasted Tamil Nadu’s current situation with the DMK’s previous tenure in power",
+        "quote": "Contrasting the situation with the DMK’s tenure in power, Ms. Kanimozhi said Tamil Nadu had previously been at the forefront of investment, economic growth, education, and healthcare. The State was now lagging in several sectors while witnessing rising crime and prices, she alleged."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "DMK Women’s Wing protested against TVK government’s handling of law and order, women’s safety, and rising essential commodity prices in Tamil Nadu.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

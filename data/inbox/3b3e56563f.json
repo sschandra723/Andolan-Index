@@ -11,5 +11,67 @@
     "hospital workers",
     "Chennai"
   ],
-  "alternatives": []
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2508,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "tn-hospital-workers-2026",
+    "new_movement": null,
+    "summary": "Tamil Nadu police detained hundreds of multi-purpose hospital workers ahead of a hunger strike in Chennai demanding permanent employment and benefits.",
+    "facts": [
+      {
+        "claim": "Tamil Nadu police detained hundreds of multi-purpose hospital workers",
+        "quote": "The Tamil Nadu police on Monday, October 12, detained hundreds of multi-purpose hospital workers, as they attempted to stage a hunger strike in Chennai demanding permanent employment and other benefits."
+      },
+      {
+        "claim": "Workers from several districts were allegedly placed under house arrest",
+        "quote": "Workers from several districts were allegedly placed under house arrest before they could reach the city for the protest."
+      },
+      {
+        "claim": "339 workers were detained across 20 districts",
+        "quote": "According to the Multi-purpose Hospital Workers Development Association, 339 workers were detained across 20 districts and those who reached Chennai to stage a protest near Rajarathinam Stadium in Egmore were also arrested."
+      },
+      {
+        "claim": "More than 2,500 multi-purpose hospital workers are employed on a daily-wage basis in government hospitals",
+        "quote": "According to the workers' association, more than 2,500 multi-purpose hospital workers are employed on a daily-wage basis in government hospitals across the state in jobs like cleaning, sanitation and patient assistance."
+      },
+      {
+        "claim": "Workers were appointed on a temporary basis in 2013 and 2014",
+        "quote": "They were appointed on a temporary basis in 2013 and 2014 through the joint directors of the health department in each district."
+      },
+      {
+        "claim": "Despite completing five years of service, workers have not been regularised",
+        "quote": "Despite completing five years of service, the workers have not been regularised and continue to work on daily wages."
+      },
+      {
+        "claim": "The workers had announced a hunger strike at Rajarathinam Stadium in Chennai's Egmore",
+        "quote": "The association had now announced a hunger strike at Rajarathinam Stadium in Chennai's Egmore on Monday, calling for job regularisation, a monthly day off and other demands."
+      },
+      {
+        "claim": "Police denied permission for the protest",
+        "quote": "Police personnel deployed at the spot arrested the protestors, transported them in government vehicles, and kept them at nearby community halls."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Tamil Nadu hospital workers, employed on daily wages since 2013, have demanded permanent employment and benefits after five years of service without regularization.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
 }

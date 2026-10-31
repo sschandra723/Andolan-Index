@@ -1,0 +1,63 @@
+{
+  "id": "9073c935be",
+  "url": "https://www.hindustantimes.com/india-news/aisa-neha-bora-extends-support-to-india-bloc-november-1-anti-cec-protest-at-ramlila-maidan-congress-cjp-dipke-gyanesh-kumar-101793367224370.html",
+  "title": "'See you there': After CJP, AISA's Neha Bora extends support to INDIA bloc's Nov 1 anti-CEC protest at Ramlila Maidan",
+  "outlet": "Hindustan Times",
+  "published": "2026-10-30",
+  "collected": "2026-10-31",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "=CEC",
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4275,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Student activist Neha Bora of AISA extended support for INDIA bloc's November 1 protest against chief election commissioner Gyanesh Kumar over alleged irregularities in voter roll revision. The rally aims to demand CEC resignation, halt the SIR exercise, and withdraw the 2023 law.",
+    "facts": [
+      {
+        "claim": "Neha Bora urged citizens to reach Ramlila Maidan on November 1 to protect voting rights and uphold democracy",
+        "quote": "Neha Bora urged the citizens to reach the Ramlila Maidan on November 1 \"to protect their voting rights and uphold the sanctity of democracy\"."
+      },
+      {
+        "claim": "The protest is scheduled for November 1 at Ramlila Maidan in Delhi",
+        "quote": "The protest is scheduled to be held at the Ramlila Maidan in Delhi on November 1."
+      },
+      {
+        "claim": "The protest demands CEC Gyanesh Kumar's resignation, a halt to the SIR exercise, and withdrawal of the 2023 law",
+        "quote": "Our demand to seek Gyanesh Kumar's resignation, impose a complete halt on the SIR exercise, and withdraw the 2023 law will culminate in a movement at Ramlila Maidan on November 1"
+      },
+      {
+        "claim": "The INDIA bloc organized a public impeachment of CEC Gyanesh Kumar on October 30, which was postponed to October 31 due to bad weather",
+        "quote": "INDIA bloc's \"public impeachment\" of CEC Gyanesh Kumar, scheduled for October 30, was postponed to October 31 due to bad weather."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest targets alleged irregularities in the Special Intensive Revision (SIR) of voter rolls, a process where the Election Commission rechecks voter lists to ensure accuracy.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

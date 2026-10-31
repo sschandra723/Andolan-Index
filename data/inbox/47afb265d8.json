@@ -1,0 +1,73 @@
+{
+  "id": "47afb265d8",
+  "url": "https://scroll.in/latest/1096673/sixty-nine-arrested-under-arunachal-anti-terror-law-after-protests-against-dam-project-turn-violent",
+  "title": "69 arrested under Arunachal anti-terror law after protests against dam project turn violent",
+  "outlet": "Scroll.in",
+  "published": "2026-10-27",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3451,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Police arrested 69 people under Arunachal Pradesh's anti-terror law after violent protests against a proposed 12,500-megawatt dam project in Pasighat on Friday, with security forces deployed in the Siang Valley.",
+    "facts": [
+      {
+        "claim": "69 persons have been arrested and four detained for their alleged role in the violence",
+        "quote": "Sixty-nine persons have been arrested and four detained for their alleged role in the violence that broke out on Friday in Arunachal Pradesh’s Pasighat during a protest against a proposed dam, Inspector General of Police Hibu Tamang told Scroll on Tuesday."
+      },
+      {
+        "claim": "The dam project is a 12,500-megawatt power project on the Siang river",
+        "quote": "Several organisations have been protesting against the proposed 12,500-megawatt power project on the Siang river."
+      },
+      {
+        "claim": "Protesters vandalised and set fire to an office of the National Hydroelectric Power Corporation and a police station in Pasighat",
+        "quote": "On Friday, protesters vandalised and set fire to an office of the National Hydroelectric Power Corporation and a police station in Pasighat after security personnel fired tear gas during the agitation."
+      },
+      {
+        "claim": "The police filed 55 cases in connection with the violence",
+        "quote": "On Tuesday, Tamang told Scroll that the police had filed 55 cases in connection with the violence."
+      },
+      {
+        "claim": "Arrests and detentions were made in Upper Siang, Siang and East Siang districts under the Arunachal Pradesh Unlawful Activities Prevention Act",
+        "quote": "The arrests and detentions were made in Upper Siang, Siang and East Siang districts under the Arunachal Pradesh Unlawful Activities Prevention Act."
+      },
+      {
+        "claim": "Twenty-six criminal cases have been registered in Upper Siang, 21 in Siang and six in East Siang district",
+        "quote": "Twenty-six criminal cases have been registered in Upper Siang, 21 in Siang and six in East Siang district."
+      },
+      {
+        "claim": "Additional forces deployed in the Siang Valley: 30 companies of CAPF and three companies of Assam Police",
+        "quote": "‘Earlier, we had 21 companies of Central Armed Police Forces,’ said the police officer. ‘Now, nine more have come. A total of 30 companies of CAPF and three companies of Assam Police are deployed apart from the Arunachal Police personnel.'"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Protests against the Siang dam project, which would affect 27 villages, have led to police deploying paramilitary forces and filing multiple cases in Arunachal Pradesh.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/7",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘Earlier, we had 21 companies of Central Armed Police Forces,’ said the police o”",
+        "number 69 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

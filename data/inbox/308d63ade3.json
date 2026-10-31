@@ -1,0 +1,81 @@
+{
+  "id": "308d63ade3",
+  "url": "https://scroll.in/latest/1096682/ahead-of-leave-india-deadline-hc-puts-notice-to-actor-imran-khan-on-hold",
+  "title": "Ahead of ‘leave India’ deadline, HC puts notice to actor Imran Khan on hold",
+  "outlet": "Scroll.in",
+  "published": "2026-10-27",
+  "collected": "2026-10-31",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "chief election commissioner",
+    "Election Commission"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1612,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Bombay High Court halted the Leave India Notice requiring actor Imran Khan to leave India by October 28, following his detention during protests against the Chief Election Commissioner in Mumbai. The court adjourned the hearing until Monday after the government stated no coercive action would be taken against Khan.",
+    "facts": [
+      {
+        "claim": "The Bombay High Court put on hold the Leave India Notice issued to actor Imran Khan",
+        "quote": "The Bombay High Court on Tuesday put on hold the Leave India Notice issued to actor Imran Khan, The Indian Express reported."
+      },
+      {
+        "claim": "The hearing was adjourned till Monday after the Union government said that no coercive action would be taken against Khan until then",
+        "quote": "The hearing was adjourned till Monday after the Union government said that no coercive action would be taken against Khan until then, Live Law reported."
+      },
+      {
+        "claim": "On October 15, the Foreigners Regional Registration Office directed Khan, a citizen of the United States, to leave the country by October 28 allegedly for participating in the protests against Chief Election Commissioner Gyanesh Kumar in Mumbai earlier this month",
+        "quote": "On October 15, the Foreigners Regional Registration Office directed Khan, a citizen of the United States, to leave the country by October 28 allegedly for participating in the protests against Chief Election Commissioner Gyanesh Kumar in Mumbai earlier this month."
+      },
+      {
+        "claim": "A Leave India Notice is a directive issued by the authorities requiring a foreign citizen to exit the country within a specified time period. Failing to comply with the order could lead to detention, deportation or blacklisting",
+        "quote": "A Leave India Notice is a directive issued by the authorities requiring a foreign citizen to exit the country within a specified time period. Failing to comply with the order could lead to detention, deportation or blacklisting."
+      },
+      {
+        "claim": "Khan holds an Overseas Citizen of India card, which is an immigration status that allows foreign citizens of Indian origin to live and work in India indefinitely",
+        "quote": "Khan holds an Overseas Citizen of India card, which is an immigration status that allows foreign citizens of Indian origin to live and work in India indefinitely."
+      },
+      {
+        "claim": "The actor had moved the High Court against the notice, with his lawyer saying that rules do not prohibit Overseas Citizen of India cardholders from participating in a protest",
+        "quote": "The actor had moved the High Court against the notice, with his lawyer saying that rules do not prohibit Overseas Citizen of India cardholders from participating in a protest."
+      },
+      {
+        "claim": "Khan had been detained during the protest at the August Kranti Maidan in Mumbai on October 10",
+        "quote": "Khan had been detained during the protest at the August Kranti Maidan in Mumbai on October 10."
+      },
+      {
+        "claim": "Speaking at the protest, the actor had said that he was attending in his capacity as a resident of Mumbai and was not affiliated with any organisation",
+        "quote": "Speaking at the protest, the actor had said that he was attending in his capacity as a resident of Mumbai and was not affiliated with any organisation."
+      },
+      {
+        "claim": "I am here as a citizen, as a person who lives in this city,” he had said. “I am here to see why freedom of movement is being restricted. Why are people’s voices being suppressed?”",
+        "quote": "I am here as a citizen, as a person who lives in this city,” he had said. “I am here to see why freedom of movement is being restricted. Why are people’s voices being suppressed?”"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Bombay High Court halted the Leave India Notice requiring actor Imran Khan to leave India by October 28, following his detention during protests against the Chief Election Commissioner in Mumbai.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

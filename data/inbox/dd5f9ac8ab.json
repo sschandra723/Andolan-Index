@@ -1,0 +1,54 @@
+{
+  "id": "dd5f9ac8ab",
+  "url": "https://scroll.in/latest/1096748/arunachal-police-seeks-search-warrant-against-journalist-tongam-rina-over-anti-dam-protest-violence",
+  "title": "Arunachal Police seeks search warrant against journalist Tongam Rina over anti-dam protest violence",
+  "outlet": "Scroll.in",
+  "published": "2026-10-30",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4041,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Arunachal Pradesh Police sought search warrants against journalist Tongam Rina and others linked to anti-dam protest violence in Pasighat, where protesters vandalised and set fire to a power company office and police station on October 23.",
+    "facts": [
+      {
+        "claim": "Arunachal Pradesh Police sought search warrant against journalist Tongam Rina",
+        "quote": "The Arunachal Pradesh Police has sought a search warrant against journalist Tongam Rina in connection with the violence that broke out in Pasighat town during a protest against the Upper Siang dam project."
+      },
+      {
+        "claim": "Protesters vandalised and set fire to a power company office and police station",
+        "quote": "The police had arrested 69 persons and detained four after protesters on October 23 vandalised and set fire to an office of the National Hydroelectric Power Corporation and a police station in Pasighat following the use of tear gas by security personnel during the agitation."
+      },
+      {
+        "claim": "The protest was against the Upper Siang dam project",
+        "quote": "Several organisations have been protesting against the proposed 12,500-megawatt power project on the Siang river."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Upper Siang dam project, proposed by the Union government’s think-tank NITI Aayog in 2017, has faced opposition from local communities in Siang and Upper Siang districts, with 27 villages estimated to be affected.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

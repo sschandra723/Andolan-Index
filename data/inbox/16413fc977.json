@@ -11,5 +11,44 @@
     "=SIR",
     "voter roll"
   ],
-  "alternatives": []
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "India's voter roll revision process, known as SIR, is controversial as it requires voters to link themselves or a parent to the roll from their state's last revision two decades ago.",
+    "facts": [
+      {
+        "claim": "SIR",
+        "quote": "SIR"
+      },
+      {
+        "claim": "voters must link themselves, or a parent, to the roll from their state's last such revision two decades ago",
+        "quote": "the Special Intensive Revision is the Election Commission's house-to-house recheck of India's voter lists. Voters must link themselves, or a parent, to the roll from their state's last such revision two decades ago."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Special Intensive Revision (SIR) is the Election Commission's house-to-house recheck of India's voter lists, requiring voters to link themselves or a parent to the roll from their state's last revision two decades ago.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
 }

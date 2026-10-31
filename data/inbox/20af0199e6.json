@@ -1,0 +1,66 @@
+{
+  "id": "20af0199e6",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-urges-cm-vijay-to-heed-womens-protest-over-rising-prices-deteriorating-law-and-order/article71648766.ece",
+  "title": "Stalin urges CM Vijay to heed women’s protest over rising prices, law and order",
+  "outlet": "The Hindu",
+  "published": "2026-10-31",
+  "collected": "2026-10-31",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 965,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "DMK president M.K. Stalin urged Chief Minister C. Joseph Vijay to address women's protests over rising prices and law and order concerns, citing increased crime against women and economic hardship.",
+    "facts": [
+      {
+        "claim": "DMK president M.K. Stalin urged Chief Minister C. Joseph Vijay to heed the wake-up call given by the DMK’s women’s wing",
+        "quote": "DMK president M.K. Stalin on Saturday (October 31, 2026) said Chief Minister C. Joseph Vijay should heed the wake-up call given by the DMK’s women’s wing, which organised a demonstration highlighting the deteriorating law and order situation and spiralling prices of essential commodities."
+      },
+      {
+        "claim": "The women have rung the bell",
+        "quote": "The women have rung the bell. The government, which is hunting down its critics and preparing for a show in the byelection, should pay attention to governance,"
+      },
+      {
+        "claim": "The poor in the State were groping in the dark in the wake of an unprecedented rise in the prices of essential commodities",
+        "quote": "He said the poor in the State were groping in the dark in the wake of an unprecedented rise in the prices of essential commodities."
+      },
+      {
+        "claim": "Women are angry over the steep hike in electricity bills and the prices of provisions",
+        "quote": "Women are angry over the steep hike in electricity bills and the prices of provisions,"
+      },
+      {
+        "claim": "The law-and-order situation in the State had become a cause for concern and crimes against women were increasing day by day",
+        "quote": "Mr. Stalin said the law-and-order situation in the State had become a cause for concern and crimes against women were increasing day by day."
+      },
+      {
+        "claim": "Women are afraid to send their children out even to play",
+        "quote": "Women are afraid to send their children out even to play,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The women's protest in Tamil Nadu highlights growing economic distress and law and order issues among the state's population, with specific concerns about rising living costs and safety.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "15a2dee54d",
+  "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+  "title": "Kharge moves six charges against CEC Gyanesh Kumar, says 'no personal enmity', BJP accuses Congress of mocking Parliament | LIVE",
+  "outlet": "The Hindu",
+  "published": "2026-10-31",
+  "collected": "2026-10-31",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "Gyanesh Kumar",
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-10-31",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Congress-led INDIA bloc publicly impeached Chief Election Commissioner Gyanesh Kumar over alleged voter list tampering and election interference, claiming the CEC deleted 13.2 crore voters and conspired with Modi and Shah.",
+    "facts": [
+      {
+        "claim": "the CEC deleted 13.2 crore voters",
+        "quote": "deleted 13.2 crore voters"
+      },
+      {
+        "claim": "the CEC conspired with Modi and Shah",
+        "quote": "acted at the behest of Narendra Modi and Amit Shah"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress-led INDIA bloc initiated symbolic impeachment of CEC over alleged voter list tampering and election interference, claiming the CEC deleted 13.2 crore voters and conspired with Modi and Shah.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "0677576865",
+  "url": "https://www.hindustantimes.com/india-news/not-over-until-we-say-its-over-abhijeet-dipke-message-ahead-of-cjp-anti-sir-protest-in-kochi-today-101794025998791.html",
+  "title": "‘Not over until we say it’s over’: Abhijeet Dipke’s message ahead of CJP’s anti-SIR protest in Kochi today",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-07",
+  "collected": "2026-11-07",
+  "suggested_movement": "anti-sir-2026",
+  "score": 4.0,
+  "matched": [
+    "Special Intensive Revision",
+    "=SIR",
+    "electoral roll",
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3687,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "The Cockroach Janta Party (CJP) will hold a protest in Kochi on November 7 demanding cancellation of the Special Intensive Revision (SIR) of electoral rolls, with leader Abhijeet Dipke stating 'it is not over until we say it is over'.",
+    "facts": [
+      {
+        "claim": "CJP will hold a protest against the Special Intensive Revision (SIR) of electoral rolls in Kochi on Saturday (November 7)",
+        "quote": "The CJP will hold a protest against the Special Intensive Revision (SIR) of electoral rolls in Kochi on Saturday (November 7)."
+      },
+      {
+        "claim": "Cockroach Janta Party (CJP) founder Abhijeet Dipke shared a message on his Instagram handle ahead of a protest in Kerala's Kochi on Saturday demanding the cancellation of the Special Intensive Revision (SIR) of electoral rolls, saying that 'it is not over until we say it is over'",
+        "quote": "Cockroach Janta Party (CJP) founder Abhijeet Dipke shared a message on his Instagram handle ahead of a protest in Kerala's Kochi on Saturday demanding the cancellation of the Special Intensive Revision (SIR) of electoral rolls, saying that 'it is not over until we say it is over'"
+      },
+      {
+        "claim": "The event titled 'Jantar Mantar at Kochi' is expected to draw participants, particularly youngsters, from across Keralam",
+        "quote": "The event titled ‘Jantar Mantar at Kochi’ is expected to draw participants, particularly youngsters, from across Keralam, CJP members in Kochi told news agency PTI."
+      },
+      {
+        "claim": "CJP leaders Saurav Das and Ashutosh Ranka were arrested for entering Jantar Mantar in New Delhi, which had been denotified as a protest site",
+        "quote": "It comes just weeks after CJP leaders Saurav Das and Ashutosh Ranka were arrested for entering Jantar Mantar in New Delhi, which had been denotified as a protest site."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The CJP and Opposition demand the resignation of chief election commissioner (CEC) Gyanesh Kumar over alleged irregularities in the SIR of electoral rolls, despite police crackdowns and previous arrests of CJP leaders.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/4",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Cockroach Janta Party (CJP) founder Abhijeet Dipke shared a message on his Insta”",
+        "name “The Cockroach Janta Party” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

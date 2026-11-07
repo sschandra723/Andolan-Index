@@ -1,0 +1,50 @@
+{
+  "id": "ca9738226d",
+  "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
+  "title": "The Siang dam and a threatened homeland",
+  "outlet": "The Hindu",
+  "published": "2026-11-07",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 826,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The State police have set up barricades near Parong village in Arunachal Pradesh to prevent access to the Siang river, which is part of a proposed hydroelectric project. Police claim the area is under threat of unrest and unauthorized access.",
+    "facts": [
+      {
+        "claim": "The State police have set up barricades near Parong village in Arunachal Pradesh to prevent access to the Siang river",
+        "quote": "At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades."
+      },
+      {
+        "claim": "Police claim the area is under threat of unrest and unauthorized access",
+        "quote": "The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Siang river is part of a proposed hydroelectric project in Arunachal Pradesh, which has raised concerns about environmental and security impacts.",
+    "confidence": 0.85,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

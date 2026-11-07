@@ -1,0 +1,58 @@
+{
+  "id": "bfc9d0451a",
+  "url": "https://www.hindustantimes.com/india-news/cjp-protest-live-updates-cockroach-janta-party-kerala-kochi-march-sir-cec-gyanesh-kumar-eci-abhijeet-dipke-prakash-raj-101794012149826.html",
+  "title": "CJP protest LIVE: Anti-SIR stir begins in Kochi, Abhijeet Dipke shares picture",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-07",
+  "collected": "2026-11-07",
+  "suggested_movement": "anti-sir-2026",
+  "score": 5.0,
+  "matched": [
+    "=SIR",
+    "Gyanesh Kumar",
+    "chief election commissioner",
+    "=CJP",
+    "Election Commission"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "The Cockroach Janta Party (CJP) began an anti-SIR protest in Kochi, demanding the withdrawal of the Special Intensive Revision of electoral rolls, with founder Abhijeet Dipke stating the fight against Chief Election Commissioner Gyanesh Kumar would continue until India gets an independent and impartial election system.",
+    "facts": [
+      {
+        "claim": "CJP began an anti-SIR protest in Kochi",
+        "quote": "CJP protest live updates: The Cockroach Janta Party (CJP) is holding a protest in Kerala's Kochi today, demanding the withdrawal of the Special Intensive Revision (SIR) of electoral rolls."
+      },
+      {
+        "claim": "Dipke stated the fight against Chief Election Commissioner Gyanesh Kumar would continue until India gets an independent and impartial election system",
+        "quote": "It is a people's protest, and I am here on the invitation of the organisers and on the invitation of Prakash Raj. As I said earlier, the fight against Gyanesh Kumar will continue until we get an independent and impartial election system in India,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": true
+    },
+    "background_note": "The CJP's protest in Kochi marks their first major demonstration after leaders were arrested in Delhi during a previous anti-SIR protest.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "1 outlet in the last 48 hours; new city reported."
+  }
+}

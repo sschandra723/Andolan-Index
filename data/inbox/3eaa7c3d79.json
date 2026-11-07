@@ -1,0 +1,70 @@
+{
+  "id": "3eaa7c3d79",
+  "url": "https://www.thehindu.com/news/national/kerala/suspension-row-at-sanskrit-varsity-prakash-raj-says-protesting-students-are-not-savarkars-to-tender-apology/article71677687.ece",
+  "title": "Sanskrit varsity suspension row: Prakash Raj says protesting students ‘are not Savarkars’ to tender apology",
+  "outlet": "The Hindu",
+  "published": "2026-11-07",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2017,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Actor Prakash Raj criticized university authorities and the Higher Education Minister for a 'dictatorial attitude' towards student protests at Sree Sankaracharya University of Sanskrit, emphasizing that students are not violent but follow Gandhi and Ambedkar's teachings.",
+    "facts": [
+      {
+        "claim": "Actor Prakash Raj said the youth of the country are not Savarkars to write sorry petitions for raising questions and protesting for their rights.",
+        "quote": "Actor and activist Prakash Raj said here on Saturday (November 7, 2026) that \"the youth of the country are not Savarkars to write sorry petitions for raising questions and protesting for their rights.\""
+      },
+      {
+        "claim": "This generation protests with the strength of what Gandhi has taught them.",
+        "quote": "\"This generation is not violent like your Godse. This generation protests with the strength of what Gandhi has taught them.\""
+      },
+      {
+        "claim": "The actor expressed solidarity with the relay fast organised by the suspended activists of the Students Federation of India (SFI) at the Sree Sankaracharya University of Sanskrit (SSUS) at Kalady.",
+        "quote": "he said after expressing solidarity with the relay fast organised by the suspended activists of the Students Federation of India (SFI) at the Sree Sankaracharya University of Sanskrit (SSUS) at Kalady."
+      },
+      {
+        "claim": "Sixteen students were suspended in connection with the protests held at the campus on August 13, 2026 while the first meeting of the re-constituted Syndicate was underway.",
+        "quote": "Sixteen students were suspended in connection with the protests held at the campus on August 13, 2026 while the first meeting of the re-constituted Syndicate was underway."
+      },
+      {
+        "claim": "The actor alleged that the university authorities and the Minister for Higher Education Roji M. John were showing \"a dictatorial attitude\" towards the protest.",
+        "quote": "The actor alleged that the university authorities and the Minister for Higher Education Roji M. John were showing \"a dictatorial attitude\" towards the protest."
+      },
+      {
+        "claim": "The actor asked the authorities to show the evidence related to the allegations that the suspended students had physically assaulted Vice-Chancellor Ciza Thomas during their protest on August 13.",
+        "quote": "He asked the authorities to show the evidence related to the allegations that the suspended students had physically assaulted Vice-Chancellor Ciza Thomas during their protest on August 13."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students from the Students Federation of India (SFI) were suspended by the university's Syndicate after protests on August 13, 2026, leading to actor Prakash Raj's criticism of the university and higher education minister for their handling of the situation.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “\"This generation is not violent like your Godse. This generation protests with t”",
+        "name “Actor Prakash Raj” in the summary does not appear in the article",
+        "name “Higher Education Minister” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

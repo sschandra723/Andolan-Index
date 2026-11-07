@@ -1,0 +1,67 @@
+{
+  "id": "ab659b85b3",
+  "url": "https://www.hindustantimes.com/india-news/sc-seeks-kerala-congress-response-to-contempt-plea-over-objectionable-post-against-cji-kant-101793967785600.html",
+  "title": "‘No one above Constitution’: SC seeks Keralam Cong’s reply on post against CJI",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-06",
+  "collected": "2026-11-07",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "Gyanesh Kumar",
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2608,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "Supreme Court directs Kerala Congress to respond to petition seeking contempt over post targeting CJI's resignation, amid opposition protests against SIR.",
+    "facts": [
+      {
+        "claim": "The Supreme Court directed the Kerala Pradesh Congress Committee (KPCC) office bearers to respond to a petition seeking contempt of court action against them for publishing an objectionable post against Chief Justice of India (CJI) Surya Kant.",
+        "quote": "The Supreme Court on Friday directed the Kerala Pradesh Congress Committee (KPCC) office bearers to respond to a petition seeking contempt of court action against them for publishing an objectionable post against Chief Justice of India (CJI) Surya Kant."
+      },
+      {
+        "claim": "The post targeted the CJI and sought his resignation, and it appeared in the backdrop of the Opposition parties’ protest seeking removal of Chief Election Commissioner and challenge to the special intensive revision (SIR).",
+        "quote": "The post targeted the CJI and sought his resignation, and it appeared in the backdrop of the Opposition parties’ protest seeking removal of Chief Election Commissioner and challenge to the special intensive revision (SIR)."
+      },
+      {
+        "claim": "Leader of Opposition in the Lok Sabha Rahul Gandhi had even sought a meeting with the CJI that was refused.",
+        "quote": "Leader of Opposition in the Lok Sabha Rahul Gandhi had even sought a meeting with the CJI that was refused."
+      },
+      {
+        "claim": "The KPCC appeared through its lawyer and informed the bench that the post was made by a person in the media wing and was done without the approval of KPCC president Sunny Joseph.",
+        "quote": "The KPCC appeared through its lawyer and informed the bench that the post was made by a person in the media wing and was done without the approval of KPCC president Sunny Joseph."
+      },
+      {
+        "claim": "Jindal said that the post was viewed by more than 10 million people, causing widespread damage to the reputation and authority of the judiciary.",
+        "quote": "Jindal said that the post was viewed by more than 10 million people, causing widespread damage to the reputation and authority of the judiciary."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court's action follows opposition protests against the Special Intensive Revision (SIR) voter list recheck, which has been a key issue for the BLO protests in Kerala.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": [
+        "name “Kerala Congress” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

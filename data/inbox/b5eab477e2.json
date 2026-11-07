@@ -1,0 +1,56 @@
+{
+  "id": "b5eab477e2",
+  "url": "https://scroll.in/latest/1096892/political-activities-like-sit-ins-hunger-strikes-have-no-place-in-democracy-kerala-hc",
+  "title": "‘Political activities like sit-ins, hunger strikes have no place in democracy’: Kerala HC",
+  "outlet": "Scroll.in",
+  "published": "2026-11-05",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "hunger strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2778,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Kerala High Court ruled that political activities like sit-ins and hunger strikes have no place in constitutional democracy, particularly in academic institutions, stating educational institutions should not be used for politics.",
+    "facts": [
+      {
+        "claim": "Kerala High Court ruled that political activities like sit-ins and hunger strikes have no place in constitutional democracy",
+        "quote": "The Kerala High Court has said that “political activities” such as dharnas, or sit-ins, hunger strikes and satyagraha, or peaceful protests, have “no place in a constitutional democracy”, particularly in academic institutes"
+      },
+      {
+        "claim": "The court stated educational institutions should not be used for politics",
+        "quote": "Educational institutions are meant for imparting education and not politics,\" The Indian Express quoted the bench as saying."
+      },
+      {
+        "claim": "Students were suspended for protesting and holding a street play that allegedly insulted the Vice Chancellor",
+        "quote": "The students, members of the Communist Party of India (Marxist)’s student wing, were suspended after they protested for better infrastructure and academic facilities, and held a street play that allegedly insulted Vice Chancellor Ciza Thomas in August."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala High Court ruled that political activities like sit-ins and hunger strikes have no place in constitutional democracy, particularly in academic institutions, stating educational institutions should not be used for politics.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "12cf3ed73d",
+  "url": "https://www.hindustantimes.com/india-news/two-deer-killed-by-suspected-poachers-in-rajasthans-barmer-villagers-stage-protest-101794040321617.html",
+  "title": "Two deer killed by suspected poachers in Rajasthan's Barmer; villagers stage protest",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-07",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1808,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Villagers in Rajasthan's Barmer district staged a sit-in protest demanding the arrest of suspected poachers who allegedly killed two deer and tied one carcass before hanging it upside down.",
+    "facts": [
+      {
+        "claim": "Two deer killed by suspected poachers in Rajasthan's Barmer",
+        "quote": "Two deer were allegedly killed by poachers in Rajasthan's Barmer district, triggering protests by villagers demanding the immediate arrest of those responsible, officials said."
+      },
+      {
+        "claim": "Villagers staged sit-in protest",
+        "quote": "Following the incident, villagers gathered and began a sit-in protest, demanding the arrest of the accused and stronger measures to protect wildlife."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

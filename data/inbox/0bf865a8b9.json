@@ -1,0 +1,74 @@
+{
+  "id": "0bf865a8b9",
+  "url": "https://www.hindustantimes.com/india-news/four-siang-dam-protesters-released-in-arunachal-after-nearly-month-in-detention-101794040336392.html",
+  "title": "Four Siang dam protesters released in Arunachal after nearly month in detention",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-07",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3222,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Four protesters detained over the Siang dam project were released after nearly a month, following the Siang Indigenous Farmers' Forum's demands for their freedom and other concessions.",
+    "facts": [
+      {
+        "claim": "Four protesters detained over the proposed 11,200-MW Siang Upper Multipurpose Project in Arunachal Pradesh were released from Jully Central Jail near Itanagar on Saturday, nearly a month after their arrest",
+        "quote": "Itanagar, Four protesters detained over the proposed 11,200-MW Siang Upper Multipurpose Project in Arunachal Pradesh were released from Jully Central Jail near Itanagar on Saturday, nearly a month after their arrest, officials said."
+      },
+      {
+        "claim": "The four, identified as Adum Tayom, Omak Paron, Okut Paloh and Oson Paron, were detained on October 9 under the Arunachal Pradesh Unlawful Activities Act, 2014",
+        "quote": "The four, identified as Adum Tayom, Omak Paron, Okut Paloh and Oson Paron, were detained on October 9 under the Arunachal Pradesh Unlawful Activities Act, 2014, they added."
+      },
+      {
+        "claim": "Their release came a day after the state government agreed to free them as a goodwill gesture while responding to demands raised by the Siang Indigenous Farmers' Forum",
+        "quote": "Their release came a day after the state government agreed to free them as a goodwill gesture while responding to demands raised by the Siang Indigenous Farmers' Forum , which has been leading the protest against the proposed mega dam."
+      },
+      {
+        "claim": "The development marks a significant step towards easing tensions in the Siang Valley, where opposition to the project has triggered protests and confrontations in recent months",
+        "quote": "The development marks a significant step towards easing tensions in the Siang Valley, where opposition to the project has triggered protests and confrontations in recent months."
+      },
+      {
+        "claim": "The government, however, maintained that the withdrawal of FIRs against protesters would have to follow due legal process",
+        "quote": "The government, however, maintained that the withdrawal of FIRs against protesters would have to follow due legal process."
+      },
+      {
+        "claim": "The government has urged SIFF to resume dialogue and communicate a convenient date, along with a list of delegates, for a proposed meeting with Chief Minister Pema Khandu",
+        "quote": "The government has urged SIFF to resume dialogue and communicate a convenient date, along with a list of delegates, for a proposed meeting with Chief Minister Pema Khandu."
+      },
+      {
+        "claim": "The release of the four protesters was among SIFF's key demands before agreeing to participate in talks with the government",
+        "quote": "The release of the four protesters was among SIFF's key demands before agreeing to participate in talks with the government."
+      },
+      {
+        "claim": "The forum had earlier rejected Khandu's invitation for dialogue, insisting that its demands, including the release of detainees and withdrawal of security forces, be addressed first",
+        "quote": "The forum had earlier rejected Khandu's invitation for dialogue, insisting that its demands, including the release of detainees and withdrawal of security forces, be addressed first."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Siang Indigenous Farmers' Forum has been leading protests against the proposed Siang Upper Multipurpose Project, which faces opposition from the Adi community over displacement and environmental concerns.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

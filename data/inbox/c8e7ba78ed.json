@@ -1,0 +1,72 @@
+{
+  "id": "c8e7ba78ed",
+  "url": "https://scroll.in/article/1096841/a-month-since-tumult-at-kolkatas-film-institute-students-firm-on-protesting-till-vc-goes",
+  "title": "A month since tumult at Kolkata’s film institute, students firm on protesting till VC goes",
+  "outlet": "Scroll.in",
+  "published": "2026-11-04",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Students at Kolkata's Satyajit Ray Film Institute protest for VC Santosh Ajmera's resignation after clashes with RSS-affiliated groups over campus events, with police presence disputed between 4-50 personnel.",
+    "facts": [
+      {
+        "claim": "Students held a march across campus on October 27",
+        "quote": "On October 27, students of the Satyajit Ray Film and Television Institute in Kolkata held a march across campus to mark a month of their agitation against the vice-chancellor, Santosh Ajmera."
+      },
+      {
+        "claim": "Administration claims 4-5 police personnel on campus since October 27",
+        "quote": "Members of the administration put the number of police personnel in the campus since October 27 at \"four or five\"."
+      },
+      {
+        "claim": "Students claim 50 police personnel on campus",
+        "quote": "But some students put it at around 50."
+      },
+      {
+        "claim": "Students demand VC resignation and withdrawal of rustication orders for six students",
+        "quote": "They want Ajmera to resign and rustication orders against six students to be withdrawn."
+      },
+      {
+        "claim": "Students say violence occurred on September 27 during RSS event",
+        "quote": "They want accountability to be fixed for violence that occurred on campus on September 27, when protests greeted an event organised by a group affiliated to the Rashtriya Swayamsevak Sangh that was allowed to be held in an auditorium."
+      },
+      {
+        "claim": "Students claim 30 students and 2 faculty injured",
+        "quote": "Reports suggested that around 30 students and two faculty members were injured."
+      },
+      {
+        "claim": "Students gheraoed VC for 5 hours on October 4",
+        "quote": "On October 4, there was more violence. Members of a Hindtuva group called Bangiya Hindu Jagaran Mancha went to the institute and threw bricks, stones and bottles at the students from outside the main gate. The group claimed that the students had insulted spiritual leader Swami Vivekananda, and also Bharat Mata. That evening, students gheraoed Ajmera in his office, refusing to let him out for around five hours."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students at Kolkata's Satyajit Ray Film Institute have been protesting for over a month against the VC, following clashes with RSS-affiliated groups over campus events, with police presence disputed between 4-50 personnel.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": [
+        "name “Satyajit Ray Film Institute” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ddfa9e44c3",
+  "url": "https://scroll.in/latest/1096855/jantar-mantar-should-never-have-been-designated-as-protest-site-delhi-police-tells-sc",
+  "title": "Jantar Mantar should never have been designated as protest site, Delhi Police tells SC",
+  "outlet": "Scroll.in",
+  "published": "2026-11-03",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Jantar Mantar"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3051,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "neet-jantar-mantar-2026",
+    "new_movement": null,
+    "summary": "Delhi Police stated Jantar Mantar should never have been a protest site due to limited capacity and proximity to government institutions and embassies, as it can only hold 1,500 people.",
+    "facts": [
+      {
+        "claim": "Jantar Mantar should never have been designated as a venue for protests",
+        "quote": "It should never have been designated as a venue for protests, said Delhi Commissioner of Police Anurag Kumar in response to a petition challenging the de-notification of Jantar Mantar as a protest site."
+      },
+      {
+        "claim": "Jantar Mantar can only accommodate 1,500 persons",
+        "quote": "They also said that Jantar Mantar can only accommodate 1,500 persons and the protest by the Cockroach Janta Party in July far exceeded that capacity."
+      },
+      {
+        "claim": "78 embassies and diplomatic missions and 99 Union government offices",
+        "quote": "The police pointed out that 78 embassies and diplomatic missions and 99 Union government offices, with a combined daily footfall of more than 1.4 lakh, are located within a three to four km radius of the site"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Police removed Jantar Mantar from protest sites list due to limited capacity and proximity to government institutions, after protests by Cockroach Janta Party and others demanded Chief Election Commissioner's resignation.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

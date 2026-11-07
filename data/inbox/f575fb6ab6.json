@@ -1,0 +1,64 @@
+{
+  "id": "f575fb6ab6",
+  "url": "https://scroll.in/latest/1096922/jharkhand-hc-quashes-government-decision-to-cancel-graduate-level-recruitment-exam",
+  "title": "Jharkhand HC quashes government decision to cancel graduate-level recruitment exam",
+  "outlet": "Scroll.in",
+  "published": "2026-11-06",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Jharkhand"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2407,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "jharkhand-exam-protests-2026",
+    "new_movement": null,
+    "summary": "The Jharkhand High Court overturned the state government's decision to cancel 22 exams, including the Jharkhand Staff Selection Commission Combined Graduate Level exam, after students protested alleged irregularities in government job recruitment.",
+    "facts": [
+      {
+        "claim": "The Jharkhand High Court quashed the state government’s decision to cancel the Jharkhand Staff Selection Commission Combined Graduate Level examination",
+        "quote": "The Jharkhand High Court on Friday quashed the state government’s decision to cancel the Jharkhand Staff Selection Commission Combined Graduate Level examination, The Hindu reported."
+      },
+      {
+        "claim": "The court ordered the reinstatement of candidates selected through the examination",
+        "quote": "Justice Deepak Roshan also ordered the reinstatement of candidates selected through the examination, directing that their service be treated as continuous without interruption."
+      },
+      {
+        "claim": "The state government had issued a notification cancelling 22 exams including the Jharkhand Staff Selection Commission Combined Graduate Level examination",
+        "quote": "On August 18, the state government had issued a notification cancelling 22 exams including the 11th to 13th Jharkhand Public Service Commission, Child Development Programme Officer, and the Jharkhand Staff Selection Commission Combined Graduate Level examination."
+      },
+      {
+        "claim": "The decision followed weeks of student protests against alleged irregularities in the conduct of competitive examinations for government jobs",
+        "quote": "The decision followed weeks of student protests against alleged irregularities in the conduct of competitive examinations for government jobs."
+      },
+      {
+        "claim": "The court said the state government had failed to provide concrete evidence that the entire selection process was affected by systematic irregularities",
+        "quote": "The court also said the state government had failed to provide concrete evidence that the entire selection process was affected by systematic irregularities."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Jharkhand High Court overturned the state government's decision to cancel 22 exams, including the Jharkhand Staff Selection Commission Combined Graduate Level exam, after students protested alleged irregularities in government job recruitment.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

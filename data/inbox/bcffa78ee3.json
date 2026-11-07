@@ -1,0 +1,64 @@
+{
+  "id": "bcffa78ee3",
+  "url": "https://scroll.in/latest/1096915/gauhati-hc-quashes-nsa-detention-of-activist-pranab-doley",
+  "title": "Gauhati HC quashes NSA detention of activist Pranab Doley",
+  "outlet": "Scroll.in",
+  "published": "2026-11-06",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "National Security Act"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1908,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A Gauhati High Court quashed the detention of activist Pranab Doley under the National Security Act after he participated in a protest against a hotel project near Kaziranga National Park. Police alleged he trespassed with weapons at the site, but a sessions court granted bail on July 29, and the state detained him under the Act citing suspicious foreign transactions.",
+    "facts": [
+      {
+        "claim": "A division bench of the Gauhati High Court on Friday quashed the detention of activist Pranab Doley under the National Security Act in Assam",
+        "quote": "A division bench of the Gauhati High Court on Friday quashed the detention of activist Pranab Doley under the National Security Act in Assam"
+      },
+      {
+        "claim": "Doley was arrested on July 12, days after he took part in a protest against a hotel project at Ingle Pathar, a village adjoining the Kaziranga National Park in Assam",
+        "quote": "Doley was arrested on July 12, days after he took part in a protest against a hotel project at Ingle Pathar, a village adjoining the Kaziranga National Park in Assam"
+      },
+      {
+        "claim": "The police had alleged that he “unlawfully trespassed into the site of the Tea Tribes Museum and thereafter trespassed into the nearby ATDC [Assam Tourism Development Corporation] Hyatt project at Ingle Pathar with deadly weapons” during the protest",
+        "quote": "The police had alleged that he “unlawfully trespassed into the site of the Tea Tribes Museum and thereafter trespassed into the nearby ATDC [Assam Tourism Development Corporation] Hyatt project at Ingle Pathar with deadly weapons” during the protest"
+      },
+      {
+        "claim": "On July 29, a sessions court in Golaghat granted bail to Doley, stating that the investigating officer had already recorded the statements of key witnesses and that there was no possibility of the accused concealing or tampering with the evidence",
+        "quote": "On July 29, a sessions court in Golaghat granted bail to Doley, stating that the investigating officer had already recorded the statements of key witnesses and that there was no possibility of the accused concealing or tampering with the evidence"
+      },
+      {
+        "claim": "A day later, the Bharatiya Janata Party government in the state detained Doley under the National Security Act, alleging that he had carried out “suspicious foreign transactions from doubtful sources” in violation of the Foreign Contribution Regulation Act",
+        "quote": "A day later, the Bharatiya Janata Party government in the state detained Doley under the National Security Act, alleging that he had carried out “suspicious foreign transactions from doubtful sources” in violation of the Foreign Contribution Regulation Act"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The court quashed the detention of activist Pranab Doley under the National Security Act after he participated in a protest against a hotel project near Kaziranga National Park in Assam.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

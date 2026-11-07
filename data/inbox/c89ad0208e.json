@@ -1,0 +1,54 @@
+{
+  "id": "c89ad0208e",
+  "url": "https://scroll.in/latest/1096838/delhi-acp-who-led-protest-outside-police-headquarters-suspended",
+  "title": "Delhi ACP who led protest outside police headquarters suspended",
+  "outlet": "Scroll.in",
+  "published": "2026-11-03",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1999,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Delhi police officer Manasvi Vashishtha was suspended for allegedly threatening lawyers during a scuffle at Shahdara police station in October, leading to a protest by 150 police personnel demanding his reinstatement and action against lawyers.",
+    "facts": [
+      {
+        "claim": "Delhi police officer Manasvi Vashishtha was suspended for allegedly threatening lawyers during a scuffle at Shahdara police station in October",
+        "quote": "An assistant commissioner of police in Delhi was suspended on Tuesday allegedly for leading a protest against his and another officer’s transfer after an alleged face-off between police personnel and lawyers in October"
+      },
+      {
+        "claim": "150 police personnel staged a protest outside Delhi Police headquarters",
+        "quote": "On Monday, about 150 police personnel staged a protest outside the Delhi Police headquarters against the transfers."
+      },
+      {
+        "claim": "Vashishtha was transferred from sub-divisional police officer of Gandhi Nagar to special police unit for women and children",
+        "quote": "While Vashishtha was transferred from the post of sub-divisional police officer of Gandhi Nagar to the special police unit for women and children"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A protest by Delhi police personnel over alleged misconduct of two officers led to their transfer and a subsequent strike by lawyers demanding action against the officers.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

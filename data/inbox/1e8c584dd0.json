@@ -1,0 +1,59 @@
+{
+  "id": "1e8c584dd0",
+  "url": "https://scroll.in/latest/1096866/mp-six-bhopal-schools-declare-holiday-ahead-of-bjps-save-democracy-march-against-cec-protests",
+  "title": "MP: Six Bhopal schools declare holiday ahead of BJP march against CEC protests",
+  "outlet": "Scroll.in",
+  "published": "2026-11-04",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1676,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Six Bhopal schools closed due to expected traffic disruptions from a BJP-organised 'save democracy, remove anarchy' march ahead of opposition protests demanding CEC resignation over electoral roll revision concerns.",
+    "facts": [
+      {
+        "claim": "Six Bhopal schools closed",
+        "quote": "At least six schools in Bhopal were closed on Wednesday because of the traffic disruptions expected during a \"save democracy, remove anarchy\" march organised by the Bharatiya Janata Party"
+      },
+      {
+        "claim": "March organised by BJP",
+        "quote": "a \"save democracy, remove anarchy\" march organised by the Bharatiya Janata Party"
+      },
+      {
+        "claim": "Opposition protests since October demanding CEC resignation",
+        "quote": "The rally in the capital of the BJP-ruled state was organised in response to Opposition protests since October 2025 demanding the resignation of Chief Election Commissioner Gyanesh Kumar over concerns about the Election Commission’s functioning and alleged irregularities in the revision of electoral rolls."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "BJP organised march in Bhopal ahead of opposition protests demanding CEC resignation over electoral roll revision concerns.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The rally in the capital of the BJP-ruled state was organised in response to Opp”",
+        "name “Six Bhopal” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

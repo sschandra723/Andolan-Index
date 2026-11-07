@@ -1,0 +1,66 @@
+{
+  "id": "fe9c398ef6",
+  "url": "https://www.hindustantimes.com/india-news/constitution-supreme-sc-invokes-iron-hand-treatment-over-kerala-congress-s-remarks-against-cji-surya-kant-101793953751339.html",
+  "title": "‘Constitution supreme’: SC issues contempt notice to Kerala Congress over post against CJI Surya Kant",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-06",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3745,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court issued a contempt notice to Kerala Pradesh Congress Committee (KPCC) office bearers for a post targeting CJI Surya Kant over remarks during October protests related to Delhi Police excesses in Cockroach Janta Party (CJP) protests.",
+    "facts": [
+      {
+        "claim": "The Supreme Court issued a contempt notice to office bearers of the Kerala Pradesh Congress Committee (KPCC) regarding a post targeting Chief Justice of India Surya Kant",
+        "quote": "The Supreme Court of India on Friday issued a contempt notice to office bearers of the Kerala Pradesh Congress Committee (KPCC) regarding a post targeting Chief Justice of India Surya Kant last month."
+      },
+      {
+        "claim": "The matter was heard by a bench of Justices Aravind Kumar and Vipul M Pancholi",
+        "quote": "The matter was heard by a bench of Justices Aravind Kumar and Vipul M Pancholi."
+      },
+      {
+        "claim": "The court stated that the Constitution is supreme and no political organisation or institution is above it",
+        "quote": "The Constitution is supreme. No individual, no institution or political organisation stands above it. The independence of the judiciary is not a matter of political convenience. It is a constitutional guarantee owed to the Republic, to the people of this Republic,"
+      },
+      {
+        "claim": "The court noted that any attempt to undermine the authority of the court is required to be dealt with an iron hand",
+        "quote": "The top court also noted that any attempt to \"undermine the authority of the court is required to be dealt with an iron hand.\""
+      },
+      {
+        "claim": "The court appointed a senior advocate as amicus curiae to examine criminal or civil contempt",
+        "quote": "The top court added it has appointed a senior advocate as amicus curiae in the matter to examine whether criminal or civil contempt would apply in the matter"
+      },
+      {
+        "claim": "The post was made by KPCC targeting CJI Surya Kant over remarks during October protests related to Delhi Police excesses in Cockroach Janta Party (CJP) protests",
+        "quote": "The Supreme Court's order comes after a post by the KPCC targeting CJI Surya Kant over a remark made during a hearing by the top court on a bunch of petitions seeking a probe into excesses by the Delhi Police during the Cockroach Janta Party (CJP) protests in the capital city."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court issued a contempt notice to KPCC office bearers for a post targeting CJI Surya Kant over remarks during October protests related to Delhi Police excesses in Cockroach Janta Party (CJP) protests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

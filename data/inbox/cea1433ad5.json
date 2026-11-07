@@ -1,0 +1,62 @@
+{
+  "id": "cea1433ad5",
+  "url": "https://www.hindustantimes.com/india-news/arunachal-govt-releases-4-siang-dam-protesters-seeks-fresh-dialogue-101794045686662.html",
+  "title": "Arunachal govt releases 4 Siang dam protesters, seeks fresh dialogue",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-07",
+  "collected": "2026-11-07",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4020,
+    "fetch_note": null,
+    "drafted": "2026-11-07",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Arunachal Pradesh government released four protesters detained under the Unlawful Activities (Prevention) Act following agitation against the proposed Siang Upper Multipurpose Project, seeking dialogue with the Siang Indigenous Farmers’ Forum to address concerns over displacement and environmental damage.",
+    "facts": [
+      {
+        "claim": "The Arunachal Pradesh government released four protesters detained under the Arunachal Pradesh Unlawful Activities (Prevention) Act",
+        "quote": "The four protesters — Adum Tayom, Omak Paron, Okut Paloh and Oson Paron — were detained under the Arunachal Pradesh Unlawful Activities (Prevention) Act"
+      },
+      {
+        "claim": "The Arunachal Pradesh government released four protesters detained during the agitation against the proposed 1,000-MW Siang Upper Multipurpose Project (SUMP)",
+        "quote": "The Arunachal Pradesh government on Saturday released four protesters detained during the agitation against the proposed 1,000-MW Siang Upper Multipurpose Project (SUMP)"
+      },
+      {
+        "claim": "The government approved the reinstatement of gaon buras and gaon buris (traditional village authorities) who faced disciplinary action in connection with the agitation",
+        "quote": "The government also approved the reinstatement of gaon buras and gaon buris (traditional village authorities) who faced disciplinary action in connection with the agitation."
+      },
+      {
+        "claim": "The agitation has witnessed repeated shutdowns, confrontations between protesters and security personnel, arrests and incidents of violence in parts of the Siang region",
+        "quote": "The agitation has witnessed repeated shutdowns, confrontations between protesters and security personnel, arrests and incidents of violence in parts of the Siang region."
+      },
+      {
+        "claim": "The proposed SUMP has triggered widespread opposition in the Siang Valley, particularly among sections of the indigenous Adi community, who fear displacement, submergence of ancestral villages, loss of agricultural land and irreversible environmental damage",
+        "quote": "The proposed SUMP has triggered widespread opposition in the Siang Valley, particularly among sections of the indigenous Adi community, who fear displacement, submergence of ancestral villages, loss of agricultural land and irreversible environmental damage."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Siang Indigenous Farmers’ Forum (SIFF) opposes the 1,000-MW Siang Upper Multipurpose Project, citing fears of displacement, environmental damage, and loss of agricultural land for the Adi community.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "manipur-protests-2026",
+  "name": "Manipur protests over killings and ethnic violence",
+  "short_name": "Manipur protests",
+  "aliases": [
+    "Manipur unrest",
+    "Manipur sound protests",
+    "COCOMI rally"
+  ],
+  "keywords": [
+    "Manipur",
+    "Imphal",
+    "COCOMI",
+    "Kangla",
+    "Bishnupur",
+    "Tronglaobi",
+    "Kangpokpi",
+    "Kakching",
+    "Suspension of Operations",
+    "=SoO"
+  ],
+  "cause": "Rights",
+  "states": [
+    "Manipur"
+  ],
+  "places": "Imphal and the valley districts",
+  "locations": [
+    {
+      "name": "Imphal",
+      "lat": 24.817,
+      "lon": 93.9368
+    },
+    {
+      "name": "Bishnupur",
+      "lat": 24.632,
+      "lon": 93.7728
+    }
+  ],
+  "started": "2026-04",
+  "about": "On 25 April 2026 the Coordinating Committee on Manipur Integrity (COCOMI) led thousands towards the Chief Minister's bungalow in Imphal, demanding justice for two children killed in an explosion on 7 April in Tronglaobi, Bishnupur. Security forces fired tear gas, more than 30 protesters were hurt and police arrested six people. On the evening of 23 October thousands held 'sound protests' in all five valley districts; tear gas was fired near Kangla Fort and no injuries were reported.",
+  "demands": "Justice for those killed; an end to killings and ethnic violence; rehabilitation of displaced people; and, in the October protests as reported by Dynamite News, implementation of the National Register of Citizens, identification of illegal immigrants and abrogation of the Suspension of Operations (SoO) agreement with armed groups.",
+  "context": {
+    "question": "What are the protests in Manipur about?",
+    "short": "Manipur has had repeated street protests since an ethnic conflict began in 2023. In 2026 they centre on killings and displacement, and in October on demands such as an NRC and ending the SoO pact.",
+    "explainer": [
+      "Manipur has been in an ethnic conflict between the Meitei and Kuki-Zo communities since May 2023, and many people remain displaced. Civil society groups in the Imphal valley have taken to the streets repeatedly since.",
+      "On 25 April 2026 COCOMI led a march in Greater Imphal to demand justice for two children killed in an explosion on 7 April at Tronglaobi, Bishnupur district, and rehabilitation for displaced people. The Tribune reported that the march began peacefully, security forces then used tear gas, more than 30 protesters were injured (mostly lightly) and police arrested six people the next day.",
+      "On the evening of 23 October, Dynamite News reported, thousands staged 'sound protests' across the five valley districts for about half an hour. It names the Federation of Haomee as organiser. The demands it lists are an end to killings and ethnic violence, implementation of the National Register of Citizens, identification of illegal immigrants and abrogation of the SoO agreement with armed groups. Tear gas was fired near Kangla Fort in Imphal; no injuries were reported."
+    ],
+    "impact": [
+      "Chief Minister Yumnam Khemchand Singh urged civil society groups to resolve issues through dialogue and said unrest was hurting daily-wage earners and students. He said: \"The government alone cannot bring peace.\" (The Tribune)",
+      "None of the reports filed here says the government has accepted the demands for an NRC or for ending the SoO agreement; those are the protesters' demands, not agreed policy."
+    ],
+    "sources": [
+      {
+        "title": "6 held after Manipur protest, Khemchand appeals for dialogue (The Tribune, 26 Apr 2026)",
+        "url": "https://www.tribuneindia.com/news/india/6-held-after-manipur-protest-khemchand-appeals-for-dialogue/"
+      },
+      {
+        "title": "Thousands join sound protest across Manipur valley (Dynamite News, 24 Oct 2026)",
+        "url": "https://www.dynamitenews.com/national/thousands-join-sound-protest-across-manipur-valley-police-fire-tear-gas-near-kangla-fort"
+      }
+    ],
+    "updated": "2026-11-08"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "meghalaya-deficit-teachers-2026",
+  "name": "Meghalaya deficit school and college teachers' agitation",
+  "short_name": "Meghalaya teachers",
+  "aliases": [
+    "Meghalaya deficit teachers",
+    "MCTA KJDSTA agitation"
+  ],
+  "keywords": [
+    "deficit school",
+    "deficit teachers",
+    "Centralised Fund Scheme",
+    "Meghalaya College Teachers Association",
+    "Khasi Jaintia Deficit",
+    "=MCTA",
+    "=KJDSTA"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Meghalaya"
+  ],
+  "places": "Shillong",
+  "locations": [
+    {
+      "name": "Shillong",
+      "lat": 25.5788,
+      "lon": 91.8933
+    }
+  ],
+  "started": "2026-05-06",
+  "about": "The Meghalaya College Teachers Association and the Khasi Jaintia Deficit Teachers' Association, speaking for teachers and non-teaching staff of deficit schools and colleges, reject the Meghalaya Non-Government Schools and Colleges Employees Centralised Fund Scheme, 2026. Talks on 6 May ended without agreement. The report held here does not say when the agitation began; later developments are not yet added.",
+  "demands": "Withdrawal of the Meghalaya Non-Government Schools and Colleges Employees Centralised Fund Scheme, 2026.",
+  "context": {
+    "question": "Why are Meghalaya's deficit teachers protesting?",
+    "short": "Staff of Meghalaya's deficit schools and colleges reject the state's Centralised Fund Scheme 2026. Talks on 6 May ended inconclusively when their representatives walked out.",
+    "explainer": [
+      "Deficit schools and colleges are non-government institutions that receive state grants towards their staff salaries. The Meghalaya College Teachers Association (MCTA) and the Khasi Jaintia Deficit Teachers' Association (KJDSTA) represent their teachers and non-teaching staff, and reject the Meghalaya Non-Government Schools and Colleges Employees Centralised Fund Scheme, 2026, which the state has notified.",
+      "On 6 May 2026 Education Commissioner and Secretary Vijay Mantri chaired a meeting with them. Their representatives walked out and UNI reported the talks as inconclusive. The government said it would hold another round on 19 or 20 May, after objections to how the first meeting was composed."
+    ],
+    "impact": [
+      "The report does not describe what the scheme changes for pay or service conditions. Read the notification itself before relying on either side's description."
+    ],
+    "sources": [
+      {
+        "title": "Meghalaya: dialogue inconclusive, government to hold next round of talks with teachers (UNI, 6 May 2026)",
+        "url": "https://uniindia.com/meghalaya-dialogue-inconclusive-government-to-hold-next-round-of-talks-with-teachers/east/news/3835107.html"
+      }
+    ],
+    "updated": "2026-11-08"
+  }
+}

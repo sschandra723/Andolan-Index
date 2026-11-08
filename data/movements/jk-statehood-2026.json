@@ -1,0 +1,63 @@
+{
+  "id": "jk-statehood-2026",
+  "name": "Jammu and Kashmir statehood restoration protests",
+  "short_name": "J&K statehood",
+  "aliases": [
+    "J&K statehood demand",
+    "Statehood for Jammu and Kashmir"
+  ],
+  "keywords": [
+    "Jammu and Kashmir statehood",
+    "J&K statehood",
+    "statehood for Jammu",
+    "Omar Abdullah",
+    "National Conference",
+    "Tariq Hameed Karra",
+    "Jammu and Kashmir Pradesh Congress"
+  ],
+  "cause": "Autonomy",
+  "states": [
+    "Jammu and Kashmir",
+    "Delhi"
+  ],
+  "places": "Jammu; Jammu and Kashmir House, New Delhi",
+  "locations": [
+    {
+      "name": "Jammu",
+      "lat": 32.7266,
+      "lon": 74.857
+    },
+    {
+      "name": "J&K House, New Delhi",
+      "lat": 28.6139,
+      "lon": 77.209
+    }
+  ],
+  "started": "2026-07-19",
+  "about": "On 19 July 2026 the J&K Pradesh Congress Committee, led by Tariq Hameed Karra, marched in Jammu towards the Lok Bhavan; police stopped it at Jewel Chowk and detained several leaders and workers. On 20 July, the opening day of Parliament's Monsoon session, the National Conference held a protest at Jammu and Kashmir House in Delhi, with Chief Minister Omar Abdullah leading a march.",
+  "demands": "Immediate restoration of full statehood to Jammu and Kashmir, and the Centre keeping the commitments made in Parliament and before the Supreme Court (as stated by the National Conference).",
+  "context": {
+    "question": "Why is Jammu and Kashmir still a union territory?",
+    "short": "J&K lost statehood in 2019, when it was split into two union territories. The elected government and the Congress say the Centre has not kept its promise to restore it, and protested in July 2026.",
+    "explainer": [
+      "In August 2019 Parliament reorganised the state of Jammu and Kashmir into two union territories: Jammu and Kashmir, with a legislature, and Ladakh, without one. Assembly elections were held in 2024 and Omar Abdullah of the National Conference became chief minister. Statehood has not been restored.",
+      "On 19 July 2026 the J&K Pradesh Congress Committee, led by its president Tariq Hameed Karra, gathered at Maharaja Hari Singh Park in Jammu and marched towards the Lok Bhavan to demand full statehood and send a memorandum to the President. Police stopped the march at Jewel Chowk and detained several leaders and workers (News Arena).",
+      "On 20 July the National Conference protested at Jammu and Kashmir House in New Delhi. Deputy Chief Minister Surinder Choudhary said the NC, the Congress and their alliance partners took part, and: \"You promised the people of Jammu and Kashmir that you would restore statehood after the elections.\" Deccan Chronicle carried no response from the Centre."
+    ],
+    "impact": [
+      "The NC leads the elected government in J&K and protested against the Centre, so this is a dispute between an elected union territory government and the Union government over timing of a promised step.",
+      "The reports filed here give the NC's and the Congress's account only. Read the Centre's statements in Parliament and its filings before the Supreme Court before relying on either side's description of the promise."
+    ],
+    "sources": [
+      {
+        "title": "NC takes statehood fight to Delhi, says Centre has failed to deliver (Deccan Chronicle, 20 Jul 2026)",
+        "url": "https://www.deccanchronicle.com/nation/nc-takes-statehood-fight-to-delhi-says-centre-has-failed-to-deliver-1972441"
+      },
+      {
+        "title": "Statehood demand: Congress leaders held during protest in Jammu (News Arena, 19 Jul 2026)",
+        "url": "https://newsarenaindia.com/states/statehood-demand-congress-leaders-held-during-protest-in-jammu/82772"
+      }
+    ],
+    "updated": "2026-11-08"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "tn-thiruparankundram-deepam-2026",
+  "name": "Thiruparankundram deepam protests in Tamil Nadu",
+  "short_name": "Thiruparankundram protests",
+  "aliases": [
+    "Thiruparankundram protests",
+    "Hindu Munnani protests"
+  ],
+  "keywords": [
+    "Thiruparankundram",
+    "Hindu Munnani",
+    "Karthigai Deepam",
+    "Malai Mel"
+  ],
+  "cause": "Other",
+  "states": [
+    "Tamil Nadu"
+  ],
+  "places": "Chennai and districts across Tamil Nadu; Thiruparankundram, Madurai",
+  "locations": [
+    {
+      "name": "Thiruparankundram",
+      "lat": 9.8767,
+      "lon": 78.0714
+    },
+    {
+      "name": "Chennai",
+      "lat": 13.0827,
+      "lon": 80.2707
+    },
+    {
+      "name": "Coimbatore",
+      "lat": 11.0168,
+      "lon": 76.9558
+    }
+  ],
+  "started": "2026-10-04",
+  "about": "Hindu Munnani held a protest in Chennai on 4 October 2026 and demonstrations in many districts on 11 October, demanding that the TVK government implement Madras High Court orders on lighting the Karthigai Deepam at the stone pillar atop Thiruparankundram Hill. The only report filed so far is from Organiser, a Hindu-nationalist weekly, and does not carry the government's response.",
+  "demands": "Implementation of the Madras High Court's orders on lighting the Karthigai Deepam at the stone pillar on Thiruparankundram Hill (Hindu Munnani's demand).",
+  "context": {
+    "question": "What is the Thiruparankundram deepam dispute about?",
+    "short": "Hindu Munnani says the Tamil Nadu government is not obeying Madras High Court orders on lighting the Karthigai Deepam at Thiruparankundram Hill, and protested across the state in October 2026.",
+    "explainer": [
+      "Thiruparankundram is a hill temple near Madurai. Hindu Munnani, a Hindu organisation, held a protest in Chennai on 4 October 2026 and demonstrations in many other districts on 11 October, led by state president C. Kadeswara Subramaniam among others. It wants the TVK government to implement Madras High Court orders on lighting the Karthigai Deepam at the stone pillar atop the hill.",
+      "Organiser reported the group's claims that the government is challenging court verdicts instead of honouring them, and that it does so out of fear of the minority community. These are Hindu Munnani's claims; the report does not give the government's reply.",
+      "Organiser, the source for this entry, is a Hindu-nationalist weekly. The court orders themselves are not summarised here, so read the orders and a second source before relying on either side's account."
+    ],
+    "impact": [
+      "The organisation also criticised seven conditions that the authorities imposed on the Malai Mel festival (as reported by Organiser).",
+      "Organiser reported that police arrested four people whose release Hindu Munnani sought; it does not say whether these arrests were linked to the 11 October protests."
+    ],
+    "sources": [
+      {
+        "title": "Hindu Munnani seeks HC compliance on Thiruparankundram (Organiser, 12 Oct 2026)",
+        "url": "https://organiser.org/2026/10/12/385989/bharat/tamil-nadu-hindu-munnani-protests-across-state-demands-tvk-govt-implement-hc-orders-on-thiruparankundram-deepam/"
+      }
+    ],
+    "updated": "2026-11-08"
+  }
+}

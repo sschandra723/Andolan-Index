@@ -1,0 +1,55 @@
+{
+  "id": "nagaland-mon-killings-2021",
+  "name": "Nagaland protests over the Mon civilian killings and AFSPA",
+  "short_name": "Nagaland Mon killings",
+  "aliases": [
+    "Mon killings",
+    "Oting killings",
+    "Nagaland AFSPA protests"
+  ],
+  "keywords": [
+    "Mon district",
+    "Oting",
+    "=AFSPA",
+    "Armed Forces (Special Powers)"
+  ],
+  "cause": "Rights",
+  "states": [
+    "Nagaland"
+  ],
+  "places": "Kohima; Mon district",
+  "locations": [
+    {
+      "name": "Kohima",
+      "lat": 25.6751,
+      "lon": 94.1086
+    },
+    {
+      "name": "Mon",
+      "lat": 26.7253,
+      "lon": 95.0409
+    }
+  ],
+  "started": "2021-12-04",
+  "about": "Fourteen civilians were killed by security forces in Mon district on 4 and 5 December 2021. On 17 December thousands marched in Kohima, led by the Naga Students' Federation, demanding justice and repeal of the Armed Forces (Special Powers) Act. This is an older movement kept as part of the archive.",
+  "demands": "Justice for the 14 civilians killed; repeal of the Armed Forces (Special Powers) Act (AFSPA); an 'inclusive, honourable and acceptable solution' to the Naga political problem.",
+  "context": {
+    "question": "What happened in Mon, Nagaland, and what do protesters want?",
+    "short": "Security forces killed 14 civilians in Mon district on 4 and 5 December 2021. Thousands marched in Kohima on 17 December demanding justice and the repeal of AFSPA.",
+    "explainer": [
+      "Scroll reported that 14 civilians were killed by security forces in Mon district on 4 and 5 December 2021. Six coal miners were killed on the evening of 4 December when the Army's 21 Para Special Force fired on their van, apparently mistaking them for insurgents. Seven more died after protesters set fire to Army vehicles and were fired on, and at least one more died after clashes at an Assam Rifles camp.",
+      "On 17 December the Naga Students' Federation organised a march in Kohima, joined by the All Assam Students' Union, the North East Students' Organisation, tribal groups and civil society organisations. They gave the governor's house a letter calling for justice for the dead, the scrapping of AFSPA and an 'inclusive, honourable and acceptable solution' to the Naga political problem."
+    ],
+    "impact": [
+      "Scroll noted that families of those killed had refused compensation until the officers involved are punished and AFSPA is repealed.",
+      "The article reports no official response to the 17 December march."
+    ],
+    "sources": [
+      {
+        "title": "Thousands protest in Nagaland against civilian killings, demand repeal of AFSPA (Scroll.in, 18 Dec 2021)",
+        "url": "https://scroll.in/latest/1013101/thousands-protest-in-nagaland-against-civilian-killings-demand-repeal-of-afspa"
+      }
+    ],
+    "updated": "2026-11-08"
+  }
+}

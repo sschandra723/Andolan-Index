@@ -1,0 +1,51 @@
+{
+  "id": "tn-fishermen-arrests-2025",
+  "name": "Rameswaram fishermen's strike over Sri Lankan Navy arrests",
+  "short_name": "Rameswaram fishermen",
+  "aliases": [
+    "Rameswaram fishermen strike",
+    "Katchatheevu arrests"
+  ],
+  "keywords": [
+    "Rameswaram",
+    "Sri Lankan Navy",
+    "Katchatheevu",
+    "Pamban",
+    "Palk Bay",
+    "Tamil Nadu fishermen"
+  ],
+  "cause": "Rights",
+  "states": [
+    "Tamil Nadu"
+  ],
+  "places": "Rameswaram",
+  "locations": [
+    {
+      "name": "Rameswaram",
+      "lat": 9.2876,
+      "lon": 79.3129
+    }
+  ],
+  "started": "2025-02-24",
+  "about": "On 24 February 2025 mechanised boat fishermen in Rameswaram began an indefinite stoppage of fishing until detained fishermen are released. Ada Derana reported that the Sri Lankan Navy had arrested 131 Tamil Nadu fishermen since January 2025 and seized 18 boats, including 32 arrested on 23 February. This entry holds one report from 2025; later events are not yet added.",
+  "demands": "Immediate release of the detained fishermen, and action by the Union government against repeated arrests and for the safety of Tamil Nadu fishermen.",
+  "context": {
+    "question": "Why do Tamil Nadu fishermen keep being arrested?",
+    "short": "Tamil Nadu fishermen from Rameswaram are repeatedly arrested by the Sri Lankan Navy. After 32 arrests on 23 February 2025, over 700 mechanised boat fishermen stopped fishing until detainees are freed.",
+    "explainer": [
+      "Ada Derana, a Sri Lankan outlet, reported on 24 February 2025 that the Sri Lankan Navy had arrested 131 Tamil Nadu fishermen from Rameswaram and other coastal areas since January 2025 and seized 18 of their boats. Thirty-two were arrested on 23 February.",
+      "After a consultative meeting of mechanised boat fishermen's associations, more than 700 mechanised boat fishermen kept their boats docked and decided to suspend fishing until the detained men are released, with no end date. They urged the Union government to act against the repeated arrests and ensure fishermen's safety.",
+      "The report does not say how many fishermen are still held or what the Sri Lankan authorities have charged them with. This entry rests on one report, so it should be read as a snapshot of February 2025."
+    ],
+    "impact": [
+      "Fishing by the striking mechanised boats stopped for the length of the strike; the report does not estimate lost income."
+    ],
+    "sources": [
+      {
+        "title": "Rameswaram fishermen begin indefinite strike over Sri Lankan Navy arrests (Ada Derana, 24 Feb 2025)",
+        "url": "https://adaderana.lk/news/106052/rameswaram-fishermen-begin-indefinite-strike-over-sri-lankan-navy-arrests"
+      }
+    ],
+    "updated": "2026-11-08"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "nagaland-vande-mataram-2026",
+  "name": "Nagaland students' protest over a Vande Mataram directive",
+  "short_name": "Nagaland Vande Mataram row",
+  "aliases": [
+    "NSF Vande Mataram protest",
+    "Vande Mataram row in Nagaland"
+  ],
+  "keywords": [
+    "Vande Mataram",
+    "Naga Students Federation",
+    "Naga Students' Federation",
+    "Nagaland Assembly",
+    "=NSF"
+  ],
+  "cause": "Rights",
+  "states": [
+    "Nagaland"
+  ],
+  "places": "Kohima",
+  "locations": [
+    {
+      "name": "Kohima",
+      "lat": 25.6751,
+      "lon": 94.1086
+    }
+  ],
+  "started": "2026-08-31",
+  "about": "EastMojo headlines of 31 August and 1 September 2026 report the Naga Students' Federation (NSF) marching to, then protesting outside, the Nagaland Assembly over a Vande Mataram directive. Only the headlines have been read: what the directive requires, who issued it and the government's response are not yet recorded here. Other headlines suggest school protests, a student boycott at a convocation and a state government statement that the matter is under examination; none of those has been read or added.",
+  "demands": "Not yet recorded; headlines say the NSF opposes what they call the Vande Mataram 'imposition'.",
+  "context": {
+    "question": "What is the Vande Mataram row in Nagaland?",
+    "short": "The Naga Students' Federation opposes a Vande Mataram directive in Nagaland and protested at the state Assembly on 31 August and 1 September 2026. This entry rests on headlines only.",
+    "explainer": [
+      "EastMojo's headlines of 31 August and 1 September 2026 report the Naga Students' Federation (NSF) marching to, then protesting outside, the Nagaland Assembly over a Vande Mataram directive. The full articles could not be read for this entry, so the directive's content, who issued it and the government's response are not stated here.",
+      "Search results also showed headlines from Eastern Mirror, Morung Express and ThePrint about school protests, a student boycott at a convocation and the state government telling the NSF the matter is under examination. They are leads for an editor to read and add, not facts this archive has confirmed."
+    ],
+    "impact": [
+      "The two reports filed so far do not cover the directive's legal basis or the government's position."
+    ],
+    "sources": [
+      {
+        "title": "Nagaland: NSF to march to Assembly against Vande Mataram imposition (EastMojo, 31 Aug 2026, headline only)",
+        "url": "https://eastmojo.com/nagaland/2026/08/31/nagaland-nsf-to-march-to-assembly-against-vande-mataram-imposition/"
+      },
+      {
+        "title": "NSF protests outside Nagaland Assembly over Vande Mataram (EastMojo, 1 Sep 2026, headline only)",
+        "url": "https://eastmojo.com/nagaland/2026/09/01/nsf-protests-outside-nagaland-assembly-over-vande-mataram/"
+      }
+    ],
+    "updated": "2026-11-08"
+  }
+}

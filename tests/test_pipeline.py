@@ -126,7 +126,7 @@ class TestBuild(Tmp):
         import csv, re
         out = self.dir / "site"
         stats = build.build(out=out, today=TODAY, data=self.data)
-        self.assertEqual(stats, {"movements": 21, "reports": 73, "active": 7})
+        self.assertEqual(stats, {"movements": 28, "reports": 84, "active": 9})
         movements = {m["id"]: m for m in read_json(out / "data" / "movements.json")}
         self.assertEqual(movements["neet-jantar-mantar-2026"]["status"], "ended")
         self.assertEqual(movements["ladakh-statehood"]["status"], "quiet")
@@ -136,7 +136,7 @@ class TestBuild(Tmp):
         blob = re.search(r'<script type="application/json" id="andolan-data">(.*?)</script>', index, re.S).group(1)
         embedded = json.loads(blob)
         self.assertEqual(embedded["today"], "2026-10-25")
-        self.assertEqual(len(embedded["movements"]), 21)
+        self.assertEqual(len(embedded["movements"]), 28)
         self.assertNotIn("keywords", embedded["movements"][0])            # matching terms stay out of the page
         self.assertEqual(len(embedded["map"]["states"]), 36)               # every state and union territory
         self.assertIn("Survey of India", embedded["map"]["source"])
@@ -148,7 +148,7 @@ class TestBuild(Tmp):
         for name in ("assets/app.js", "assets/style.css", "feed.xml", "about.html"):
             self.assertTrue((out / name).exists(), name)
         # permanent movement pages work without JavaScript
-        self.assertEqual(len(list((out / "m").glob("*.html"))), 21)
+        self.assertEqual(len(list((out / "m").glob("*.html"))), 28)
         neet = (out / "m" / "neet-jantar-mantar-2026.html").read_text(encoding="utf-8")
         self.assertIn("Began 21 Jun 2026, ended 25 Jul 2026", neet)  # its own dates, not its latest report
         self.assertIn("(headline only)", neet)
@@ -157,7 +157,7 @@ class TestBuild(Tmp):
         self.assertEqual(sir_page.count("<li><b>"), 18)
         self.assertIn("Background: What is the SIR", sir_page)
         with (out / "data" / "reports.csv").open(encoding="utf-8", newline="") as fh:
-            self.assertEqual(len(list(csv.DictReader(fh))), 73)
+            self.assertEqual(len(list(csv.DictReader(fh))), 84)
         self.assertIn("<entry>", (out / "feed.xml").read_text(encoding="utf-8"))
 
     def test_status_rolls_over_with_the_calendar(self):

@@ -49,7 +49,14 @@ class TestHelpers(unittest.TestCase):
         self.assertNotIn("<", rss[0]["snippet"])
         atom = collect.parse_feed(FEEDS[1][1])
         self.assertEqual(atom[0]["link"], "https://example-atom.test/lucknow-nhm-strike")
-        self.assertEqual(atom[0]["published"], date(2026, 10, 24))   # 06:15 +05:30 is still the 24th in UTC
+        self.assertEqual(atom[0]["published"], date(2026, 10, 24))   # 06:15 +05:30
+
+    def test_publication_dates_are_indian_dates(self):
+        # outlets publish on Indian time; converting to UTC filed anything from midnight to 05:30 IST a day early
+        self.assertEqual(collect.parse_pub_date("Sat, 07 Nov 2026 20:00:00 GMT"), date(2026, 11, 8))   # 01:30 IST
+        self.assertEqual(collect.parse_pub_date("Sun, 08 Nov 2026 01:30:00 +0530"), date(2026, 11, 8))
+        self.assertEqual(collect.parse_pub_date("2026-11-07T18:00:00Z"), date(2026, 11, 7))            # 23:30 IST
+        self.assertEqual(collect.parse_pub_date("2026-11-08"), date(2026, 11, 8))
 
     def test_rejects_entity_bombs(self):
         bomb = b'<?xml version="1.0"?><!DOCTYPE l [<!ENTITY a "aaaa"><!ENTITY b "&a;&a;&a;&a;">]><rss><channel><item><title>&b;</title><link>https://x.test/a</link></item></channel></rss>'
@@ -116,6 +123,45 @@ class TestPipeline(Tmp):
         self.assertEqual(validate.check_dataset(self.data, CHECK_DAY), [])
         (self.data / "movements" / "stub.json").write_text(json.dumps({"id": "stub"}))
         self.assertTrue(any("stub.json" in e for e in validate.check_dataset(self.data, CHECK_DAY)))
+
+    def _candidate(self, cid, url, published):
+        # a real inbox entry, with its id, link and date changed
+        c = json.loads(self.template)
+        c.update({"id": cid, "url": url, "published": published})
+        c.pop("ai", None)
+        (self.data / "inbox" / f"{cid}.json").write_text(json.dumps(c))
+        return c
+
+    def test_published_and_stale_stories_leave_the_waiting_list(self):
+        published_url = load_reports(self.data)[0]["url"]
+        self.template = sorted((self.data / "inbox").glob("*.json"))[0].read_text()
+        for f in (self.data / "inbox").glob("*.json"):
+            f.unlink()
+        self._candidate("aaaaaaaaaa", published_url, "2026-11-07")              # approved in another pull request
+        self._candidate("bbbbbbbbbb", "https://example.test/fresh", "2026-11-07")
+        self._candidate("cccccccccc", "https://example.test/old", "2026-10-01")  # five weeks old
+        self._candidate("dddddddddd", "https://example.test/undated", None)
+        warnings: list[str] = []
+        validate.check_dataset(self.data, CHECK_DAY, warnings=warnings)
+        self.assertTrue(any("aaaaaaaaaa" in w and "already published" in w for w in warnings), warnings)
+        self.assertTrue(any("dddddddddd" in w and "no publication date" in w for w in warnings), warnings)
+        movements = build.assemble(self.data, CHECK_DAY, 21)
+        shown = {w["url"] for w in build.waiting_for_review(self.data, movements, CHECK_DAY)}
+        self.assertIn("https://example.test/fresh", shown)
+        self.assertFalse(shown & {published_url, "https://example.test/old", "https://example.test/undated"}, shown)
+        # the collector tidies the inbox before it collects, so its pull request carries the clean-up
+        collect.collect([], data=self.data, today=CHECK_DAY)
+        self.assertFalse((self.data / "inbox" / "aaaaaaaaaa.json").exists())
+        self.assertTrue((self.data / "inbox" / "bbbbbbbbbb.json").exists())
+
+    def test_ended_movement_with_a_later_report_is_flagged(self):
+        p = self.data / "movements" / "manipur-protests-2026.json"
+        m = read_json(p)
+        m["ended"] = "2026-06-01"
+        p.write_text(json.dumps(m))
+        warnings: list[str] = []
+        self.assertEqual(validate.check_dataset(self.data, CHECK_DAY, warnings=warnings), [])
+        self.assertTrue(any("manipur-protests-2026" in w and "marked ended" in w for w in warnings), warnings)
 
     def test_new_movement_stub_fails_until_filled(self):
         curate.new_movement("test-stub", data=self.data)

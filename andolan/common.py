@@ -5,7 +5,7 @@ import hashlib
 import json
 import os
 import re
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import parse_qsl, urlencode, urlsplit
 
@@ -17,6 +17,16 @@ SCHEMA = ROOT / "schema"
 # A movement with a report in the last ACTIVE_DAYS days is "active"; older is "quiet".
 # "ended" is only ever set by hand (the movement's `ended` date).
 ACTIVE_DAYS = 21
+
+# Dates are Indian dates. India has one time zone and no daylight saving, so a fixed offset is exact. Build machines
+# run on UTC, which is still the previous day in India until 05:30 IST.
+IST = timezone(timedelta(hours=5, minutes=30), "IST")
+
+
+def today_ist() -> date:
+    """Today's date in India."""
+    return datetime.now(IST).date()
+
 
 REPORT_KEYS = ["id", "movement", "date", "outlet", "kind", "url", "archive_url", "summary", "read", "drafted_by", "added"]
 _TRACKING = re.compile(r"^(utm_|fbclid$|gclid$|ref$|ref_src$|igshid$|mc_|cmpid$|ocid$|taid$)", re.I)
@@ -85,6 +95,18 @@ def load_reports(data: Path = DATA) -> list[dict]:
 
 def load_inbox(data: Path = DATA) -> list[dict]:
     return [read_json(p) for p in sorted((data / "inbox").glob("*.json"))]
+
+
+def tidy_inbox(data: Path = DATA) -> list[str]:
+    """Remove inbox stories that are already published as reports, which happens when the collector's pull request is
+    merged after a pull request that approved some of its stories. Returns the ids removed."""
+    published = {normalize_url(r["url"]) for r in load_reports(data)}
+    gone = []
+    for c in load_inbox(data):
+        if normalize_url(c["url"]) in published:
+            (data / "inbox" / f"{c['id']}.json").unlink()
+            gone.append(c["id"])
+    return gone
 
 
 def load_rejected(data: Path = DATA) -> set[str]:

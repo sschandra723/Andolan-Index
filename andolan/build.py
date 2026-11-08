@@ -15,13 +15,13 @@ import html
 import json
 import os
 import shutil
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
 
 from .coverage import coverage
-from .common import (ACTIVE_DAYS, CONFIG, DATA, ROOT, load_inbox, load_movements, load_reports, month_or_day, read_json,
-                     status_for, write_json)
+from .common import (ACTIVE_DAYS, CONFIG, DATA, ROOT, load_inbox, load_movements, load_reports, month_or_day,
+                     normalize_url, read_json, status_for, today_ist, write_json)
 
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 STATUS_ORDER = {"active": 0, "quiet": 1, "ended": 2}
@@ -71,15 +71,25 @@ def embed_json(obj) -> str:
             .replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026"))
 
 
-def waiting_for_review(data: Path, movements: list[dict]) -> list[dict]:
+WAITING_DAYS = 14
+
+
+def waiting_for_review(data: Path, movements: list[dict], today: date | None = None, days: int = WAITING_DAYS) -> list[dict]:
     """Headlines and links of inbox stories, for the 'Waiting for review' strip. Only used when autonomy is 'links'.
-    AI-written text is deliberately left out: nothing the model wrote is shown until an editor approves it."""
+    AI-written text is deliberately left out: nothing the model wrote is shown until an editor approves it.
+    Only stories that are dated, from the last `days` days and not already published: an old or undated headline on
+    the front page reads as news when it is not, and a published one would appear twice."""
     from .ai import load_config
     if load_config().get("autonomy") != "links":
         return []
+    today = today or today_ist()
+    cutoff = (today - timedelta(days=days)).isoformat()
+    published = {normalize_url(r["url"]) for m in movements for r in m.get("reports", [])}
     known = {m["id"] for m in movements}
     out = []
     for c in load_inbox(data):
+        if not c.get("published") or c["published"] < cutoff or normalize_url(c["url"]) in published:
+            continue
         ai = c.get("ai") or {}
         if ai and (not ai.get("is_protest_in_india") or ai.get("movement") == "none"):
             continue
@@ -202,7 +212,7 @@ def build(*, out: Path, today: date, data: Path = DATA) -> dict:
     (out / "assets").mkdir(parents=True)
     for name in ("style.css", "app.js"):
         shutil.copy(ROOT / "site_src" / name, out / "assets" / name)
-    (out / "index.html").write_text(render_index(cfg, movements, directory, today, waiting_for_review(data, movements)), encoding="utf-8")
+    (out / "index.html").write_text(render_index(cfg, movements, directory, today, waiting_for_review(data, movements, today, cfg.get("waiting_days", WAITING_DAYS))), encoding="utf-8")
     (out / "about.html").write_text(about_redirect(), encoding="utf-8")
     (out / "m").mkdir()
     for m in movements:
@@ -230,6 +240,6 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--out", type=Path, default=ROOT / "site")
     ap.add_argument("--today", type=date.fromisoformat, default=None)
     args = ap.parse_args(argv)
-    stats = build(out=args.out, today=args.today or date.today())
+    stats = build(out=args.out, today=args.today or today_ist())
     print(f"Built {stats['movements']} movements ({stats['active']} active), {stats['reports']} reports -> {args.out}")
     return 0

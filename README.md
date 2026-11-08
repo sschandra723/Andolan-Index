@@ -87,8 +87,9 @@ The deploy workflow also runs daily so labels change as time passes.
 `python -m andolan build` writes one page, `site/index.html`, with the whole dataset and the map embedded in it.
 `site_src/app.js` renders every view from that data, so no server is needed:
 
-- **The landing, told as you scroll.** First a header on its own: Andolan Index, what it does, and the date of the
-  latest report. Scroll, and the header fades as the map of India rises into the middle of the screen and its border
+- **The landing, told as you scroll.** First a masthead on its own: the date of the latest report, the name Andolan
+  Index fitted to the full width of the page, and what the site does. Scroll, and the masthead fades as the map of India
+  rises into the middle of the screen and its border
   draws itself. These movements follow the scroll position exactly, so scrolling back reverses them, and they work the
   same inside an embedded frame. Scroll again, and the map moves to the right, the protests appear on it as points,
   and the hot news comes up beside it (the protest leading the news this week, see below): the lead protest's main article, how many outlets and reports covered it this week against the week
@@ -119,7 +120,14 @@ The deploy workflow also runs daily so labels change as time passes.
 Change `WINDOW_DAYS` in that file to look further back. The rule is also explained on the site's "How this works" page.
 
 Each movement also gets a permanent URL, `m/<id>.html`. It opens the movement in the app, and lists the reports as
-plain HTML for search engines and browsers without JavaScript. The design lives in `site_src/style.css`.
+plain HTML for search engines and browsers without JavaScript.
+
+The design lives in `site_src/style.css`, and its rules are written at the top of that file. In short: one frame with
+fluid gutters, so the logo, the masthead, every section title and the timeline start on the same left edge, and links,
+numbers and secondary actions end on the same right edge; the masthead is the one loud element; Big Shoulders Display
+for headlines, Big Shoulders Text for numbers and dates, Mukta for words (including Hindi); colour only marks the lead,
+today, status and actions. Below the story come the explainers, the timeline, the stories waiting for review (after the
+verified material, not before it), other archives and a dark footer.
 
 ## The map
 

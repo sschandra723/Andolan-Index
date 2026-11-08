@@ -27,7 +27,7 @@ MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", 
 STATUS_ORDER = {"active": 0, "quiet": 1, "ended": 2}
 STATUS_LABEL = {"active": "Active", "quiet": "Quiet", "ended": "Ended"}
 FONTS = ("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900"
-         "&family=Big+Shoulders+Text:wght@500;600;700&family=Mukta:wght@400;500;600;700&family=Rozha+One&display=swap")
+         "&family=Big+Shoulders+Text:wght@500;600;700&family=Mukta:wght@400;500;600;700&display=swap")
 
 e = html.escape
 

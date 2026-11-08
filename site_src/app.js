@@ -176,6 +176,10 @@
       '<a class="opt" href="data/movements.json" target="_blank" rel="noopener">Data</a></nav></div></header>';
   }
   function glyph(status) { return '<span class="glyph g-' + status + '" aria-hidden="true"></span>'; }
+  // A light section's header: the title on the left edge, what the section is (and any controls) on the right.
+  function secHead(id, title, dek, extra, minor) {
+    return '<div class="sec-head' + (minor ? " minor" : "") + '"><h2 id="' + id + '">' + title + '</h2><div class="sec-dek"><p>' + dek + '</p>' + (extra || "") + '</div></div>';
+  }
   function statesSvg(cls) {
     return MAP.states.map(function (s) {
       return '<path class="st ' + (cls ? cls(s.name) : "") + '" data-state="' + esc(s.name) + '" d="' + s.d + '"></path>';
@@ -216,13 +220,14 @@
   //   6  the archive
   var ACTIVE = M.filter(function (m) { return m.status === "active"; });
   function leadKicker() { return LEAD.live ? "Leading the news, " + fmtRange(LEAD.from, LEAD.to) : "Latest on the record"; }
+  // The masthead: the date of the newest report, the name fitted to the full width, then what the site is and where to go.
   function headerStep() {
-    var k = 0, newest = M.reduce(function (d, m) { return m.latest_report && m.latest_report > d ? m.latest_report : d; }, "");
+    var newest = M.reduce(function (d, m) { return m.latest_report && m.latest_report > d ? m.latest_report : d; }, "");
     return '<section class="step s0" data-step="0"><div class="step-in">' +
-      (newest ? '<p class="kicker" style="--k:' + (k++) + '"><i aria-hidden="true"></i>Latest report ' + fmt(newest) + '</p>' : "") +
-      '<h1 class="h-hero" style="--k:' + (k++) + '">Andolan Index</h1>' +
-      '<p class="h-lede" style="--k:' + (k++) + '">Where India is protesting, and why. Every news report on a protest, filed under the movement it belongs to.</p>' +
-      '<p class="hint" style="--k:' + (k++) + '"><i aria-hidden="true"></i>Scroll to see the map</p></div></section>';
+      (newest ? '<p class="kicker" style="--k:0"><i aria-hidden="true"></i>Latest report ' + fmt(newest) + '</p>' : "") +
+      '<h1 class="h-hero"><span>Andolan Index</span></h1>' +
+      '<div class="mast-foot" style="--k:1"><p class="h-lede">Where India is protesting, and why. Every news report on a protest, filed under the movement it belongs to.</p>' +
+      '<p class="hint">Scroll to see the map<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 4v15M6 13l6 6 6-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></p></div></div></section>';
   }
   function mapCaption() {
     var record = plural(TOTAL_REPORTS, "report") + ' from ' + plural(Object.keys(outlets).length, "outlet") + ' on record.';
@@ -818,10 +823,10 @@
     var sites = (D.directory || []).map(function (s) {
       return '<li><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.name) + '</a><span class="kind">' + esc(s.kind) + '</span><p>' + esc(s.about) + '</p></li>';
     }).join("");
-    return storyHtml() + '<main>' + waiting() + issues() +
-      '<section class="ledger gut" id="ledger" aria-labelledby="ledger-h"><div class="wrap">' +
-      '<div class="ledger-head"><h2 id="ledger-h">Every movement on one timeline</h2>' +
-      '<p class="ledger-sub">Each line runs from the day a movement began to its latest report. Movements with recent reports come first. Select one to read its full file.</p>' +
+    // Verified first: the explainers and the timeline, then the stories still waiting for an editor, then other archives.
+    return storyHtml() + '<main>' + issues() +
+      '<section class="ledger sec gut" id="ledger" aria-labelledby="ledger-h"><div class="wrap">' +
+      secHead("ledger-h", "Every movement on one timeline", "Each line runs from the day a movement began to its latest report. Movements with recent reports come first. Select one to read its full file.") +
       '<div class="controls"><div class="seg" role="radiogroup" aria-label="Status">' + seg + '<span class="seg-ind" aria-hidden="true"></span></div>' +
       '<div class="causes" role="group" aria-label="Issue">' + causes + '</div>' + states +
       '<label class="search"><span class="vh">Search movements</span><input id="q" type="search" autocomplete="off" placeholder="Search a place, group or outlet" value="' + esc(ui.q) + '"></label></div>' +
@@ -831,19 +836,20 @@
       '<p class="legend"><span><i class="lg-bar" style="background:var(--active)"></i>Active</span><span><i class="lg-bar" style="background:var(--quiet)"></i>Quiet</span>' +
       '<span><i class="lg-bar" style="box-shadow:inset 0 0 0 1.5px var(--ended)"></i>Ended</span><span><i class="lg-dot"></i>A report (larger when several share a day)</span>' +
       '<span><i class="lg-dash"></i>Still going</span></p></div>' +
-      '<p class="fnote" id="fnote" aria-live="polite">' + noteHtml() + '</p></div>' +
+      '<p class="fnote" id="fnote" aria-live="polite">' + noteHtml() + '</p>' +
       '<div class="axis cols"><span class="hd">Movement</span><div class="axis-track" id="axis" aria-hidden="true"></div><span class="hd n">Reports</span></div>' +
-      '<ol class="rows" id="rows">' + rowsHtml() + '</ol></div></section>' +
-      '<section class="dir gut" aria-labelledby="dir-h"><div class="wrap"><h2 id="dir-h">Archives that go deeper</h2>' +
-      '<p>Some movements have their own archive or running record. We link to them instead of copying them.</p><ul class="sites">' + sites + '</ul></div></section></main>';
+      '<ol class="rows" id="rows">' + rowsHtml() + '</ol></div></section>' + waiting() +
+      '<section class="dir sec gut" aria-labelledby="dir-h"><div class="wrap">' +
+      secHead("dir-h", "Archives that go deeper", "Some movements have their own archive or running record. We link to them instead of copying them.", "", true) +
+      '<ul class="sites">' + sites + '</ul></div></section></main>';
   }
 
   /* ---------- stories waiting for review (headlines and links only) ---------- */
   function waiting() {
     var w = D.waiting || [];
     if (!w.length) return "";
-    return '<section class="waiting gut" aria-labelledby="wait-h"><div class="wrap"><div class="waiting-head">' +
-      '<h2 id="wait-h">Waiting for review</h2><p>Stories the collector has found that an editor has not checked yet. The headlines are the outlets\u2019 own; nothing is summarised or added to a movement until it is approved.</p></div>' +
+    return '<section class="waiting sec gut" aria-labelledby="wait-h"><div class="wrap">' +
+      secHead("wait-h", "Waiting for review", "Stories the collector has found that an editor has not checked yet. The headlines are the outlets\u2019 own; nothing is summarised or added to a movement until it is approved.", "", true) +
       '<ul class="wlist">' + w.map(function (x) {
         var m = x.movement && byId[x.movement];
         var hi = /[\u0900-\u097F]/.test(x.title) ? ' lang="hi"' : "";
@@ -858,12 +864,13 @@
   function issues() {
     var items = M.filter(function (m) { return m.context; });
     if (!items.length) return "";
-    return '<section class="issues gut" aria-labelledby="issues-h"><div class="wrap"><div class="issues-head"><div>' +
-      '<h2 id="issues-h">What the protests are about</h2><p>The issue behind each movement in a few lines. Open one for the full background, what it changes for people, and the sources.</p></div>' +
-      '<div class="gal-nav"><button type="button" class="gal-btn prev" data-gal="-1" aria-label="Previous">' + CHEVRON + '</button>' +
-      '<button type="button" class="gal-btn" data-gal="1" aria-label="Next">' + CHEVRON + '</button></div></div>' +
+    var arrows = '<div class="gal-nav"><button type="button" class="gal-btn prev" data-gal="-1" aria-label="Previous">' + CHEVRON + '</button>' +
+      '<button type="button" class="gal-btn" data-gal="1" aria-label="Next">' + CHEVRON + '</button></div>';
+    return '<section class="issues sec gut" aria-labelledby="issues-h"><div class="wrap">' +
+      secHead("issues-h", "What the protests are about", "The issue behind each movement in a few lines. Open one for the full background, what it changes for people, and the sources.", arrows) +
       '<ul class="gallery" id="gallery">' + items.map(function (m) {
-        return '<li class="issue"><a href="#' + m.id + '" data-go="' + m.id + '" data-anchor="background">' +
+        // the rule above each explainer is the movement's status colour
+        return '<li class="issue" style="--pc:var(--' + m.status + ')"><a href="#' + m.id + '" data-go="' + m.id + '" data-anchor="background">' +
           '<span class="issue-mv">' + glyph(m.status) + esc(m._short) + '</span><h3>' + esc(m.context.question) + '</h3>' +
           '<p>' + esc(m.context.short) + '</p><span class="issue-more">Read the background</span></a></li>';
       }).join("") + '</ul></div></section>';
@@ -873,13 +880,13 @@
   function background(m) {
     var c = m.context;
     if (!c) return "";
-    return '<section class="bg" id="background" aria-labelledby="bg-h"><div class="bg-head"><p class="bg-label">Background</p>' +
+    return '<section class="bg gut" id="background" aria-labelledby="bg-h"><div class="wrap"><div class="bg-head"><p class="bg-label">Background</p>' +
       '<h2 id="bg-h">' + esc(c.question) + '</h2><p class="bg-short">' + esc(c.short) + '</p></div>' +
       '<div class="bg-grid"><div class="bg-text">' + c.explainer.map(function (x) { return '<p>' + esc(x) + '</p>'; }).join("") + '</div>' +
       '<div class="bg-impact"><h3>What it changes</h3><ul>' + c.impact.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join("") + '</ul></div></div>' +
       '<div class="bg-src"><h3>Sources for this background</h3><ol>' + c.sources.map(function (x) {
         return '<li><a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.title) + '</a></li>';
-      }).join("") + '</ol><p>Last checked ' + fmt(c.updated) + '. Contested figures and claims are attributed to whoever made them.</p></div></section>';
+      }).join("") + '</ol><p>Last checked ' + fmt(c.updated) + '. Contested figures and claims are attributed to whoever made them.</p></div></div></section>';
   }
   function miniMap(m) {
     var on = function (n) { return m.states.indexOf(n) > -1 ? "on" : ""; };
@@ -920,8 +927,7 @@
       ["Reports", plural(m.report_count, "report") + " from " + plural(m._outlets, "outlet")],
       ["Issue", m.cause]
     ].filter(Boolean).map(function (f) { return "<dt>" + f[0] + "</dt><dd>" + esc(f[1]) + "</dd>"; }).join("");
-    return '<main class="gut"><article class="mview wrap">' +
-
+    return '<main><article class="mview"><div class="gut"><div class="wrap">' +
       '<header class="mhead"><p class="mstatus">' + glyph(m.status) + '<b>' + STATUS[m.status] + '</b> ' + esc(m.places) + '</p>' +
       '<h1 style="view-transition-name:t-' + m.id + '">' + esc(m.name) + '</h1>' +
       (m.aliases && m.aliases.length ? '<p class="aka">Also reported as ' + esc(list(m.aliases)) + '.</p>' : "") +
@@ -935,11 +941,11 @@
       '<details class="cite"><summary>Cite this page</summary><div class="cite-body"><p class="ref" id="cite-ref">' + esc(cite) + '</p>' +
       '<p><button type="button" class="btn" data-copy="cite-ref">Copy citation</button></p>' +
       '<p>Free to reuse with credit (CC BY 4.0): <a href="data/m/' + m.id + '.json" target="_blank" rel="noopener">this movement as JSON</a> or <a href="data/reports.csv" target="_blank" rel="noopener">every report as CSV</a>.</p></div></details></aside></div>' +
-      background(m) +
-      '<nav class="pager" aria-label="Other movements">' +
+      '</div></div>' + background(m) +
+      '<div class="pager-sec gut"><nav class="pager wrap" aria-label="Other movements">' +
       (prev ? '<a href="#' + prev.id + '" data-go="' + prev.id + '"><span>Previous</span><strong>' + esc(prev.name) + '</strong></a>' : "<span></span>") +
       (next ? '<a class="next" href="#' + next.id + '" data-go="' + next.id + '"><span>Next</span><strong>' + esc(next.name) + '</strong></a>' : "<span></span>") +
-      '</nav></article></main>';
+      '</nav></div></article></main>';
   }
 
   function about() {
@@ -983,10 +989,18 @@
   }
 
   function footer() {
-    return '<footer class="foot gut"><div class="wrap"><p>Andolan Index is independent and is not affiliated with any party, union, organisation or government. Summaries are written in our own words, and where protesters and authorities disagree, each account is attributed to whoever gave it.</p>' +
-      '<p>Data under CC BY 4.0: <a href="data/movements.json" target="_blank" rel="noopener">JSON</a>, <a href="data/reports.csv" target="_blank" rel="noopener">CSV</a>, <a href="feed.xml" target="_blank" rel="noopener">feed</a>' +
-      (D.config.repo_url ? ', <a href="' + esc(D.config.repo_url) + '" target="_blank" rel="noopener">source and corrections</a>' : "") +
-      '. Map: DataMeet India, CC BY 4.0, showing the official boundary of India.</p></div></footer>';
+    return '<footer class="foot gut"><div class="wrap foot-in">' +
+      '<div class="foot-id"><p class="foot-brand">Andolan Index</p><p>Andolan Index is independent and is not affiliated with any party, union, organisation or government. Summaries are written in our own words, and where protesters and authorities disagree, each account is attributed to whoever gave it.</p></div>' +
+      '<div class="foot-col"><h2>The data</h2><ul>' +
+      '<li><a href="data/movements.json" target="_blank" rel="noopener">Movements and reports (JSON)</a></li>' +
+      '<li><a href="data/reports.csv" target="_blank" rel="noopener">Every report (CSV)</a></li>' +
+      '<li><a href="feed.xml" target="_blank" rel="noopener">Feed of new reports</a></li></ul></div>' +
+      '<div class="foot-col"><h2>The project</h2><ul>' +
+      '<li><a href="#about" data-go="about">How this works</a></li>' +
+      '<li><a href="#ledger" data-go="ledger">Every movement</a></li>' +
+      (D.config.repo_url ? '<li><a href="' + esc(D.config.repo_url) + '" target="_blank" rel="noopener">Source and corrections</a></li>' : "") + '</ul></div>' +
+      '<p class="foot-note">The data is free to reuse under CC BY 4.0. Map: DataMeet India, CC BY 4.0, showing the official boundary of India.</p>' +
+      '</div></footer>';
   }
 
   /* ---------- render ---------- */
@@ -1168,7 +1182,7 @@
     var gal = t.closest("[data-gal]");
     if (gal) {
       var g = document.getElementById("gallery"), card = g && g.querySelector(".issue");
-      if (g && card) g.scrollBy({ left: (+gal.dataset.gal) * (card.offsetWidth + 20), behavior: REDUCE ? "auto" : "smooth" });
+      if (g && card) g.scrollBy({ left: (+gal.dataset.gal) * (card.offsetWidth + (parseFloat(getComputedStyle(g).columnGap) || 20)), behavior: REDUCE ? "auto" : "smooth" });
       return;
     }
     var rowEl = t.closest(".row[data-id]");

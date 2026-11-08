@@ -1010,10 +1010,20 @@
     if (ui.view === "movement" && !m) ui.view = "home";
     app.innerHTML = nav() + (ui.view === "home" ? home() : ui.view === "about" ? about() : movement(m)) + footer();
     document.title = ui.view === "movement" ? m.name + " | Andolan Index" : ui.view === "about" ? "How this works | Andolan Index" : D.config.title;
+    fitMast();
     layoutAll();
     placeIndicator();
     if (ui.view === "home") storyInit();
     ui.first = false;
+  }
+  // The masthead is sized in CSS for Big Shoulders. If that font is slow or blocked, the fallback is much wider and
+  // would be cut off at the edge, so measure the text that is actually drawn and fit it to the frame.
+  function fitMast() {
+    var h = document.querySelector(".h-hero"), s = h && h.firstElementChild;
+    if (!s) return;
+    h.style.fontSize = "";
+    var fs = parseFloat(getComputedStyle(h).fontSize), w = s.getBoundingClientRect().width, avail = h.clientWidth;
+    if (fs > 0 && w > 0 && avail > 0 && Math.abs(w - avail) > 2) h.style.fontSize = (fs * avail / w * 0.996).toFixed(2) + "px";
   }
   function updateList(animate) {
     var rows = document.getElementById("rows");
@@ -1287,11 +1297,13 @@
   var resizeTimer = null;
   window.addEventListener("resize", function () {
     placeIndicator();
+    fitMast();
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(function () { layoutAll(); if (story) { readScroll(); layoutPins(); } }, 120);
   });
   document.addEventListener("visibilitychange", function () { if (document.hidden) clearCards(); });
-  if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { placeIndicator(); if (story) layoutPins(); });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { fitMast(); placeIndicator(); if (story) layoutPins(); });
+  if (document.fonts && document.fonts.addEventListener) document.fonts.addEventListener("loadingdone", fitMast);
 
   /* ---------- start ---------- */
   try { if ("scrollRestoration" in history) history.scrollRestoration = "manual"; } catch (e) { /* not essential */ }

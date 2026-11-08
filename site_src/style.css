@@ -193,7 +193,7 @@ body::before{background:var(--night)}
 .h-hero{grid-row:3;margin:0;overflow:hidden;white-space:nowrap;color:var(--night-ink);
   font:900 calc((100vw - 2 * var(--gutter) - 20px) / 5.31)/.84 var(--f-display);letter-spacing:-.01em}
 @supports (width:1cqi){.h-hero{font-size:calc(100cqi / 5.31)}}
-.h-hero span{display:block}
+.h-hero span{display:inline-block;vertical-align:top}
 .mast-foot{grid-row:4;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:18px 48px;margin-top:clamp(14px,2.4vh,28px);padding-top:clamp(16px,2.6vh,30px);border-top:1px solid var(--night-line)}
 .h-lede{font:400 clamp(18px,1.42vw,25px)/1.45 var(--f-body);color:var(--night-ink-2);margin:0;max-width:34ch;text-wrap:pretty}
 .h-lede b{color:var(--night-ink);font-weight:600}

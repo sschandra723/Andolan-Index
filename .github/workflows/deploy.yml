@@ -44,10 +44,10 @@ jobs:
       - run: python -m andolan validate
       - id: pages
         uses: actions/configure-pages@v5
+      # base_url in config/site.json (the Vercel address) stays the main address, so search engines and citations
+      # point to one place even though this copy also exists
       - name: Build
         run: python -m andolan build
-        env:
-          ANDOLAN_BASE_URL: ${{ steps.pages.outputs.base_url }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

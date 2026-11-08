@@ -18,7 +18,7 @@ from pathlib import Path
 from jsonschema import Draft202012Validator
 
 from .common import (DATA, SCHEMA, load_inbox, load_movements, load_reports, normalize_url, ordered_report,
-                     read_json, report_id, report_path, write_json)  # noqa: F401
+                     read_json, report_id, report_path, tidy_inbox, today_ist, write_json)  # noqa: F401
 
 KINDS = ["news", "explainer", "opinion", "reference", "fact-check", "archive", "background", "roundup"]
 
@@ -30,7 +30,7 @@ class CurateError(Exception):
 def add_report(*, url: str, outlet: str, report_date: str, movement: str, summary: str, read: bool, kind: str = "news",
                data: Path = DATA, today: date | None = None, drafted_by: str = "person") -> Path:
     """Validate and write one report. Raises CurateError with a plain-language message."""
-    today = today or date.today()
+    today = today or today_ist()
     if movement not in load_movements(data):
         raise CurateError(f"Unknown movement '{movement}'. Existing: {', '.join(sorted(load_movements(data)))}")
     key = (movement, normalize_url(url))
@@ -114,7 +114,7 @@ def new_movement(mid: str, data: Path = DATA, from_candidate: str | None = None)
         raise CurateError(f"{path.name} already exists.")
     stub = {
         "id": mid, "name": "TODO name", "aliases": [], "keywords": ["TODO"], "cause": "Other", "states": ["Delhi"],
-        "places": "TODO", "started": date.today().isoformat(),
+        "places": "TODO", "started": today_ist().isoformat(),
         "about": "TODO: what the protest is about, who is leading it and how the authorities responded. Attribute contested claims.",
         "demands": "TODO",
     }
@@ -149,6 +149,7 @@ def main(argv: list[str] | None = None) -> int:
     a.add_argument("--date", required=True); a.add_argument("--movement", required=True); a.add_argument("--summary", required=True)
     a.add_argument("--read", action="store_true"); a.add_argument("--kind", choices=KINDS, default="news")
     n = sub.add_parser("new-movement"); n.add_argument("id"); n.add_argument("--from", dest="from_candidate")
+    sub.add_parser("tidy", help="remove inbox stories that are already published")
     args = ap.parse_args(argv)
     try:
         if args.cmd == "list":
@@ -172,6 +173,9 @@ def main(argv: list[str] | None = None) -> int:
         elif args.cmd == "add":
             print("wrote", add_report(url=args.url, outlet=args.outlet, report_date=args.date, movement=args.movement,
                                       summary=args.summary, read=args.read, kind=args.kind))
+        elif args.cmd == "tidy":
+            gone = tidy_inbox()
+            print(f"removed {len(gone)} inbox stor{'y' if len(gone) == 1 else 'ies'} already published" + (": " + ", ".join(gone) if gone else ""))
         elif args.cmd == "new-movement":
             print("wrote", new_movement(args.id, from_candidate=args.from_candidate), "\nFill in every TODO, then add a first report with `curate add` or `curate promote`.")
     except CurateError as e:

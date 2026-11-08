@@ -11,7 +11,7 @@ from pathlib import Path
 
 from jsonschema import Draft202012Validator
 
-from .common import (DATA, SCHEMA, load_rejected, normalize_url, read_json, report_id)
+from .common import (DATA, SCHEMA, load_rejected, normalize_url, read_json, report_id, today_ist)
 
 
 def _validator(name: str) -> Draft202012Validator:
@@ -22,9 +22,12 @@ def _schema_errors(validator: Draft202012Validator, obj, label: str) -> list[str
     return [f"{label}: {'/'.join(map(str, e.absolute_path)) or '(root)'}: {e.message}" for e in validator.iter_errors(obj)]
 
 
-def check_dataset(data: Path = DATA, today: date | None = None) -> list[str]:
-    today = today or date.today()
+def check_dataset(data: Path = DATA, today: date | None = None, warnings: list[str] | None = None) -> list[str]:
+    """Returns problems that must be fixed before publishing. Pass a list as `warnings` to also collect things an
+    editor should tidy but that do not break the site."""
+    today = today or today_ist()
     errors: list[str] = []
+    warnings = warnings if warnings is not None else []
     v_move, v_rep, v_cand, v_dir = (_validator(n) for n in
         ("movement.schema.json", "report.schema.json", "candidate.schema.json", "directory.schema.json"))
 
@@ -57,6 +60,7 @@ def check_dataset(data: Path = DATA, today: date | None = None) -> list[str]:
     # reports
     seen_pairs: dict[tuple[str, str], str] = {}
     per_movement: dict[str, int] = {mid: 0 for mid in movements}
+    latest: dict[str, str] = {}
     for p in sorted((data / "reports").glob("*/*/*.json")):
         r = load(p)
         if r is None:
@@ -74,6 +78,7 @@ def check_dataset(data: Path = DATA, today: date | None = None) -> list[str]:
             errors.append(f"{label}: unknown movement '{r['movement']}'")
         else:
             per_movement[r["movement"]] += 1
+            latest[r["movement"]] = max(latest.get(r["movement"], ""), r["date"])
         if date.fromisoformat(r["date"]) > today + timedelta(days=1):
             errors.append(f"{label}: date {r['date']} is in the future")
         key = (r["movement"], normalize_url(r["url"]))
@@ -84,6 +89,10 @@ def check_dataset(data: Path = DATA, today: date | None = None) -> list[str]:
     for mid, n in per_movement.items():
         if n == 0:
             errors.append(f"movements/{mid}.json: no reports yet; every movement needs at least one")
+        ended = movements[mid].get("ended")
+        if ended and latest.get(mid, "") > ended:
+            warnings.append(f"movements/{mid}.json: marked ended on {ended} but has a report from {latest[mid]}; "
+                            "remove `ended` if it has started again, or move the report")
 
     # inbox
     report_urls = {normalize_url(u) for (_, u) in seen_pairs}
@@ -106,6 +115,10 @@ def check_dataset(data: Path = DATA, today: date | None = None) -> list[str]:
             errors.append(f"{label}: AI movement '{ai_mv}' does not exist")
         if normalize_url(c["url"]) in rejected:
             errors.append(f"{label}: URL is on the rejected list")
+        if normalize_url(c["url"]) in report_urls:
+            warnings.append(f"{label}: already published as a report; `python -m andolan curate tidy` removes it")
+        if not c.get("published"):
+            warnings.append(f"{label}: no publication date; open the article and add it, or reject the story")
 
     # directory
     d = data / "directory.json"
@@ -117,7 +130,10 @@ def check_dataset(data: Path = DATA, today: date | None = None) -> list[str]:
 
 
 def main(argv: list[str] | None = None) -> int:
-    errors = check_dataset()
+    warnings: list[str] = []
+    errors = check_dataset(warnings=warnings)
+    for w in warnings:
+        print(f"  note: {w}")
     if errors:
         print(f"{len(errors)} problem(s):", file=sys.stderr)
         for e in errors:

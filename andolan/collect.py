@@ -20,8 +20,8 @@ from pathlib import Path
 
 from defusedxml import ElementTree as ET
 
-from .common import (CONFIG, DATA, load_inbox, load_movements, load_rejected, load_reports, normalize_url,
-                     read_json, short_hash, strip_tracking, write_json)
+from .common import (CONFIG, DATA, IST, load_inbox, load_movements, load_rejected, load_reports, normalize_url,
+                     read_json, short_hash, strip_tracking, tidy_inbox, today_ist, write_json)
 
 USER_AGENT = "AndolanIndexBot/0.1 (public protest archive; contact via the repository issue tracker)"
 MAX_BYTES = 5_000_000
@@ -55,12 +55,12 @@ def parse_pub_date(s: str | None) -> date | None:
         return None
     s = s.strip()
     try:
-        return parsedate_to_datetime(s).astimezone(timezone.utc).date()
+        return parsedate_to_datetime(s).astimezone(IST).date()
     except (TypeError, ValueError):
         pass
     try:
         dt = datetime.fromisoformat(s.replace("Z", "+00:00"))
-        return dt.astimezone(timezone.utc).date() if dt.tzinfo else dt.date()
+        return dt.astimezone(IST).date() if dt.tzinfo else dt.date()
     except ValueError:
         return None
 
@@ -149,9 +149,10 @@ def classify(item: dict, feed: dict, terms: dict, movements: dict[str, dict]) ->
 
 def collect(feed_docs: list[tuple[dict, bytes]], data: Path = DATA, today: date | None = None,
             terms: dict | None = None) -> list[dict]:
-    today = today or date.today()
+    today = today or today_ist()
     terms = terms or read_json(CONFIG / "terms.json")
     movements = load_movements(data)
+    tidy_inbox(data)
     known = {normalize_url(r["url"]) for r in load_reports(data)}
     known |= {normalize_url(c["url"]) for c in load_inbox(data)}
     known |= load_rejected(data)

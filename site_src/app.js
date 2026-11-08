@@ -43,6 +43,79 @@
     return [p.tx + p.k * lon * Math.PI / 180, p.ty - p.k * Math.log(Math.tan(Math.PI / 4 + lat * Math.PI / 360))];
   }
 
+  /* ---------- today ---------- */
+  // The page is built once but read every day, and a host may not rebuild it daily. So "today" is the date in India
+  // now, and when the build is older the page works out again everything that depends on the date: Active and Quiet,
+  // and which protest leads this week's news. These rules mirror andolan/common.py (status_for) and
+  // andolan/coverage.py exactly, so an old page and a fresh build agree.
+  function indiaToday() {
+    try {
+      var p = {};
+      new Intl.DateTimeFormat("en-GB", { timeZone: "Asia/Kolkata", year: "numeric", month: "2-digit", day: "2-digit" })
+        .formatToParts(new Date()).forEach(function (x) { p[x.type] = x.value; });
+      if (p.year && p.month && p.day) return p.year + "-" + p.month + "-" + p.day;
+    } catch (e) { /* very old browser: fall back to a fixed offset, which is exact for India */ }
+    return new Date(Date.now() + 330 * 60000).toISOString().slice(0, 10);
+  }
+  var COVERAGE_KINDS = { news: 1, opinion: 1, explainer: 1, "fact-check": 1, roundup: 1 };
+  var SIGNAL = /\b(detain|arrest|kill|dead|death|died|injur|lathi|tear gas|shut ?down|internet|curfew|section 163|section 144|supreme court|high court|hunger strike)/i;
+  function sourceKey(outlet) { var m = /\(([^()]+)\)\s*$/.exec(outlet); return (m ? m[1] : outlet).trim().toLowerCase(); }
+  function byKeyDesc(key) {
+    return function (a, b) {
+      var x = key(a), y = key(b);
+      for (var i = 0; i < x.length; i++) { if (x[i] > y[i]) return -1; if (x[i] < y[i]) return 1; }
+      return 0;
+    };
+  }
+  function leadArticle(reports) {
+    var newest = reports.reduce(function (d, r) { return r.date > d ? r.date : d; }, "");
+    return reports.filter(function (r) { return r.date === newest; })
+      .sort(byKeyDesc(function (r) { return [r.read ? 1 : 0, r.kind === "news" ? 1 : 0, SIGNAL.test(r.summary) ? 1 : 0, r.id]; }))[0];
+  }
+  function coverageFor(movements, today, days) {
+    var t = ms(today), ranked = [];
+    var age = function (r) { return Math.round((t - ms(r.date)) / DAY); };
+    var sources = function (rs) { var o = {}; rs.forEach(function (r) { o[sourceKey(r.outlet)] = 1; }); return Object.keys(o).length; };
+    movements.forEach(function (m) {
+      var recent = m.reports.filter(function (r) { return COVERAGE_KINDS[r.kind] && age(r) >= 0 && age(r) < 2 * days; });
+      var week = recent.filter(function (r) { return age(r) < days; }), prev = recent.filter(function (r) { return age(r) >= days; });
+      var daily = [];
+      for (var i = 0; i < 2 * days; i++) daily.push(0);
+      recent.forEach(function (r) { daily[2 * days - 1 - age(r)]++; });
+      m.coverage = { outlets: sources(week), reports: week.length, prev_outlets: sources(prev), prev_reports: prev.length, daily: daily, rank: null };
+      if (week.length) ranked.push({ m: m, week: week, newest: week.reduce(function (d, r) { return r.date > d ? r.date : d; }, "") });
+    });
+    ranked.sort(byKeyDesc(function (x) { return [x.m.coverage.outlets, x.m.coverage.reports, x.newest, x.m.id]; }));
+    ranked.forEach(function (x, i) { x.m.coverage.rank = i + 1; });
+    var win = { days: days, from: new Date(t - (days - 1) * DAY).toISOString().slice(0, 10), to: today };
+    if (ranked.length) {
+      return Object.assign(win, { basis: "coverage", lead: ranked[0].m.id, lead_report: leadArticle(ranked[0].week).id,
+        order: ranked.map(function (x) { return x.m.id; }) });
+    }
+    var fallback = movements.filter(function (m) { return m.reports.length && m.status !== "ended"; });
+    if (!fallback.length) fallback = movements.filter(function (m) { return m.reports.length; });
+    if (!fallback.length) return Object.assign(win, { basis: "none", lead: null, lead_report: null, order: [] });
+    var best = fallback.reduce(function (a, b) { return byKeyDesc(function (m) { return [m.reports[0].date, m.report_count]; })(b, a) < 0 ? b : a; });
+    return Object.assign(win, { basis: "latest", lead: best.id, lead_report: leadArticle(best.reports).id, order: [] });
+  }
+  (function refreshToday() {
+    var now = indiaToday();
+    if (!/^\d{4}-\d\d-\d\d$/.test(now) || now <= D.today) return;
+    D.today = now;
+    var t = ms(now), activeDays = D.config.active_days || 21, ORDER = { active: 0, quiet: 1, ended: 2 };
+    D.movements.forEach(function (m) {
+      m.status = m.ended ? "ended" : m.latest_report && (t - ms(m.latest_report)) / DAY <= activeDays ? "active" : "quiet";
+    });
+    D.movements.sort(function (a, b) {
+      return ORDER[a.status] - ORDER[b.status] || byKeyDesc(function (m) { return [m.latest_report || ""]; })(a, b) || (a.id < b.id ? -1 : 1);
+    });
+    D.lead = coverageFor(D.movements, now, (D.lead && D.lead.days) || 7);
+    // the waiting list was cut at build time; drop what has since aged out
+    var cutoff = new Date(t - (D.config.waiting_days || 14) * DAY).toISOString().slice(0, 10);
+    D.waiting = (D.waiting || []).filter(function (w) { return w.published && w.published >= cutoff; });
+  })();
+  window.__andolan = D;   // read-only view of the data, for anyone checking the page in the console
+
   /* ---------- data ---------- */
   var M = D.movements, byId = {}, outlets = {};
   var TODAY = ms(D.today);
@@ -173,9 +246,13 @@
     return '<header class="nav gut"><div class="nav-in"><div class="nav-l">' + back + '<a class="brand" href="#" data-go="">Andolan Index</a></div>' +
       '<nav aria-label="Site"><a href="#ledger" data-go="ledger"' + (ui.view === "home" ? ' aria-current="page"' : "") + '>Movements</a>' +
       '<a href="#about" data-go="about"' + (ui.view === "about" ? ' aria-current="page"' : "") + '>How this works</a>' +
-      '<a class="opt" href="data/movements.json" target="_blank" rel="noopener">Data</a></nav></div></header>';
+      '</nav></div></header>';
   }
   function glyph(status) { return '<span class="glyph g-' + status + '" aria-hidden="true"></span>'; }
+  // A light section's header: the title on the left edge, what the section is (and any controls) on the right.
+  function secHead(id, title, dek, extra, minor) {
+    return '<div class="sec-head' + (minor ? " minor" : "") + '"><h2 id="' + id + '">' + title + '</h2><div class="sec-dek"><p>' + dek + '</p>' + (extra || "") + '</div></div>';
+  }
   function statesSvg(cls) {
     return MAP.states.map(function (s) {
       return '<path class="st ' + (cls ? cls(s.name) : "") + '" data-state="' + esc(s.name) + '" d="' + s.d + '"></path>';
@@ -216,13 +293,14 @@
   //   6  the archive
   var ACTIVE = M.filter(function (m) { return m.status === "active"; });
   function leadKicker() { return LEAD.live ? "Leading the news, " + fmtRange(LEAD.from, LEAD.to) : "Latest on the record"; }
+  // The masthead: the date of the newest report, the name fitted to the full width, then what the site is and where to go.
   function headerStep() {
-    var k = 0, newest = M.reduce(function (d, m) { return m.latest_report && m.latest_report > d ? m.latest_report : d; }, "");
+    var newest = M.reduce(function (d, m) { return m.latest_report && m.latest_report > d ? m.latest_report : d; }, "");
     return '<section class="step s0" data-step="0"><div class="step-in">' +
-      (newest ? '<p class="kicker" style="--k:' + (k++) + '"><i aria-hidden="true"></i>Latest report ' + fmt(newest) + '</p>' : "") +
-      '<h1 class="h-hero" style="--k:' + (k++) + '">Andolan Index</h1>' +
-      '<p class="h-lede" style="--k:' + (k++) + '">Where India is protesting, and why. Every news report on a protest, filed under the movement it belongs to.</p>' +
-      '<p class="hint" style="--k:' + (k++) + '"><i aria-hidden="true"></i>Scroll to see the map</p></div></section>';
+      (newest ? '<p class="kicker" style="--k:0"><i aria-hidden="true"></i>Latest report ' + fmt(newest) + '</p>' : "") +
+      '<h1 class="h-hero"><span>Andolan Index</span></h1>' +
+      '<div class="mast-foot" style="--k:1"><p class="h-lede">Where India is protesting, and why. Every news report on a protest, filed under the movement it belongs to.</p>' +
+      '<p class="hint">Scroll to see the map<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 4v15M6 13l6 6 6-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></p></div></div></section>';
   }
   function mapCaption() {
     var record = plural(TOTAL_REPORTS, "report") + ' from ' + plural(Object.keys(outlets).length, "outlet") + ' on record.';
@@ -818,10 +896,10 @@
     var sites = (D.directory || []).map(function (s) {
       return '<li><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.name) + '</a><span class="kind">' + esc(s.kind) + '</span><p>' + esc(s.about) + '</p></li>';
     }).join("");
-    return storyHtml() + '<main>' + waiting() + issues() +
-      '<section class="ledger gut" id="ledger" aria-labelledby="ledger-h"><div class="wrap">' +
-      '<div class="ledger-head"><h2 id="ledger-h">Every movement on one timeline</h2>' +
-      '<p class="ledger-sub">Each line runs from the day a movement began to its latest report. Movements with recent reports come first. Select one to read its full file.</p>' +
+    // Verified first: the explainers and the timeline, then the stories still waiting for an editor, then other archives.
+    return storyHtml() + '<main>' + issues() +
+      '<section class="ledger sec gut" id="ledger" aria-labelledby="ledger-h"><div class="wrap">' +
+      secHead("ledger-h", "Every movement on one timeline", "Each line runs from the day a movement began to its latest report. Movements with recent reports come first. Select one to read its full file.") +
       '<div class="controls"><div class="seg" role="radiogroup" aria-label="Status">' + seg + '<span class="seg-ind" aria-hidden="true"></span></div>' +
       '<div class="causes" role="group" aria-label="Issue">' + causes + '</div>' + states +
       '<label class="search"><span class="vh">Search movements</span><input id="q" type="search" autocomplete="off" placeholder="Search a place, group or outlet" value="' + esc(ui.q) + '"></label></div>' +
@@ -831,19 +909,20 @@
       '<p class="legend"><span><i class="lg-bar" style="background:var(--active)"></i>Active</span><span><i class="lg-bar" style="background:var(--quiet)"></i>Quiet</span>' +
       '<span><i class="lg-bar" style="box-shadow:inset 0 0 0 1.5px var(--ended)"></i>Ended</span><span><i class="lg-dot"></i>A report (larger when several share a day)</span>' +
       '<span><i class="lg-dash"></i>Still going</span></p></div>' +
-      '<p class="fnote" id="fnote" aria-live="polite">' + noteHtml() + '</p></div>' +
+      '<p class="fnote" id="fnote" aria-live="polite">' + noteHtml() + '</p>' +
       '<div class="axis cols"><span class="hd">Movement</span><div class="axis-track" id="axis" aria-hidden="true"></div><span class="hd n">Reports</span></div>' +
-      '<ol class="rows" id="rows">' + rowsHtml() + '</ol></div></section>' +
-      '<section class="dir gut" aria-labelledby="dir-h"><div class="wrap"><h2 id="dir-h">Archives that go deeper</h2>' +
-      '<p>Some movements have their own archive or running record. We link to them instead of copying them.</p><ul class="sites">' + sites + '</ul></div></section></main>';
+      '<ol class="rows" id="rows">' + rowsHtml() + '</ol></div></section>' + waiting() +
+      '<section class="dir sec gut" aria-labelledby="dir-h"><div class="wrap">' +
+      secHead("dir-h", "Archives that go deeper", "Some movements have their own archive or running record. We link to them instead of copying them.", "", true) +
+      '<ul class="sites">' + sites + '</ul></div></section></main>';
   }
 
   /* ---------- stories waiting for review (headlines and links only) ---------- */
   function waiting() {
     var w = D.waiting || [];
     if (!w.length) return "";
-    return '<section class="waiting gut" aria-labelledby="wait-h"><div class="wrap"><div class="waiting-head">' +
-      '<h2 id="wait-h">Waiting for review</h2><p>Stories the collector has found that an editor has not checked yet. The headlines are the outlets\u2019 own; nothing is summarised or added to a movement until it is approved.</p></div>' +
+    return '<section class="waiting sec gut" aria-labelledby="wait-h"><div class="wrap">' +
+      secHead("wait-h", "Waiting for review", "Stories the collector has found that an editor has not checked yet. The headlines are the outlets\u2019 own; nothing is summarised or added to a movement until it is approved.", "", true) +
       '<ul class="wlist">' + w.map(function (x) {
         var m = x.movement && byId[x.movement];
         var hi = /[\u0900-\u097F]/.test(x.title) ? ' lang="hi"' : "";
@@ -858,12 +937,13 @@
   function issues() {
     var items = M.filter(function (m) { return m.context; });
     if (!items.length) return "";
-    return '<section class="issues gut" aria-labelledby="issues-h"><div class="wrap"><div class="issues-head"><div>' +
-      '<h2 id="issues-h">What the protests are about</h2><p>The issue behind each movement in a few lines. Open one for the full background, what it changes for people, and the sources.</p></div>' +
-      '<div class="gal-nav"><button type="button" class="gal-btn prev" data-gal="-1" aria-label="Previous">' + CHEVRON + '</button>' +
-      '<button type="button" class="gal-btn" data-gal="1" aria-label="Next">' + CHEVRON + '</button></div></div>' +
+    var arrows = '<div class="gal-nav"><button type="button" class="gal-btn prev" data-gal="-1" aria-label="Previous">' + CHEVRON + '</button>' +
+      '<button type="button" class="gal-btn" data-gal="1" aria-label="Next">' + CHEVRON + '</button></div>';
+    return '<section class="issues sec gut" aria-labelledby="issues-h"><div class="wrap">' +
+      secHead("issues-h", "What the protests are about", "The issue behind each movement in a few lines. Open one for the full background, what it changes for people, and the sources.", arrows) +
       '<ul class="gallery" id="gallery">' + items.map(function (m) {
-        return '<li class="issue"><a href="#' + m.id + '" data-go="' + m.id + '" data-anchor="background">' +
+        // the rule above each explainer is the movement's status colour
+        return '<li class="issue" style="--pc:var(--' + m.status + ')"><a href="#' + m.id + '" data-go="' + m.id + '" data-anchor="background">' +
           '<span class="issue-mv">' + glyph(m.status) + esc(m._short) + '</span><h3>' + esc(m.context.question) + '</h3>' +
           '<p>' + esc(m.context.short) + '</p><span class="issue-more">Read the background</span></a></li>';
       }).join("") + '</ul></div></section>';
@@ -873,13 +953,13 @@
   function background(m) {
     var c = m.context;
     if (!c) return "";
-    return '<section class="bg" id="background" aria-labelledby="bg-h"><div class="bg-head"><p class="bg-label">Background</p>' +
+    return '<section class="bg gut" id="background" aria-labelledby="bg-h"><div class="wrap"><div class="bg-head"><p class="bg-label">Background</p>' +
       '<h2 id="bg-h">' + esc(c.question) + '</h2><p class="bg-short">' + esc(c.short) + '</p></div>' +
       '<div class="bg-grid"><div class="bg-text">' + c.explainer.map(function (x) { return '<p>' + esc(x) + '</p>'; }).join("") + '</div>' +
       '<div class="bg-impact"><h3>What it changes</h3><ul>' + c.impact.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join("") + '</ul></div></div>' +
       '<div class="bg-src"><h3>Sources for this background</h3><ol>' + c.sources.map(function (x) {
         return '<li><a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.title) + '</a></li>';
-      }).join("") + '</ol><p>Last checked ' + fmt(c.updated) + '. Contested figures and claims are attributed to whoever made them.</p></div></section>';
+      }).join("") + '</ol><p>Last checked ' + fmt(c.updated) + '. Contested figures and claims are attributed to whoever made them.</p></div></div></section>';
   }
   function miniMap(m) {
     var on = function (n) { return m.states.indexOf(n) > -1 ? "on" : ""; };
@@ -910,8 +990,9 @@
           '</p><p class="rep-sum">' + esc(r.summary) + '</p></div></li>';
       }).join("") + '</ul>';
     }).join("");
-    var base = D.config.base_url ? D.config.base_url.replace(/\/$/, "") + "/#" + m.id : "";
-    var cite = 'Andolan Index, “' + m.name + '”, accessed ' + fmt(D.today) + (base ? ", " + base : "") + ".";
+    // cite the permanent page for the movement (m/<id>.html), at the site's main address when one is set
+    var home = D.config.base_url ? D.config.base_url.replace(/\/$/, "") + "/" : location.href.split("#")[0].replace(/[^/]*$/, "");
+    var cite = 'Andolan Index, “' + m.name + '”, accessed ' + fmt(D.today) + ", " + home + "m/" + m.id + ".html.";
     var facts = [
       ["Status", STATUS[m.status] + ", " + STATUS_NOTE[m.status]],
       ["Began", fmt(m.started)],
@@ -920,8 +1001,7 @@
       ["Reports", plural(m.report_count, "report") + " from " + plural(m._outlets, "outlet")],
       ["Issue", m.cause]
     ].filter(Boolean).map(function (f) { return "<dt>" + f[0] + "</dt><dd>" + esc(f[1]) + "</dd>"; }).join("");
-    return '<main class="gut"><article class="mview wrap">' +
-
+    return '<main><article class="mview"><div class="gut"><div class="wrap">' +
       '<header class="mhead"><p class="mstatus">' + glyph(m.status) + '<b>' + STATUS[m.status] + '</b> ' + esc(m.places) + '</p>' +
       '<h1 style="view-transition-name:t-' + m.id + '">' + esc(m.name) + '</h1>' +
       (m.aliases && m.aliases.length ? '<p class="aka">Also reported as ' + esc(list(m.aliases)) + '.</p>' : "") +
@@ -935,58 +1015,66 @@
       '<details class="cite"><summary>Cite this page</summary><div class="cite-body"><p class="ref" id="cite-ref">' + esc(cite) + '</p>' +
       '<p><button type="button" class="btn" data-copy="cite-ref">Copy citation</button></p>' +
       '<p>Free to reuse with credit (CC BY 4.0): <a href="data/m/' + m.id + '.json" target="_blank" rel="noopener">this movement as JSON</a> or <a href="data/reports.csv" target="_blank" rel="noopener">every report as CSV</a>.</p></div></details></aside></div>' +
-      background(m) +
-      '<nav class="pager" aria-label="Other movements">' +
+      '</div></div>' + background(m) +
+      '<div class="pager-sec gut"><nav class="pager wrap" aria-label="Other movements">' +
       (prev ? '<a href="#' + prev.id + '" data-go="' + prev.id + '"><span>Previous</span><strong>' + esc(prev.name) + '</strong></a>' : "<span></span>") +
       (next ? '<a class="next" href="#' + next.id + '" data-go="' + next.id + '"><span>Next</span><strong>' + esc(next.name) + '</strong></a>' : "<span></span>") +
-      '</nav></article></main>';
+      '</nav></div></article></main>';
   }
 
   function about() {
     var d = D.config.active_days;
-    var sample = null;
-    M.some(function (m) { return m.reports.some(function (r) { if (r.read && r.kind === "news") { sample = r; return true; } return false; }); });
     var aiName = D.ai && D.ai.model ? D.ai.model : "an AI model";
+    // A reader's account of the process. File paths, commands and the stored format are in the README on GitHub.
     var STEPS = [
-      ["Find", "Every six hours a scheduled job reads the news feeds of outlets such as The Hindu, The Indian Express, The Wire and Scroll, and keeps stories that look like protest coverage.", "python -m andolan collect", "data/inbox/"],
-      ["Draft", "An AI assistant (" + aiName + ") reads each story, decides which movement it belongs to, drafts a summary with the exact quotes behind every fact, checks those quotes against the article and scores how important the story is.", "python -m andolan ai", "config/ai.json"],
-      ["Check", "An editor reads the story and the draft, then approves it, corrects it or rejects it. Stories that are not about a protest are never suggested again.", "python -m andolan curate promote", "data/rejected.txt"],
-      ["Store", "Each movement is one small file and each report is another, kept in a public Git repository. Every change is a reviewed commit, so the history of every entry is open to anyone.", "data/movements/*.json", "data/reports/2026/10/*.json"],
-      ["Publish", "When a change is approved, the site is rebuilt: this one page with every movement and report built in, plus downloads in JSON, CSV and a feed. It also rebuilds daily so Active and Quiet stay current.", "python -m andolan build", "site/"],
-      ["Show", "Your browser reads the data built into the page and draws everything from it: the map, the news cards, the timeline and each movement\u2019s file. Nothing is fetched while you browse, so pages open instantly.", "site_src/app.js", "index.html"]
+      ["Find", "Every six hours, a program reads the latest stories from news outlets such as The Hindu, The Indian Express, The Wire and Scroll, and keeps the ones that look like protest coverage."],
+      ["Draft", "An AI assistant reads each story, works out which movement it belongs to and drafts a short summary, quoting the article for every fact. A second program checks those quotes against the article."],
+      ["Check", "An editor reads the story and the draft, then approves it, corrects it or turns it down. Nothing is published without this step."],
+      ["Record", "Each approved report is saved with its outlet, date and link. The record is public and keeps every change, so anyone can see what changed and when."],
+      ["Publish", "Approved reports appear on the site as soon as they are saved. Each day the page works out which protests are active and which one leads the news."],
+      ["Read", "You see the map, the news, the timeline and a page for every movement. Each report links to the outlet’s own article; we never copy article text."]
     ];
     var flow = '<figure class="flow" aria-labelledby="flow-cap"><ol>' + STEPS.map(function (st, i) {
-      return '<li><span class="flow-n">' + (i + 1) + '</span><h3>' + st[0] + '</h3><p>' + esc(st[1]) + '</p><p class="flow-code"><code>' + esc(st[2]) + '</code><code>' + esc(st[3]) + '</code></p></li>';
-    }).join("") + '</ol><figcaption id="flow-cap">How a news report travels from an outlet\u2019s website to this page. Steps 1, 2, 5 and 6 run on their own. An editor does step 3 and approves every change in step 4.</figcaption></figure>';
+      return '<li><span class="flow-n">' + (i + 1) + '</span><h3>' + st[0] + '</h3><p>' + esc(st[1]) + '</p></li>';
+    }).join("") + '</ol><figcaption id="flow-cap">Steps 1, 2 and 5 run on their own. An editor does step 3, and a person approves every change in step 4.</figcaption></figure>';
+    var model = D.ai && D.ai.provider === "ollama" ? 'It is an open model, ' + esc(aiName) + ', that runs on the same machine as the schedule, without an outside AI service.'
+      : D.ai && D.ai.provider === "anthropic" ? 'It is ' + esc(aiName) + ', used through the Anthropic API.' : 'It runs only when it is switched on in the settings.';
     return '<main class="gut"><article class="aboutpage wrap"><div class="prose">' +
       '<h1>How this works</h1>' +
-      '<p>Andolan Index follows protest movements across India and keeps the reporting on each one in a single place, so anyone can see what is happening now and still find it after the news moves on.</p>' +
-      '<h2>Where the reports come from, where they are kept and how they reach you</h2></div>' + flow +
+      '<p>Andolan Index follows protest movements across India and keeps the reporting on each one in one place, so you can see what is happening now and still find it after the news moves on.</p>' +
+      '<h2>How a report reaches this page</h2></div>' + flow +
       '<div class="prose">' +
-      (sample ? '<h2>What a stored report looks like</h2><p>This is a real entry from the archive, exactly as it is stored. The summary is ours; the article stays on the outlet\u2019s site and is only linked.</p><pre class="sample"><code>' + esc(JSON.stringify(sample, null, 2)) + '</code></pre>' : "") +
-      '<h2>What a movement file holds</h2><p>A name, the places it covers with map coordinates, when it began, what it is about, what it demands, and a background section that explains the issue behind it and what it changes for people, with its sources. Each article, post or reference page about it is filed underneath as a report: a link, the outlet, the date and one or two sentences in our own words. We never copy article text.</p>' +
-      '<h2>The AI assistant</h2><p>The assistant does the reading and sorting so editors can spend their time checking. It runs ' +
-      (D.ai && D.ai.provider === "ollama" ? 'an open model, ' + esc(aiName) + ', on the machine that runs the schedule, so it needs no outside AI service.' : D.ai && D.ai.provider === "anthropic" ? esc(aiName) + ' through the Anthropic API.' : 'when it is switched on in the settings.') +
-      ' It is told to use only what the article says, to attribute contested claims and not to name private individuals. Its draft is then checked by code: every quote must appear in the article, and every number and name in the summary must too. Drafts that fail are flagged for the editor.</p>' +
-      '<p>Importance is a fixed formula, not the model\u2019s opinion: 10 points for each outlet covering the movement in the last 48 hours (up to 40), up to 20 for coverage growing week on week, and points for what the article reports (deaths 15, detentions 10, internet shutdowns 10, injuries 5, court orders 5, spread to a new city 5, up to 40). Every score comes with one line saying why.</p>' +
-      '<p>Nothing the assistant writes appears here until an editor approves it. ' + (D.ai && D.ai.autonomy === "links" ? 'Headlines of stories still waiting for review can appear on the front page, labelled as such, linking to the outlet.' : '') + ' Reports it drafted carry an \u201cAI-drafted, editor-approved\u201d label.</p>' +
+      '<h2>What each movement page holds</h2><p>A name, the places it covers, when it began, what it is about and what protesters are asking for, and a background section that explains the issue and what it changes for people, with its sources. Every article, post or reference page about the movement is listed underneath with its outlet, date and one or two sentences in our own words.</p>' +
+      '<h2>The AI assistant</h2><p>The assistant does the reading and sorting so editors can spend their time checking. ' + model +
+      ' It is told to use only what the article says, to say who made each contested claim and not to name private individuals. A program then checks its draft: every quote must appear in the article, and so must every number and name in the summary. Drafts that fail are flagged for the editor.</p>' +
+      '<p>It also scores how important each story is, by a fixed formula rather than the model’s opinion: how many outlets are covering the movement, whether that coverage is growing, and whether the story reports deaths, detentions, internet shutdowns, injuries or court orders. Editors see the highest scores first.</p>' +
+      '<p>Nothing the assistant writes appears here until an editor approves it. ' + (D.ai && D.ai.autonomy === "links" ? 'Headlines of stories still waiting for review can appear on the front page, labelled as such and linking to the outlet. ' : '') + 'Reports it drafted are labelled “AI-drafted, editor-approved”.</p>' +
       '<h2 id="lead-rule">How the lead story is chosen</h2><p>The front page leads with the protest that the most different outlets reported on in the past ' + (LEAD ? LEAD.days : 7) + ' days. Ties go to the one with more reports, then to the one reported most recently. Copies of one agency story, such as a PTI or Bloomberg report carried by another paper, count once. Only journalism counts: news reports, opinion, explainers, fact-checks and roundups, not reference pages such as Wikipedia.</p>' +
-      '<p>The article shown with it is that protest\u2019s newest report. When several appeared the same day, one we have read in full comes before a headline-only summary, a news report before commentary, and a report of detentions, injuries, deaths, shutdowns or court orders before one without. The choice is recalculated every time the site is rebuilt, at least once a day, so the lead changes as the news does. It counts approved reports only, never stories still waiting for review.</p>' +
-      '<h2>Keeping links alive</h2><p>After a report is stored, another script asks the Internet Archive to keep a copy of the article, so the link still works if the outlet moves or deletes it.</p>' +
+      '<p>The article shown with it is that protest’s newest report. When several appeared the same day, one we have read in full comes before a headline-only summary, a news report before commentary, and a report of detentions, injuries, deaths, shutdowns or court orders before one without. The choice is worked out again every day, so the lead changes as the news does. It counts approved reports only, never stories still waiting for review.</p>' +
       '<h2>Active, quiet and ended</h2><p>Active means at least one report from the last ' + d + ' days. Quiet means nothing newer has been found, which is not the same as over. Ended is set by hand when a protest is called off or resolved.</p>' +
-      '<h2>Headline only</h2><p>Some summaries rest on a headline or a snippet because the full article could not be read. They carry a "Headline only" mark until someone reads the article.</p>' +
+      '<h2>Headline only</h2><p>Some summaries rest on a headline or a snippet because the full article could not be read. They carry a “Headline only” mark until someone reads the article.</p>' +
       '<h2>Disputed claims</h2><p>Casualty figures, crowd sizes and accounts of clashes often differ between protesters, police and outlets. Summaries say who made each claim. Fact-checks are filed under the movement they concern.</p>' +
       '<h2>People</h2><p>We name organisations, office-holders and public leaders. We do not name private individuals who were detained or injured unless they have spoken publicly.</p>' +
+      '<h2>Keeping links alive</h2><p>After a report is saved, we ask the Internet Archive to keep a copy of the article, so the link still works if the outlet moves or deletes it.</p>' +
       '<h2>The map</h2><p>' + esc(MAP.source) + ' Pins mark the city or site where a movement is reported, not every place it reaches.</p>' +
-      '<h2>Reuse</h2><p>The data is free to reuse under CC BY 4.0: <a href="data/movements.json" target="_blank" rel="noopener">movements with their reports (JSON)</a>, <a href="data/reports.csv" target="_blank" rel="noopener">every report (CSV)</a>, or the <a href="feed.xml" target="_blank" rel="noopener">feed of new reports</a>.</p>' +
+      '<h2>Use the data</h2><p>Everything here is free to reuse with credit, under the CC BY 4.0 licence. You can download <a href="data/movements.json" target="_blank" rel="noopener">every movement with its reports</a> (JSON), <a href="data/reports.csv" target="_blank" rel="noopener">every report as a spreadsheet</a> (CSV), or follow <a href="feed.xml" target="_blank" rel="noopener">a feed of new reports</a>.' +
+      (D.config.repo_url ? ' The code, and how to run your own copy, are <a href="' + esc(D.config.repo_url) + '" target="_blank" rel="noopener">on GitHub</a>.' : '') + '</p>' +
       '</div></article></main>';
   }
 
   function footer() {
-    return '<footer class="foot gut"><div class="wrap"><p>Andolan Index is independent and is not affiliated with any party, union, organisation or government. Summaries are written in our own words, and where protesters and authorities disagree, each account is attributed to whoever gave it.</p>' +
-      '<p>Data under CC BY 4.0: <a href="data/movements.json" target="_blank" rel="noopener">JSON</a>, <a href="data/reports.csv" target="_blank" rel="noopener">CSV</a>, <a href="feed.xml" target="_blank" rel="noopener">feed</a>' +
-      (D.config.repo_url ? ', <a href="' + esc(D.config.repo_url) + '" target="_blank" rel="noopener">source and corrections</a>' : "") +
-      '. Map: DataMeet India, CC BY 4.0, showing the official boundary of India.</p></div></footer>';
+    return '<footer class="foot gut"><div class="wrap foot-in">' +
+      '<div class="foot-id"><p class="foot-brand">Andolan Index</p><p>Andolan Index is independent and is not affiliated with any party, union, organisation or government. Summaries are written in our own words, and where protesters and authorities disagree, each account is attributed to whoever gave it.</p></div>' +
+      '<div class="foot-col"><h2>The data</h2><ul>' +
+      '<li><a href="data/movements.json" target="_blank" rel="noopener">Movements and reports (JSON)</a></li>' +
+      '<li><a href="data/reports.csv" target="_blank" rel="noopener">Every report (CSV)</a></li>' +
+      '<li><a href="feed.xml" target="_blank" rel="noopener">Feed of new reports</a></li></ul></div>' +
+      '<div class="foot-col"><h2>The project</h2><ul>' +
+      '<li><a href="#about" data-go="about">How this works</a></li>' +
+      '<li><a href="#ledger" data-go="ledger">Every movement</a></li>' +
+      (D.config.repo_url ? '<li><a href="' + esc(D.config.repo_url) + '" target="_blank" rel="noopener">Source and corrections</a></li>' : "") + '</ul></div>' +
+      '<p class="foot-note">The data is free to reuse under CC BY 4.0. Map: DataMeet India, CC BY 4.0, showing the official boundary of India.</p>' +
+      '</div></footer>';
   }
 
   /* ---------- render ---------- */
@@ -996,10 +1084,20 @@
     if (ui.view === "movement" && !m) ui.view = "home";
     app.innerHTML = nav() + (ui.view === "home" ? home() : ui.view === "about" ? about() : movement(m)) + footer();
     document.title = ui.view === "movement" ? m.name + " | Andolan Index" : ui.view === "about" ? "How this works | Andolan Index" : D.config.title;
+    fitMast();
     layoutAll();
     placeIndicator();
     if (ui.view === "home") storyInit();
     ui.first = false;
+  }
+  // The masthead is sized in CSS for Big Shoulders. If that font is slow or blocked, the fallback is much wider and
+  // would be cut off at the edge, so measure the text that is actually drawn and fit it to the frame.
+  function fitMast() {
+    var h = document.querySelector(".h-hero"), s = h && h.firstElementChild;
+    if (!s) return;
+    h.style.fontSize = "";
+    var fs = parseFloat(getComputedStyle(h).fontSize), w = s.getBoundingClientRect().width, avail = h.clientWidth;
+    if (fs > 0 && w > 0 && avail > 0 && Math.abs(w - avail) > 2) h.style.fontSize = (fs * avail / w * 0.996).toFixed(2) + "px";
   }
   function updateList(animate) {
     var rows = document.getElementById("rows");
@@ -1168,7 +1266,7 @@
     var gal = t.closest("[data-gal]");
     if (gal) {
       var g = document.getElementById("gallery"), card = g && g.querySelector(".issue");
-      if (g && card) g.scrollBy({ left: (+gal.dataset.gal) * (card.offsetWidth + 20), behavior: REDUCE ? "auto" : "smooth" });
+      if (g && card) g.scrollBy({ left: (+gal.dataset.gal) * (card.offsetWidth + (parseFloat(getComputedStyle(g).columnGap) || 20)), behavior: REDUCE ? "auto" : "smooth" });
       return;
     }
     var rowEl = t.closest(".row[data-id]");
@@ -1273,11 +1371,13 @@
   var resizeTimer = null;
   window.addEventListener("resize", function () {
     placeIndicator();
+    fitMast();
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(function () { layoutAll(); if (story) { readScroll(); layoutPins(); } }, 120);
   });
   document.addEventListener("visibilitychange", function () { if (document.hidden) clearCards(); });
-  if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { placeIndicator(); if (story) layoutPins(); });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { fitMast(); placeIndicator(); if (story) layoutPins(); });
+  if (document.fonts && document.fonts.addEventListener) document.fonts.addEventListener("loadingdone", fitMast);
 
   /* ---------- start ---------- */
   try { if ("scrollRestoration" in history) history.scrollRestoration = "manual"; } catch (e) { /* not essential */ }

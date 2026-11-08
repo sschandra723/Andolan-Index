@@ -30,7 +30,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit
 
-from .common import CONFIG, DATA, load_inbox, load_movements, load_reports, read_json, write_json
+from .common import CONFIG, DATA, load_inbox, load_movements, load_reports, read_json, today_ist, write_json
 
 USER_AGENT = "AndolanIndexBot/0.2 (public protest archive; reads articles to summarise and link them)"
 SIGNALS = ["detentions", "deaths", "injuries", "internet_shutdown", "court_order", "new_city"]
@@ -368,7 +368,7 @@ def draft_candidate(c: dict, model, movements: dict, cfg: dict, fetcher=fetch_ar
         draft["movement"] = "none" if not draft.get("is_protest_in_india") else "new"
     known = {m.get("short_name", "") for m in movements.values()} | {c["outlet"]}
     checks = verify(draft, article, known)
-    return {"model": model.name, "read_chars": len(article), "fetch_note": fetch_note, "drafted": date.today().isoformat(),
+    return {"model": model.name, "read_chars": len(article), "fetch_note": fetch_note, "drafted": today_ist().isoformat(),
             "is_protest_in_india": bool(draft.get("is_protest_in_india")), "movement": draft.get("movement"),
             "new_movement": draft.get("new_movement"), "summary": (draft.get("summary") or "").strip(),
             "facts": draft.get("facts") or [], "signals": {k: bool((draft.get("signals") or {}).get(k)) for k in SIGNALS},
@@ -378,7 +378,7 @@ def draft_candidate(c: dict, model, movements: dict, cfg: dict, fetcher=fetch_ar
 
 def run(model, data: Path = DATA, today: date | None = None, cfg: dict | None = None, fetcher=fetch_article,
         pause: float = 0.0) -> list[dict]:
-    today = today or date.today()
+    today = today or today_ist()
     cfg = cfg or load_config()
     movements = load_movements(data)
     reports = load_reports(data)

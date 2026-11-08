@@ -1,0 +1,58 @@
+{
+  "id": "c556f55b68",
+  "url": "https://www.hindustantimes.com/india-news/punjab-anti-drug-activist-parvinder-singh-jhota-cremation-26-days-after-being-shot-dead-in-mansa-amid-protests-and-demands-for-justice-101794132432607.html",
+  "title": "Punjab anti-drug activist Parvinder Singh Jhota cremated 26 days after being shot dead",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-08",
+  "collected": "2026-11-08",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3643,
+    "fetch_note": null,
+    "drafted": "2026-11-08",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Punjab anti-drug activist Parvinder Singh Jhota was shot dead in Mansa on October 13, triggering protests and political tensions. His family and the Joint Action Committee demanded justice and action against drug trafficking, leading to a 22-day agitation and eventual cremation after a post-mortem.",
+    "facts": [
+      {
+        "claim": "Punjab anti-drug activist Parvinder Singh Jhota was shot dead in Mansa on October 13",
+        "quote": "Jhota was shot dead on October 13 in broad daylight at a medical store in a busy marketplace in Mansa town while he was hosting a Facebook Live session."
+      },
+      {
+        "claim": "The murder triggered protests and a political row",
+        "quote": "Jhota's murder in Mansa had triggered protests and a political row, with his family demanding justice and action against drug trafficking in Punjab."
+      },
+      {
+        "claim": "Family and JAC demanded justice and action against drug trafficking",
+        "quote": "The anti-drug activist's family, along with the JAC, had been sitting on a protest in Mansa seeking justice for the slain activist."
+      },
+      {
+        "claim": "22-day agitation ended with post-mortem and cremation",
+        "quote": "Jhota's body was brought to PGIMER Chandigarh from the mortuary of Civil Hospital in Mansa in the early hours of Friday, after his family ended their 22-day agitation and agreed to a post-mortem following a meeting with Punjab government representatives on Wednesday (November 4)."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The murder of Punjab anti-drug activist Parvinder Singh Jhota led to a 22-day agitation and political tensions, with demands for justice and action against drug trafficking.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

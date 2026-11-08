@@ -1,0 +1,90 @@
+{
+  "id": "36eaa410b5",
+  "url": "https://www.thehindu.com/news/national/kerala/sanskrit-university-suspension-row-govindan-backs-stir-says-it-should-go-on-till-suspended-students-write-exams/article71680767.ece",
+  "title": "Sanskrit University suspension row: Govindan backs stir, says it should go on till suspended students write exams",
+  "outlet": "The Hindu",
+  "published": "2026-11-08",
+  "collected": "2026-11-08",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "syndicate"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2243,
+    "fetch_note": null,
+    "drafted": "2026-11-08",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "CPI(M) state secretary M.V. Govindan supports Sree Sankaracharya University of Sanskrit students' protest demanding reinstatement of suspended students to write exams, saying the agitation should continue until all suspended students appear for exams.",
+    "facts": [
+      {
+        "claim": "CPI(M) state secretary M.V. Govindan expressed solidarity with the ongoing agitation by students of Sree Sankaracharya University of Sanskrit at Kalady near Kochi",
+        "quote": "CPI(M) state secretary M.V. Govindan on Sunday (November 8, 2026) expressed solidarity with the ongoing agitation by students of Sree Sankaracharya University of Sanskrit at Kalady near Kochi, saying the protest should continue until all the suspended students are allowed to appear for their examinations."
+      },
+      {
+        "claim": "Sixteen students were suspended after a Students’ Federation of India (SFI)-led protest during a syndicate meeting on August 13 over a lack of adequate campus facilities",
+        "quote": "Sixteen students were suspended after a Students’ Federation of India (SFI)-led protest during a syndicate meeting on August 13 over a lack of adequate campus facilities."
+      },
+      {
+        "claim": "They were accused of staging a \"mock cremation\" of Vice-Chancellor Ciza Thomas, manhandling her and attempting to damage university property",
+        "quote": "They were accused of staging a \"mock cremation\" of Vice-Chancellor Ciza Thomas, manhandling her and attempting to damage university property."
+      },
+      {
+        "claim": "A single bench of the Kerala High Court had directed the university to allow the students to appear for the examinations, but a division bench later stayed the order",
+        "quote": "A single bench of the Kerala High Court had directed the university to allow the students to appear for the examinations, but a division bench later stayed the order."
+      },
+      {
+        "claim": "The university said the suspension of 10 of the 16 students would be revoked if they apologised, but they refused",
+        "quote": "The university said the suspension of 10 of the 16 students would be revoked if they apologised, but they refused."
+      },
+      {
+        "claim": "In a Facebook post after visiting the protest tent and interacting with the students, Mr. Govindan said the agitation would not be called off merely with an apology",
+        "quote": "In a Facebook post after visiting the protest tent and interacting with the students, Mr. Govindan said the agitation would not be called off merely with an apology."
+      },
+      {
+        "claim": "Everyone knows who has a history of apologising. The students’ agitation will end only after all the expelled students have written their examinations",
+        "quote": "\"Everyone knows who has a history of apologising. The students’ agitation will end only after all the expelled students have written their examinations,\" he said."
+      },
+      {
+        "claim": "He alleged that the university’s functioning had been disrupted because the Vice-Chancellor rarely visited the institution",
+        "quote": "He alleged that the university’s functioning had been disrupted because the Vice-Chancellor rarely visited the institution."
+      },
+      {
+        "claim": "Thomas had raised no complaint while the students were protesting, he said, but later filed a police case, in which the students secured bail",
+        "quote": "Thomas had raised no complaint while the students were protesting, he said, but later filed a police case, in which the students secured bail."
+      },
+      {
+        "claim": "He alleged that the Governor’s subsequent intervention had aggravated the situation and claimed that the developments were part of a planned RSS agenda",
+        "quote": "He alleged that the Governor’s subsequent intervention had aggravated the situation and claimed that the developments were part of a planned RSS agenda."
+      },
+      {
+        "claim": "Accusing the BJP and Chief Minister V.D. Satheesan of working towards the saffronisation of Keralam, he alleged that the two had supported each other during the Assembly elections as well",
+        "quote": "Accusing the BJP and Chief Minister V.D. Satheesan of working towards the saffronisation of Keralam, he alleged that the two had supported each other during the Assembly elections as well."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students of Sree Sankaracharya University of Sanskrit at Kalady near Kochi suspended for protesting lack of campus facilities; university initially offered to revoke suspension with apology but students refused.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "10/11",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “He alleged that the Governor’s subsequent intervention had aggravated the situat”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

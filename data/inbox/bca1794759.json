@@ -8,5 +8,43 @@
   "suggested_movement": null,
   "score": 0.0,
   "matched": [],
-  "alternatives": []
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1977,
+    "fetch_note": null,
+    "drafted": "2026-11-08",
+    "is_protest_in_india": true,
+    "movement": "jharkhand-108-ambulance-2026",
+    "new_movement": null,
+    "summary": "In Jharkhand, ambulance staff announced an indefinite strike starting October 26, 2026, after their union decided to postpone the strike date due to festivals and public emergencies.",
+    "facts": [
+      {
+        "claim": "In Jharkhand, ambulance staff announced an indefinite strike starting October 26, 2026",
+        "quote": "झारखंड में 108 एंबुलेंस कर्मचारियों की प्रस्तावित राज्यव्यापी अनिश्चितकालीन हड़ताल अब 21 अक्टूबर के बजाय 26 अक्टूबर 2026 से शुरू होगी."
+      },
+      {
+        "claim": "after their union decided to postpone the strike date due to festivals and public emergencies",
+        "quote": "झारखंड प्रदेश एंबुलेंस कर्मचारी संघ ने दुर्गा पूजा, विजयादशमी और आम लोगों की आपातकालीन जरूरतों को ध्यान में रखते हुए हड़ताल की तारीख आगे बढ़ाने का निर्णय लिया है."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ambulance staff in Jharkhand have not received salaries since July, prompting their union to call an indefinite statewide strike from October 26, 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": false,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
 }

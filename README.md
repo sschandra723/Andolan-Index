@@ -54,7 +54,8 @@ stories from most to least important, each with its draft and check result.
 
 - `review`: nothing appears on the site until an editor approves it.
 - `links` (default): the headlines and links of stories waiting for review also appear on the front page, labelled
-  "Waiting for review". The model's own text is never shown until an editor approves it.
+  "Waiting for review". The model's own text is never shown until an editor approves it. Only stories that have a
+  date, are from the last 14 days (`waiting_days` in `config/site.json`) and are not already published are listed.
 
 Editors approve drafts with `python -m andolan curate promote <id>` (uses the AI draft if it passed its checks) or
 `python -m andolan curate accept-ai` (every draft that passed its checks, for movements already tracked, with
@@ -75,12 +76,21 @@ hidden instructions can make it do; an editor's approval is the final safeguard.
    - `python -m andolan curate reject <id> --reason "not about a protest"`
    - `python -m andolan curate add --url ... --outlet ... --date ... --movement ... --summary ...` for articles found by hand
    - `python -m andolan curate new-movement <id>` when a story belongs to a protest we do not track yet. It writes a stub; fill in every TODO.
-3. **Merge.** CI runs `validate` and the tests. Merging to `main` rebuilds and publishes the site.
+   - `python -m andolan curate tidy` removes inbox stories that are already published. This happens when the collector's
+     pull request is merged after one that approved some of its stories; the collector also tidies before every run.
+3. **Merge.** CI runs `validate` and the tests. Merging to `main` rebuilds and publishes the site. `validate` also
+   prints notes that do not block publishing: inbox stories already published or without a date, and movements marked
+   ended that have a later report.
 4. **Archive.** `python -m andolan archive` asks the Internet Archive for a saved copy of each report, so links survive link rot.
 
 Active / Quiet / Ended is worked out when the site is built: **Active** if the movement has a report in the last 21
 days (`active_days` in `config/site.json`), **Quiet** otherwise, **Ended** only when you set `ended` on the movement.
-The deploy workflow also runs daily so labels change as time passes.
+The page works these out again in the reader's browser each day, together with which protest leads the news, using
+the same rules as the build (`refreshToday` in `site_src/app.js` mirrors `status_for` and `coverage.py`). So the
+labels stay current even when no one has pushed for weeks.
+
+**Dates are Indian dates.** Articles are filed by the day they were published in India (IST), and "today" in the
+build, the validator and the browser is the date in India, so a story published at 1 am IST is not filed a day early.
 
 ## The site
 
@@ -176,13 +186,24 @@ background, roundup), `url`, `archive_url`, `summary`, `read`, `added`.
 - File fact-checks as reports on the movement they concern; they are how misattributed videos get caught.
 - Corrections: fix the file, say what changed in the pull request, keep the `id`.
 
-## Put it online (GitHub Pages)
+## Put it online
 
-1. Create a repository and push this folder.
-2. **Settings > Pages > Source: GitHub Actions.**
-3. **Settings > Actions > General > Workflow permissions:** tick "Allow GitHub Actions to create and approve pull requests".
-4. Set `repo_url` in `config/site.json` if you want a "Source and corrections" link in the footer. The site URL is picked up automatically.
-5. Run **Actions > Collect new stories** once by hand and read the log. Feeds that fail are listed there.
+The main address is **https://andolanindex.vercel.app** (`base_url` in `config/site.json`). Every page names it as
+the original (canonical link), citations link to it, and `sitemap.xml` and `robots.txt` are written for it. Change
+`base_url` if you move to your own domain.
+
+**Vercel** (main). Import the repository; `vercel.json` sets everything: no framework, build command
+`python3 -m andolan build`, output folder `site`. Vercel rebuilds on every push to `main` and builds a preview for
+every pull request.
+
+**GitHub Pages** (optional copy). The deploy workflow also publishes to Pages. It keeps `base_url`, so search
+engines treat the Vercel address as the original. To turn it off, disable the workflow.
+
+Either way:
+
+1. **Settings > Actions > General > Workflow permissions:** tick "Allow GitHub Actions to create and approve pull requests".
+2. Set `repo_url` in `config/site.json` for the "Source and corrections" and GitHub links.
+3. Run **Actions > Collect new stories** once by hand and read the log. Feeds that fail are listed there.
 
 ## Tuning
 

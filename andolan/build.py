@@ -25,6 +25,7 @@ from .common import (ACTIVE_DAYS, CONFIG, DATA, ROOT, load_inbox, load_movements
 
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 STATUS_ORDER = {"active": 0, "quiet": 1, "ended": 2}
+WAITING_DAYS = 14   # how long a collected story stays on the public "Waiting for review" list
 STATUS_LABEL = {"active": "Active", "quiet": "Quiet", "ended": "Ended"}
 FONTS = ("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900"
          "&family=Big+Shoulders+Text:wght@500;600;700&family=Mukta:wght@400;500;600;700&display=swap")
@@ -40,7 +41,8 @@ def fmt(s: str | None) -> str:
 
 
 def load_site_config() -> dict:
-    cfg = {"title": "Andolan Index", "tagline": "", "base_url": "", "repo_url": "", "active_days": ACTIVE_DAYS}
+    cfg = {"title": "Andolan Index", "tagline": "", "base_url": "", "repo_url": "", "active_days": ACTIVE_DAYS,
+           "waiting_days": WAITING_DAYS}
     cfg.update(read_json(CONFIG / "site.json"))
     cfg["base_url"] = (os.environ.get("ANDOLAN_BASE_URL") or cfg["base_url"]).rstrip("/")
     return cfg
@@ -69,9 +71,6 @@ def embed_json(obj) -> str:
     """JSON that is safe inside <script type="application/json">: no '<', '>' or '&' can close the tag."""
     return (json.dumps(obj, ensure_ascii=False, separators=(",", ":"))
             .replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026"))
-
-
-WAITING_DAYS = 14
 
 
 def waiting_for_review(data: Path, movements: list[dict], today: date | None = None, days: int = WAITING_DAYS) -> list[dict]:
@@ -106,7 +105,7 @@ def client_data(cfg: dict, movements: list[dict], directory: list[dict], today: 
     client = [{k: m[k] for k in keep if k in m} for m in movements]
     return {
         "today": today.isoformat(),
-        "config": {k: cfg[k] for k in ("title", "tagline", "base_url", "repo_url", "active_days")},
+        "config": {k: cfg[k] for k in ("title", "tagline", "base_url", "repo_url", "active_days", "waiting_days")},
         "movements": client,
         "lead": coverage(client, today),
         "directory": directory,
@@ -231,6 +230,7 @@ def build(*, out: Path, today: date, data: Path = DATA) -> dict:
     (out / "feed.xml").write_text(atom_feed(cfg, movements, today), encoding="utf-8")
     if cfg["base_url"]:
         (out / "sitemap.xml").write_text(sitemap(cfg, movements), encoding="utf-8")
+        (out / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {cfg['base_url']}/sitemap.xml\n", encoding="utf-8")
     (out / ".nojekyll").write_text("", encoding="utf-8")
     return {"movements": len(movements), "reports": len(flat), "active": sum(m["status"] == "active" for m in movements)}
 

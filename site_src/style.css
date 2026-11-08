@@ -91,7 +91,6 @@ body::before{background:var(--night)}
 .nav nav a:hover{color:var(--night-ink)}
 .nav nav a[aria-current="page"]{color:var(--night-ink);text-decoration-color:var(--saffron)}
 .nav :focus-visible{outline-color:var(--saffron)}
-@media (max-width:520px){.nav nav a.opt{display:none}}
 @media (max-width:430px){.nav-l{gap:10px}.brand{font-size:21px}.nav nav{gap:4px 16px;font-size:14px}}
 @media (max-width:375px){.nav-in{gap:12px}.nav-l{gap:8px}.brand{font-size:19px}.nav nav{gap:4px 11px;font-size:13.5px}}
 @media (max-width:345px){.nav-l:has(.nav-back)~nav a[data-go="ledger"]{display:none}}
@@ -549,8 +548,7 @@ body::before{background:var(--night)}
 /* ---------- how this works ---------- */
 .prose{padding-block:clamp(36px,4vw,64px) 0}
 .prose>*{max-width:68ch}
-.prose>h1,.prose>.sample{max-width:none}
-.prose>.sample{max-width:96ch}
+.prose>h1{max-width:none}
 .prose h1{font:900 clamp(48px,7vw,120px)/.9 var(--f-display);margin:0 0 24px;letter-spacing:-.004em}
 .prose h2{font:800 clamp(26px,2.2vw,34px)/1.1 var(--f-display);margin:40px 0 10px}
 .prose p,.prose li{font-size:18px;line-height:1.62}
@@ -563,13 +561,9 @@ body::before{background:var(--night)}
 .flow-n{font:700 24px/1 var(--f-label);color:var(--today-ink)}
 .flow h3{margin:0;font:800 clamp(28px,2.2vw,34px)/1 var(--f-display)}
 .flow p{margin:0;font-size:16px;line-height:1.55;color:var(--ink-2);max-width:44ch}
-.flow-code{margin-top:auto!important;display:flex;flex-direction:column;gap:6px;align-items:flex-start}
-.flow-code code{font-size:13px;overflow-wrap:anywhere;color:var(--ink-2)}
 .flow figcaption{margin-top:22px;font-size:15px;color:var(--ink-2);max-width:80ch}
 @media (max-width:980px){.flow ol{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:620px){.flow ol{grid-template-columns:minmax(0,1fr);gap:30px}}
-.sample{margin:0 0 12px;background:var(--night);color:#dfe2ff;border-radius:var(--r-md);padding:20px 22px;overflow-x:auto;font-size:13px;line-height:1.55;white-space:pre-wrap;overflow-wrap:anywhere}
-.sample code{background:none;padding:0;font-size:13px;color:inherit}
 
 /* ---------- stories waiting for review ---------- */
 .wlist{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,360px),1fr));gap:0 var(--col-gap);border-top:1px solid var(--rule)}

@@ -1,0 +1,64 @@
+{
+  "id": "7ab6de533b",
+  "url": "https://www.hindustantimes.com/india-news/mockery-of-democracy-ex-bjp-mp-gopal-shetty-tonsures-head-in-protest-over-bmc-demolition-in-borivali-101794125272632.html",
+  "title": "'Mockery of democracy': Ex-BJP MP Gopal Shetty tonsures head in protest over BMC demolition in Borivali",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-08",
+  "collected": "2026-11-08",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3323,
+    "fetch_note": null,
+    "drafted": "2026-11-08",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ex-BJP MP Gopal Shetty tonsured his head in protest against Mumbai's BMC demolishing 27 houses in Borivali East, claiming residents were given insufficient time to retrieve belongings and local BJP leadership failed to support affected families.",
+    "facts": [
+      {
+        "claim": "BMC demolished 27 houses",
+        "quote": "The BMC demolished 27 houses built on a 3,400-sq-metre plot in Borivali East."
+      },
+      {
+        "claim": "Shetty tonsured his head in protest",
+        "quote": "Former BJP MP Gopal Shetty has tonsured his head in protest against the Brihanmumbai Municipal Corporation's (BMC) demolition of 27 houses in Borivali East"
+      },
+      {
+        "claim": "Residents given notices around 1.30 am",
+        "quote": "He claimed that residents were given notices around 1.30 am and their houses were demolished by 7 am"
+      },
+      {
+        "claim": "BMC demolished houses on private land",
+        "quote": "Shetty claimed that the structures stood on private land occupied for nearly 50 years"
+      },
+      {
+        "claim": "BMC issued show-cause notices",
+        "quote": "The BMC had issued show-cause notices to its R-Central ward assistant municipal commissioner, Praful Tambe, and law officer, Komal Punjabi, over alleged administrative lapses in handling the case."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ex-BJP MP Gopal Shetty tonsured his head in protest against Mumbai's BMC demolishing 27 houses in Borivali East, claiming residents were given insufficient time to retrieve belongings and local BJP leadership failed to support affected families.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Shetty claimed that the structures stood on private land occupied for nearly 50 ”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

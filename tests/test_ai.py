@@ -12,6 +12,7 @@ from andolan.common import DATA, read_json
 
 FIX = Path(__file__).parent / "fixtures"
 TODAY = date(2026, 10, 25)
+CHECK_DAY = date(2026, 11, 8)  # validate the real dataset as of its newest report, so later reports are not "in the future"
 ARTICLE_HTML = (FIX / "article_sir.html").read_text(encoding="utf-8")
 ARTICLE = ai.extract_text(ARTICLE_HTML)
 FEEDS = [({"name": "Sample India Desk", "require_india": False}, (FIX / "rss_sample.xml").read_bytes()),
@@ -125,7 +126,7 @@ class TestRun(unittest.TestCase):
         self.assertNotIn("Ignore all previous instructions", json.dumps(sir))
         # the prompt fences the article as data and lists our movements
         self.assertIn("<<<", model.prompts[0]); self.assertIn("anti-sir-2026", model.prompts[0])
-        self.assertEqual(validate.check_dataset(self.data, TODAY), [])
+        self.assertEqual(validate.check_dataset(self.data, CHECK_DAY), [])
         self.assertEqual(ai.run(model, data=self.data, today=TODAY, cfg=self.cfg, fetcher=self.fetch), [])  # nothing twice
         body = ai.pr_summary(self.data)
         self.assertIn("passed checks", body); self.assertIn("needs checking", body)
@@ -134,7 +135,7 @@ class TestRun(unittest.TestCase):
         ai.run(FakeModel(dict(GOOD, movement="made-up-id")), data=self.data, today=TODAY, cfg=self.cfg, fetcher=self.fetch)
         sir = read_json(self.data / "inbox" / f"{self.sir['id']}.json")
         self.assertEqual(sir["ai"]["movement"], "new")
-        self.assertEqual(validate.check_dataset(self.data, TODAY), [])
+        self.assertEqual(validate.check_dataset(self.data, CHECK_DAY), [])
 
     def test_editor_approves_ai_drafts(self):
         ai.run(FakeModel(GOOD), data=self.data, today=TODAY, cfg=self.cfg, fetcher=self.fetch)
@@ -148,7 +149,7 @@ class TestRun(unittest.TestCase):
         p = curate.promote(other["id"], movement="up-nhm-staff-2026", data=self.data, today=TODAY,  # ...unless the editor writes their own
                            summary="Contract staff in Lucknow begin an indefinite strike over pay and permanent posts.")
         self.assertEqual(read_json(p)["drafted_by"], "person")
-        self.assertEqual(validate.check_dataset(self.data, TODAY), [])
+        self.assertEqual(validate.check_dataset(self.data, CHECK_DAY), [])
 
     def test_new_movement_from_ai_proposal_still_needs_an_editor(self):
         prop = dict(GOOD, movement="new", new_movement={"name": "Test movement for water rights", "short_name": "Water rights",
@@ -157,7 +158,7 @@ class TestRun(unittest.TestCase):
         curate.new_movement("water-rights-2026", data=self.data, from_candidate=self.sir["id"])
         m = read_json(self.data / "movements" / "water-rights-2026.json")
         self.assertEqual(m["places"], "Bundelkhand")
-        self.assertTrue(any("TODO" in e for e in validate.check_dataset(self.data, TODAY)))
+        self.assertTrue(any("TODO" in e for e in validate.check_dataset(self.data, CHECK_DAY)))
 
     def test_site_shows_waiting_headlines_but_never_ai_text(self):
         ai.run(FakeModel(GOOD), data=self.data, today=TODAY, cfg=self.cfg, fetcher=self.fetch)

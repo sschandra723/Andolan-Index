@@ -1,0 +1,57 @@
+{
+  "id": "siang-dam-protests",
+  "name": "Siang Valley protests against the Siang Upper Multipurpose Project",
+  "short_name": "Siang dam protests",
+  "aliases": [
+    "Siang dam protest",
+    "SUMP protest",
+    "Siang Indigenous Farmers' Forum agitation"
+  ],
+  "keywords": [
+    "Siang",
+    "Siang Upper Multipurpose",
+    "Siang Indigenous Farmers",
+    "=SUMP",
+    "=SIFF",
+    "Pema Khandu"
+  ],
+  "cause": "Land",
+  "states": [
+    "Arunachal Pradesh"
+  ],
+  "places": "Siang Valley; Jully Central Jail near Itanagar",
+  "locations": [
+    {
+      "name": "Siang Valley",
+      "lat": 28.4,
+      "lon": 95.05
+    }
+  ],
+  "started": "2026-10",
+  "about": "The Siang Indigenous Farmers' Forum (SIFF) leads opposition to the proposed Siang Upper Multipurpose Project, a mega dam in Arunachal Pradesh. Hindustan Times reports repeated shutdowns, confrontations with security personnel, arrests and violence in parts of the Siang region. Four protesters detained on 9 October under the Arunachal Pradesh Unlawful Activities Act, 2014, were released on 7 November. The agitation began before October; this archive's records start there.",
+  "demands": "Opposition to the proposed dam; release of detained protesters; withdrawal of FIRs against protesters; reinstatement of traditional village authorities disciplined over the agitation.",
+  "context": {
+    "question": "Why are people in the Siang Valley protesting a dam?",
+    "short": "The Siang Indigenous Farmers' Forum opposes a proposed mega dam on the Siang in Arunachal Pradesh. After a month of detentions, the state freed four protesters on 7 November and asked SIFF to talk.",
+    "explainer": [
+      "The Siang Upper Multipurpose Project (SUMP) is a proposed mega dam on the Siang river in Arunachal Pradesh. Hindustan Times reports that opposition to it has brought protests and confrontations to the Siang Valley in recent months, including repeated shutdowns, arrests and incidents of violence. Two Hindustan Times reports of 7 November give its capacity differently, as 11,200 MW and 1,000 MW.",
+      "Four protesters were detained on 9 October under the Arunachal Pradesh Unlawful Activities Act, 2014, and released from Jully Central Jail near Itanagar on 7 November. The government said it agreed to free them as a goodwill gesture, and also approved reinstating gaon buras and gaon buris (traditional village authorities) who had faced disciplinary action over the agitation.",
+      "SIFF had refused talks with Chief Minister Pema Khandu until its demands were met. The government has asked it to name a date and delegates for a meeting, and said withdrawal of FIRs against protesters must follow due legal process."
+    ],
+    "impact": [
+      "Release of the four protesters was among SIFF's key demands before agreeing to talks (Hindustan Times).",
+      "Withdrawal of the FIRs remains unresolved: the government says it must follow due legal process."
+    ],
+    "sources": [
+      {
+        "title": "Four Siang dam protesters released in Arunachal after nearly month in detention (Hindustan Times, 7 Nov 2026; quotes checked by the collector)",
+        "url": "https://www.hindustantimes.com/india-news/four-siang-dam-protesters-released-in-arunachal-after-nearly-month-in-detention-101794040336392.html"
+      },
+      {
+        "title": "Arunachal govt releases 4 Siang dam protesters, seeks fresh dialogue (Hindustan Times, 7 Nov 2026; quotes checked by the collector)",
+        "url": "https://www.hindustantimes.com/india-news/arunachal-govt-releases-4-siang-dam-protesters-seeks-fresh-dialogue-101794045686662.html"
+      }
+    ],
+    "updated": "2026-11-08"
+  }
+}

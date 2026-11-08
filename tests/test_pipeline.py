@@ -10,6 +10,7 @@ from andolan.common import DATA, load_reports, normalize_url, read_json, status_
 
 FIX = Path(__file__).parent / "fixtures"
 TODAY = date(2026, 10, 25)
+CHECK_DAY = date(2026, 11, 8)  # validate the real dataset as of its newest report, so later reports are not "in the future"
 FEEDS = [({"name": "Sample India Desk", "require_india": False}, (FIX / "rss_sample.xml").read_bytes()),
          ({"name": "Sample Atom Desk", "require_india": True}, (FIX / "atom_sample.xml").read_bytes())]
 
@@ -70,7 +71,7 @@ class TestPipeline(Tmp):
         self.assertIsNone(dharna["suggested_movement"])
         for c in new:  # nothing but metadata is stored
             self.assertEqual(set(c), {"id", "url", "title", "outlet", "published", "collected", "suggested_movement", "score", "matched", "alternatives"})
-        self.assertEqual(validate.check_dataset(self.data, TODAY), [])
+        self.assertEqual(validate.check_dataset(self.data, CHECK_DAY), [])
         self.assertEqual(collect.collect(FEEDS, data=self.data, today=TODAY), [])  # second run finds nothing new
 
     def test_promote_reject_and_validate(self):
@@ -89,7 +90,7 @@ class TestPipeline(Tmp):
         with self.assertRaises(curate.CurateError):   # unknown movement
             curate.promote(nhm["id"], movement="nope", read=False, summary="x" * 30, today=TODAY, data=self.data)
         curate.reject(dharna["id"], "local issue, not tracked", data=self.data)
-        self.assertEqual(validate.check_dataset(self.data, TODAY), [])
+        self.assertEqual(validate.check_dataset(self.data, CHECK_DAY), [])
         self.assertEqual([c for c in collect.collect(FEEDS, data=self.data, today=TODAY) if c["id"] == dharna["id"]], [])
         with self.assertRaises(curate.CurateError):   # same article twice under one movement
             curate.add_report(url=sir["url"], outlet=sir["outlet"], report_date=sir["published"], movement="anti-sir-2026",
@@ -97,7 +98,7 @@ class TestPipeline(Tmp):
         # ...but one article may sit under two movements (e.g. a labour roundup)
         curate.add_report(url=sir["url"], outlet=sir["outlet"], report_date=sir["published"], movement="neet-jantar-mantar-2026",
                           summary="Mentions the earlier NEET protest as background to the new campaign.", read=True, data=self.data, today=TODAY)
-        self.assertEqual(validate.check_dataset(self.data, TODAY), [])
+        self.assertEqual(validate.check_dataset(self.data, CHECK_DAY), [])
 
     def test_validator_catches_mistakes(self):
         p = next((self.data / "reports").glob("*/*/*.json"))
@@ -105,20 +106,20 @@ class TestPipeline(Tmp):
         r = read_json(p)
         r["movement"] = "does-not-exist"
         p.write_text(json.dumps(r))
-        errs = validate.check_dataset(self.data, TODAY)
+        errs = validate.check_dataset(self.data, CHECK_DAY)
         self.assertTrue(any("unknown movement" in e for e in errs), errs)
         r = json.loads(original)
         r["summary"] = "too short"
         p.write_text(json.dumps(r))
-        self.assertTrue(any("summary" in e for e in validate.check_dataset(self.data, TODAY)))
+        self.assertTrue(any("summary" in e for e in validate.check_dataset(self.data, CHECK_DAY)))
         p.write_text(original)
-        self.assertEqual(validate.check_dataset(self.data, TODAY), [])
+        self.assertEqual(validate.check_dataset(self.data, CHECK_DAY), [])
         (self.data / "movements" / "stub.json").write_text(json.dumps({"id": "stub"}))
-        self.assertTrue(any("stub.json" in e for e in validate.check_dataset(self.data, TODAY)))
+        self.assertTrue(any("stub.json" in e for e in validate.check_dataset(self.data, CHECK_DAY)))
 
     def test_new_movement_stub_fails_until_filled(self):
         curate.new_movement("test-stub", data=self.data)
-        self.assertTrue(any("TODO" in e for e in validate.check_dataset(self.data, TODAY)))
+        self.assertTrue(any("TODO" in e for e in validate.check_dataset(self.data, CHECK_DAY)))
 
 
 class TestBuild(Tmp):
@@ -126,17 +127,17 @@ class TestBuild(Tmp):
         import csv, re
         out = self.dir / "site"
         stats = build.build(out=out, today=TODAY, data=self.data)
-        self.assertEqual(stats, {"movements": 28, "reports": 84, "active": 9})
+        self.assertEqual(stats, {"movements": 31, "reports": 93, "active": 12})
         movements = {m["id"]: m for m in read_json(out / "data" / "movements.json")}
         self.assertEqual(movements["neet-jantar-mantar-2026"]["status"], "ended")
         self.assertEqual(movements["ladakh-statehood"]["status"], "quiet")
-        self.assertEqual(movements["anti-sir-2026"]["report_count"], 18)
+        self.assertEqual(movements["anti-sir-2026"]["report_count"], 21)
         # the app page carries the whole dataset, safely embedded
         index = (out / "index.html").read_text(encoding="utf-8")
         blob = re.search(r'<script type="application/json" id="andolan-data">(.*?)</script>', index, re.S).group(1)
         embedded = json.loads(blob)
         self.assertEqual(embedded["today"], "2026-10-25")
-        self.assertEqual(len(embedded["movements"]), 28)
+        self.assertEqual(len(embedded["movements"]), 31)
         self.assertNotIn("keywords", embedded["movements"][0])            # matching terms stay out of the page
         self.assertEqual(len(embedded["map"]["states"]), 36)               # every state and union territory
         self.assertIn("Survey of India", embedded["map"]["source"])
@@ -148,16 +149,16 @@ class TestBuild(Tmp):
         for name in ("assets/app.js", "assets/style.css", "feed.xml", "about.html"):
             self.assertTrue((out / name).exists(), name)
         # permanent movement pages work without JavaScript
-        self.assertEqual(len(list((out / "m").glob("*.html"))), 28)
+        self.assertEqual(len(list((out / "m").glob("*.html"))), 31)
         neet = (out / "m" / "neet-jantar-mantar-2026.html").read_text(encoding="utf-8")
         self.assertIn("Began 21 Jun 2026, ended 25 Jul 2026", neet)  # its own dates, not its latest report
         self.assertIn("(headline only)", neet)
         self.assertIn('location.replace("../index.html#neet-jantar-mantar-2026")', neet)
         sir_page = (out / "m" / "anti-sir-2026.html").read_text(encoding="utf-8")
-        self.assertEqual(sir_page.count("<li><b>"), 18)
+        self.assertEqual(sir_page.count("<li><b>"), 21)
         self.assertIn("Background: What is the SIR", sir_page)
         with (out / "data" / "reports.csv").open(encoding="utf-8", newline="") as fh:
-            self.assertEqual(len(list(csv.DictReader(fh))), 84)
+            self.assertEqual(len(list(csv.DictReader(fh))), 93)
         self.assertIn("<entry>", (out / "feed.xml").read_text(encoding="utf-8"))
 
     def test_status_rolls_over_with_the_calendar(self):

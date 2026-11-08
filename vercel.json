@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "echo 'No install needed: the site build uses only the Python standard library'",
+  "buildCommand": "python3 -m andolan build",
+  "outputDirectory": "site",
+  "cleanUrls": false
+}

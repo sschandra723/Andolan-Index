@@ -1,0 +1,49 @@
+{
+  "id": "kaziranga-hotel-protest-2026",
+  "name": "Protest against the hotel project at Ingle Pathar, near Kaziranga",
+  "short_name": "Kaziranga hotel protest",
+  "aliases": [
+    "Ingle Pathar protest",
+    "Pranab Doley detention"
+  ],
+  "keywords": [
+    "Kaziranga",
+    "Ingle Pathar",
+    "Pranab Doley",
+    "Tea Tribes Museum",
+    "=ATDC"
+  ],
+  "cause": "Environment",
+  "states": [
+    "Assam"
+  ],
+  "places": "Ingle Pathar, near Kaziranga National Park; Golaghat",
+  "locations": [
+    {
+      "name": "Ingle Pathar, Kaziranga",
+      "lat": 26.58,
+      "lon": 93.17
+    }
+  ],
+  "started": "2026-07",
+  "about": "In July 2026 activists protested against a hotel project (an Assam Tourism Development Corporation and Hyatt project) at Ingle Pathar, a village next to Kaziranga National Park. Activist Pranab Doley was arrested on 12 July and granted bail on 29 July; the state then detained him under the National Security Act. On 6 November the Gauhati High Court quashed that detention.",
+  "demands": "Not stated in the report held here beyond opposition to the hotel project.",
+  "context": {
+    "question": "Why was an activist detained over a hotel near Kaziranga?",
+    "short": "Activist Pranab Doley was arrested after a July 2026 protest against a hotel project beside Kaziranga, then held under the National Security Act. The Gauhati High Court quashed that detention on 6 November.",
+    "explainer": [
+      "Ingle Pathar is a village adjoining Kaziranga National Park in Assam, where an Assam Tourism Development Corporation (ATDC) and Hyatt hotel project is planned. Pranab Doley was arrested on 12 July, days after taking part in a protest against it. Police alleged he 'unlawfully trespassed' into the site of the Tea Tribes Museum and the ATDC Hyatt project 'with deadly weapons' during the protest (Scroll).",
+      "On 29 July a sessions court in Golaghat granted him bail. A day later the state government detained him under the National Security Act, alleging 'suspicious foreign transactions from doubtful sources' in violation of the Foreign Contribution Regulation Act. A division bench of the Gauhati High Court quashed the NSA detention on 6 November."
+    ],
+    "impact": [
+      "The allegations of trespass and of foreign funding are the police's and the state government's; the report held here does not give the court's reasons for quashing the detention."
+    ],
+    "sources": [
+      {
+        "title": "Gauhati HC quashes NSA detention of activist Pranab Doley (Scroll.in, 6 Nov 2026; quotes checked by the collector)",
+        "url": "https://scroll.in/latest/1096915/gauhati-hc-quashes-nsa-detention-of-activist-pranab-doley"
+      }
+    ],
+    "updated": "2026-11-08"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "srfti-kolkata-protest-2026",
+  "name": "Student protest at the Satyajit Ray Film and Television Institute, Kolkata",
+  "short_name": "SRFTI student protest",
+  "aliases": [
+    "SRFTI protest",
+    "Kolkata film institute protest"
+  ],
+  "keywords": [
+    "SRFTI",
+    "Satyajit Ray Film",
+    "Santosh Ajmera"
+  ],
+  "cause": "Rights",
+  "states": [
+    "West Bengal"
+  ],
+  "places": "Satyajit Ray Film and Television Institute, Kolkata",
+  "locations": [
+    {
+      "name": "SRFTI, Kolkata",
+      "lat": 22.4936,
+      "lon": 88.4146
+    }
+  ],
+  "started": "2026-09-27",
+  "about": "Students at the Satyajit Ray Film and Television Institute have protested since 27 September, when violence broke out on campus after protests greeted an event by a group affiliated to the RSS. They want accountability for the violence, the vice-chancellor Santosh Ajmera to resign, and rustication orders against six students withdrawn. Classes are suspended until 11 December.",
+  "demands": "Accountability for the 27 September campus violence; resignation of vice-chancellor Santosh Ajmera; withdrawal of rustication orders against six students.",
+  "context": {
+    "question": "Why are students at Kolkata's film institute protesting?",
+    "short": "Students at SRFTI in Kolkata have protested since violence on campus on 27 September. They want the vice-chancellor to resign; the institute has suspended classes until 11 December.",
+    "explainer": [
+      "On 27 September protests greeted an event at the Satyajit Ray Film and Television Institute (SRFTI) organised by a group affiliated to the Rashtriya Swayamsevak Sangh, and violence followed on campus. Students want accountability for it and say they were attacked inside their residential campus (Scroll).",
+      "On 15 October six students were served rustication notices over the alleged manhandling of the vice-chancellor (The Hindu). Students want those orders withdrawn and vice-chancellor Santosh Ajmera to resign. They marked a month of the agitation with a march across campus on 27 October.",
+      "In a statement on 27 October Ajmera said the protest had been 'turned into a platform for political and ideological battles, with demands that went beyond the institution's jurisdiction'. The institute says faculty and administration are ready to resume classes but a section of students keeps disrupting it. Class suspension has been extended to 11 December."
+    ],
+    "impact": [
+      "Classes are suspended until 11 December, affecting academic life (The Hindu).",
+      "Police presence on campus is disputed: the administration put it at four or five personnel since 27 October, some students at around 50 (Scroll)."
+    ],
+    "sources": [
+      {
+        "title": "A month since tumult at Kolkata's film institute, students firm on protesting till VC goes (Scroll.in, 4 Nov 2026; quotes checked by the collector)",
+        "url": "https://scroll.in/article/1096841/a-month-since-tumult-at-kolkatas-film-institute-students-firm-on-protesting-till-vc-goes"
+      },
+      {
+        "title": "42 days of SRFTI protest; classes suspended till December 11 (The Hindu, 7 Nov 2026; quotes checked by the collector)",
+        "url": "https://www.thehindu.com/news/national/west-bengal/42-days-of-srfti-protest-classes-suspended-till-december-11/article71678513.ece"
+      }
+    ],
+    "updated": "2026-11-08"
+  }
+}

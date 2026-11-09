@@ -1,0 +1,63 @@
+{
+  "id": "3f7197b126",
+  "url": "https://www.hindustantimes.com/india-news/in-phase-2-opposition-plans-to-escalate-anti-cec-campaign-in-states-corner-govt-101794199977942.html",
+  "title": "In Phase 2, Opposition plans to escalate anti-CEC campaign in states, corner govt",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-09",
+  "collected": "2026-11-09",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "Gyanesh Kumar",
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2879,
+    "fetch_note": null,
+    "drafted": "2026-11-09",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Opposition parties plan nationwide protests over alleged vote theft, challenging Chief Election Commissioner Gyanesh Kumar and seeking evidence to present to President Murmu.",
+    "facts": [
+      {
+        "claim": "Opposition parties plan nationwide protests over alleged vote theft",
+        "quote": "Opposition parties plan nationwide protests over alleged vote theft, challenge CEC Gyanesh Kumar and seek to present evidence to President Murmu."
+      },
+      {
+        "claim": "The Opposition’s campaign against Chief Election Commissioner (CEC) Gyanesh Kumar and alleged vote theft is set to enter its second phase",
+        "quote": "The Opposition’s campaign against Chief Election Commissioner 9CEC) Gyanesh Kumar and alleged vote theft is set to enter its second phase, with parties planning protests across states, people aware of the matter said."
+      },
+      {
+        "claim": "Congress general secretary K C Venugopal led a ‘Vote Bachao, Desh Bachao’ rally",
+        "quote": "Congress general secretary K C Venugopal led a ‘Vote Bachao, Desh Bachao’ rally organised by the Kozhikode DCC at Kozhikode beach on Saturday."
+      },
+      {
+        "claim": "Ten Opposition leaders submitted a memorandum to President Droupadi Murmu",
+        "quote": "Ten Opposition leaders on October 9 submitted a memorandum to President Droupadi Murmu to seek action against Gyanesh Kumar, the repeal of the 2023 law granting immunity to the CEC and election commissioners, and an immediate halt to the Special Intensive Revision (SIR) of electoral rolls."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Opposition parties are escalating their campaign against the Chief Election Commissioner over alleged vote theft and the Special Intensive Revision (SIR) of electoral rolls, which has removed 130 million names from voter rolls.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Chief Election Commissioner Gyanesh Kumar” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "1 outlet in the last 48 hours; coverage up from 0 to 2 reports this week."
+  }
+}

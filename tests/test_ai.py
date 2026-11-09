@@ -207,6 +207,19 @@ class TestProviders(unittest.TestCase):
             ai.make_model(dict(ai.DEFAULTS, provider="anthropic"))
         self.assertIn("ANTHROPIC_API_KEY", str(e.exception))
 
+    def test_model_that_cannot_start_still_leaves_a_review_summary(self):
+        def broken(cfg):
+            raise ai.ModelError("could not reach Ollama at http://localhost:11434")
+        out = Path(tempfile.mkdtemp()) / "summary.md"
+        self.addCleanup(shutil.rmtree, out.parent, ignore_errors=True)
+        orig_make, orig_cfg = ai.make_model, ai.load_config
+        ai.make_model, ai.load_config = broken, (lambda: dict(ai.DEFAULTS, provider="ollama"))
+        try:
+            self.assertEqual(ai.main(["--summary-file", str(out)]), 1)   # the step reports the failure...
+        finally:
+            ai.make_model, ai.load_config = orig_make, orig_cfg
+        self.assertTrue(out.read_text(encoding="utf-8").strip())        # ...but the pull request still gets its description
+
 
 if __name__ == "__main__":
     unittest.main()

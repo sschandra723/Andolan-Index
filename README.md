@@ -70,7 +70,17 @@ hidden instructions can make it do; an editor's approval is the final safeguard.
 1. **Collect, then draft.** The AI assistant drafts each story right after collection (see above).
    **Collect.** `python -m andolan collect` reads the feeds in `config/feeds.json`, keeps stories that look like protest
    coverage, guesses the movement, and writes candidates to `data/inbox/`. It stores the headline, link, outlet and date
-   only. A scheduled GitHub Action does this every 6 hours and opens a pull request listing what it found.
+   only. The feeds cover about 20 outlets, including The Hindu's state editions and papers in the Northeast and Kashmir,
+   plus Bing News searches: each of those stories is credited to the outlet that published it and linked directly.
+   A feed can be limited to India (`require_india`) or to stories naming certain places (`require_terms`).
+   Every feed was tested from GitHub's servers; some outlets block them (The Indian Express, News18, Firstpost) or no
+   longer publish a feed (The Wire), and those are listed as disabled with the reason. Each run's log shows every feed
+   as `ok` or `FAIL`.
+
+   A scheduled GitHub Action does this every 3 hours (GitHub starts scheduled runs late and sometimes skips them) and
+   opens a pull request listing what it found. While that pull request is open, later runs add to it, keeping the
+   stories it already holds, instead of opening another. If the AI model cannot start, the stories still go to review
+   and are drafted on a later run.
 2. **Review.** A person opens each link and reads the story, then either:
    - `python -m andolan curate promote <id> --movement <movement-id> --summary "Two sentences in your own words." --read`
    - `python -m andolan curate reject <id> --reason "not about a protest"`

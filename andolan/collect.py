@@ -13,7 +13,9 @@ import argparse
 import html
 import re
 import sys
+import urllib.parse
 import urllib.request
+import zlib
 from datetime import date, datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -25,6 +27,8 @@ from .common import (CONFIG, DATA, IST, load_inbox, load_movements, load_rejecte
 
 USER_AGENT = "AndolanIndexBot/0.1 (public protest archive; contact via the repository issue tracker)"
 MAX_BYTES = 5_000_000
+# Sites that republish other outlets' stories. A report cites the outlet's own page, so copies here are skipped.
+SYNDICATORS = ("msn.com",)
 
 
 # ---------- fetching and parsing ----------
@@ -33,9 +37,26 @@ def fetch(url: str, timeout: int = 20) -> bytes:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
     with urllib.request.urlopen(req, timeout=timeout) as resp:  # noqa: S310 (feed URLs come from our own config)
         data = resp.read(MAX_BYTES + 1)
+    return decode_body(data)
+
+
+def decode_body(data: bytes) -> bytes:
+    """Size-check a feed, unpacking it first if the server compressed it without being asked."""
+    if data[:2] == b"\x1f\x8b":
+        data = zlib.decompressobj(16 + zlib.MAX_WBITS).decompress(data, MAX_BYTES + 1)
     if len(data) > MAX_BYTES:
         raise ValueError("feed larger than 5 MB")
     return data
+
+
+def unwrap_link(link: str) -> str:
+    """News aggregators (Bing News) link through a redirect; the article's own address is in its url= parameter."""
+    parts = urllib.parse.urlsplit(link)
+    if (parts.hostname or "").endswith("bing.com") and parts.path.lower().startswith("/news/apiclick"):
+        target = urllib.parse.parse_qs(parts.query).get("url", [""])[0]
+        if target.startswith(("http://", "https://")):
+            return target
+    return link
 
 
 def _local(tag: str) -> str:
@@ -66,8 +87,9 @@ def parse_pub_date(s: str | None) -> date | None:
 
 
 def parse_feed(xml: bytes) -> list[dict]:
-    """Return [{title, link, published, snippet}] from an RSS 2.0 or Atom document."""
-    root = ET.fromstring(xml)
+    """Return [{title, link, published, snippet, source}] from an RSS 2.0 or Atom document.
+    `source` is the outlet an aggregator credits (RSS <source>, Bing's <News:Source>), or ""."""
+    root = ET.fromstring(xml.lstrip(b"\xef\xbb\xbf \t\r\n"))
     items = []
     for el in root.iter():
         name = _local(el.tag)
@@ -85,8 +107,10 @@ def parse_feed(xml: bytes) -> list[dict]:
         published = parse_pub_date(_text(fields.get("pubDate")) or _text(fields.get("published")) or _text(fields.get("updated")) or _text(fields.get("date")))
         snippet = clean_text(_text(fields.get("description")) or _text(fields.get("summary")))
         title = clean_text(_text(fields.get("title")))
+        source = clean_text(_text(fields.get("Source")) or _text(fields.get("source")))
+        link = unwrap_link(link.strip())
         if title and link.startswith(("http://", "https://")):
-            items.append({"title": title, "link": link.strip(), "published": published, "snippet": snippet})
+            items.append({"title": title, "link": link, "published": published, "snippet": snippet, "source": source})
     return items
 
 
@@ -133,6 +157,8 @@ def classify(item: dict, feed: dict, terms: dict, movements: dict[str, dict]) ->
         return None
     if feed.get("require_india") and not find_terms(text, terms["india_terms"]):
         return None
+    if feed.get("require_terms") and not find_terms(text, feed["require_terms"]):
+        return None
     scores = score_movements(text, movements)
     ranked = sorted(scores.items(), key=lambda kv: (-kv[1][0], kv[0]))
     best_id, (best_score, matched) = ranked[0] if ranked else (None, (0.0, []))
@@ -146,6 +172,21 @@ def classify(item: dict, feed: dict, terms: dict, movements: dict[str, dict]) ->
 
 
 # ---------- orchestration ----------
+
+def syndicated_copy(link: str) -> bool:
+    host = (urllib.parse.urlsplit(link).hostname or "").lower()
+    return any(host == s or host.endswith("." + s) for s in SYNDICATORS)
+
+
+def outlet_for(item: dict, feed: dict) -> str:
+    """The feed's own name, or for an aggregator the outlet it credits (falling back to the article's web address)."""
+    if not feed.get("aggregator"):
+        return feed["name"]
+    if item.get("source"):
+        return item["source"][:100]
+    host = urllib.parse.urlsplit(item["link"]).hostname or ""
+    return host.removeprefix("www.") or feed["name"]
+
 
 def collect(feed_docs: list[tuple[dict, bytes]], data: Path = DATA, today: date | None = None,
             terms: dict | None = None) -> list[dict]:
@@ -161,7 +202,7 @@ def collect(feed_docs: list[tuple[dict, bytes]], data: Path = DATA, today: date 
     for feed, xml in feed_docs:
         for item in parse_feed(xml):
             key = normalize_url(item["link"])
-            if key in known:
+            if key in known or syndicated_copy(item["link"]):
                 continue
             if item["published"] and item["published"] < cutoff:
                 continue
@@ -173,7 +214,7 @@ def collect(feed_docs: list[tuple[dict, bytes]], data: Path = DATA, today: date 
                 "id": short_hash(key, 10),
                 "url": strip_tracking(item["link"]),
                 "title": item["title"][:300],
-                "outlet": feed["name"],
+                "outlet": outlet_for(item, feed),
                 "published": item["published"].isoformat() if item["published"] else None,
                 "collected": today.isoformat(),
                 **verdict,
@@ -217,14 +258,15 @@ def main(argv: list[str] | None = None) -> int:
     else:
         feeds = [f for f in read_json(CONFIG / "feeds.json")["feeds"] if f.get("enabled", True)]
     for feed in feeds:
+        label = feed["name"] if "_file" in feed else f"{feed['name']} <{feed['url']}>"  # several feeds can share an outlet
         try:
-            xml = feed["_file"].read_bytes() if "_file" in feed else fetch(feed["url"])
+            xml = feed["_file"].read_bytes() if "_file" in feed else fetch(feed["url"], timeout=feed.get("timeout", 20))
             n = len(parse_feed(xml))
-            print(f"{'ok  ' if n else 'warn'} {feed['name']}: {n} items" + ("" if n else " (parsed but empty)"))
+            print(f"{'ok  ' if n else 'warn'} {label}: {n} items" + ("" if n else " (parsed but empty)"))
             docs.append((feed, xml))
         except Exception as e:  # one broken feed must not stop the others
             failed += 1
-            print(f"FAIL {feed['name']}: {type(e).__name__}: {e}", file=sys.stderr)
+            print(f"FAIL {label}: {type(e).__name__}: {e}", file=sys.stderr)
     if args.check_feeds:
         return 1 if failed else 0
     if not docs:

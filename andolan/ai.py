@@ -436,16 +436,19 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--today", type=date.fromisoformat, default=None)
     args = ap.parse_args(argv)
     cfg = load_config()
+    status = 0
     if cfg["provider"] == "off":
         print("AI drafting is off (config/ai.json).")
     else:
         try:
             model = make_model(cfg)
         except ModelError as e:
-            print(f"error: {e}", file=sys.stderr)
-            return 1
-        done = run(model, today=args.today, cfg=cfg)
-        print(f"\nDrafted {len(done)} stor{'y' if len(done) == 1 else 'ies'} with {model.name}")
+            # keep going: the stories still go to review, and a later run drafts them
+            print(f"error: {e}\nNo drafts this run; the stories stay in the inbox for the next one.", file=sys.stderr)
+            status = 1
+        else:
+            done = run(model, today=args.today, cfg=cfg)
+            print(f"\nDrafted {len(done)} stor{'y' if len(done) == 1 else 'ies'} with {model.name}")
     if args.summary_file:
         args.summary_file.write_text(pr_summary(), encoding="utf-8")
-    return 0
+    return status

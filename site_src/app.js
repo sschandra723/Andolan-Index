@@ -1027,7 +1027,7 @@
     var aiName = D.ai && D.ai.model ? D.ai.model : "an AI model";
     // A reader's account of the process. File paths, commands and the stored format are in the README on GitHub.
     var STEPS = [
-      ["Find", "Every six hours, a program reads the latest stories from news outlets such as The Hindu, The Indian Express, The Wire and Scroll, and keeps the ones that look like protest coverage."],
+      ["Find", "Every three hours, a program reads the latest stories from about 20 news outlets, from national papers to regional ones in the South, the Northeast and Kashmir, plus a news search that reaches many more. It keeps the ones that look like protest coverage."],
       ["Draft", "An AI assistant reads each story, works out which movement it belongs to and drafts a short summary, quoting the article for every fact. A second program checks those quotes against the article."],
       ["Check", "An editor reads the story and the draft, then approves it, corrects it or turns it down. Nothing is published without this step."],
       ["Record", "Each approved report is saved with its outlet, date and link. The record is public and keeps every change, so anyone can see what changed and when."],

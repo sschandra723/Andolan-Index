@@ -13,6 +13,20 @@ TODAY = date(2026, 10, 25)
 CHECK_DAY = date(2026, 11, 8)  # validate the real dataset as of its newest report, so later reports are not "in the future"
 FEEDS = [({"name": "Sample India Desk", "require_india": False}, (FIX / "rss_sample.xml").read_bytes()),
          ({"name": "Sample Atom Desk", "require_india": True}, (FIX / "atom_sample.xml").read_bytes())]
+# A news search feed in Bing's format: links go through a Bing redirect, and each item names its outlet.
+BING = b"""<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:News="https://www.bing.com/news/search?q=protest&amp;format=rss" version="2.0"><channel><title>protest India - BingNews</title>
+<item><title>Farmers protest outside the secretariat in Kohima</title>
+<link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=abc&amp;url=https%3a%2f%2fwww.example-news.test%2fnortheast%2ffarmers-protest-kohima%3futm_source%3drss&amp;c=123&amp;mkt=en-in</link>
+<description>Farmers held a protest in Kohima on Monday.</description><pubDate>Mon, 09 Nov 2026 06:00:00 GMT</pubDate>
+<News:Source>Example News</News:Source></item>
+<item><title>Students protest a fee hike in Delhi</title>
+<link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;url=https%3a%2f%2fwww.other-paper.test%2fstudents-fee-protest</link>
+<description>Students protest.</description><pubDate>Mon, 09 Nov 2026 07:00:00 GMT</pubDate></item>
+<item><title>Nurses protest unpaid wages</title>
+<link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2findia%2fnurses-protest%2far-AA1x</link>
+<description>Nurses protest.</description><pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate><News:Source>Example News on MSN</News:Source></item>
+</channel></rss>"""
 
 
 class Tmp(unittest.TestCase):
@@ -58,6 +72,31 @@ class TestHelpers(unittest.TestCase):
         self.assertEqual(collect.parse_pub_date("2026-11-07T18:00:00Z"), date(2026, 11, 7))            # 23:30 IST
         self.assertEqual(collect.parse_pub_date("2026-11-08"), date(2026, 11, 8))
 
+    def test_aggregator_links_go_to_the_article_and_credit_its_outlet(self):
+        items = collect.parse_feed(BING)
+        self.assertEqual(items[0]["link"], "https://www.example-news.test/northeast/farmers-protest-kohima?utm_source=rss")
+        self.assertEqual(items[0]["source"], "Example News")
+        search = {"name": "Bing News: protest India", "aggregator": True}
+        self.assertEqual(collect.outlet_for(items[0], search), "Example News")
+        self.assertEqual(collect.outlet_for(items[1], search), "other-paper.test")    # no outlet named: its web address
+        self.assertEqual(collect.outlet_for(items[0], {"name": "The Hindu"}), "The Hindu")  # ordinary feeds keep their name
+        self.assertEqual(collect.unwrap_link("https://www.thehindu.com/news/a.ece?url=https://x.test"), "https://www.thehindu.com/news/a.ece?url=https://x.test")
+
+    def test_feeds_sent_compressed_or_with_a_bom_still_parse(self):
+        import gzip
+        raw = FEEDS[0][1]
+        self.assertEqual(collect.decode_body(gzip.compress(raw)), raw)   # some servers compress without being asked
+        self.assertEqual(len(collect.parse_feed(b"\xef\xbb\xbf\n" + raw)), 5)
+        with self.assertRaises(ValueError):                               # and a small download must not unpack into a huge one
+            collect.decode_body(gzip.compress(b"x" * (collect.MAX_BYTES + 10)))
+
+    def test_html_entities_in_feeds_parse(self):
+        sloppy = (b'<rss><channel><title>Post &raquo; Feed</title><item><title>Students&rsquo; protest&nbsp;in Kohima &amp; Dimapur</title>'
+                  b'<link>https://np.test/a?x=1&amp;y=2</link></item></channel></rss>')
+        item = collect.parse_feed(sloppy)[0]
+        self.assertEqual(item["title"], "Students’ protest in Kohima & Dimapur")
+        self.assertEqual(item["link"], "https://np.test/a?x=1&y=2")
+
     def test_rejects_entity_bombs(self):
         bomb = b'<?xml version="1.0"?><!DOCTYPE l [<!ENTITY a "aaaa"><!ENTITY b "&a;&a;&a;&a;">]><rss><channel><item><title>&b;</title><link>https://x.test/a</link></item></channel></rss>'
         with self.assertRaises(Exception):
@@ -80,6 +119,22 @@ class TestPipeline(Tmp):
             self.assertEqual(set(c), {"id", "url", "title", "outlet", "published", "collected", "suggested_movement", "score", "matched", "alternatives"})
         self.assertEqual(validate.check_dataset(self.data, CHECK_DAY), [])
         self.assertEqual(collect.collect(FEEDS, data=self.data, today=TODAY), [])  # second run finds nothing new
+
+    def test_place_filters_and_aggregator_outlets(self):
+        regional = b"""<rss><channel>
+<item><title>NSF stages protest in Kohima over recruitment</title><link>https://np.test/nsf-kohima</link>
+<description>KOHIMA, NOV 9 (NPN): Students protested outside the directorate.</description><pubDate>Mon, 09 Nov 2026 06:00:00 +0530</pubDate></item>
+<item><title>Opposition protest in Delhi over voter rolls</title><link>https://np.test/delhi-wire</link>
+<description>NEW DELHI, NOV 9 (PTI): Opposition parties protested in the capital.</description><pubDate>Mon, 09 Nov 2026 06:00:00 +0530</pubDate></item>
+</channel></rss>"""
+        day = date(2026, 11, 9)
+        post = {"name": "Nagaland Post", "require_terms": ["Kohima", "=NSF", "=Mon"]}
+        self.assertEqual([c["url"] for c in collect.collect([(post, regional)], data=self.data, today=day)], ["https://np.test/nsf-kohima"])
+        found = collect.collect([({"name": "Bing News: protest India", "aggregator": True}, BING)], data=self.data, today=day)
+        by_outlet = {c["outlet"]: c for c in found}
+        self.assertEqual(set(by_outlet), {"Example News", "other-paper.test"})   # the MSN copy is skipped: we cite the original
+        self.assertEqual(by_outlet["Example News"]["url"], "https://www.example-news.test/northeast/farmers-protest-kohima")
+        self.assertEqual(validate.check_dataset(self.data, day), [])
 
     def test_promote_reject_and_validate(self):
         new = collect.collect(FEEDS, data=self.data, today=TODAY)

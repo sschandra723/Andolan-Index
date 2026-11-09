@@ -1,0 +1,62 @@
+{
+  "id": "98afd4d4b7",
+  "url": "https://www.hindustantimes.com/india-news/cait-calls-meeting-on-nov-13-says-will-discuss-demand-to-shift-protests-to-city-outskirts-101794202738235.html",
+  "title": "CAIT calls meeting on Nov 13, says will discuss demand to shift protests to city outskirts",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-09",
+  "collected": "2026-11-09",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3904,
+    "fetch_note": null,
+    "drafted": "2026-11-09",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "CAIT, led by BJP MP Khandelwal, plans a meeting on Nov 13 to discuss shifting protests to city outskirts to reduce business disruptions, following large-scale demonstrations in Delhi that affected commerce and supply chains.",
+    "facts": [
+      {
+        "claim": "CAIT plans a meeting on November 13",
+        "quote": "CAIT calls meeting on Nov 13, says will discuss demand to shift protests to city outskirts"
+      },
+      {
+        "claim": "CAIT led by BJP MP Khandelwal",
+        "quote": "BJP MP Khandelwal said suitable locations should be designated on the outskirts of every city, or at other appropriate places, for protests and demonstrations"
+      },
+      {
+        "claim": "Protests in Delhi affected commerce and supply chains",
+        "quote": "CAIT claimed that the agitations led to \"widespread disruption to business activities\" in the national capital"
+      },
+      {
+        "claim": "Delhi Police designated three alternative protest venues",
+        "quote": "Ramlila Maidan in central Delhi, Burari Ground in north-west Delhi and CBD Ground in east Delhi have been designated as the alternative protest venues"
+      },
+      {
+        "claim": "Protests in Delhi on Nov 1 targeted Election Commission issues",
+        "quote": "The demand comes against the backdrop of a massive protest in the heart of New Delhi on November 1, the largest show of strength by the INDIA bloc, that attacked the ruling BJP and demanded Kumar’s removal over allegations of irregularities in the functioning of the Election Commission of India and the special intensive revision"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CAIT seeks government action to designate protest sites outside city centers to mitigate economic impacts of demonstrations, following disruptions during the November 1 protest that targeted Election Commission issues.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

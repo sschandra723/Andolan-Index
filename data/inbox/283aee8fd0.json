@@ -1,0 +1,77 @@
+{
+  "id": "283aee8fd0",
+  "url": "https://www.wionews.com/india-news/mamata-banerjee-leads-dharna-againt-post-poll-violence-in-kolkata-says-will-fight-or-die-1780402312702",
+  "title": "Mamata Banerjee leads dharna against ‘post-poll’ violence in Kolkata, says ‘will fight or die’",
+  "outlet": "WION",
+  "published": "2026-11-07",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1803,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Mamata Banerjee led a protest in Kolkata against alleged post-poll violence and BJP suppression of democratic voices, vowing to fight or die.",
+    "facts": [
+      {
+        "claim": "Mamata Banerjee led a massive dharna on Tuesday (June 2) in central Kolkata",
+        "quote": "Mamata Banerjee, former West Bengal chief minister and Trinamool Congress (TMC) chief, led a massive dharna on Tuesday (June 2) in central Kolkata."
+      },
+      {
+        "claim": "This was in protest against alleged post-poll attacks on party workers and leaders, and accusing the BJP-led state administration of suppressing democratic voices",
+        "quote": "This was in protest against alleged post-poll attacks on party workers and leaders, and accusing the BJP-led state administration of suppressing democratic voices."
+      },
+      {
+        "claim": "Banerjee arrived at the protest site at Esplanade’s Y-channel after the Kolkata Police allegedly denied the party permission to hold the demonstration at the adjacent Rani Rashmoni Road",
+        "quote": "Banerjee arrived at the protest site at Esplanade’s Y-channel after the Kolkata Police allegedly denied the party permission to hold the demonstration at the adjacent Rani Rashmoni Road, according to TMC leaders."
+      },
+      {
+        "claim": "Banerjee declared that she would continue resisting what she described as attacks on her party and the displacement of hawkers",
+        "quote": "Banerjee launched some of her strongest attacks yet on the BJP, which is currently in power in the state, and declared that she would continue resisting what she described as attacks on her party and the displacement of hawkers."
+      },
+      {
+        "claim": "‘Ladenge ya marenge (I will fight or die)’",
+        "quote": "‘Ladenge ya marenge (I will fight or die)’, Banerjee chanted at the dharna venue as party workers and supporters responded with loud slogans."
+      },
+      {
+        "claim": "The TMC chief also criticised authorities for allegedly restricting the protest arrangements",
+        "quote": "‘We were not given permission to set up a stage or use microphones,’ she said, addressing the gathering through a megaphone."
+      },
+      {
+        "claim": "Banerjee announced that opposition parties from across the country would soon meet in New Delhi to discuss a coordinated response to the political situation",
+        "quote": "Banerjee further announced that opposition parties from across the country would soon meet in New Delhi to discuss a coordinated response to the political situation."
+      },
+      {
+        "claim": "The demonstration was organised over multiple issues, including the alleged attack on TMC national general secretary and MP Abhishek Banerjee, claims of post-poll violence, and concerns over the eviction of hawkers",
+        "quote": "The demonstration was organised over multiple issues, including the alleged attack on TMC national general secretary and MP Abhishek Banerjee, claims of post-poll violence, and concerns over the eviction of hawkers."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Mamata Banerjee's protest in Kolkata addresses alleged post-poll violence and BJP suppression of democratic voices, with claims of attacks on TMC workers and leaders.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘Ladenge ya marenge (I will fight or die)’, Banerjee chanted at the dharna venue”",
+        "quote not in article: “‘We were not given permission to set up a stage or use microphones,’ she said, a”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

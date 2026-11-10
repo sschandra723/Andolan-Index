@@ -1,0 +1,63 @@
+{
+  "id": "2e06d251f6",
+  "url": "https://www.thehindu.com/news/national/assam/gauhati-high-court-quashes-assam-activists-nsa-detention/article71673798.ece",
+  "title": "Gauhati High Court quashes Assam activist’s NSA detention",
+  "outlet": "The Hindu",
+  "published": "2026-11-06",
+  "collected": "2026-11-10",
+  "suggested_movement": "kaziranga-hotel-protest-2026",
+  "score": 2.0,
+  "matched": [
+    "Kaziranga",
+    "Pranab Doley"
+  ],
+  "alternatives": [
+    "noida-workers-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1807,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "kaziranga-hotel-protest-2026",
+    "new_movement": null,
+    "summary": "The Gauhati High Court quashed the NSA detention of land rights activist Pranab Doley after 118 days, following his arrest in July 2026 for protesting a luxury hotel project near Kaziranga National Park.",
+    "facts": [
+      {
+        "claim": "The Gauhati High Court quashed the detention of land rights activist Pranab Doley under the National Security Act (NSA)",
+        "quote": "The Gauhati High Court on Friday (November 6, 2026) quashed the detention of land rights activist Pranab Doley under the National Security Act (NSA)"
+      },
+      {
+        "claim": "The order paved the way for the release of the 40-year-old after 118 days in custody",
+        "quote": "The order paved the way for the release of the 40-year-old after 118 days in custody."
+      },
+      {
+        "claim": "Mr. Doley was arrested on July 12, 2026, days after participating in a protest against the luxury hotel project at Ingle Pathar",
+        "quote": "Mr. Doley, convenor of the Greater Kaziranga Land and Human Rights Protection Committee, was arrested on July 12, 2026, days after participating in a protest against the luxury hotel project at Ingle Pathar"
+      },
+      {
+        "claim": "The Assam government invoked the NSA against him on July 30, 2026, to keep him in custody",
+        "quote": "The Assam government invoked the NSA against him on July 30, 2026, to keep him in custody."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The court quashed the NSA detention of Pranab Doley, who was arrested for protesting a luxury hotel project near Kaziranga National Park, after 118 days in custody.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 5,
+    "importance_reason": "Coverage up from 0 to 1 reports this week."
+  }
+}

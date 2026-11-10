@@ -1,0 +1,76 @@
+{
+  "id": "126ef886b2",
+  "url": "https://www.thehindu.com/news/national/west-bengal/13-years-on-delhi-police-serve-notice-on-mamata-banerjee-in-2013-protest-case/article71683504.ece",
+  "title": "13 years on, Delhi Police serve notice on Mamata Banerjee in 2013 protest case",
+  "outlet": "The Hindu",
+  "published": "2026-11-09",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1912,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Delhi Police served a notice on Mamata Banerjee in a 2013 case related to student protests over Sudipto Gupta's death in police custody in Kolkata, where activists gheraoed Banga Bhawan and the Planning Commission office.",
+    "facts": [
+      {
+        "claim": "Delhi Police served a notice on Mamata Banerjee",
+        "quote": "the Delhi Police on Monday served a notice on former West Bengal Mamata Banerjee in connection a case registered during the protest."
+      },
+      {
+        "claim": "The case relates to gherao of Banga Bhawan and Planning Commission office",
+        "quote": "Case relates to gherao of Banga Bhawan and Planning Commission office in New Delhi by SFI activists protesting death of Sudipto Gupta in police custody in Kolkata"
+      },
+      {
+        "claim": "Sudipto Gupta died in police custody in Kolkata",
+        "quote": "death of Students’ Federation of India (SFI) leader Sudipto Gupto in police custody in Kolkata"
+      },
+      {
+        "claim": "The protest was in 2013",
+        "quote": "Thirteen years after a major student agitation in New Delhi over the death of Students’ Federation of India (SFI) leader Sudipto Gupta in police custody in Kolkata"
+      },
+      {
+        "claim": "Activists gheraoed Banga Bhawan",
+        "quote": "hundreds of SFI and Jawaharlal Nehru University (JNU) protesters stormed and gheraoed Banga Bhawan, the official West Bengal government guest house on Hailey Road."
+      },
+      {
+        "claim": "The protest happened on April 3, 2013",
+        "quote": "On April 3, 2013, hundreds of SFI and Jawaharlal Nehru University (JNU) protesters stormed and gheraoed Banga Bhawan, the official West Bengal government guest house on Hailey Road."
+      },
+      {
+        "claim": "The protest escalated on April 9, 2013",
+        "quote": "Tensions escalated on April 9, 2013, outside the Planning Commission office, where the then West Bengal Finance Minister Amit Mitra and Ms. Banerjee had arrived for an official meeting."
+      },
+      {
+        "claim": "Delhi Police registered a case on April 9, 2013",
+        "quote": "Following the incident, the Delhi Police registered a case at the Parliament Street Police Station on April 9 for allegedly obstructing public servants from discharging their duties."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Police served a notice on Mamata Banerjee in a 2013 case related to student protests over Sudipto Gupta's death in police custody in Kolkata, where activists gheraoed Banga Bhawan and the Planning Commission office.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Thirteen years after a major student agitation in New Delhi over the death of St”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

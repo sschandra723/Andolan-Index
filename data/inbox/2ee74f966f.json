@@ -1,0 +1,63 @@
+{
+  "id": "2ee74f966f",
+  "url": "https://www.greaterkashmir.com/ladakh/kargil-observes-complete-shutdown-against-proposed-lahdc-elections-in-winter-12797957",
+  "title": "Kargil observes complete shutdown against proposed LAHDC elections in winter",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-10",
+  "collected": "2026-11-10",
+  "suggested_movement": "ladakh-statehood",
+  "score": 4.0,
+  "matched": [
+    "Ladakh",
+    "Kargil Democratic Alliance",
+    "Kargil",
+    "=KDA"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1836,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "ladakh-statehood",
+    "new_movement": null,
+    "summary": "Kargil district observed a complete shutdown as the Kargil Democratic Alliance and local leaders protested the Union Territory administration's plan to hold LAHDC elections during harsh winter, citing severe weather and low voter turnout risks.",
+    "facts": [
+      {
+        "claim": "Kargil district observed a complete shutdown",
+        "quote": "Normal life came to a complete standstill across Kargil district today following a call for a comprehensive shutdown given by the Kargil Democratic Alliance (KDA) along with various political, social, and religious organizations."
+      },
+      {
+        "claim": "Kargil Democratic Alliance and local leaders protested",
+        "quote": "The strike was organized to protest the Union Territory administration’s plan to conduct elections for the Ladakh Autonomous Hill Development Council (LAHDC) during the harsh winter months."
+      },
+      {
+        "claim": "Severe weather and low voter turnout risks",
+        "quote": "Local leaders pointed out that severe weather, sub-zero temperatures, and heavy snowfall severely limit mobility and cause a significant portion of the population to temporarily migrate to warmer regions outside the Union Territory."
+      },
+      {
+        "claim": "Election schedule to be deferred",
+        "quote": "The organizers also raised concerns regarding ongoing delimitation exercises and demanded that the election schedule be deferred to favorable weather."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Kargil Democratic Alliance and local leaders are opposing the Union Territory administration's plan to hold LAHDC elections during harsh winter, citing severe weather conditions and potential low voter turnout.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

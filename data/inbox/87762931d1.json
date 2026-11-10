@@ -1,0 +1,80 @@
+{
+  "id": "87762931d1",
+  "url": "https://www.outlookindia.com/national/kolhapur-protest-erupts-over-maharashtra-ordinance-on-gokul-milk-cooperative-board",
+  "title": "Kolhapur Protest Erupts Over Maharashtra Ordinance On Gokul Milk Cooperative Board",
+  "outlet": "Outlook India",
+  "published": "2026-11-09",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3065,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Dairy farmers and opposition leaders marched in Kolhapur against Maharashtra's ordinance granting voting rights to four nominated directors in Gokul milk cooperative, which could increase the ruling Mahayuti's board strength from 12 to 16 members.",
+    "facts": [
+      {
+        "claim": "The Maharashtra government's move to give voting rights to four nominated directors in the Gokul milk cooperative sparked large protests in Kolhapur on Monday",
+        "quote": "- Dairy farmers and opposition leaders marched in Kolhapur on Monday against the Maharashtra government's ordinance on Gokul"
+      },
+      {
+        "claim": "The ordinance gives voting rights to four nominated directors and could raise the Mahayuti's strength on the 25-member board from 12 to 16",
+        "quote": "- The ordinance gives voting rights to four nominated directors and could raise the Mahayuti's strength on the 25-member board from 12 to 16"
+      },
+      {
+        "claim": "The protest was led by the Rajarshi Shahu Shetkari Samvichari Aghadi, headed by Congress MLC Satej Patil",
+        "quote": "- The protest was led by the Rajarshi Shahu Shetkari Samvichari Aghadi, headed by Congress MLC Satej Patil"
+      },
+      {
+        "claim": "Dairy farmers and opposition parties marched to the district collectorate with cattle to oppose the ordinance",
+        "quote": "Dairy farmers and opposition parties marched to the district collectorate with cattle to oppose the ordinance"
+      },
+      {
+        "claim": "The ordinance changes the balance of power in a cooperative where the opposition-backed panel had won a narrow edge in the recent election",
+        "quote": "The ordinance changes the balance of power in a cooperative where the opposition-backed panel had won a narrow edge in the recent election"
+      },
+      {
+        "claim": "Gokul is a cooperative institution with an annual turnover of more than Rs 4,000 crore",
+        "quote": "Gokul is a cooperative institution with an annual turnover of more than Rs 4,000 crore"
+      },
+      {
+        "claim": "The Rajarshi Shahu Shetkari Samvichari Aghadi, led by Congress MLC Satej Patil, won 13 of the 25 seats in the October 19 elections to the Kolhapur District Cooperative Milk Producers' Union",
+        "quote": "The Rajarshi Shahu Shetkari Samvichari Aghadi, led by Congress MLC Satej Patil, won 13 of the 25 seats in the October 19 elections to the Kolhapur District Cooperative Milk Producers' Union"
+      },
+      {
+        "claim": "The Mahayuti-backed panel won 12 seats",
+        "quote": "The Mahayuti-backed panel won 12 seats"
+      },
+      {
+        "claim": "The new nomination rule now threatens to overturn that advantage by adding voting strength to the ruling side",
+        "quote": "The new nomination rule now threatens to overturn that advantage by adding voting strength to the ruling side"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Maharashtra government's ordinance to give voting rights to four nominated directors in Gokul milk cooperative, which could increase ruling Mahayuti's board strength from 12 to 16 members, has sparked protests led by opposition alliance.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

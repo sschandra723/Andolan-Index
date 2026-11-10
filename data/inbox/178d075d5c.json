@@ -1,0 +1,51 @@
+{
+  "id": "178d075d5c",
+  "url": "https://www.telegraphindia.com/india/india-bloc-to-protest-against-sir-cec-gyanesh-kumar-at-bengalurus-freedom-park-on-november-5/cid/2187677",
+  "title": "INDIA bloc to protest against SIR, CEC Gyanesh Kumar at Bengaluru's Freedom Park on November 5",
+  "outlet": "Telegraph India",
+  "published": "2026-11-03",
+  "collected": "2026-11-10",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "=SIR",
+    "Gyanesh Kumar",
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The India bloc plans to protest against the Special Intensive Revision (SIR) voter list recheck, targeting CEC Gyanesh Kumar at Bengaluru's Freedom Park on November 5.",
+    "facts": [
+      {
+        "claim": "The India bloc plans to protest against the Special Intensive Revision (SIR) voter list recheck",
+        "quote": "INDIA bloc to protest against SIR, CEC Gyanesh Kumar at Bengaluru's Freedom Park on November 5"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

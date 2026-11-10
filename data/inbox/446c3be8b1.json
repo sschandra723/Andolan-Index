@@ -1,0 +1,49 @@
+{
+  "id": "446c3be8b1",
+  "url": "https://www.ndtv.com/telangana-news/telangana-farmers-protest-as-reservoir-shortage-triggers-water-crisis-fears-12306641",
+  "title": "Telangana Farmers Protest As Reservoir Shortage Triggers Water Crisis Fears",
+  "outlet": "NDTV",
+  "published": "2026-11-10",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Telangana farmers are protesting due to fears of water shortages caused by reservoirs.",
+    "facts": [
+      {
+        "claim": "Telangana farmers are protesting",
+        "quote": "Telangana Farmers Protest As Reservoir Shortage Triggers Water Crisis Fears"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

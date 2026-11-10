@@ -1,0 +1,60 @@
+{
+  "id": "7484e10ede",
+  "url": "https://nagalandpost.com/arunachal-cong-seeks-release-of-siang-project-protesters/",
+  "title": "Arunachal Cong seeks release of Siang project protesters",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-07",
+  "collected": "2026-11-10",
+  "suggested_movement": "siang-dam-protests",
+  "score": 3.0,
+  "matched": [
+    "Siang",
+    "Siang Upper Multipurpose",
+    "=SUMP"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4180,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "The Arunachal Pradesh Congress demanded the release of protesters opposing the 11,200-MW Siang Upper Multipurpose Project, withdrawal of cases against them, and revocation of suspensions for government employees and village functionaries.",
+    "facts": [
+      {
+        "claim": "The Arunachal Pradesh Congress demanded the release of protesters opposing the proposed 11,200-MW Siang Upper Multipurpose Project",
+        "quote": "Itanagar, Nov 6 (PTI): The Congress in Arunachal Pradesh on Friday demanded the release of protesters opposing the proposed 11,200-MW Siang Upper Multipurpose Project (SUMP)"
+      },
+      {
+        "claim": "The Congress sought withdrawal of cases against protesters and revocation of suspensions for government employees and village functionaries",
+        "quote": "The party demanded withdrawal of all cases registered by the State Investigation Cell (SIC) against SUMP protesters and revocation of suspension orders issued against government employees and traditional village representatives for their alleged involvement in the agitation."
+      },
+      {
+        "claim": "The project is proposed to be implemented by the National Hydroelectric Power Corporation (NHPC)",
+        "quote": "The SUMP, among the largest hydropower ventures planned in the northeastern state, is proposed to be implemented by the National Hydroelectric Power Corporation (NHPC)."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Siang Indigenous Farmers' Forum opposes the proposed mega dam on the Siang in Arunachal Pradesh, which has led to protests and detentions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "name “The Arunachal Pradesh Congress” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "Coverage up from 0 to 2 reports this week."
+  }
+}

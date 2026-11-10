@@ -1,0 +1,64 @@
+{
+  "id": "285cd89ae9",
+  "url": "https://nagalandpost.com/lmrsu-agitation-32-govt-hss-sdeo-office-closed/",
+  "title": "LMRSU agitation: 32 Govt HSS, SDEO office closed",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-10",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4265,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Lotha Middle Range Students' Union (LMRSU) resumed agitation in Wokha district over teacher shortages at 32 government schools and the SDEO office, demanding permanent appointments for vacancies that have disrupted academic activities.",
+    "facts": [
+      {
+        "claim": "32 Govt HSS, SDEO office closed",
+        "quote": "Lotha Middle Range Students’ Union (LMRSU) on Monday resumed its phase-II agitation over the shortage of teachers at Government Higher Secondary School (GHSS), Sungro, resulting in the closure of 32 government schools and the office of the Sub-Divisional Education Officer (SDEO), Sanis, until further notice."
+      },
+      {
+        "claim": "18 government primary schools, six middle schools, seven high schools and one higher secondary school",
+        "quote": "The affected institutions comprise 18 government primary schools, six middle schools, seven high schools and one higher secondary school."
+      },
+      {
+        "claim": "GHSS Sungro has 153 students from Classes VI to XII",
+        "quote": "GHSS Sungro has 153 students from Classes VI to XII and is the second-largest higher secondary school in Wokha district in terms of enrolment, after GHSS Wokha."
+      },
+      {
+        "claim": "five postgraduate teachers (PGTs), two of whom are currently on maternity leave",
+        "quote": "Serving seven villages under the Sungro Range, the institution has only five postgraduate teachers (PGTs), two of whom are currently on maternity leave."
+      },
+      {
+        "claim": "demanded the appointment of two PGTs, two graduate teachers (GTs) and two primary teachers",
+        "quote": "The union has demanded the appointment of two PGTs, two graduate teachers (GTs) and two primary teachers, besides retention of the graduate mathematics teacher post."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The LMRSU has been demanding teacher appointments since March 2025, with the current agitation being the second phase after initial submissions and a temporary suspension following verbal assurances.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": [
+        "name “The Lotha Middle Range Students” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

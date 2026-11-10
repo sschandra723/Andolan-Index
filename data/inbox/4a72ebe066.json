@@ -1,0 +1,54 @@
+{
+  "id": "4a72ebe066",
+  "url": "https://www.newindianexpress.com/cities/delhi/2026/Nov/05/ankita-bhandaris-parents-removed-from-rajghat-dharna",
+  "title": "Ankita Bhandari's parents removed from Rajghat dharna",
+  "outlet": "The New Indian Express",
+  "published": "2026-11-05",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 757,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Bhandari's parents were removed from Rajghat dharna after staging a protest near Mahatma Gandhi's memorial, which police said was not a designated site.",
+    "facts": [
+      {
+        "claim": "Bhandari's parents were removed from Rajghat dharna",
+        "quote": "Parents of Ankita Bhandari, who was murdered at a resort in Uttarakhand in 2022, were removed from Rajghat after they staged a dharna near the public gate of Mahatma Gandhi’s memorial, sources said."
+      },
+      {
+        "claim": "They staged a dharna near the public gate of Mahatma Gandhi’s memorial",
+        "quote": "Bhandari’s parents visited Rajghat to offer prayers and interact with the media. They later staged a dharna along with two others near the public gate, which is not a designated protest site, a police source said."
+      },
+      {
+        "claim": "Police said the site was not a designated protest site",
+        "quote": "Bhandari’s parents visited Rajghat to offer prayers and interact with the media. They later staged a dharna along with two others near the public gate, which is not a designated protest site, a police source said."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

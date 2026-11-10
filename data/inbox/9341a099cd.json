@@ -1,0 +1,62 @@
+{
+  "id": "9341a099cd",
+  "url": "https://www.etvbharat.com/en/bharat/ankita-bhandari-parents-stage-dharna-at-rajghat-removed-by-police-enn26110408616",
+  "title": "Ankita Bhandari’s Parents Stage Dharna At Rajghat, Removed By Police",
+  "outlet": "ETV Bharat",
+  "published": "2026-11-04",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1817,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Parents of Ankita Bhandari, murdered at a Uttarakhand resort in 2022, staged a dharna at Rajghat but were removed by police after refusing to disperse. The incident occurred two weeks after their detention protesting Sikkim governor appointments.",
+    "facts": [
+      {
+        "claim": "Bhandari's parents staged a dharna at Rajghat",
+        "quote": "Parents of Ankita Bhandari, who was murdered at a resort in Uttarakhand in 2022, were removed from Rajghat after they staged a dharna near the public gate of Mahatma Gandhi's memorial, sources said."
+      },
+      {
+        "claim": "The dharna was not at a designated protest site",
+        "quote": "They later staged a dharna along with two others near the public gate, which is not a designated protest site, a police source said."
+      },
+      {
+        "claim": "Parents were removed after refusing to disperse",
+        "quote": "The group was repeatedly asked to disperse. After they refused to budge, they were removed from the spot."
+      },
+      {
+        "claim": "Bhandari was killed in 2022",
+        "quote": "Bhandari, who worked as a receptionist at the Vanantra Resort in Rishikesh, was killed on September 18, 2022."
+      },
+      {
+        "claim": "Parents were detained two weeks prior",
+        "quote": "This comes a fortnight after Bhandari's parents were detained by police while protesting against the appointment of Dushyant Kumar Gautam as Sikkim governor near India Gate on October 14."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Parents of Ankita Bhandari, murdered in 2022, staged a dharna at Rajghat but were removed by police after refusing to disperse. This follows their prior detention protesting Sikkim governor appointments.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

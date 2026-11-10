@@ -1,0 +1,70 @@
+{
+  "id": "9856ce40cb",
+  "url": "https://nagalandpost.com/bangladesh-garment-workers-protests-turn-violent-for-2nd-day/",
+  "title": "Bangladesh garment workers’ protests turn violent for 2nd day",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-03",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5201,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Bangladeshi garment workers continued violent protests for the second day in a row demanding higher pay, prompting authorities to deploy paramilitary forces after reports of vehicle vandalism and road blockades.",
+    "facts": [
+      {
+        "claim": "Garment workers in Bangladesh continued their violent protests on Monday for the second day in a row over their demand for higher pay",
+        "quote": "Garment workers in Bangladesh continued their violent protests on Monday for the second day in a row over their demand for higher pay"
+      },
+      {
+        "claim": "The latest wave of protests has forced 670 of around 4,000 registered garment factories to shut in Dhaka, Gazipur and central Mymensingh",
+        "quote": "The latest wave of protests has forced 670 of around 4,000 registered garment factories to shut in Dhaka, Gazipur and central Mymensingh"
+      },
+      {
+        "claim": "The workers are demanding that the minimum monthly wage be raised to 30,000 Bangladeshi Taka (around USD 242) from the current 12,500 Taka",
+        "quote": "The workers are demanding that the minimum monthly wage be raised to 30,000 Bangladeshi Taka (around USD 242) from the current 12,500 Taka"
+      },
+      {
+        "claim": "Home Minister Salahuddin Ahmed on Monday alleged that some garment factory owners linked to the currently disbanded Awami League party of deposed prime minister Sheikh Hasina were also fuelling the unrest",
+        "quote": "Home Minister Salahuddin Ahmed on Monday alleged that some garment factory owners linked to the currently disbanded Awami League party of deposed prime minister Sheikh Hasina were also fuelling the unrest"
+      },
+      {
+        "claim": "Prime Minister Tarique Rahman’s labour and employment adviser Mahdi Amin, meanwhile, claimed that the government had found evidence of \"fugitive evil powers infiltration\" into the workers’ movement",
+        "quote": "Prime Minister Tarique Rahman’s labour and employment adviser Mahdi Amin, meanwhile, claimed that the government had found evidence of \"fugitive evil powers infiltration\" into the workers’ movement"
+      },
+      {
+        "claim": "The clashes left at least two BGB personnel and several others, including journalists, injured",
+        "quote": "The clashes left at least two BGB personnel and several others, including journalists, injured"
+      },
+      {
+        "claim": "The clashes on Sunday left at least 50 people, including around 15 police officers, injured",
+        "quote": "The clashes on Sunday left at least 50 people, including around 15 police officers, injured"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Bangladeshi garment workers have been protesting for higher pay, with violence escalating to the point of police deployments and injuries.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

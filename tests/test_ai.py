@@ -12,7 +12,7 @@ from andolan.common import DATA, read_json
 
 FIX = Path(__file__).parent / "fixtures"
 TODAY = date(2026, 10, 25)
-CHECK_DAY = date(2026, 11, 8)  # validate the real dataset as of its newest report, so later reports are not "in the future"
+from test_pipeline import CHECK_DAY  # noqa: E402  (the real dataset is checked as of its newest story)
 ARTICLE_HTML = (FIX / "article_sir.html").read_text(encoding="utf-8")
 ARTICLE = ai.extract_text(ARTICLE_HTML)
 FEEDS = [({"name": "Sample India Desk", "require_india": False}, (FIX / "rss_sample.xml").read_bytes()),

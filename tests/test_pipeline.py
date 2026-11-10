@@ -2,7 +2,7 @@ import json
 import shutil
 import tempfile
 import unittest
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 from andolan import archive, build, collect, curate, validate
@@ -10,7 +10,17 @@ from andolan.common import DATA, load_reports, normalize_url, read_json, status_
 
 FIX = Path(__file__).parent / "fixtures"
 TODAY = date(2026, 10, 25)
-CHECK_DAY = date(2026, 11, 8)  # validate the real dataset as of its newest report, so later reports are not "in the future"
+
+
+def newest_day() -> date:
+    """The newest date in the real dataset (reports and waiting stories)."""
+    days = [read_json(p)["date"] for p in (DATA / "reports").rglob("*.json")]
+    days += [d for d in (read_json(p).get("published") for p in (DATA / "inbox").glob("*.json")) if d]
+    return max(date.fromisoformat(d) for d in days)
+
+
+# Tests that check the real dataset do so as of its newest story, so approving new reports never breaks them.
+CHECK_DAY = max(date(2026, 11, 8), newest_day())
 FEEDS = [({"name": "Sample India Desk", "require_india": False}, (FIX / "rss_sample.xml").read_bytes()),
          ({"name": "Sample Atom Desk", "require_india": True}, (FIX / "atom_sample.xml").read_bytes())]
 # A news search feed in Bing's format: links go through a Bing redirect, and each item names its outlet.
@@ -134,7 +144,7 @@ class TestPipeline(Tmp):
         by_outlet = {c["outlet"]: c for c in found}
         self.assertEqual(set(by_outlet), {"Example News", "other-paper.test"})   # the MSN copy is skipped: we cite the original
         self.assertEqual(by_outlet["Example News"]["url"], "https://www.example-news.test/northeast/farmers-protest-kohima")
-        self.assertEqual(validate.check_dataset(self.data, day), [])
+        self.assertEqual(validate.check_dataset(self.data, max(day, CHECK_DAY)), [])
 
     def test_promote_reject_and_validate(self):
         new = collect.collect(FEEDS, data=self.data, today=TODAY)
@@ -192,9 +202,10 @@ class TestPipeline(Tmp):
         self.template = sorted((self.data / "inbox").glob("*.json"))[0].read_text()
         for f in (self.data / "inbox").glob("*.json"):
             f.unlink()
-        self._candidate("aaaaaaaaaa", published_url, "2026-11-07")              # approved in another pull request
-        self._candidate("bbbbbbbbbb", "https://example.test/fresh", "2026-11-07")
-        self._candidate("cccccccccc", "https://example.test/old", "2026-10-01")  # five weeks old
+        day_before = (CHECK_DAY - timedelta(days=1)).isoformat()
+        self._candidate("aaaaaaaaaa", published_url, day_before)                    # approved in another pull request
+        self._candidate("bbbbbbbbbb", "https://example.test/fresh", day_before)
+        self._candidate("cccccccccc", "https://example.test/old", (CHECK_DAY - timedelta(days=38)).isoformat())  # five weeks old
         self._candidate("dddddddddd", "https://example.test/undated", None)
         warnings: list[str] = []
         validate.check_dataset(self.data, CHECK_DAY, warnings=warnings)
@@ -227,18 +238,32 @@ class TestBuild(Tmp):
     def test_build(self):
         import csv, re
         out = self.dir / "site"
-        stats = build.build(out=out, today=TODAY, data=self.data)
-        self.assertEqual(stats, {"movements": 31, "reports": 93, "active": 12})
+        day = CHECK_DAY
+        stats = build.build(out=out, today=day, data=self.data)
+        # what the build should say, worked out from the data files with the status rule written out again here
+        reports = load_reports(self.data)
+        source = {read_json(p)["id"]: read_json(p) for p in (self.data / "movements").glob("*.json")}
+        latest: dict[str, str] = {}
+        for r in reports:
+            latest[r["movement"]] = max(latest.get(r["movement"], ""), r["date"])
+        def expected(m: dict) -> str:  # ended if marked so; active with a report in the last 21 days; otherwise quiet
+            if m.get("ended"):
+                return "ended"
+            return "active" if m["id"] in latest and (day - date.fromisoformat(latest[m["id"]])).days <= 21 else "quiet"
+        want = {mid: expected(m) for mid, m in source.items()}
+        n_sir = sum(r["movement"] == "anti-sir-2026" for r in reports)
+        self.assertEqual(stats, {"movements": len(source), "reports": len(reports), "active": list(want.values()).count("active")})
         movements = {m["id"]: m for m in read_json(out / "data" / "movements.json")}
+        self.assertEqual({mid: m["status"] for mid, m in movements.items()}, want)
         self.assertEqual(movements["neet-jantar-mantar-2026"]["status"], "ended")
-        self.assertEqual(movements["ladakh-statehood"]["status"], "quiet")
-        self.assertEqual(movements["anti-sir-2026"]["report_count"], 21)
+        self.assertIn("quiet", want.values())                                    # the data still exercises every status
+        self.assertEqual(movements["anti-sir-2026"]["report_count"], n_sir)
         # the app page carries the whole dataset, safely embedded
         index = (out / "index.html").read_text(encoding="utf-8")
         blob = re.search(r'<script type="application/json" id="andolan-data">(.*?)</script>', index, re.S).group(1)
         embedded = json.loads(blob)
-        self.assertEqual(embedded["today"], "2026-10-25")
-        self.assertEqual(len(embedded["movements"]), 31)
+        self.assertEqual(embedded["today"], day.isoformat())
+        self.assertEqual(len(embedded["movements"]), len(source))
         self.assertNotIn("keywords", embedded["movements"][0])            # matching terms stay out of the page
         self.assertEqual(len(embedded["map"]["states"]), 36)               # every state and union territory
         self.assertIn("Survey of India", embedded["map"]["source"])
@@ -246,25 +271,26 @@ class TestBuild(Tmp):
         self.assertTrue(all(m.get("context") for m in embedded["movements"]))  # every movement explains its issue
         sir = next(m for m in embedded["movements"] if m["id"] == "anti-sir-2026")
         self.assertIn("Special Intensive Revision", sir["context"]["explainer"][0])
-        self.assertEqual([m["status"] for m in embedded["movements"]][:7], ["active"] * 7)  # active first
+        ranks = [build.STATUS_ORDER[m["status"]] for m in embedded["movements"]]
+        self.assertEqual(ranks, sorted(ranks))                                   # active first, then quiet, then ended
         for name in ("assets/app.js", "assets/style.css", "feed.xml", "about.html"):
             self.assertTrue((out / name).exists(), name)
         # permanent movement pages work without JavaScript
-        self.assertEqual(len(list((out / "m").glob("*.html"))), 31)
+        self.assertEqual(len(list((out / "m").glob("*.html"))), len(source))
         neet = (out / "m" / "neet-jantar-mantar-2026.html").read_text(encoding="utf-8")
         self.assertIn("Began 21 Jun 2026, ended 25 Jul 2026", neet)  # its own dates, not its latest report
         self.assertIn("(headline only)", neet)
         self.assertIn('location.replace("../index.html#neet-jantar-mantar-2026")', neet)
         sir_page = (out / "m" / "anti-sir-2026.html").read_text(encoding="utf-8")
-        self.assertEqual(sir_page.count("<li><b>"), 21)
+        self.assertEqual(sir_page.count("<li><b>"), n_sir)
         self.assertIn("Background: What is the SIR", sir_page)
         with (out / "data" / "reports.csv").open(encoding="utf-8", newline="") as fh:
-            self.assertEqual(len(list(csv.DictReader(fh))), 93)
+            self.assertEqual(len(list(csv.DictReader(fh))), len(reports))
         self.assertIn("<entry>", (out / "feed.xml").read_text(encoding="utf-8"))
 
     def test_status_rolls_over_with_the_calendar(self):
         out = self.dir / "later"
-        stats = build.build(out=out, today=date(2026, 12, 25), data=self.data)
+        stats = build.build(out=out, today=CHECK_DAY + timedelta(days=60), data=self.data)
         self.assertEqual(stats["active"], 0)
 
     def test_html_is_escaped(self):

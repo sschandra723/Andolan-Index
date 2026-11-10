@@ -1,0 +1,62 @@
+{
+  "id": "3103cd96e7",
+  "url": "https://nagalandpost.com/ao-bodies-relax-ongoingagitation-for-three-days/",
+  "title": "Ao bodies relax ongoingagitation for three days",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-04",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 950,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "nagaland-mon-killings-2021",
+    "new_movement": null,
+    "summary": "Ao organisations in Nagaland agreed to a three-day pause in their agitation to allow child immunisation and medication from November 5-7, 2026, but warned the protest would intensify after November 16 if demands for completing detachment reports by November 13 were not met.",
+    "facts": [
+      {
+        "claim": "Ao organisations have allowed a three-day relaxation in the ongoing agitation (closure of chief medical officer’s office Mokokchung) to facilitate child immunisation and medication from November 5-7, 2026.",
+        "quote": "DIMAPUR, NOV 3 (NPN): Ao organisations have allowed a three-day relaxation in the ongoing agitation (closure of chief medical officer’s office Mokokchung) to facilitate child immunisation and medication from November 5-7, 2026."
+      },
+      {
+        "claim": "The decision was taken at a joint meeting of the Ao Senden, All Ward Union Mokokchung Town (AWUMT), Watsü Mungdang, Ao Kaketshir Mungdang (AKM) and Ao Lanur Telungjem (ALT) at Aor Kilem.",
+        "quote": "The decision was taken at a joint meeting of the Ao Senden, All Ward Union Mokokchung Town (AWUMT), Watsü Mungdang, Ao Kaketshir Mungdang (AKM) and Ao Lanur Telungjem (ALT) at Aor Kilem."
+      },
+      {
+        "claim": "In a joint letter to DC Mokokchung, the five organisations said the relaxation was granted on humanitarian grounds.",
+        "quote": "In a joint letter to DC Mokokchung, the five organisations said the relaxation was granted on humanitarian grounds."
+      },
+      {
+        "claim": "The organisations also resolved that all detachment and joining reports must be completed by November 13, following the 14-day period provided under the October 30 notification (No. MED-3A/1/2006(PT)/696) for completion of the handing and taking over process.",
+        "quote": "The organisations also resolved that all detachment and joining reports must be completed by November 13, following the 14-day period provided under the October 30 notification (No. MED-3A/1/2006(PT)/696) for completion of the handing and taking over process."
+      },
+      {
+        "claim": "The organisations warned that the agitation would be intensified after a public rally in Mokokchung town on November 16 if the requirements were not fulfilled.",
+        "quote": "The organisations warned that the agitation would be intensified after a public rally in Mokokchung town on November 16 if the requirements were not fulfilled."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ao organisations in Nagaland paused their agitation for child immunisation and medication but warned of intensified protests if detachment reports aren't completed by November 13.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

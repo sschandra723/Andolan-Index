@@ -1,0 +1,63 @@
+{
+  "id": "28c60cc963",
+  "url": "https://www.thenewsminute.com/kerala/political-activities-like-dharna-satyagraha-have-no-place-in-democracy-kerala-high-court",
+  "title": "‘Political activities like dharna, satyagraha have no place in democracy’: Kerala High Court",
+  "outlet": "The News Minute",
+  "published": "2026-11-04",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "hunger strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4015,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "srfti-kolkata-protest-2026",
+    "new_movement": null,
+    "summary": "Kerala High Court ruled that political activities like dharna and hunger strikes have no place in constitutional democracy, citing a 2017 judgement that students engaging in such activities can be expelled from academic institutions.",
+    "facts": [
+      {
+        "claim": "Kerala High Court said political activities like dharna, hunger strikes, and other practices like satyagraha have no place in a constitutional democracy",
+        "quote": "‘Political activities like dharna, hunger strikes, and other practices like satyagraha have no place in a constitutional democracy, much less in academic institutions,’"
+      },
+      {
+        "claim": "The court cited a 2017 judgement by another bench",
+        "quote": "the Kerala High Court said on Tuesday, November 3, citing a 2017 judgement by another bench."
+      },
+      {
+        "claim": "The 2017 judgement stated that students engaging in political activities are liable to be expelled or rusticated",
+        "quote": "In its November 3 order, the bench quoted the 2017 judgement in Dr Antony Thomas v VM Muhammed Rafique and others to say that students engaging in political activities are liable to be expelled or rusticated."
+      },
+      {
+        "claim": "The 2017 judgement quoted Dr BR Ambedkar on constitutional methods",
+        "quote": "The 2017 judgement had quoted Dr BR Ambedkar to say, ‘If we wish to maintain democracy not merely in form, but also in fact, what must we do? … It means we must abandon the bloody methods of revolution. It means that we must abandon the method of civil disobedience, non-cooperation and satyagraha.'"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala High Court ruled that political activities like dharna and hunger strikes have no place in constitutional democracy, citing a 2017 judgement that students engaging in such activities can be expelled from academic institutions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/4",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘Political activities like dharna, hunger strikes, and other practices like saty”",
+        "quote not in article: “The 2017 judgement had quoted Dr BR Ambedkar to say, ‘If we wish to maintain dem”"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "Coverage up from 0 to 2 reports this week."
+  }
+}

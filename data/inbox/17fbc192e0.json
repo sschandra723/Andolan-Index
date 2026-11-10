@@ -1,0 +1,67 @@
+{
+  "id": "17fbc192e0",
+  "url": "https://nagalandpost.com/political-opportunism/",
+  "title": "Political Opportunism",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-04",
+  "collected": "2026-11-10",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "Cockroach Janata Party",
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4345,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Cockroach Janata Party (CJP) gained visibility from protests over an exam paper leak but lacks political strength to challenge established parties. It chose not to join the INDIA bloc's protests against electoral roll revisions, raising questions about its political consistency.",
+    "facts": [
+      {
+        "claim": "The Cockroach Janata Party (CJP) has been propelled into unexpected prominence by the protests surrounding the examination paper leak controversy",
+        "quote": "The Cockroach Janata Party (CJP) has been propelled into unexpected prominence by the protests surrounding the examination paper leak controversy."
+      },
+      {
+        "claim": "The CJP may have succeeded in creating a platform for public grievances, but it lacks the organisational machinery, manpower and resources required to function as a political party capable of challenging established political forces",
+        "quote": "The CJP may have succeeded in creating a platform for public grievances, but it lacks the organisational machinery, manpower and resources required to function as a political party capable of challenging established political forces."
+      },
+      {
+        "claim": "The CJP has expressed support for demands seeking the CEC’s resignation and the review and restoration of voters’ names allegedly deleted wrongly",
+        "quote": "The CJP has expressed support for demands seeking the CEC’s resignation and the review and restoration of voters’ names allegedly deleted wrongly."
+      },
+      {
+        "claim": "The controversy over electoral rolls, including claims of deletions running into crores, concerns the very foundation of representative democracy",
+        "quote": "The controversy over electoral rolls, including claims of deletions running into crores, concerns the very foundation of representative democracy."
+      },
+      {
+        "claim": "The CJP’s decision to maintain distance from the opposition’s collective protest raises questions about the consistency of its political position",
+        "quote": "The CJP’s decision to maintain distance from the opposition’s collective protest raises questions about the consistency of its political position."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The CJP is a political group that gained visibility from protests over an exam paper leak but chose not to join the INDIA bloc's protests against electoral roll revisions, raising questions about its political consistency.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

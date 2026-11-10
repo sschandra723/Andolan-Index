@@ -1,0 +1,58 @@
+{
+  "id": "7a65c5ade7",
+  "url": "https://nagalandpost.com/satellite-plays-iconic-game-in-worlds-1st-demonstration-of-orbital-voice-control/",
+  "title": "Satellite plays iconic game in world’s 1st demonstration of orbital voice control",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-10",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3448,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A satellite in space played the Doom video game after receiving a voice command from a rooftop in Oslo, Norway, marking a historic demonstration of orbital voice control. The experiment, conducted by radio amateurs with the European Space Agency, used open-source tools to transmit and interpret the command successfully.",
+    "facts": [
+      {
+        "claim": "A satellite in space played the Doom video game after receiving a voice command from a rooftop in Oslo, Norway",
+        "quote": "A satellite went knee-deep in the dead, after a voice command from the ground activated the Doom video game in space."
+      },
+      {
+        "claim": "The experiment, conducted by radio amateurs with the European Space Agency",
+        "quote": "OPS-SAT Space Lab managed the experiment on behalf of ESA."
+      },
+      {
+        "claim": "The satellite played Doom after receiving the command",
+        "quote": "The historic voice command on July 27— in part, “PRETTY play Doom Doom Doom”— came from a rooftop in Oslo, and was spoken at night by Jon Bergli Heier (LB9BJ). PRETTY picked up the transmission, transcribed the command using on-board voice recognition, and then — just like a typical evening gamer—opened up Doom for a play session."
+      },
+      {
+        "claim": "The experiment used open-source tools",
+        "quote": "But the transmission clearly worked, powered by open-source tools including GNU Radio (which handled the signal processing) and Sherpa-ONNX (speech recognition)."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

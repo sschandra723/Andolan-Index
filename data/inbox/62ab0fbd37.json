@@ -1,0 +1,75 @@
+{
+  "id": "62ab0fbd37",
+  "url": "https://www.thehindu.com/news/cities/mumbai/protests-in-kolhapur-over-gokul-dairy-board-nominations-election-for-chairperson-today/article71683585.ece",
+  "title": "Protests in Kolhapur over Gokul Dairy board nominations; election for chairperson today",
+  "outlet": "The Hindu",
+  "published": "2026-11-10",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2512,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Protesters in Kolhapur, including farmers and opposition parties, demonstrated against Maharashtra's nomination of directors to Gokul Dairy's board, which affects Tuesday's election for its chairperson. The Bombay High Court refused to stay the government's ordinance, allowing the four nominated directors to vote separately.",
+    "facts": [
+      {
+        "claim": "Thousands of protesters, including farmers’ groups and Opposition parties, hit the streets of Kolhapur on Monday to protest against the Maharashtra government’s decision to nominate five directors to the boards of large cooperatives",
+        "quote": "Thousands of protesters, including farmers’ groups and Opposition parties, hit the streets of Kolhapur on Monday to protest against the Maharashtra government’s decision to nominate five directors to the boards of large cooperatives, which will have a direct impact on Tuesday’s election for the chairperson of the Kolhapur District Cooperative Milk Producers’ Union, better known as Gokul Dairy."
+      },
+      {
+        "claim": "A panel backed by Congress MLC Satej Patil had defeated the Mahayuti combine in the elections to the Gokul Dairy board on October 18, winning 13 of the 25 seats against the ruling alliance’s 12",
+        "quote": "A panel backed by Congress MLC Satej Patil had defeated the Mahayuti combine in the elections to the Gokul Dairy board on October 18, winning 13 of the 25 seats against the ruling alliance’s 12."
+      },
+      {
+        "claim": "The Bombay High Court refused to pass any urgent order to stay the Maharashtra government’s ordinance and directed that the election to the post of the chairperson be held on Tuesday",
+        "quote": "In a setback to the Congress MLC, the High Court on Monday refused to pass any urgent order to stay the Maharashtra government’s ordinance and directed that the election to the post of the chairperson be held on Tuesday."
+      },
+      {
+        "claim": "The court has asked that those four votes be counted and kept separately. There is no stay on the ordinance. The matter will be heard later this month",
+        "quote": "‘Tomorrow, the four nominated directors will have voting rights. Their votes will be kept in a separate ballot box. The court has asked that those four votes be counted and kept separately. There is no stay on the ordinance. The matter will be heard later this month,’ Shrikrishna Ganbavle, the advocate on record for Mr. Patil, told The Hindu."
+      },
+      {
+        "claim": "State Minister and Mahayuti leader Hasan Mushrif said, 'We will honour it and give justice to the farmers of Kolhapur.'",
+        "quote": "Responding to the court’s order, State Minister and Mahayuti leader Hasan Mushrif said, 'We will honour it and give justice to the farmers of Kolhapur.'"
+      },
+      {
+        "claim": "NCP (SP) leader Supriya Sule stated that the State government’s effort to take control of Gokul Dairy at a time when Mr. Patil had established 'undisputed dominance' was 'incomprehensible'",
+        "quote": "In a post on social media, NCP (SP) leader Supriya Sule stated that the State government’s effort to take control of Gokul Dairy at a time when Mr. Patil had established 'undisputed dominance' was 'incomprehensible'."
+      },
+      {
+        "claim": "Cockroach Janta Party founder Abhijeet Dipke also backed the protest, hitting out at Chief Minister Devendra Fadnavis for 'misusing' authority to 'stage a hostile takeover' of Gokul Dairy after the Mahayuti lost the poll",
+        "quote": "Cockroach Janta Party founder Abhijeet Dipke also backed the protest, hitting out at Chief Minister Devendra Fadnavis for 'misusing' authority to 'stage a hostile takeover' of Gokul Dairy after the Mahayuti lost the poll."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest centers on the Maharashtra government's ordinance to appoint directors to Gokul Dairy's board, which the Bombay High Court allowed to proceed despite a petition challenging it.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/7",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘Tomorrow, the four nominated directors will have voting rights. Their votes wil”",
+        "quote not in article: “Responding to the court’s order, State Minister and Mahayuti leader Hasan Mushri”",
+        "quote not in article: “In a post on social media, NCP (SP) leader Supriya Sule stated that the State go”",
+        "quote not in article: “Cockroach Janta Party founder Abhijeet Dipke also backed the protest, hitting ou”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

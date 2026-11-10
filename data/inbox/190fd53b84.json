@@ -1,0 +1,48 @@
+{
+  "id": "190fd53b84",
+  "url": "https://nagalandpost.com/dose-approves-stopgap-teacher-for-ghss-sungro/",
+  "title": "DoSE approves stopgap teacher for GHSS Sungro",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-10",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1375,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "pu-bachao-morcha-2025",
+    "new_movement": null,
+    "summary": "The Department of School Education approved a stopgap political science teacher for GHSS Sungro to address staff shortages that triggered agitation by the Lotha Middle Range Students’ Union.",
+    "facts": [
+      {
+        "claim": "Department of School Education (DoSE) has decided to post a postgraduate teacher (PGT) in political science at Government Higher Secondary School (GHSS), Sungro, as a stopgap arrangement to address the staff shortage that has triggered an agitation by the Lotha Middle Range Students’ Union (LMRSU).",
+        "quote": "Department of School Education (DoSE) has decided to post a postgraduate teacher (PGT) in political science at Government Higher Secondary School (GHSS), Sungro, as a stopgap arrangement to address the staff shortage that has triggered an agitation by the Lotha Middle Range Students’ Union (LMRSU)."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Lotha Middle Range Students’ Union (LMRSU) has been protesting staff shortages at GHSS Sungro in Nagaland.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "1/1",
+      "names_checked": true,
+      "problems": [
+        "name “The Department of School Education” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

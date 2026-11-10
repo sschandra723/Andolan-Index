@@ -1,0 +1,67 @@
+{
+  "id": "5e76c1b565",
+  "url": "https://www.indiatoday.in/india/video/ethanol-blending-controversy-and-diwali-aftermath-disrupt-south-india-ytvd-3035257-2026-11-09",
+  "title": "Excess ethanol in petrol fuels protests and air pollution disrupts south India after Diwali",
+  "outlet": "India Today",
+  "published": "2026-11-09",
+  "collected": "2026-11-10",
+  "suggested_movement": "tn-hospital-workers-2026",
+  "score": 2.0,
+  "matched": [
+    "Tamil Nadu",
+    "Chennai"
+  ],
+  "alternatives": [
+    "delhi-clean-air-2025"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1285,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "Protests in south India after Diwali due to excess ethanol in petrol and air pollution, with Karnataka and Kerala reporting fuel sample collections and Chennai facing smog disruptions.",
+    "facts": [
+      {
+        "claim": "Excess ethanol in petrol fuels protests and air pollution disrupts south India after Diwali",
+        "quote": "Excess ethanol in petrol fuels protests and air pollution disrupts south India after Diwali"
+      },
+      {
+        "claim": "Tensions rose in Karnataka and Kerala over claims of excessive ethanol blending in commercial petrol",
+        "quote": "Tensions rose in Karnataka and Kerala over claims of excessive ethanol blending in commercial petrol, with levels reported above the mandated limit, triggering protests and fuel sample collections."
+      },
+      {
+        "claim": "Post-Diwali, Chennai faced severe air pollution and smog disruptions, causing match postponements",
+        "quote": "Post-Diwali, Chennai faced severe air pollution and smog disruptions, causing match postponements."
+      },
+      {
+        "claim": "Hyderabad reported multiple cracker-related eye injuries amid moderate air quality",
+        "quote": "Hyderabad reported multiple cracker-related eye injuries amid moderate air quality."
+      },
+      {
+        "claim": "Tamil Nadu saw heightened political unrest following Diwali homicides, including a police officer's death",
+        "quote": "Tamil Nadu saw heightened political unrest following Diwali homicides, including a police officer's death"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Protests in south India after Diwali due to excess ethanol in petrol and air pollution, with Karnataka and Kerala reporting fuel sample collections and Chennai facing smog disruptions.",
+    "confidence": 0.8,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

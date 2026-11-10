@@ -1,0 +1,56 @@
+{
+  "id": "7c6aa3922d",
+  "url": "https://www.thehindu.com/news/national/kerala/citu-keralam-state-conference-concludes-re-elects-tp-ramakrishnan-as-president/article71682469.ece",
+  "title": "CITU Keralam State conference concludes, re-elects T.P. Ramakrishnan as president",
+  "outlet": "The Hindu",
+  "published": "2026-11-09",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CITU"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2342,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "CITU Keralam re-elected T.P. Ramakrishnan as president, planning protests against UDF government's employee transfer policy and Labour Codes repeal.",
+    "facts": [
+      {
+        "claim": "CITU Keralam State conference re-elected T.P. Ramakrishnan as president",
+        "quote": "The 16th State conference of the Centre of Indian Trade Unions (CITU), which concluded here on Monday, re-elected T.P. Ramakrishnan as State president and K.K. Jayachandran as general secretary."
+      },
+      {
+        "claim": "CITU Keralam plans protests against UDF government's employee transfer policy",
+        "quote": "Mr. Ramakrishnan said the CITU would launch a series of protests against what he termed the United Democratic Front (UDF) government’s unilateral move to transfer en masse employees of various government departments and State-run Public Sector Undertakings (PSUs)."
+      },
+      {
+        "claim": "CITU Keralam plans to repeal Labour Codes",
+        "quote": "Mr. Ramakrishnan also spoke of the plans to line workers from Keralam for a massive march from Ramlila Maidan to Parliament on December 1, demanding the repeal of the Labour Codes."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CITU Keralam re-elected T.P. Ramakrishnan as president, planning protests against UDF government's employee transfer policy and Labour Codes repeal.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

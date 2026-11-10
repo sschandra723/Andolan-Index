@@ -1,0 +1,62 @@
+{
+  "id": "167220c42d",
+  "url": "https://nagalandpost.com/kohima-law-college-hosts-first-edition-of-all-nagaland-moot-court-competition-2026/",
+  "title": "Kohima Law College hosts first edition of All Nagaland Moot Court Competition 2026",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-09",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5097,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Kohima Law College hosted the first All Nagaland Moot Court Competition 2026 in November 2026, aiming to bridge theoretical legal education with practical courtroom experience through student participation and constitutional awareness.",
+    "facts": [
+      {
+        "claim": "Kohima Law College (KLC) organised First Edition of All Nagaland Moot Court Competition 2026 on November 6",
+        "quote": "Kohima Law College (KLC), in collaboration with Department of Law & Justice, organised First Edition of All Nagaland Moot Court Competition 2026 on November 6 at the Red Cross Conference Hall, Kohima."
+      },
+      {
+        "claim": "The competition aimed to bridge gap between theoretical legal education and practical courtroom experience",
+        "quote": "A press release KLC stated that the competition was aimed at bridging gap between theoretical legal education and practical courtroom experience by encouraging students to engage in legal research, construct arguments, interpret constitutional provisions and develop confidence in presenting submissions before a judicial bench."
+      },
+      {
+        "claim": "Participants included students from Kohima Law College and postgraduate law students from Nagaland University, Lumami",
+        "quote": "The event witnessed participation from students of Kohima Law College and postgraduate law students (LL.M.) from Nagaland University, Lumami, while representatives from City Law College were also present to witness proceedings."
+      },
+      {
+        "claim": "Dr. K. D. Vizo, Principal Secretary, Department of Law & Justice, attended as Special Guest and Observer",
+        "quote": "The valedictory programme was attended by distinguished personalities from legal and academic fraternity, including ITS, Principal Secretary, Department of Law & Justice, Dr. K. D. Vizo, who attended as the Special Guest and Observer"
+      },
+      {
+        "claim": "Dr. Vizo highlighted Article 371A of the Constitution of India for Naga customary laws",
+        "quote": "He particularly drew attention to Article 371A of the Constitution of India, which provides special constitutional protection to Naga customary laws, social practices, and the ownership and transfer of land and its resources"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

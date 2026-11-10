@@ -1,0 +1,54 @@
+{
+  "id": "7dfa31d670",
+  "url": "https://nagalandpost.com/nov-1-opposition-rally-its-done-bro-but-what-happened-in-france/",
+  "title": "Nov 1 Opposition rally: It’s done bro; but what happened in France?",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-05",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The author criticizes opposition parties for claiming 13 crore voters were 'dropped' during electoral-roll revision, clarifying that the figure refers to four categories: dead (2.8 crore), untraceable (3 crore), shifted (6.3 crore), and duplicate (1 crore) voters. The author emphasizes India's robust electoral system and contrasts peaceful protests with violent demonstrations in Europe.",
+    "facts": [
+      {
+        "claim": "opposition parties keep quoting the figure of 13 crore",
+        "quote": "On the number of voters ‘dropped’ – the opposition parties keep quoting the figure of 13 crore."
+      },
+      {
+        "claim": "the figure actually refers to four categories",
+        "quote": "— 2.8 crore names deleted — are Dead\n— 3 crore voters — are officially untraceable or missing.\nAnd 6.3 crore voters — are permanently shifted and one crore — Multiple Enrolment."
+      },
+      {
+        "claim": "the electoral-roll process does not mean final list",
+        "quote": "Those who are debating these issues and even making allegations against Election Commission are not appreciating the fact that the ‘electoral-roll process’ does not mean final list. There are stages involving — claims, objections, verification and finalisation."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The author clarifies the electoral-roll revision terminology and contrasts India's peaceful protest culture with violent demonstrations in Europe.",
+    "confidence": 0.85,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

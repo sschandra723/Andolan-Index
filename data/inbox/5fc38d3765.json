@@ -1,0 +1,69 @@
+{
+  "id": "5fc38d3765",
+  "url": "https://nagalandpost.com/india-bloc-in-ktaka-stages-protest-against-sir-seeks-cec-resignation/",
+  "title": "INDIA bloc in K’taka stages protest against SIR, seeks CEC resignation",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-06",
+  "collected": "2026-11-10",
+  "suggested_movement": "anti-sir-2026",
+  "score": 4.0,
+  "matched": [
+    "=SIR",
+    "Gyanesh Kumar",
+    "=CEC",
+    "electoral roll"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5280,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "INDIA bloc leaders in Karnataka protested against the Special Intensive Revision (SIR) of electoral rolls, demanding its withdrawal and CEC Gyanesh Kumar's resignation, citing deletion of over 14 crore names and concerns about electoral manipulation.",
+    "facts": [
+      {
+        "claim": "deletion of over 14 crore names from electoral rolls across the country",
+        "quote": "A resolution adopted at the rally alleged that the SIR exercise had resulted in the deletion of over 14 crore names from electoral rolls across the country, including a large number of eligible voters."
+      },
+      {
+        "claim": "electorate declined from 5.54 crore to around 4.5 crore in Karnataka",
+        "quote": "In Karnataka, the resolution claimed that the electorate had declined from 5.54 crore before the revision to around 4.5 crore in the final electoral roll published on October 27."
+      },
+      {
+        "claim": "Bengaluru witnessed deletion of nearly 45 lakh names",
+        "quote": "The resolution further claimed that Bengaluru had witnessed the deletion of nearly 45 lakh names from its electoral rolls, with the number of registered voters falling from around 1.04 crore to 59.08 lakh."
+      },
+      {
+        "claim": "SIR exercise could disenfranchise eligible voters",
+        "quote": "The protest, held under the banner of “Save the Vote, Save the Country”, was part of the INDIA bloc’s nationwide agitation against the SIR exercise, which opposition parties have alleged could disenfranchise eligible voters and undermine democratic processes."
+      },
+      {
+        "claim": "SIR exercise being used for electoral manipulation",
+        "quote": "The leaders alleged that the exercise was being used to facilitate electoral manipulation rather than merely to identify ineligible voters."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "INDIA bloc in Karnataka protested against SIR (Special Intensive Revision) of electoral rolls, claiming over 14 crore names deleted and electoral manipulation.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": [
+        "name “Special Intensive Revision” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "1 outlet in the last 48 hours; coverage up from 0 to 2 reports this week."
+  }
+}

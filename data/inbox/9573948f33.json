@@ -1,0 +1,66 @@
+{
+  "id": "9573948f33",
+  "url": "https://nagalandpost.com/police-serves-notice-to-mamata/",
+  "title": "Police serves notice to Mamata",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-10",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1168,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Delhi Police served a notice to Mamata Banerjee, former West Bengal chief minister, to record a statement in a 2013 case involving a confrontation with police during a Trinamool Congress protest in Delhi.",
+    "facts": [
+      {
+        "claim": "Delhi Police has served a notice to former West Bengal chief minister Minister Mamata Banerjee",
+        "quote": "Delhi Police has served a notice to former West Bengal chief minister Minister Mamata Banerjee, asking her to record her statement in a 2013 case linked to a confrontation with police during a Trinamool Congress protest in the national capital, police sources said on Monday."
+      },
+      {
+        "claim": "Banerjee has been issued the notice in her capacity as a witness in the case, and not as an accused",
+        "quote": "Banerjee has been issued the notice in her capacity as a witness in the case, and not as an accused, the sources clarified."
+      },
+      {
+        "claim": "The case pertains to an incident in April 2013, when Banerjee, accompanied by a delegation of Trinamool ministers and MPs, reached Delhi to protest against the alleged assault on then-Bengal finance minister Amit Mitra by members of the Students’ Federation of India (SFI).",
+        "quote": "The case pertains to an incident in April 2013, when Banerjee, accompanied by a delegation of Trinamool ministers and MPs, reached Delhi to protest against the alleged assault on then-Bengal finance minister Amit Mitra by members of the Students’ Federation of India (SFI)."
+      },
+      {
+        "claim": "A confrontation reportedly broke out between Banerjee and Delhi Police personnel after the latter attempted to restrict the movement of the delegation, citing security concerns and prohibitory orders.",
+        "quote": "A confrontation reportedly broke out between Banerjee and Delhi Police personnel after the latter attempted to restrict the movement of the delegation, citing security concerns and prohibitory orders."
+      },
+      {
+        "claim": "Banerjee reportedly told police that she was a “Lok Policy Representative (LIP)” and not a VIP, saying she came to the national capital to fight for people’s rights.",
+        "quote": "Banerjee reportedly told police that she was a “Lok Policy Representative (LIP)” and not a VIP, saying she came to the national capital to fight for people’s rights."
+      },
+      {
+        "claim": "The notice has been issued to record her statement as a witness in the investigation, the sources said.",
+        "quote": "The notice has been issued to record her statement as a witness in the investigation, the sources said."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

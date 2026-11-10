@@ -1,0 +1,57 @@
+{
+  "id": "52f9377c91",
+  "url": "https://theprint.in/politics/when-hope-meets-cynicism-annamalais-new-book-talks-of-cjp-student-protests-and-indias-fault-lines/3091733/",
+  "title": "When hope meets cynicism: Annamalai’s new book talks of CJP, student protests and India’s fault lines",
+  "outlet": "ThePrint",
+  "published": "2026-11-06",
+  "collected": "2026-11-10",
+  "suggested_movement": "neet-jantar-mantar-2026",
+  "score": 4.0,
+  "matched": [
+    "NEET",
+    "paper leak",
+    "Cockroach Janta Party",
+    "=CJP"
+  ],
+  "alternatives": [
+    "anti-sir-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4989,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "neet-jantar-mantar-2026",
+    "new_movement": null,
+    "summary": "The book discusses student protests against the NEET paper leak turning into a crisis of trust in the system, highlighting how young people defend democracy when institutions fail.",
+    "facts": [
+      {
+        "claim": "student protests against the NEET paper leak began as an examination failure but turned into a crisis of trust",
+        "quote": "The epilogue to the book says that the student protests against the NEET paper leak began as an examination failure, but soon turned into a \"crisis of trust\"."
+      },
+      {
+        "claim": "the book states that the anger was not just about a single paper, exam or administrative lapse but about a deeper fear that the system had begun to betray aspirations",
+        "quote": "It asserts that the anger was not just about a single paper, exam or administrative lapse, but about a \"deeper fear that the system which meant to protect aspiration had begun to betray it\"."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The book links the NEET paper leak protests to broader systemic distrust in institutions, emphasizing how youth activism challenges political cynicism.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

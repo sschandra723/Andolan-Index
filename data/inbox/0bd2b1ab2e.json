@@ -1,0 +1,62 @@
+{
+  "id": "0bd2b1ab2e",
+  "url": "https://www.hindustantimes.com/india-news/traders-body-led-by-bjp-mp-to-seek-alternative-sites-for-political-stirs-101794251505913.html",
+  "title": "Traders body led by BJP MP to seek alternative sites for political stirs",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-10",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3270,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Confederation of All India Traders (CAIT) called a national meeting to seek designated protest sites outside cities, arguing that political protests in commercial areas disrupt business and affect the economy.",
+    "facts": [
+      {
+        "claim": "The Confederation of All India Traders (CAIT) has called a national meeting to seek designated sites for political protests and demonstrations on the outskirts of cities, arguing that prolonged agitations in commercial areas disrupt business and affect the economy",
+        "quote": "The Confederation of All India Traders (CAIT) has called a national meeting to seek designated sites for political protests and demonstrations on the outskirts of cities, arguing that prolonged agitations in commercial areas disrupt business and affect the economy"
+      },
+      {
+        "claim": "The traders’ body, led by BJP lawmaker Praveen Khandelwal, will meet in the national Capital on November 13 to discuss the proposal at a national meeting that will include senior trade leaders from across the country",
+        "quote": "The traders’ body, led by BJP lawmaker Praveen Khandelwal, will meet in the national Capital on November 13 to discuss the proposal at a national meeting that will include senior trade leaders from across the country"
+      },
+      {
+        "claim": "Khandelwal, the Chandni Chowk MP, said, \"Suitable locations should be designated on the outskirts of every city, or at other appropriate places, for protests and demonstrations\"",
+        "quote": "\"Suitable locations should be designated on the outskirts of every city, or at other appropriate places, for protests and demonstrations,\" said Khandelwal, the Chandni Chowk MP."
+      },
+      {
+        "claim": "The move from the traders comes after a series of protests by the Opposition’s INDIA bloc in the heart of Delhi last month, which included massive marches to the Jantar Mantar, the Rahjghat and the Supreme Court",
+        "quote": "The move from the traders comes after a series of protests by the Opposition’s INDIA bloc in the heart of Delhi last month, which included massive marches to the Jantar Mantar, the Rahjghat and the Supreme Court"
+      },
+      {
+        "claim": "Last month, the Centre ended Jantar Mantar’s three-decade-old status as Delhi’s designated protest site, with the Delhi Police issuing an order on October 11, 2026, to denotify the venue and shift demonstrations to three alternative locations",
+        "quote": "Last month, the Centre ended Jantar Mantar’s three-decade-old status as Delhi’s designated protest site, with the Delhi Police issuing an order on October 11, 2026, to denotify the venue and shift demonstrations to three alternative locations"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CAIT is seeking designated protest sites outside cities to address disruptions from political protests in commercial areas, following the Centre's decision to end Jantar Mantar's status as Delhi's designated protest site.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2c5c28abac",
+  "url": "https://nagalandpost.com/france-workers-hold-protest-to-demand-higher-wages/",
+  "title": "France workers hold protest to demand higher wages",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-06",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2363,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "French workers participated in nationwide protests demanding higher wages and supporting student movements amid budget disputes, with authorities deploying over 70,000 police to ensure peaceful demonstrations.",
+    "facts": [
+      {
+        "claim": "Hundreds of workers took part in the major protests in France on Thursday",
+        "quote": "Hundreds of workers took part in the major protests in France on Thursday"
+      },
+      {
+        "claim": "Trade unions took part in the protests in France on Thursday to demand higher wages and in support of the high school protest movement",
+        "quote": "Trade unions took part in the protests in France on Thursday to demand higher wages and in support of the high school protest movement"
+      },
+      {
+        "claim": "French Interior Minister Laurent Nunez said that over 70,000 law enforcement personnel will be deployed on Thursday",
+        "quote": "French Interior Minister Laurent Nunez said that over 70,000 law enforcement personnel will be deployed on Thursday"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

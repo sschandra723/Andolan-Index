@@ -1,0 +1,49 @@
+{
+  "id": "ad475a5428",
+  "url": "https://indianexpress.com/article/india/dharna-hunger-strikes-have-no-space-in-constitutional-democracy-kerala-high-court-10950778/",
+  "title": "Dharna, hunger strikes have no place in democracy: Kerala High Court",
+  "outlet": "The Indian Express",
+  "published": "2026-11-04",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "hunger strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Kerala High Court stated that hunger strikes and dharnas are not democratic practices, rejecting the use of such methods in democratic processes.",
+    "facts": [
+      {
+        "claim": "Kerala High Court stated that hunger strikes and dharnas are not democratic practices",
+        "quote": "Dharna, hunger strikes have no place in democracy: Kerala High Court"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala High Court has declared that hunger strikes and dharnas are not democratic practices, which may impact ongoing protests in Kerala.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

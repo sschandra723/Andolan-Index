@@ -1,0 +1,46 @@
+{
+  "id": "15d13329a6",
+  "url": "https://nagalandpost.com/voting-and-not-walking-to-protest-will-get-us-to-power/",
+  "title": "“Voting and not walking to protest will get us to power.”",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-03",
+  "collected": "2026-11-10",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 252,
+    "fetch_note": null,
+    "drafted": "2026-11-10",
+    "is_protest_in_india": true,
+    "movement": "nagaland-mon-killings-2021",
+    "new_movement": null,
+    "summary": "Nagaland protests over highway construction in Chümoukedima area continue amid concerns about displacement and safety.",
+    "facts": [
+      {
+        "claim": "The four-laning of the Dimapur–Kohima National Highway was meant to improve connectivity, stimulate economic activity and make travel safer.",
+        "quote": "The four-laning of the Dimapur–Kohima National Highway was meant to improve connectivity, stimulate economic activity and make travel safer."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The highway project in Chümoukedima has raised concerns about displacement and safety in Nagaland.",
+    "confidence": 0.8,
+    "checks": {
+      "passed": true,
+      "quotes_found": "1/1",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

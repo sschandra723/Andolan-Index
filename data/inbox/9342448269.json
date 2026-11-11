@@ -1,0 +1,86 @@
+{
+  "id": "9342448269",
+  "url": "https://kashmirlife.net/ladakh-ceo-bans-political-protests-dharnas-in-leh-and-kargil-during-municipal-polls-460651/",
+  "title": "Ladakh CEO Bans Political Protests, Dharnas in Leh and Kargil During Municipal Polls",
+  "outlet": "Kashmir Life",
+  "published": "2026-11-11",
+  "collected": "2026-11-11",
+  "suggested_movement": "ladakh-statehood",
+  "score": 3.0,
+  "matched": [
+    "Ladakh",
+    "Leh",
+    "Kargil"
+  ],
+  "alternatives": [
+    "tn-hospital-workers-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2161,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Ladakh Chief Electoral Officer banned political protests and dharnas in Leh and Kargil during municipal elections to ensure peaceful voting.",
+    "facts": [
+      {
+        "claim": "The Chief Electoral Officer (CEO) of Ladakh has prohibited political parties, candidates and their supporters from organising dharnas, protests, demonstrations, sit-ins, hunger strikes and rallies within the municipal limits of Leh and Kargil during the Model Code of Conduct period for the upcoming municipal elections.",
+        "quote": "SRINAGAR: The Chief Electoral Officer (CEO) of Ladakh has prohibited political parties, candidates and their supporters from organising dharnas, protests, demonstrations, sit-ins, hunger strikes and rallies within the municipal limits of Leh and Kargil during the Model Code of Conduct period for the upcoming municipal elections."
+      },
+      {
+        "claim": "An order issued by Chief Electoral Officer Rahul Sharma, IAS, on November 11, 2026, states that the restriction will remain in force throughout the Model Code of Conduct period, which came into effect on October 23 following the notification calling upon electors to elect members of the Municipal Committees of Leh and Kargil.",
+        "quote": "An order issued by Chief Electoral Officer Rahul Sharma, IAS, on November 11, 2026, states that the restriction will remain in force throughout the Model Code of Conduct period, which came into effect on October 23 following the notification calling upon electors to elect members of the Municipal Committees of Leh and Kargil."
+      },
+      {
+        "claim": "The order prohibits political parties, candidates, workers, supporters and other persons from organising, holding or participating in collective political activities that are likely to affect the peaceful conduct of elections.",
+        "quote": "The order prohibits political parties, candidates, workers, supporters and other persons from organising, holding or participating in collective political activities that are likely to affect the peaceful conduct of elections."
+      },
+      {
+        "claim": "The CEO said such activities could intimidate voters, disturb public order and undermine the atmosphere required for free, fair and peaceful elections.",
+        "quote": "The CEO said such activities could intimidate voters, disturb public order and undermine the atmosphere required for free, fair and peaceful elections."
+      },
+      {
+        "claim": "Political parties, candidates and their agents have also been directed to strictly follow the Model Code of Conduct and ensure that no activity is undertaken that could intimidate, coerce or unduly influence voters.",
+        "quote": "Political parties, candidates and their agents have also been directed to strictly follow the Model Code of Conduct and ensure that no activity is undertaken that could intimidate, coerce or unduly influence voters."
+      },
+      {
+        "claim": "The District Election Officers (Deputy Commissioners) of Leh and Kargil, along with the respective Superintendents of Police and other concerned authorities, have been directed to ensure strict implementation of the order.",
+        "quote": "The District Election Officers (Deputy Commissioners) of Leh and Kargil, along with the respective Superintendents of Police and other concerned authorities, have been directed to ensure strict implementation of the order."
+      },
+      {
+        "claim": "The order warns that violations will be dealt with firmly under the relevant provisions of law and the Model Code of Conduct, including the initiation of appropriate legal proceedings.",
+        "quote": "The order warns that violations will be dealt with firmly under the relevant provisions of law and the Model Code of Conduct, including the initiation of appropriate legal proceedings."
+      },
+      {
+        "claim": "The District Election Officers have also been instructed to give wide publicity to the order through print and electronic media and display copies at prominent public places, including Municipal Committee offices and the Deputy Commissioners’ notice boards.",
+        "quote": "The District Election Officers have also been instructed to give wide publicity to the order through print and electronic media and display copies at prominent public places, including Municipal Committee offices and the Deputy Commissioners’ notice boards."
+      },
+      {
+        "claim": "The order has been issued under Section 282 of the Jammu and Kashmir Municipal Act, 2000, read with the Jammu and Kashmir Municipal Committee (Election) Rules, 2003, for ensuring free, fair and peaceful municipal elections in Leh and Kargil.",
+        "quote": "The order has been issued under Section 282 of the Jammu and Kashmir Municipal Act, 2000, read with the Jammu and Kashmir Municipal Committee (Election) Rules, 2003, for ensuring free, fair and peaceful municipal elections in Leh and Kargil."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Ladakh statehood movement has been active in demanding statehood for Ladakh, which was split from Jammu and Kashmir in 2019. The current ban on political protests during municipal elections aims to ensure peaceful voting in the region amid ongoing political tensions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": [
+        "name “The Ladakh Chief Electoral Officer” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

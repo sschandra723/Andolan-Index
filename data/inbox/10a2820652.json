@@ -1,0 +1,66 @@
+{
+  "id": "10a2820652",
+  "url": "https://theshillongtimes.com/2026/11/11/moodys-ups-indias-growth-forecast-to-7-per-cent-from-6-5-per-cent-earlier/",
+  "title": "Moody’s ups India’s growth forecast to 7 per cent from 6.5 per cent earlier",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-11",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2634,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Moody's upgraded India's economic growth forecast to 7% for 2026-27, citing resilient economic momentum and energy supply resilience amid rising prices.",
+    "facts": [
+      {
+        "claim": "Moody's Ratings raised its growth forecast for the Indian economy to 7 per cent from 6.5 per cent earlier",
+        "quote": "Moody’s Ratings on Wednesday raised its growth forecast for the Indian economy to 7 per cent from 6.5 per cent earlier"
+      },
+      {
+        "claim": "India had adjusted to higher energy prices better than previously anticipated",
+        "quote": "India had adjusted to higher energy prices better than previously anticipated"
+      },
+      {
+        "claim": "State-backed oil marketing companies and tax cuts have helped cushion households and businesses from the energy price shock",
+        "quote": "State-backed oil marketing companies and tax cuts have helped cushion households and businesses from the energy price shock"
+      },
+      {
+        "claim": "The revised outlook comes after India’s economy expanded 7.8 per cent year-on-year in the April-June quarter",
+        "quote": "The revised outlook comes after India’s economy expanded 7.8 per cent year-on-year in the April-June quarter"
+      },
+      {
+        "claim": "High frequency indicators, including robust capital goods production and imports, accelerating industrial credit growth and rising capacity utilisation, suggest that India may be at the cusp of a new private capex cycle",
+        "quote": "High frequency indicators, including robust capital goods production and imports, accelerating industrial credit growth and rising capacity utilisation, suggest that India may be at the cusp of a new private capex cycle"
+      },
+      {
+        "claim": "Broader economic activity also remains solid amid expanding manufacturing and services purchasing manager indexes and double-digit year-on-year growth in goods and services tax revenue",
+        "quote": "Broader economic activity also remains solid amid expanding manufacturing and services purchasing manager indexes and double-digit year-on-year growth in goods and services tax revenue"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

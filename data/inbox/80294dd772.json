@@ -1,0 +1,62 @@
+{
+  "id": "80294dd772",
+  "url": "https://nenow.in/north-east-news/assam/assam-tea-workers-stage-protest-in-tinsukia-demanding-land-rights-and-wage-hike.html",
+  "title": "Assam: Tea workers stage protest in Tinsukia demanding land rights and wage hike",
+  "outlet": "Northeast Now",
+  "published": "2026-11-11",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1510,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Tea garden workers in Assam's Tinsukia district staged a two-hour protest demanding residential land rights, higher daily wages, and action on long-pending issues affecting tea tribes community.",
+    "facts": [
+      {
+        "claim": "Hundreds of tea garden workers, including many women, staged a two-hour protest outside the factory gate of Baghjan Tea Estate in Assam’s Tinsukia district on Wednesday",
+        "quote": "Doomdooma: Hundreds of tea garden workers, including many women, staged a two-hour protest outside the factory gate of Baghjan Tea Estate in Assam’s Tinsukia district on Wednesday, demanding residential land rights, higher daily wages and action on other long-pending issues affecting the tea tribes community."
+      },
+      {
+        "claim": "The protest was organised by the Baghjan–Dighaltarang sub-branch committee of the Assam Tea Tribes Students’ Association (ATTSA), along with its affiliated primary units and tea garden workers",
+        "quote": "The protest was organised by the Baghjan–Dighaltarang sub-branch committee of the Assam Tea Tribes Students’ Association (ATTSA), along with its affiliated primary units and tea garden workers."
+      },
+      {
+        "claim": "The demonstrators urged the government to expedite the process of granting periodic land pattas for residential plots where tea workers and their families have lived for generations",
+        "quote": "The demonstrators urged the government to expedite the process of granting periodic land pattas for residential plots where tea workers and their families have lived for generations."
+      },
+      {
+        "claim": "Addressing the gathering, Irot Tanti, president of the ATTSA Doomdooma regional committee, said the protest was intended to draw attention to the community’s longstanding demands and pressing concerns",
+        "quote": "Addressing the gathering, Irot Tanti, president of the ATTSA Doomdooma regional committee, said the protest was intended to draw attention to the community’s longstanding demands and pressing concerns."
+      },
+      {
+        "claim": "The protesters also demanded higher wages and raised other unresolved issues affecting livelihood and welfare of tea garden workers",
+        "quote": "The protesters also demanded higher wages and raised other unresolved issues affecting the livelihood and welfare of tea garden workers."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Tea garden workers in Assam's Tinsukia district staged a two-hour protest demanding residential land rights, higher daily wages, and action on long-pending issues affecting tea tribes community.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

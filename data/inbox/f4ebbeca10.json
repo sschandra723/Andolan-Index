@@ -8,5 +8,59 @@
   "suggested_movement": null,
   "score": 0,
   "matched": [],
-  "alternatives": []
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3564,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Students, village councils and civil society organisations in Wokha district launched an indefinite agitation over teaching staff shortages at GHSS Sungro, demanding appointments of specific teachers and support staff, warning of school closures if demands aren't met by October 29.",
+    "facts": [
+      {
+        "claim": "Students, village councils and civil society organisations under the Sungro range in Wokha district launched an agitation on Monday over an acute shortage of teaching staff at Government Higher Secondary School (GHSS), Sungro",
+        "quote": "Students, village councils and civil society organisations under the Sungro range in Wokha district launched an agitation on Monday over an acute shortage of teaching staff at Government Higher Secondary School (GHSS), Sungro"
+      },
+      {
+        "claim": "The agitation was joined by student bodies from Pangti, Okotso, Sungro, Aree Old and Aree New, along with village councils from seven villages",
+        "quote": "The agitation was joined by student bodies from Pangti, Okotso, Sungro, Aree Old and Aree New, along with village councils from seven villages"
+      },
+      {
+        "claim": "Their demands include appointment of two post graduate teachers (PGTs), two graduate teachers (GTs), two primary teachers, retention of a graduate mathematics teacher post, and appointment of one lower division assistant-cum-upper division assistant (LDA-cum-UDA) and one science laboratory attendant",
+        "quote": "Their demands include appointment of two post graduate teachers (PGTs), two graduate teachers (GTs), two primary teachers, retention of a graduate mathematics teacher post, and appointment of one lower division assistant-cum-upper division assistant (LDA-cum-UDA) and one science laboratory attendant"
+      },
+      {
+        "claim": "The school has reportedly been without a language teacher since 2022, a science laboratory attendant since 2023 and a physical education teacher since January 2026",
+        "quote": "The school has reportedly been without a language teacher since 2022, a science laboratory attendant since 2023 and a physical education teacher since January 2026"
+      },
+      {
+        "claim": "The agitation follows repeated representations to the department of school education. In a representation submitted to the principal director on September 10, the school community sought urgent intervention and warned of agitation, including closure of the institution, if the demands remained unmet by October 15",
+        "quote": "The agitation follows repeated representations to the department of school education. In a representation submitted to the principal director on September 10, the school community sought urgent intervention and warned of agitation, including closure of the institution, if the demands remained unmet by October 15"
+      },
+      {
+        "claim": "The school community has also called for creation and upgradation of GT and PGT posts, provision of an LDA-cum-UDA in every institution, retention of posts when teachers retire or leave service, and rationalisation of mathematics, science and other subject teachers",
+        "quote": "The school community has also called for creation and upgradation of GT and PGT posts, provision of an LDA-cum-UDA in every institution, retention of posts when teachers retire or leave service, and rationalisation of mathematics, science and other subject teachers"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students and village councils in Wokha district, Nagaland, have launched an indefinite agitation over teaching staff shortages at GHSS Sungro, demanding specific appointments and support staff, warning of school closures if demands aren't met by October 29.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
 }

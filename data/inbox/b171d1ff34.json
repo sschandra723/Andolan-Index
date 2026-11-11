@@ -1,0 +1,60 @@
+{
+  "id": "b171d1ff34",
+  "url": "https://www.indiatoday.in/india/video/mock-arrest-of-cec-gyanesh-kumar-in-bengaluru-india-bloc-protests-handcuffs-visuals-ytvd-3032779-2026-11-05",
+  "title": "Mock Arrest Of CEC Gyanesh Kumar in Bengaluru, INDIA Bloc Protests, Handcuffs Visuals",
+  "outlet": "India Today",
+  "published": "2026-11-05",
+  "collected": "2026-11-11",
+  "suggested_movement": "anti-sir-2026",
+  "score": 5.0,
+  "matched": [
+    "Special Intensive Revision",
+    "Gyanesh Kumar",
+    "chief election commissioner",
+    "=CEC",
+    "Election Commission"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4540,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Congress and BJP clashed over parliamentary debate channels after Karnataka Congress leaders staged a mock arrest protest in Bengaluru against Chief Election Commissioner Gyanesh Kumar and the Special Intensive Revision (SIR) voter list recheck.",
+    "facts": [
+      {
+        "claim": "Congress and BJP clashed over parliamentary debate channels",
+        "quote": "A major political face-off has erupted between the Congress and the Bharatiya Janata Party after Leader of Opposition Rahul Gandhi challenged Prime Minister Narendra Modi to an open debate. Addressing allegations regarding foreign links and opposition integrity, Rahul Gandhi called for an open public discussion before youth and media, offering any chosen platform. Hitting back, the BJP asserted that Parliament, not the streets or social media, serves as the constitutional forum for debates between the government and opposition leaders."
+      },
+      {
+        "claim": "Karnataka Congress leaders staged a mock arrest protest in Bengaluru",
+        "quote": "INDIA bloc and Karnataka Congress leaders organised a massive demonstration at Freedom Park in Bengaluru against Chief Election Commissioner Gyanesh Kumar and the Special Intensive Revision issue. Protesters staged a theatrical mock arrest on the streets, featuring a demonstrator dressed in handcuffs and wearing a mask of Gyanesh Kumar alongside an actor dressed as a police officer."
+      },
+      {
+        "claim": "The protest targeted the Special Intensive Revision (SIR) voter list recheck",
+        "quote": "Protesters staged a theatrical mock arrest on the streets, featuring a demonstrator dressed in handcuffs and wearing a mask of Gyanesh Kumar alongside an actor dressed as a police officer. Demonstrators also paraded the individual in a mock jail setup, dressing the figure in khaki shorts to allege political ties with the Rashtriya Swayamsevak Sangh."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress leaders in Karnataka organized a protest against the Chief Election Commissioner and the Special Intensive Revision voter list recheck following a Delhi rally demanding his resignation and the cancellation of the SIR process.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "2 outlets in the last 48 hours; coverage up from 2 to 10 reports this week."
+  }
+}

@@ -10,5 +10,63 @@
   "matched": [
     "farmers"
   ],
-  "alternatives": []
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3573,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Dairy farmers in Kolhapur protested against government granting voting rights to nominated directors of Gokul cooperative, claiming the move would shift power to the ruling alliance and potentially hand over the cooperative to Amul.",
+    "facts": [
+      {
+        "claim": "Dairy farmers marched their cattle to the Kolhapur collectorate",
+        "quote": "Dairy farmers marched their cattle to the Kolhapur collectorate on Monday"
+      },
+      {
+        "claim": "The protest was led by Rajarshi Shahu Shetkari Samvichari Aghadi headed by Congress MLC Satej Patil",
+        "quote": "The agitation, led by the Rajarshi Shahu Shetkari Samvichari Aghadi headed by Congress MLC Satej Patil"
+      },
+      {
+        "claim": "The government’s decision to nominate directors with voting rights has triggered allegations that the ruling alliance is attempting to gain control of the cooperative despite losing the election",
+        "quote": "The government’s decision to nominate directors with voting rights has triggered allegations that the ruling alliance is attempting to gain control of the cooperative despite losing the election."
+      },
+      {
+        "claim": "Satej claimed that the state government had finalised the names of four nominated directors but the government resolution (GR) had not yet been uploaded on its website",
+        "quote": "Satej said, \"Both Hassan Mushrif and Chandrakant Patil are responsible for the ongoing imbroglio in Gokul. The duo have conspired to prevent our panel from having its chairman in Gokul. It is due to them that the state government brought an ordinance to nominate directors with voting powers.\""
+      },
+      {
+        "claim": "Satej named Shivaji Adnaik, Dr Praveenchandra Hendre, Krishna Patil and Prashant Patole as the proposed nominees",
+        "quote": "He named Shivaji Adnaik, Dr Praveenchandra Hendre, Krishna Patil and Prashant Patole as the proposed nominees."
+      },
+      {
+        "claim": "Satej alleged that the government’s move was part of a larger plan to eventually hand over Gokul to Gujarat-based dairy major Amul",
+        "quote": "The Congress MLC further alleged that the government’s move was part of a larger plan to eventually hand over Gokul to Gujarat-based dairy major Amul."
+      },
+      {
+        "claim": "Former NCP (SP) state president Jayant Patil criticised the government’s decision, describing the nominated directors as \"test tube babies\"",
+        "quote": "Former NCP (SP) state president Jayant Patil criticised the government’s decision, describing the nominated directors as \"test tube babies\" and arguing that those who had not contested the elections should not be given voting rights."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Dairy farmers in Kolhapur protested against government granting voting rights to nominated directors of Gokul cooperative, claiming the move would shift power to the ruling alliance and potentially hand over the cooperative to Amul.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "1 outlet in the last 48 hours; coverage up from 0 to 1 reports this week."
+  }
 }

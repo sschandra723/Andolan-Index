@@ -1,0 +1,56 @@
+{
+  "id": "26a5560780",
+  "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-cpim-to-protest-alleged-election-irregularities-on-november-11/article71685671.ece",
+  "title": "CPI, CPI(M) to protest alleged election irregularities on November 11",
+  "outlet": "The Hindu",
+  "published": "2026-11-10",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Election Commission"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3223,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "CPI and CPI(M) will protest alleged election irregularities in Andhra Pradesh local body elections, claiming intimidation and electoral malpractice influenced results.",
+    "facts": [
+      {
+        "claim": "CPI(M) and CPI will stage protests across Andhra Pradesh on Wednesday against alleged irregularities, intimidation and attacks during recent local body elections",
+        "quote": "The Communist Party of India-Marxist CPI(M) and Communist Party of India (CPI) will stage protests across Andhra Pradesh on Wednesday against alleged irregularities, intimidation and attacks during the recent local body elections, CPI(M) State secretary V. Srinivasa Rao said on Tuesday (November 9, 2026)."
+      },
+      {
+        "claim": "CPI(M) claimed Left parties secured 8.2% of the votes in areas where they contested, compared with 7.4% in 2021",
+        "quote": "He claimed that the Left parties had secured 8.2% of the votes in the areas where the CPI(M) contested, compared with 7.4% in 2021."
+      },
+      {
+        "claim": "CPI(M) leader criticized government investment policy, stating less than 10% of promised investments since 2016 materialized",
+        "quote": "Criticising the government’s investment policy, Mr. Srinivasa Rao said the investment summits had turned into exercises in corporate tourism, with little to show in terms of actual investments and employment. Less than 10% of the investments promised through memoranda of understanding since 2016 had materialised and employment generation had remained below 2, he claimed."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CPI and CPI(M) are planning protests in Andhra Pradesh over alleged election irregularities in local body elections, claiming intimidation and electoral malpractice influenced results.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

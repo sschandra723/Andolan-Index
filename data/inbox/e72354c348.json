@@ -1,0 +1,62 @@
+{
+  "id": "e72354c348",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-restrains-thermal-power-plant-workers-from-going-on-strike/article71686540.ece",
+  "title": "Madras High Court restrains thermal power plant workers from going on strike",
+  "outlet": "The Hindu",
+  "published": "2026-11-10",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1560,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "tn-hospital-workers-2026",
+    "new_movement": null,
+    "summary": "The Madras High Court restrained Tamil Nadu electricity workers from striking at state thermal power plants, citing concerns over power disruption and legal compliance with strike notices.",
+    "facts": [
+      {
+        "claim": "The Madras High Court restrained Central Organisation of Tamil Nadu Electricity Employees from going on a strike at the State government run thermal power plants",
+        "quote": "The Madras High Court on Tuesday (November 10, 2026) restrained Central Organisation of Tamil Nadu Electricity Employees, affiliated to the Centre of Indian Trade Unions (CITU), from going on a strike at the State government run thermal power plants from Wednesday (November 11, 2026)."
+      },
+      {
+        "claim": "The court issued an interim injunction based on an urgent public interest litigation petition",
+        "quote": "Second Division Bench of Justices S.M. Subramaniam and R. Rajesh Vivekananthan issued the interim injunction pursuant to an urgent public interest litigation petition filed by activist Vineeth Kumar"
+      },
+      {
+        "claim": "The court noted there was no direct employer-employee relationship between the Tamil Nadu Power Generation Corporation Limited and the workers",
+        "quote": "the judges also recorded the submission of Additional Advocate General P.V. Balasubramaniam that there was no direct employer-employee relationship between the Tamil Nadu Power Generation Corporation Limited (TNPGCL) and the workers who had been engaged for work through various contractors."
+      },
+      {
+        "claim": "The court emphasized that thermal power plants must keep functioning round-the-clock",
+        "quote": "the Additional Advocate General said that the thermal power generation plants must keep functioning round-the-clock and that it would become very difficult to restart them if there happened to be a temporary shutdown."
+      },
+      {
+        "claim": "The PIL petitioner claimed workers did not give 15 days notice to TNPGCL as required by law",
+        "quote": "In his affidavit, the PIL petitioner said the workers intending to strike work had not given a 15 days notice to TNPGCL as required under law."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The court restrained electricity workers from striking at thermal power plants to prevent disruption, following a public interest litigation over legal compliance and operational continuity.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "e9bc84868f",
+  "url": "https://www.thehindu.com/news/national/kerala/protest-march-held-to-suresh-gopis-office-over-toll-collection-in-keralams-nattika/article71686500.ece",
+  "title": "Protest march held to Suresh Gopi’s office over toll collection in Keralam’s Nattika",
+  "outlet": "The Hindu",
+  "published": "2026-11-10",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1689,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "A protest march demanded an immediate halt to toll collection at Nattika until National Highway 66 construction is complete, targeting Union Minister Suresh Gopi's office.",
+    "facts": [
+      {
+        "claim": "A protest march was taken out to the office of Union Minister and Thrissur MP Suresh Gopi on Tuesday, demanding an immediate halt to toll collection at Nattika until the National Highway 66 construction works are completed.",
+        "quote": "A protest march was taken out to the office of Union Minister and Thrissur MP Suresh Gopi on Tuesday, demanding an immediate halt to toll collection at Nattika until the National Highway 66 construction works are completed."
+      },
+      {
+        "claim": "Organised by the Janakeeya Samara Samiti, the march also demanded toll exemption for vehicles belonging to local residents and the early completion of bridges and service roads.",
+        "quote": "Organised by the Janakeeya Samara Samiti, the march also demanded toll exemption for vehicles belonging to local residents and the early completion of bridges and service roads."
+      },
+      {
+        "claim": "The protesters accused the State and Union governments of remaining silent on the issue and alleged that their approach was helping the toll operator.",
+        "quote": "The protesters accused the State and Union governments of remaining silent on the issue and alleged that their approach was helping the toll operator."
+      },
+      {
+        "claim": "The march began at Chembukkavu and saw the participation of several people, including prominent figures from political and cultural fields.",
+        "quote": "The march began at Chembukkavu and saw the participation of several people, including prominent figures from political and cultural fields."
+      },
+      {
+        "claim": "The police stopped the procession with barricades near Mr. Gopi’s office at Paringavu.",
+        "quote": "The police stopped the procession with barricades near Mr. Gopi’s office at Paringavu."
+      },
+      {
+        "claim": "The march was part of the ongoing agitation led by the Left Democratic Front (LDF) against toll collection at Nattika, which began on October 7.",
+        "quote": "The march was part of the ongoing agitation led by the Left Democratic Front (LDF) against toll collection at Nattika, which began on October 7."
+      },
+      {
+        "claim": "The protesters maintain that toll collection is unauthorised as the highway works remain incomplete.",
+        "quote": "The protesters maintain that toll collection is unauthorised as the highway works remain incomplete."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest is part of a larger agitation by the Left Democratic Front (LDF) against toll collection at Nattika, which began on October 7 and has included blockades, human chains, and round-the-clock protests.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": [
+        "name “Union Minister Suresh Gopi” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

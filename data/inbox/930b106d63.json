@@ -1,0 +1,62 @@
+{
+  "id": "930b106d63",
+  "url": "https://www.thehindu.com/news/national/kerala/din-in-thrissur-corporation-council-as-ldf-alleges-ruling-udf-of-withholding-order-on-property-tax-revision/article71686581.ece",
+  "title": "Din in Thrissur Corporation council as LDF alleges ruling UDF of withholding order on property tax revision",
+  "outlet": "The Hindu",
+  "published": "2026-11-10",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1636,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "LDF councillors in Thrissur protested against UDF administration for withholding a government order to implement a Supreme Court ruling on property tax revision from 2015, leading to a sit-in and arrests.",
+    "facts": [
+      {
+        "claim": "LDF councillors staged a protest at the Thrissur Corporation council meeting on Tuesday, accusing the United Democratic Front (UDF)-led administration of withholding a Keralam government order directing it to implement a Supreme Court ruling on the property tax revision introduced in 2015.",
+        "quote": "Left Democratic Front (LDF) councillors staged a protest at the Thrissur Corporation council meeting on Tuesday, accusing the United Democratic Front (UDF)-led administration of withholding a Keralam government order directing it to implement a Supreme Court ruling on the property tax revision introduced in 2015."
+      },
+      {
+        "claim": "According to the LDF, the Supreme Court set aside the revised property tax rates for the period from 2016 to 2022 because the Corporation’s 2015 UDF council had failed to publish the final notification on the revision as required under the municipal rules.",
+        "quote": "According to the LDF, the Supreme Court set aside the revised property tax rates for the period from 2016 to 2022 because the Corporation’s 2015 UDF council had failed to publish the final notification on the revision as required under the municipal rules."
+      },
+      {
+        "claim": "The State government had sent a communication to the Corporation on September 9, 2026, directing it to implement the court ruling, the LDF said. However, the current UDF administration had kept the communication from the council for nearly two months and failed to act on it, the Opposition alleged.",
+        "quote": "The State government had sent a communication to the Corporation on September 9, 2026, directing it to implement the court ruling, the LDF said. However, the current UDF administration had kept the communication from the council for nearly two months and failed to act on it, the Opposition alleged."
+      },
+      {
+        "claim": "LDF councillors demanded that the government communication be included as an urgent agenda item at the council meeting. However, Mayor Niji Justin rang the bell and adjourned the meeting without taking up the issue, triggering further protests.",
+        "quote": "LDF councillors demanded that the government communication be included as an urgent agenda item at the council meeting. However, Mayor Niji Justin rang the bell and adjourned the meeting without taking up the issue, triggering further protests."
+      },
+      {
+        "claim": "The councillors then staged a sit-in outside the Mayor’s chamber. They were forcibly removed by the police and arrested, an action the LDF described as an attempt to silence democratic dissent.",
+        "quote": "The councillors then staged a sit-in outside the Mayor’s chamber. They were forcibly removed by the police and arrested, an action the LDF described as an attempt to silence democratic dissent."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "LDF councillors in Thrissur protested against UDF administration for withholding a government order to implement a Supreme Court ruling on property tax revision from 2015, leading to a sit-in and arrests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

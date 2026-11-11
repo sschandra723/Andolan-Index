@@ -1,0 +1,66 @@
+{
+  "id": "b8d1d654f5",
+  "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-university-withdraws-disciplinary-notices-to-six-student-leaders-after-protests/article71686573.ece",
+  "title": "Andhra University withdraws disciplinary notices to six student leaders after protests",
+  "outlet": "The Hindu",
+  "published": "2026-11-10",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1023,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "pu-bachao-morcha-2025",
+    "new_movement": null,
+    "summary": "Andhra University withdrew disciplinary notices from six student leaders after student organisations protested, with the university advising them to follow procedures and submit representations.",
+    "facts": [
+      {
+        "claim": "Andhra University has withdrawn the notices issued to six student leaders following protests by student organisations.",
+        "quote": "Andhra University has withdrawn the notices issued to six student leaders following protests by student organisations."
+      },
+      {
+        "claim": "In a communication on Tuesday, the university Registrar said that the notices, issued on October 31, 2026, on charges of indiscipline, stood withdrawn.",
+        "quote": "In a communication on Tuesday, the university Registrar said that the notices, issued on October 31, 2026, on charges of indiscipline, stood withdrawn."
+      },
+      {
+        "claim": "The letters were issued to students from the departments of Political Science and Public Administration, Chemistry and Electronics and Communication Engineering, and Dr. B.R. Ambedkar College of Law.",
+        "quote": "The letters were issued to students from the departments of Political Science and Public Administration, Chemistry and Electronics and Communication Engineering, and Dr. B.R. Ambedkar College of Law."
+      },
+      {
+        "claim": "The Registrar advised the students to follow university procedures and submit representations to chief wardens, principals, and other officials.",
+        "quote": "The Registrar advised the students to follow university procedures and submit representations to chief wardens, principals, and other officials."
+      },
+      {
+        "claim": "The university further added that grievance sessions were held on the first and 15th of every month.",
+        "quote": "The university further added that grievance sessions were held on the first and 15th of every month."
+      },
+      {
+        "claim": "The Students’ Federation of India (SFI), All India Students’ Federation (AISF), Progressive Democratic Students Organisation (PDSO) and All India Democratic Students Organisation (AIDSO) welcomed the decision, describing it as a victory for their united struggle.",
+        "quote": "The Students’ Federation of India (SFI), All India Students’ Federation (AISF), Progressive Democratic Students Organisation (PDSO) and All India Democratic Students Organisation (AIDSO) welcomed the decision, describing it as a victory for their united struggle."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Andhra University withdrew disciplinary notices from six student leaders after student organisations protested, with the university advising them to follow procedures and submit representations.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

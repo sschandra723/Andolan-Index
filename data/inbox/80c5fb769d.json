@@ -1,0 +1,64 @@
+{
+  "id": "80c5fb769d",
+  "url": "https://www.global-agriculture.com/india-region/indian-farmers-coalition-plans-nationwide-protests-for-november-26/",
+  "title": "Indian Farmers’ Coalition Plans Nationwide Protests for November 26",
+  "outlet": "global-agriculture",
+  "published": "2026-11-10",
+  "collected": "2026-11-11",
+  "suggested_movement": "farmers-india-us-trade-2026",
+  "score": 3.0,
+  "matched": [
+    "Samyukta Kisan Morcha",
+    "=SKM",
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4491,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "farmers-india-us-trade-2026",
+    "new_movement": null,
+    "summary": "The Indian Farmers' Coalition (SKM) plans nationwide protests on November 26, marking six years since the 2020 farm law protests began, demanding a legal minimum support price, farm loan waivers, and other agricultural reforms.",
+    "facts": [
+      {
+        "claim": "The Samyukta Kisan Morcha (SKM) has called for nationwide demonstrations on November 26",
+        "quote": "The Samyukta Kisan Morcha (SKM), the coalition that led India’s year-long farm law protests in 2020 and 2021, has called for nationwide demonstrations on November 26, deciding at a national convention in Karnal, Haryana, on October 12 to hold what it described as massive protests in New Delhi and across the country."
+      },
+      {
+        "claim": "November 26 marks six years since farmer unions began their encampment at the borders of the national capital in 2020",
+        "quote": "November 26 marks six years since farmer unions began their encampment at the borders of the national capital in 2020, a protest that lasted more than a year before the federal government repealed three contested farm laws."
+      },
+      {
+        "claim": "The SKM is demanding a law that would guarantee a minimum support price (MSP) at a rate of input cost plus 50 percent",
+        "quote": "The coalition is also demanding a law that would guarantee a minimum support price (MSP), the floor price the government sets for farmers’ produce, at a rate of input cost plus 50 percent, with government procurement extended to cover all crops rather than the limited set currently purchased."
+      },
+      {
+        "claim": "The SKM is demanding a comprehensive waiver of farm loans and compensation of Rs 25 lakh for the families of farmers who have died by suicide",
+        "quote": "Further demands include a comprehensive waiver of farm loans and compensation of Rs 25 lakh for the families of farmers who have died by suicide."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The SKM, formed in 2020 to oppose the three farm laws, has been active since their repeal in late 2021 and is now pushing for a legal MSP guarantee and other agricultural reforms.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “The Indian Farmers” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "625363a9c3",
+  "url": "https://timesofindia.indiatimes.com/india/ladakh-hill-council-polls-on-dec-4-protests-erupt-over-winter-timing/articleshow/135718322.cms",
+  "title": "Ladakh hill council polls on Dec 4, protests erupt over winter timing",
+  "outlet": "Times of India",
+  "published": "2026-11-10",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Ladakh"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 794,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Political groups in Leh threatened an agitation after Ladakh announced December 4 elections for eight autonomous hill development councils, rejecting demands to avoid winter polling.",
+    "facts": [
+      {
+        "claim": "Ladakh announced Dec 4 elections to its eight autonomous hill development councils",
+        "quote": "Ladakh announced Dec 4 elections to its eight autonomous hill development councils"
+      },
+      {
+        "claim": "Political groups in Leh threatened an agitation",
+        "quote": "political groups in Leh threatened an agitation"
+      },
+      {
+        "claim": "rejecting demands to avoid holding the polls during the harsh winter months",
+        "quote": "rejecting demands to avoid holding the polls during the harsh winter months"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh, a union territory without a legislature since 2019, wants the same protections as tribal areas in four northeastern states under the Sixth Schedule.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

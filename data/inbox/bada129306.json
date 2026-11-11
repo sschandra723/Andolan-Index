@@ -8,5 +8,58 @@
   "suggested_movement": null,
   "score": 0,
   "matched": [],
-  "alternatives": []
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1406,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "nagaland-vande-mataram-2026",
+    "new_movement": null,
+    "summary": "The Lotha Middle Range Students' Union announced it would resume agitation over teacher shortages at GHSS Sungro in Wokha district, Nagaland, after a 48-hour deadline expired without response from authorities.",
+    "facts": [
+      {
+        "claim": "LMRSU announced decision to resume agitation over teacher shortage at GHSS Sungro",
+        "quote": "Lotha Middle Range Students’ Union (LMRSU) has announced its decision to resume agitation over the shortage of teachers at Government Higher Secondary School (GHSS) Sungro from November 9, 2026, after its 48-hour deadline to the school education department expired without a positive response."
+      },
+      {
+        "claim": "GHSS Sungro has second-highest enrolment in Wokha district",
+        "quote": "The union stated that GHSS Sungro had the second-highest enrolment in Wokha district after GHSS Wokha, with 153 students."
+      },
+      {
+        "claim": "Teacher shortage affects students' academic progress",
+        "quote": "It said the acute shortage of teachers was affecting students’ academic progress and future."
+      },
+      {
+        "claim": "Agitation would resume at Sanis",
+        "quote": "The union said it would resume at Sanis."
+      },
+      {
+        "claim": "All government institutions under Lotha Middle Range would close during agitation",
+        "quote": "LMRSU announced that all government institutions under the Lotha Middle Range would remain closed during the agitation."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Lotha Middle Range Students' Union is part of the broader student movement in Nagaland that has been protesting over education and governance issues.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The union said it would resume at Sanis.”",
+        "name “The Lotha Middle Range Students” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
 }

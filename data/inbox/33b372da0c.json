@@ -1,0 +1,59 @@
+{
+  "id": "33b372da0c",
+  "url": "https://nenow.in/north-east-news/arunachal-pradesh/siang-dam-protests-arunachal-students-body-appeals-for-prompt-release-of-detainees.html",
+  "title": "Siang dam protests: Arunachal students’ body appeals for prompt release of detainees",
+  "outlet": "Northeast Now",
+  "published": "2026-11-10",
+  "collected": "2026-11-11",
+  "suggested_movement": "siang-dam-protests",
+  "score": 5.0,
+  "matched": [
+    "Siang dam protest",
+    "Siang",
+    "Siang Upper Multipurpose",
+    "=SUMP"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1819,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "Students from Jawaharlal Nehru College in Pasighat appealed for prompt release of arrested students involved in October 23 protests against the proposed Siang Upper Multipurpose Project, citing upcoming semester exams.",
+    "facts": [
+      {
+        "claim": "Jawaharlal Nehru College Students’ Union (JNCSU) in Pasighat appealed to the East Siang Superintendent of Police for prompt release of students arrested in connection with October 23 violence during protests against the proposed Siang Upper Multipurpose Project",
+        "quote": "The Jawaharlal Nehru College Students’ Union (JNCSU) in Pasighat has appealed to the East Siang Superintendent of Police for the prompt release of students arrested in connection with the October 23 violence during protests against the proposed Siang Upper Multipurpose Project (SUMP)"
+      },
+      {
+        "claim": "The arrests followed protests in Pasighat on October 23 against the proposed 11.2 gigawatt hydropower project which allegedly turned violent after security forces’ excesses",
+        "quote": "The arrests followed protests in Pasighat on October 23 against the proposed 11.2 gigawatt hydropower project which allegedly turned violent after security forces’ excesses."
+      },
+      {
+        "claim": "East Siang SP Pankaj Lamba told reporters that at least 18 students from Jawaharlal Nehru College had been arrested in connection with the incidents. Ten of them are currently in judicial custody, while the remaining eight have been released on bail.",
+        "quote": "East Siang SP Pankaj Lamba told reporters that at least 18 students from Jawaharlal Nehru College had been arrested in connection with the incidents. Ten of them are currently in judicial custody, while the remaining eight have been released on bail."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Siang Indigenous Farmers' Forum opposes the proposed mega dam on the Siang in Arunachal Pradesh, which has led to protests and detentions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 60,
+    "importance_reason": "5 outlets in the last 48 hours; coverage up from 2 to 7 reports this week."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "041d3e58b8",
+  "url": "https://www.deccanherald.com/india/karnataka/bjp-protests-against-congress-govts-recent-price-hikes-in-karnataka-4214586",
+  "title": "BJP protests against Congress govt's recent price hikes in Karnataka",
+  "outlet": "Deccan Herald",
+  "published": "2026-11-11",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 397,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "BJP protesters in Karnataka condemned Congress government's recent milk price and bus fare hikes during a demonstration led by BJP state president B Y Vijayendra and opposition leaders.",
+    "facts": [
+      {
+        "claim": "BJP protests against Congress govt's recent price hikes in Karnataka",
+        "quote": "BJP protests against Congress govt's recent price hikes in Karnataka"
+      },
+      {
+        "claim": "The protest was held under the leadership of BJP state president B Y Vijayendra, Leader of the Opposition in Legislative Assembly R Ashoka and Leader of Opposition in Legislative Council Chalavadi Narayanaswamy",
+        "quote": "The protest was held under the leadership of BJP state president B Y Vijayendra, Leader of the Opposition in Legislative Assembly R Ashoka and Leader of Opposition in Legislative Council Chalavadi Narayanaswamy."
+      },
+      {
+        "claim": "Raising slogans against the Congress government, BJP workers condemned the recent hike in milk prices and bus fares",
+        "quote": "Raising slogans against the Congress government, BJP workers condemned the recent hike in milk prices and bus fares."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest targets Karnataka's government price hikes, which is part of the ongoing political conflict between BJP and Congress in the state.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 25,
+    "importance_reason": "2 outlets in the last 48 hours; coverage up from 0 to 1 reports this week."
+  }
+}

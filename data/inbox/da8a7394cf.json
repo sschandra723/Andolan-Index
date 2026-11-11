@@ -1,0 +1,68 @@
+{
+  "id": "da8a7394cf",
+  "url": "https://www.thehindu.com/news/cities/Delhi/dipke-seeks-exemption-from-appearance-in-lehra-do-tiranga-protest-case-in-delhi/article71688269.ece",
+  "title": "Dipke seeks exemption from appearance in ‘Lehra Do Tiranga’ protest case in Delhi",
+  "outlet": "The Hindu",
+  "published": "2026-11-11",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Leh"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 666,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Cockroach Janta Party founder Abhijeet Dipke requested exemption from court appearance in the 'Lehra Do Tiranga' protest case, claiming family commitments and illness. Police detained him during the October protest demanding Chief Election Commissioner resignation.",
+    "facts": [
+      {
+        "claim": "Cockroach Janta Party founder Abhijeet Dipke sought exemption from appearing before the Special Executive Magistrate, Mandir Marg",
+        "quote": "Cockroach Janta Party (CJP) founder Abhijeet Dipke sought exemption from appearing before the Special Executive Magistrate, Mandir Marg, on Tuesday (November 10, 2026)."
+      },
+      {
+        "claim": "The next hearing is scheduled for December 2",
+        "quote": "The next hearing is scheduled for December 2."
+      },
+      {
+        "claim": "There was no specific order saying that he had to appear today before the magistrate",
+        "quote": "There was no specific order saying that he had to appear today before the magistrate."
+      },
+      {
+        "claim": "We filed for an exemption anyway, as he had family commitments and was unwell",
+        "quote": "We filed for an exemption anyway, as he had family commitments and was unwell"
+      },
+      {
+        "claim": "Mr. Dipke was detained under BNSS Sections 126 and 170 during the October 16 'Lehra Do Tiranga' (wave the tricolour) protest at Connaught Place",
+        "quote": "Mr. Dipke was detained under BNSS Sections 126 and 170 during the October 16‘‘Lehra Do Tiranga’ (wave the tricolour) protest at Connaught Place"
+      },
+      {
+        "claim": "seeking the resignation of Chief Election Commissioner Gyanesh Kumar",
+        "quote": "seeking the resignation of Chief Election Commissioner Gyanesh Kumar"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Dipke was detained during a protest demanding Chief Election Commissioner resignation; the protest is part of the anti-SIR movement which involves voter list rechecks by the Election Commission.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

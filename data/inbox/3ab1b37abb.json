@@ -1,0 +1,58 @@
+{
+  "id": "3ab1b37abb",
+  "url": "https://nagalandpost.com/lmrsu-pauses-phase-ii-agitation-warns-of-fresh-stir/",
+  "title": "LMRSU pauses phase-II agitation, warns of fresh stir",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-11",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2234,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "Lotha Middle Range Students' Union paused phase-II agitation over teacher shortages at a government school in Dimapur, warning of phase-III action if demands aren't met by November 10.",
+    "facts": [
+      {
+        "claim": "Lotha Middle Range Students’ Union (LMRSU) has decided to pause its phase-II agitation over staff shortages at Government Higher Secondary School (GHSS), Sungro",
+        "quote": "Lotha Middle Range Students’ Union (LMRSU) has decided to pause its phase-II agitation over staff shortages at Government Higher Secondary School (GHSS), Sungro"
+      },
+      {
+        "claim": "the union warned that phase-III agitation would be launched if the department failed to meet its minimum demands without further delay",
+        "quote": "However, the union warned that phase-III agitation would be launched if the department failed to meet its minimum demands without further delay."
+      },
+      {
+        "claim": "the union said the department’s decisions, including the temporary arrangement of one PGT (political science) against a maternity leave vacancy, the direction for a PGT English teacher to rejoin on November 10, and the proposed deployment of one graduate teacher (general) during the forthcoming rationalisation exercise, were inadequate to address the shortage of teachers at GHSS Sungro",
+        "quote": "The union said the department’s decisions, including the temporary arrangement of one PGT (political science) against a maternity leave vacancy, the direction for a PGT English teacher to rejoin on November 10, and the proposed deployment of one graduate teacher (general) during the forthcoming rationalisation exercise, were inadequate to address the shortage of teachers at GHSS Sungro."
+      },
+      {
+        "claim": "Reiterating its minimum demands, the union called for appointment of two additional GT (General) and one Hindi GT, besides the release of the lower division assistant (LDA) attached to the DEO office, Wokha, to enable the staff member to join GHSS Sungro",
+        "quote": "Reiterating its minimum demands, the union called for appointment of two additional GT (General) and one Hindi GT, besides the release of the lower division assistant (LDA) attached to the DEO office, Wokha, to enable the staff member to join GHSS Sungro."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "LMRSU is part of the broader Manipur protests movement that has been ongoing since 2023, centered on ethnic conflict, killings, displacement, and demands such as an NRC and ending the SoO pact.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

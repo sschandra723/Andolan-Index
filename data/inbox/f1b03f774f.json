@@ -1,0 +1,77 @@
+{
+  "id": "f1b03f774f",
+  "url": "https://scroll.in/latest/1097022/delhi-activists-put-under-house-arrest-ahead-of-pollution-protest-alleges-workers-party",
+  "title": "Delhi: Activists put under house arrest ahead of pollution protest, alleges workers’ party",
+  "outlet": "Scroll.in",
+  "published": "2026-11-11",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1941,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "The Revolutionary Workers' Party of India alleged Delhi police put activists under house arrest to prevent pollution protests, as Delhi's air quality remained 'very poor' with severe pollution in 30 monitoring stations.",
+    "facts": [
+      {
+        "claim": "The Revolutionary Workers’ Party of India on Wednesday alleged that several of its activists in Delhi were put under house arrest to prevent them from protesting against rising pollution levels.",
+        "quote": "The Revolutionary Workers’ Party of India on Wednesday alleged that several of its activists in Delhi were put under house arrest to prevent them from protesting against rising pollution levels."
+      },
+      {
+        "claim": "The party alleged that the Delhi Police tried to \"forcibly enter\" its office in Karawal Nagar, \"without showing any official documents or authorisation\".",
+        "quote": "The party alleged that the Delhi Police tried to \"forcibly enter\" its office in Karawal Nagar, \"without showing any official documents or authorisation\"."
+      },
+      {
+        "claim": "It alleged that the police, \"acting at the behest of\" Prime Minister Narendra Modi and Union Home Minister Amit Shah, were intimidating and threatening people by attempting to enter their homes.",
+        "quote": "It alleged that the police, \"acting at the behest of\" Prime Minister Narendra Modi and Union Home Minister Amit Shah, were intimidating and threatening people by attempting to enter their homes."
+      },
+      {
+        "claim": "The party had called for a peaceful protest in Delhi against pollution on Wednesday",
+        "quote": "The party had called for a peaceful protest in Delhi against pollution on Wednesday"
+      },
+      {
+        "claim": "Air pollution in Delhi remained in the \"very poor\" category on Wednesday, days after Diwali festivities, with two areas recording \"severe\" pollution levels.",
+        "quote": "Air pollution in Delhi remained in the \"very poor\" category on Wednesday, days after Diwali festivities, with two areas recording \"severe\" pollution levels."
+      },
+      {
+        "claim": "At 2.05 pm, the average Air Quality Index in the national capital was 312, which is categorised as \"very poor\", according to data from the Sameer application, which provides hourly updates published by the Central Pollution Control Board.",
+        "quote": "At 2.05 pm, the average Air Quality Index in the national capital was 312, which is categorised as \"very poor\", according to data from the Sameer application, which provides hourly updates published by the Central Pollution Control Board."
+      },
+      {
+        "claim": "Thirty of the 58 active monitoring stations recorded \"very poor\" AQI while Delhi Technological University and Chhawla recorded \"severe\" pollution levels with 410 and 411 AQI readings.",
+        "quote": "Thirty of the 58 active monitoring stations recorded \"very poor\" AQI while Delhi Technological University and Chhawla recorded \"severe\" pollution levels with 410 and 411 AQI readings."
+      },
+      {
+        "claim": "This was followed by an AQI of 398 at Chandni Chowk.",
+        "quote": "This was followed by an AQI of 398 at Chandni Chowk."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Revolutionary Workers' Party of India alleged Delhi police put activists under house arrest to prevent pollution protests, as Delhi's air quality remained 'very poor' with severe pollution in 30 monitoring stations.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Air pollution in Delhi remained in the \"very poor\" category on Wednesday, days a”",
+        "number 30 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

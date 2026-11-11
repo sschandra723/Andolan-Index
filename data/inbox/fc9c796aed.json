@@ -1,0 +1,62 @@
+{
+  "id": "fc9c796aed",
+  "url": "https://timesofindia.indiatimes.com/india/anti-people-karnataka-bjp-stages-protest-against-congress-over-price-hikes-including-milk/articleshow/135731768.cms",
+  "title": "'Anti-people': Karnataka BJP stages protest against Congress over price hikes including milk",
+  "outlet": "Times of India",
+  "published": "2026-11-11",
+  "collected": "2026-11-11",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2478,
+    "fetch_note": null,
+    "drafted": "2026-11-11",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka BJP staged a protest against Congress government over price hikes including milk, with former chief ministers claiming over Rs 1 lakh crore in new taxes and a four lakh crore loan have been imposed on residents.",
+    "facts": [
+      {
+        "claim": "Karnataka BJP staged a protest against Congress government over price hikes including milk",
+        "quote": "The Bharatiya Janata Party's Karnataka unit staged a protest against Congress government on Wednesday criticising the recent price hikes, including that of milk in the state."
+      },
+      {
+        "claim": "Former Karnataka chief minister Basavaraj Bommai claimed that over Rs 1 lakh crore in new taxes had been levied on the people of Karnataka",
+        "quote": "Former Karnataka chief minister Basavaraj Bommai claimed that over Rs 1 lakh crore in new taxes had been levied on the people of Karnataka."
+      },
+      {
+        "claim": "Former chief minister and BJP leader BS Yediyurappa joined the protest, criticising the price hikes",
+        "quote": "Former chief minister and BJP leader BS Yediyurappa joined the protest, criticising the price hikes and highlighting the burden they have placed on the public."
+      },
+      {
+        "claim": "The protest was led by BJP state president B Y Vijayendra, leader of opposition in the legislative assembly R Ashoka and leader of opposition in the legislative council Chalavadi Narayanaswamy",
+        "quote": "The protest was led by BJP state president B Y Vijayendra, leader of opposition in the legislative assembly R Ashoka and leader of opposition in the legislative council Chalavadi Narayanaswamy."
+      },
+      {
+        "claim": "The protesters accused the state government, led by D K Shivakumar, of burdening ordinary people with successive price increases and described it as an \"anti-people government\"",
+        "quote": "The protesters accused the state government, led by D K Shivakumar, of burdening ordinary people with successive price increases and described it as an \"anti-people government\"."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka BJP protests against Congress government over price hikes, with former chief ministers citing significant tax burdens and loan amounts.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 45,
+    "importance_reason": "4 outlets in the last 48 hours; coverage up from 0 to 1 reports this week."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "820852d8bc",
+  "url": "https://timesofindia.indiatimes.com/india/people-free-to-protest-against-congress-priyanka-gandhi-on-police-action-against-kerala-protesters/articleshow/135764208.cms",
+  "title": "People free to protest against Congress: Priyanka Gandhi on police action against Kerala protesters",
+  "outlet": "Times of India",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 702,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Congress MP Priyanka Gandhi Vadra defended the right to peaceful protests, stating people can agitate against Congress-led governments within legal bounds.",
+    "facts": [
+      {
+        "claim": "Congress MP Priyanka Gandhi Vadra defended the right to peaceful protests",
+        "quote": "Congress MP Priyanka Gandhi Vadra on Thursday defended the right to peaceful protests, saying people were free to agitate against Congress-led governments and their policies, as long as demonstrations remained within the law."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "1/1",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

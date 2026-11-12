@@ -1,0 +1,60 @@
+{
+  "id": "641109a2c4",
+  "url": "https://www.greaterkashmir.com/politics/ncs-advisory-groups-meant-to-silence-dissent-not-improve-governance-sunil-sharma-12802270",
+  "title": "NC’s advisory groups meant to silence dissent, not improve governance: Sunil Sharma",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "National Conference"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5519,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "J&K opposition leader Sunil Sharma criticized National Conference government for creating informal advisory groups of MLAs to manage internal dissent, arguing they undermine democratic accountability and bypass legislative processes.",
+    "facts": [
+      {
+        "claim": "Sunil Sharma criticised the National Conference government’s decision to constitute informal advisory groups of its MLAs",
+        "quote": "Leader of Opposition (LoP) in J&K Assembly Sunil Sharma has criticised the National Conference government’s decision to constitute informal advisory groups of its MLAs, describing the move as \"an attempt to contain internal dissent within the party rather than introduce any meaningful mechanism for better governance.\""
+      },
+      {
+        "claim": "Dr Farooq Abdullah holds no constitutional or governmental office",
+        "quote": "Dr Farooq Abdullah holds no constitutional or governmental office. By virtue of what authority, a party president is directing ministers of an elected government to report to party-level groups."
+      },
+      {
+        "claim": "The National Conference had a long history of placing the interests of one family and one party above democratic institutions",
+        "quote": "He said the National Conference had a long history of placing the interests of one family and one party above democratic institutions and public welfare."
+      },
+      {
+        "claim": "The arrangement bypassed the Legislative Assembly and its established committee system",
+        "quote": "The arrangement bypassed the Legislative Assembly and its established committee system, which were the appropriate democratic forums for examining government policies, scrutinising departmental functioning and ensuring accountability."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The National Conference government in J&K established informal advisory groups for MLAs to manage internal dissent, bypassing democratic accountability mechanisms.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

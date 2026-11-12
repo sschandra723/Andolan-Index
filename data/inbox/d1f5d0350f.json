@@ -1,0 +1,62 @@
+{
+  "id": "d1f5d0350f",
+  "url": "https://www.hindustantimes.com/cities/others/keralam-cpi-m-cjp-extend-support-to-protesting-lpst-rank-holders-after-police-action-101794460175162.html",
+  "title": "Keralam: CPI(M), CJP extend support to protesting LPST rank holders after police action",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5851,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "CPI and CJP support LPST rank holders protesting for appointments from their rank list before expiry, after police arrested their leader and dismantled their tent.",
+    "facts": [
+      {
+        "claim": "CPI promised protection and assistance to protesting LPST rank holders after police dismantled their tent and arrested their leader S Valarmathi",
+        "quote": "Thiruvananthapuram, The CPI on Thursday promised protection and all necessary assistance to protesting LPST rank holders after police dismantled their protest tent in front of the Secretariat here and arrested their leader S Valarmathi, while the CJP announced that it would join the agitation until their demands were addressed."
+      },
+      {
+        "claim": "CPI district secretary V Joy criticized police for forcibly removing protesters and damaging belongings",
+        "quote": "CPI district secretary and MLA V Joy strongly criticised the police action, alleging that the protesting Lower Primary School Teacher rank holders were forcibly removed and their belongings damaged during the operation on Wednesday night."
+      },
+      {
+        "claim": "LPST rank holders demand appointments before expiry, transfer to teaching posts, end cash-for-job practices, and 1:25 teacher-student ratio",
+        "quote": "The rank holders are demanding appointment orders for all eligible candidates on the LPST rank list before it expires, transfer of appointments to aided-school teaching posts to the PSC, an end to alleged cash-for-job practices in recruitment, and a teacher-student ratio of 1:25."
+      },
+      {
+        "claim": "Police said Valarmathi was shifted from ICU to ward after refusing medication",
+        "quote": "Police said she was initially admitted to the intensive care unit but refused to take medication there. It was subsequently decided to shift her to a ward."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "LPST rank holders are demanding appointments from their rank list before it expires, which has been a long-standing issue in Kerala's public service recruitment system.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

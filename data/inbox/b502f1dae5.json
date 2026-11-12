@@ -1,0 +1,58 @@
+{
+  "id": "b502f1dae5",
+  "url": "https://nenow.in/north-east-news/assam/assam-protesters-block-nh-15-in-tinsukia-demand-compensation-for-student-killed-in-accident.html",
+  "title": "Assam: Protesters block NH-15 in Tinsukia, demand compensation for student killed in accident",
+  "outlet": "Northeast Now",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2803,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Protesters blocked NH-15 in Assam's Tinsukia district demanding compensation for a student killed in a road accident, with the All Moran Students' Union leading the demonstration.",
+    "facts": [
+      {
+        "claim": "Protesters blocked NH-15 in Assam's Tinsukia district",
+        "quote": "Doomdooma: National Highway-15 remained blocked for several hours at Kakopathar in Assam’s Tinsukia district on Wednesday evening as hundreds of people staged a protest demanding justice and compensation for the family of a student killed in a road accident."
+      },
+      {
+        "claim": "The protest was led by the All Moran Students' Union",
+        "quote": "Led by members of the All Moran Students’ Union (AMSU), the protesters demanded adequate compensation for the bereaved family and strict punishment for those responsible for the accident."
+      },
+      {
+        "claim": "The student died in a road accident",
+        "quote": "The accident took place around 3 pm on Tuesday at Dirak Sonjan along NH-15, under Tongna Police Station. According to reports, a head-on collision between a Maruti Alto and a motorcycle claimed the life of Bishnu Moran and left Satyajit Moran critically injured."
+      },
+      {
+        "claim": "The protest demanded compensation for the deceased student's family",
+        "quote": "We demand adequate compensation for the deceased student’s family and strict punishment for those responsible."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A road accident in Assam's Tinsukia district led to a protest by the All Moran Students' Union demanding compensation for the deceased student's family and accountability for the accident.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "64dbc91a22",
+  "url": "https://www.thehindu.com/news/national/ladakh/amid-call-for-ladakh-protest-ceo-prohibits-dharnas-in-leh-kargil-over-upcoming-polls/article71690490.ece",
+  "title": "Amid call for Ladakh protest, CEO prohibits dharnas in Leh, Kargil over upcoming polls",
+  "outlet": "The Hindu",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": "ladakh-statehood",
+  "score": 3.0,
+  "matched": [
+    "Ladakh",
+    "Leh",
+    "Kargil"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4195,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Union Territory’s Chief Electoral Officer prohibited dharnas and protests in Leh and Kargil ahead of local body elections due to concerns about voter intimidation and election integrity, following civil society groups' call for agitation over stalled talks and judicial inquiries.",
+    "facts": [
+      {
+        "claim": "The Union Territory’s Chief Electoral Officer prohibited dharnas and protests in Leh and Kargil ahead of local body elections",
+        "quote": "With Ladakh’s civil society groups threatening to resume agitations to push a slew of demands, the Union Territory’s Chief Electoral Officer (CEO) on Wednesday (November 11, 2026) issued an order prohibiting all dharnas, protests, demonstrations, sit-ins and rallies within the municipal limits of Leh and Kargil while the Model Code of Conduct is in force ahead of local body elections."
+      },
+      {
+        "claim": "Civil society groups called for agitation over stalled talks and judicial inquiries",
+        "quote": "The order came a day after Leh Apex Body (LAB) called for an agitation, with a sit-in from November 12, to press their demands on a slew of issues, including the resumption of talks between the Centre and Ladakh bodies, making public the status of the judicial inquiry report into the September 24, 2025, violence that left four people dead, and the postponement of hill council elections till next year."
+      },
+      {
+        "claim": "Elections were scheduled for November 21 to December 4",
+        "quote": "Ladakh, which was carved out as a Union Territory in 2019 from the erstwhile State of Jammu and Kashmir, will hold multi-tier elections to panchayats, municipalities, and Ladakh Autonomous Hill Development Councils (LAHDCs) between November 21 and December 4."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh, a union territory without statehood since 2019, has seen civil society groups protest over electoral processes and judicial inquiries related to past violence, demanding a pause in elections amid harsh winter conditions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

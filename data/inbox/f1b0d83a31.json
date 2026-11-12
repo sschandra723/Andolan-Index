@@ -1,0 +1,66 @@
+{
+  "id": "f1b0d83a31",
+  "url": "https://www.hindustantimes.com/cities/mumbai-news/parents-of-iit-b-student-to-protest-outside-cm-s-residence-from-dec-7-101794418193852.html",
+  "title": "Parents of IIT-B student to protest outside CM’s residence from Dec 7",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4054,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Parents of an IIT-Bombay student who allegedly died by suicide in September 2026 plan protests outside Maharashtra Chief Minister Devendra Fadnavis's residence starting December 7, alleging caste-based discrimination and demanding a fair investigation.",
+    "facts": [
+      {
+        "claim": "Parents of IIT-Bombay student plan protest outside CM Fadnavis's residence from Dec 7",
+        "quote": "IIT-Bombay student’s parents plan a Dec. 7 protest outside chief minister Devendra Fadnavis’s residence in Nagpur, during the winter session of the Maharashtra legislature."
+      },
+      {
+        "claim": "Student allegedly died by suicide on September 18",
+        "quote": "The student allegedly died by suicide hours after he was pulled up for allegedly using a mobile phone during an examination on September 18."
+      },
+      {
+        "claim": "Parents allege caste-based discrimination and no government meeting",
+        "quote": "They had been protesting at Azad Maidan in Mumbai for over a month, alleging caste-based discrimination on the campus. They also alleged that no government representative had met with them or discussed their demands."
+      },
+      {
+        "claim": "Parents seek arrest of IIT-Bombay officials",
+        "quote": "The parents have sought the arrest of IIT-Bombay director Shireesh Kedare and former Dean of Student Affairs, Satyanarayan Dulla."
+      },
+      {
+        "claim": "FIR registered under BNS and SC/ST Act",
+        "quote": "The FIR, registered based on the parents’ complaint, names institute officials and has been filed under section 108 (abetment of suicide) of the Bharatiya Nyaya Sanhita (BNS) and provisions of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Parents of an IIT-Bombay student who allegedly died by suicide in September 2026 are planning protests outside Maharashtra Chief Minister Devendra Fadnavis's residence starting December 7, alleging caste-based discrimination and demanding a fair investigation.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “IIT-Bombay student’s parents plan a Dec. 7 protest outside chief minister Devend”",
+        "number 2026 in the summary does not appear in the article",
+        "name “Maharashtra Chief Minister Devendra Fadnavis” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

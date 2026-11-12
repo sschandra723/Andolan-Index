@@ -1,0 +1,52 @@
+{
+  "id": "7d2a55ff54",
+  "url": "https://www.moneycontrol.com/news/india/lahdc-elections-row-wangchuk-removed-from-protest-site-escorted-to-residence-by-ladakh-police-14078052.html",
+  "title": "LAHDC elections row: Wangchuk removed from protest site, escorted to residence by Ladakh Police",
+  "outlet": "Moneycontrol",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Ladakh",
+    "Sonam Wangchuk"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "ladakh-statehood",
+    "new_movement": null,
+    "summary": "Ladakh police escorted Wangchuk from a protest site, amid ongoing statehood demands.",
+    "facts": [
+      {
+        "claim": "Ladakh police escorted Wangchuk from a protest site",
+        "quote": "Wangchuk removed from protest site, escorted to residence by Ladakh Police"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh, a union territory without a legislature since 2019, wants the same protections as tribal areas under the Sixth Schedule.",
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 50,
+    "importance_reason": "5 outlets in the last 48 hours; coverage up from 0 to 2 reports this week."
+  }
+}

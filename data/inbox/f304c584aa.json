@@ -1,0 +1,58 @@
+{
+  "id": "f304c584aa",
+  "url": "https://www.thehindu.com/news/national/west-bengal/fir-against-former-cm-mamata-banerjee-over-alleged-communal-remarks-in-bengal/article71094869.ece",
+  "title": "FIR against former CM Mamata Banerjee over alleged communal remarks in Bengal",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=SIR"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 750,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A police officer said a first information report was filed against former West Bengal Chief Minister Mamata Banerjee for allegedly making communal remarks during the last Assembly election campaign, claiming her political presence was necessary for minority community safety.",
+    "facts": [
+      {
+        "claim": "A first information report (FIR) was registered against former West Bengal Chief Minister and Trinamool Congress supremo Mamata Banerjee for allegedly making provocative and communal remarks during the last Assembly election campaign",
+        "quote": "A first information report (FIR) was registered against former West Bengal Chief Minister and Trinamool Congress supremo Mamata Banerjee for allegedly making provocative and communal remarks during the last Assembly election campaign, a senior police officer said on Friday (June 12, 2026)."
+      },
+      {
+        "claim": "At a rally, Ms. Banerjee allegedly told a minority community that their safety depended on her political presence, without which they would be destroyed",
+        "quote": "At a rally, Ms. Banerjee allegedly told a minority community that their safety depended on her political presence, without which they would be destroyed."
+      },
+      {
+        "claim": "It’s a Zero FIR that was lodged on June 7. It was initially filed at the Netaji Nagar police station based on a complaint submitted by an individual Tushar Kanti Das (45). However, the case was later transferred to the Hare Street police station",
+        "quote": "It’s a Zero FIR that was lodged on June 7. It was initially filed at the Netaji Nagar police station based on a complaint submitted by an individual Tushar Kanti Das (45). However, the case was later transferred to the Hare Street police station,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A police officer said a first information report was filed against former West Bengal Chief Minister Mamata Banerjee for allegedly making communal remarks during the last Assembly election campaign, claiming her political presence was necessary for minority community safety.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "name “West Bengal Chief Minister Mamata Banerjee” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

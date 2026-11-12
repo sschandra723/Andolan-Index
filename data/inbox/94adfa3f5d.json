@@ -1,0 +1,54 @@
+{
+  "id": "94adfa3f5d",
+  "url": "https://theshillongtimes.com/2026/11/12/meghalaya-ropeway-meeting-descends-into-chaos-minister-says-political-hand-behind-protest/",
+  "title": "Meghalaya: Ropeway meeting descends into chaos; Minister says political hand behind protest",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2407,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "Meghalaya teachers in deficit schools and colleges have been protesting for over a week demanding the government address their recruitment issues, as the state's Centralised Fund Scheme 2026 has not been implemented.",
+    "facts": [
+      {
+        "claim": "Meghalaya teachers in deficit schools and colleges reject the state's Centralised Fund Scheme 2026",
+        "quote": "Staff of Meghalaya's deficit schools and colleges reject the state's Centralised Fund Scheme 2026."
+      },
+      {
+        "claim": "The protest entered its fifth day on Wednesday",
+        "quote": "The protest entered its fifth day on Wednesday, with demonstrators demanding that the proposed ropeway project either be scrapped or shifted to another location."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Meghalaya teachers' protest over the Centralised Fund Scheme 2026 has escalated into a sit-in demonstration demanding the government address their recruitment issues.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "1/2",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Staff of Meghalaya's deficit schools and colleges reject the state's Centralised”",
+        "number 2026 in the summary does not appear in the article",
+        "name “Centralised Fund Scheme” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

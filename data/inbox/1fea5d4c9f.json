@@ -1,0 +1,56 @@
+{
+  "id": "1fea5d4c9f",
+  "url": "https://www.outlookindia.com/national/nsui-stages-protest-against-rising-pollution-in-delhi",
+  "title": "Congress Student Wing NSUI Protests Against Rising Air Pollution In Delhi",
+  "outlet": "Outlook India",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "air pollution"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 916,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "The National Students' Union of India staged a protest on Raisina Road demanding urgent action against Delhi's rising pollution, as air quality index levels stood at 330 (very poor) on Thursday.",
+    "facts": [
+      {
+        "claim": "The National Students' Union of India staged a protest on Raisina Road",
+        "quote": "- NSUI protested on Raisina Road, demanding urgent action against Delhi’s rising pollution."
+      },
+      {
+        "claim": "The protest was led by its national president, Vinod Jakhar",
+        "quote": "The protest was held at the NSUI headquarters on Raisina Road and was led by its national president, Vinod Jakhar."
+      },
+      {
+        "claim": "Delhi’s AQI stood at 330 (very poor) on Thursday",
+        "quote": "Delhi’s AQI stood at 330 (very poor) on Thursday, with further deterioration forecast."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest occurred amid Delhi's deteriorating air quality, with pollution levels remaining a major concern as the winter season sets in.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

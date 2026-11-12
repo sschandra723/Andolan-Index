@@ -1,0 +1,54 @@
+{
+  "id": "760bc46b6d",
+  "url": "https://theprint.in/india/people-free-to-protest-against-policies-of-cong-govts-priyanka-gandhi-on-lpst-issue/3096846/",
+  "title": "People free to protest against policies of Cong govts: Priyanka Gandhi on LPST issue",
+  "outlet": "The Print",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1741,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "Congress MP Priyanka Gandhi Vadra stated that peaceful protests against government policies are constitutionally protected, emphasizing that police action should only occur if protests become violent or aggressive.",
+    "facts": [
+      {
+        "claim": "the right to protest is guaranteed under the Constitution",
+        "quote": "the right to protest is guaranteed under the Constitution"
+      },
+      {
+        "claim": "people were free to agitate against the policies of the party-led governments as long as they are peaceful",
+        "quote": "people were free to agitate against the policies of the party-led governments as long as they are peaceful"
+      },
+      {
+        "claim": "police action should only occur if protests become violent or aggressive",
+        "quote": "police should take action because the protestors must respect the rule of law"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress MP Priyanka Gandhi Vadra commented on the LPST rank-holders' protest in Wayanad, Kerala, which has been ongoing for over four months demanding appointments from the LPST rank list before it expires.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

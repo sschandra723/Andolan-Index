@@ -1,0 +1,53 @@
+{
+  "id": "9a112d347c",
+  "url": "https://www.indiatoday.in/india/video/sam-pitroda-says-youth-prioritise-education-and-jobs-over-sir-issue-ytvd-3037162-2026-11-12",
+  "title": "Sam Pitroda says Indian youth care more about education and jobs than SIR protests",
+  "outlet": "India Today",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "anti-SIR protests",
+    "=SIR"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2191,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Sam Pitroda stated Indian youth prioritize education and jobs over SIR protests, contrasting with Rahul Gandhi's positive assessment of recent rallies.",
+    "facts": [
+      {
+        "claim": "Sam Pitroda highlighted that Indian youth are more focused on employment and education than the SIR issue",
+        "quote": "Sam Pitroda highlighted that Indian youth are more focused on employment and education than the SIR issue, explaining the limited momentum in anti-SIR protests compared to earlier student agitations like the NEET protests."
+      },
+      {
+        "claim": "He contrasted these views with Rahul Gandhi’s positive assessment of recent rallies",
+        "quote": "He contrasted these views with Rahul Gandhi’s positive assessment of recent rallies, emphasising that young people prioritise jobs, quality education, and healthcare."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

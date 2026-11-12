@@ -1,0 +1,66 @@
+{
+  "id": "319fa1a98a",
+  "url": "https://www.greaterkashmir.com/business/moodys-pegs-indias-fy27-gdp-growth-at-7-aided-by-robust-consumption-investment-12802283",
+  "title": "Moody’s pegs India’s FY27 GDP growth at 7%, aided by robust consumption, investment",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3523,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Moody's Ratings revised India's FY27 GDP growth forecast to 7% from 6.5%, citing robust consumption, improving investment, and strong macroeconomic fundamentals, though near-term risks include inflation and monsoon conditions.",
+    "facts": [
+      {
+        "claim": "Moody's Ratings revised India's FY27 GDP growth forecast to 7% from 6.5%",
+        "quote": "Moody’s Ratings on Wednesday said the Indian economy is expected to grow at 7 per cent in the current fiscal compared to 6.5 per cent pegged earlier"
+      },
+      {
+        "claim": "Robust consumption, improving investment dynamics and strong macroeconomic fundamentals",
+        "quote": "robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7 per cent over the medium term"
+      },
+      {
+        "claim": "Retail inflation rose to 5.54 per cent in September 2026",
+        "quote": "Retail inflation rose to 5.54 per cent in September 2026"
+      },
+      {
+        "claim": "RBI estimates GDP growth of 7.1 per cent in the current fiscal",
+        "quote": "RBI estimates GDP growth of 7.1 per cent in the current fiscal, in line with OECD projection"
+      },
+      {
+        "claim": "IMF, ADB and S&P Global Ratings have projected a 7 per cent growth",
+        "quote": "The International Monetary Fund (IMF), ADB and S&P Global Ratings have projected a 7 per cent growth"
+      },
+      {
+        "claim": "Fitch Ratings expects India’s GDP to grow 6.9 per cent",
+        "quote": "Fitch Ratings expects India’s GDP to grow 6.9 per cent"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

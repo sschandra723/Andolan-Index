@@ -1,0 +1,86 @@
+{
+  "id": "768f0c0f98",
+  "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-pollution-police-stop-students-protest-march-against-worsening-air-quality-near-turkman-gate/article71690413.ece",
+  "title": "Delhi air pollution: Police stop students’ protest march against worsening air quality near Turkman Gate",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "air pollution"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3769,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "Students and youth marched against Delhi's worsening air quality near Turkman Gate but were stopped by police after covering 300-400 meters. Organisers claimed industrial emissions and weak enforcement of pollution controls contributed to the problem.",
+    "facts": [
+      {
+        "claim": "Dozens of students and young people took out a protest march against worsening air quality in central Delhi on Wednesday (November 11) evening",
+        "quote": "Dozens of students and young people took out a protest march against worsening air quality in central Delhi on Wednesday (November 11) evening"
+      },
+      {
+        "claim": "covered around 300 to 400 metres from Turkman Gate towards Jantar Mantar",
+        "quote": "covered around 300 to 400 metres from Turkman Gate towards Jantar Mantar"
+      },
+      {
+        "claim": "organised by the Revolutionary Workers’ Party of India (RWPI), Disha Students’ Organisation, Naujawan Bharat Sabha, Scientists for Society and Stree Mukti League",
+        "quote": "organised by the Revolutionary Workers’ Party of India (RWPI), Disha Students’ Organisation, Naujawan Bharat Sabha, Scientists for Society and Stree Mukti League"
+      },
+      {
+        "claim": "aimed at highlighting the impact of deteriorating air quality following Deepavali and demanding stricter enforcement of pollution-control measures",
+        "quote": "was aimed at highlighting the impact of deteriorating air quality following Deepavali and demanding stricter enforcement of pollution-control measures"
+      },
+      {
+        "claim": "We are protesting because the impact of worsening air quality on our health is evident. While political leaders sit in their offices and homes with air purifiers, pregnant women, the elderly, children and other vulnerable sections bear the brunt of it",
+        "quote": "We are protesting because the impact of worsening air quality on our health is evident. While political leaders sit in their offices and homes with air purifiers, pregnant women, the elderly, children and other vulnerable sections bear the brunt of it"
+      },
+      {
+        "claim": "Clean air is not a privilege of the rich. While industries continue to emit pollutants into the air, restrictions on other contributing factors, such as vehicular emissions and construction activities, are not effectively enforced. Construction sites are not properly covered, and despite bans under GRAP, many sites continue to operate. Vehicles within Delhi are ignored, while those entering from outside face restrictions",
+        "quote": "Clean air is not a privilege of the rich. While industries continue to emit pollutants into the air, restrictions on other contributing factors, such as vehicular emissions and construction activities, are not effectively enforced. Construction sites are not properly covered, and despite bans under GRAP, many sites continue to operate. Vehicles within Delhi are ignored, while those entering from outside face restrictions"
+      },
+      {
+        "claim": "The protesters alleged that industrial emissions and inadequate enforcement of restrictions on construction activities and vehicular pollution were contributing to the problem",
+        "quote": "The protesters alleged that industrial emissions and inadequate enforcement of restrictions on construction activities and vehicular pollution were contributing to the problem"
+      },
+      {
+        "claim": "The organisations had initially called for a march from Ramlila Maidan to Jantar Mantar. However, the protesters began marching from Turkman Gate around 4.30 p.m. before being stopped by the police",
+        "quote": "The organisations had initially called for a march from Ramlila Maidan to Jantar Mantar. However, the protesters began marching from Turkman Gate around 4.30 p.m. before being stopped by the police"
+      },
+      {
+        "claim": "Personnel from the Delhi Police and the Central Reserve Police Force surrounded the protesters on two sides and barricaded the road, preventing them from proceeding further. The protesters continued their demonstration at the spot. No one was detained",
+        "quote": "Personnel from the Delhi Police and the Central Reserve Police Force surrounded the protesters on two sides and barricaded the road, preventing them from proceeding further. The protesters continued their demonstration at the spot. No one was detained"
+      },
+      {
+        "claim": "The organisers had not sought permission for the march",
+        "quote": "The organisers had not sought permission for the march"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students and youth marched against Delhi's worsening air quality near Turkman Gate but were stopped by police after covering 300-400 meters. Organisers claimed industrial emissions and weak enforcement of pollution controls contributed to the problem.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "9/10",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “covered around 300 to 400 metres from Turkman Gate towards Jantar Mantar”"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

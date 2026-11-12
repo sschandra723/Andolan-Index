@@ -1,0 +1,59 @@
+{
+  "id": "e2c73ab08a",
+  "url": "https://www.thehindu.com/news/national/karnataka/sugarcane-farmers-continue-protest-in-bagalkot/article71685994.ece",
+  "title": "Sugarcane farmers continue protest in Bagalkot",
+  "outlet": "The Hindu",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": "karnataka-sugarcane-2025",
+  "score": 2.0,
+  "matched": [
+    "sugarcane",
+    "sugarcane farmers"
+  ],
+  "alternatives": [
+    "farmers-india-us-trade-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2805,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Sugarcane farmers in Bagalkot district continue protesting for higher prices, demanding ₹4,200-4,250 per tonne based on Maharashtra's package, while some factories in Belagavi have offered prices above the agreed sum.",
+    "facts": [
+      {
+        "claim": "Sugarcane farmers in Bagalkot district continue protesting for higher prices",
+        "quote": "While most of the sugar factories in Belagavi district have begun crushing operations, some sugarcane farmers in Bagalkot district are continuing their protest for higher prices."
+      },
+      {
+        "claim": "Farmers demand ₹4,200-4,250 per tonne based on Maharashtra's package",
+        "quote": "He said that the farmers will not budge till they are assured prices of ₹4,200 to ₹4,250 per tonne of sugarcane."
+      },
+      {
+        "claim": "Some factories in Belagavi have offered prices above the agreed sum",
+        "quote": "Meanwhile, some sugar factories in Belagavi have offered prices higher than the agreed sum."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers in north Karnataka have been protesting since 2025 over lower prices, with the state offering ₹3,300 per tonne versus their demand of ₹3,500.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 45,
+    "importance_reason": "5 outlets in the last 48 hours; coverage up from 0 to 1 reports this week."
+  }
+}

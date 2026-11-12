@@ -1,0 +1,61 @@
+{
+  "id": "3e6e6e9b74",
+  "url": "https://www.greaterkashmir.com/jammu/ration-supply-from-jammu-warehouse-to-resume-today-12802266",
+  "title": "Ration supply from Jammu warehouse to resume today",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": "jk-statehood-2026",
+  "score": 2.0,
+  "matched": [
+    "Omar Abdullah",
+    "National Conference"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5733,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Traders in Jammu announced resumption of ration supply from Warehouse-Nehru Market after a three-day shutdown due to a fire that damaged shops and caused significant losses, following the Lieutenant Governor's order to investigate the fire department's negligence.",
+    "facts": [
+      {
+        "claim": "resumption of ration supply from Warehouse-Nehru Market",
+        "quote": "Traders Federation Warehouse-Nehru Market president Deepak Gupta, on Wednesday announced resumption of ration supply from the J&K’s largest wholesale food-grain market from Thursday, following the Lieutenant Governor’s decision to constitute a two-member committee to investigate the devastating fire incident of November 8, 2026."
+      },
+      {
+        "claim": "three-day shutdown",
+        "quote": "the Federation had raised three major demands. These included a thorough inquiry into the negligence of the Fire and Emergency Services Department and appropriate action against those found responsible, financial assistance to traders who suffered losses, along with directions to the Jammu Development Authority (JDA) for the speedy reconstruction of shops and the allocation of suitable land in and around Jammu city to Warehouse-Nehru Market traders for the construction of godowns."
+      },
+      {
+        "claim": "fire damaged shops",
+        "quote": "Addressing a press conference here on Wednesday evening, Gupta, while announcing the formal withdrawal of the three-day shutdown of Warehouse-Nehru Market, said that eight shops were completely gutted in the fire, while goods stored in two other shops were substantially damaged."
+      },
+      {
+        "claim": "significant losses",
+        "quote": "The delay in the arrival of fire tenders had aggravated the damage, compelling the Federation to call for a market shutdown, which was subsequently extended to 48 hours and continued for three days as a mark of protest"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

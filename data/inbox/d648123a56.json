@@ -1,0 +1,58 @@
+{
+  "id": "d648123a56",
+  "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/dmk-members-protest-at-thuraiyur-against-deputy-speaker-for-assaulting-man/article71689951.ece",
+  "title": "DMK members protest at Thuraiyur against Deputy Speaker for ‘assaulting’ man",
+  "outlet": "The Hindu",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 830,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "DMK members protested at Thuraiyur for allegedly assaulting a man, demanding Deputy Speaker M. Ravishankar's removal.",
+    "facts": [
+      {
+        "claim": "A group of members of the Dravida Munnetra Kazhagam (DMK) staged a demonstration at Thuraiyur in Tiruchi district on Wednesday condemning the Tamilaga Vettri Kazhagam MLA and Deputy Speaker of the Legislative Assembly M. Ravishankar after a recent video surfaced on social media showing him allegedly assaulting a local when the latter approached him to complain about drinking water shortage and other civic issues in his locality.",
+        "quote": "A group of members of the Dravida Munnetra Kazhagam (DMK) staged a demonstration at Thuraiyur in Tiruchi district on Wednesday condemning the Tamilaga Vettri Kazhagam MLA and Deputy Speaker of the Legislative Assembly M. Ravishankar after a recent video surfaced on social media showing him allegedly assaulting a local when the latter approached him to complain about drinking water shortage and other civic issues in his locality."
+      },
+      {
+        "claim": "The demonstration organised by the DMK near the Thuraiyur bus stand lasted about 30 minutes.",
+        "quote": "The demonstration organised by the DMK near the Thuraiyur bus stand lasted about 30 minutes."
+      },
+      {
+        "claim": "About 150 DMK members, led by the party’s north district secretary Kaduvetti Thiagarajan, participated in the demonstration.",
+        "quote": "About 150 DMK members, led by the party’s north district secretary Kaduvetti Thiagarajan, participated in the demonstration."
+      },
+      {
+        "claim": "The protesters raised slogans demanding that Mr. Ravishankar should be removed from the post of Deputy Speaker, said the police sources.",
+        "quote": "The protesters raised slogans demanding that Mr. Ravishankar should be removed from the post of Deputy Speaker, said the police sources."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "1711499289",
+  "url": "https://www.greaterkashmir.com/politics/jk-bank-recruitment-jkcsf-chairman-demands-10-year-age-relaxation-12802261",
+  "title": "J&K Bank Recruitment: JKCSF Chairman demands 10-year age relaxation",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1671,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "JKCSF chairman Qayoom Wani demanded 10-year age relaxation for Jammu and Kashmir Bank recruitment, calling the current 30-year upper age limit unfair due to prolonged employment uncertainty in the region.",
+    "facts": [
+      {
+        "claim": "Chairman of the Jammu and Kashmir Civil Society Forum (JKCSF), chairman Qayoom Wani has strongly urged the management of Jammu and Kashmir Bank to reconsider the prescribed upper age limit of 30 years for its ongoing recruitment process",
+        "quote": "Chairman of the Jammu and Kashmir Civil Society Forum (JKCSF), chairman Qayoom Wani has strongly urged the management of Jammu and Kashmir Bank to reconsider the prescribed upper age limit of 30 years for its ongoing recruitment process"
+      },
+      {
+        "claim": "terming the existing criterion unfair and insensitive to the peculiar employment circumstances prevailing in Jammu and Kashmir",
+        "quote": "terming the existing criterion unfair and insensitive to the peculiar employment circumstances prevailing in Jammu and Kashmir"
+      },
+      {
+        "claim": "Wani, as per a statement, observed that the educated youth of J&K have endured prolonged uncertainty, recurring recruitment delays and shrinking employment opportunities over the years",
+        "quote": "Wani, as per a statement, observed that the educated youth of J&K have endured prolonged uncertainty, recurring recruitment delays and shrinking employment opportunities over the years"
+      },
+      {
+        "claim": "Thousands of aspirants, despite possessing the requisite qualifications, have devoted their most productive years to preparing for competitive examinations, only to find themselves rendered ineligible because of an age restriction that fails to account for the extraordinary circumstances they have faced",
+        "quote": "Thousands of aspirants, despite possessing the requisite qualifications, have devoted their most productive years to preparing for competitive examinations, only to find themselves rendered ineligible because of an age restriction that fails to account for the extraordinary circumstances they have faced"
+      },
+      {
+        "claim": "He said that recruitment policies, particularly those of an institution as significant as J\\&K Bank, must reflect a sense of social responsibility and remain responsive to the aspirations and legitimate concerns of the people of the Union Territory",
+        "quote": "He said that recruitment policies, particularly those of an institution as significant as J\\&K Bank, must reflect a sense of social responsibility and remain responsive to the aspirations and legitimate concerns of the people of the Union Territory"
+      },
+      {
+        "claim": "How can a generation that has spent years waiting for employment opportunities be penalised for circumstances beyond its control? Age relaxation in the present circumstances is not a favour or concession; it is a matter of fairness, justice and equal opportunity",
+        "quote": "How can a generation that has spent years waiting for employment opportunities be penalised for circumstances beyond its control? Age relaxation in the present circumstances is not a favour or concession; it is a matter of fairness, justice and equal opportunity"
+      },
+      {
+        "claim": "The JKCSF Chairman emphasised that J&K Bank, being an institution of considerable public importance and a major source of employment for educated youth, must demonstrate sensitivity towards the ground realities of the region while framing its recruitment policies",
+        "quote": "The JKCSF Chairman emphasised that J&K Bank, being an institution of considerable public importance and a major source of employment for educated youth, must demonstrate sensitivity towards the ground realities of the region while framing its recruitment policies"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "JKCSF chairman Qayoom Wani demanded 10-year age relaxation for Jammu and Kashmir Bank recruitment, calling the current 30-year upper age limit unfair due to prolonged employment uncertainty in the region.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": [
+        "number 10 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

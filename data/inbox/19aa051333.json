@@ -1,0 +1,79 @@
+{
+  "id": "19aa051333",
+  "url": "https://www.greaterkashmir.com/ladakh/postpone-lahdc-polls-to-spring-lab-kda-12802268",
+  "title": "Postpone LAHDC polls to spring: LAB, KDA",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": "ladakh-statehood",
+  "score": 9.0,
+  "matched": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Kargil Democratic Alliance",
+    "Sixth Schedule",
+    "Sonam Wangchuk",
+    "Leh",
+    "Kargil",
+    "=LAB",
+    "=KDA"
+  ],
+  "alternatives": [
+    "anti-sir-2026",
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4219,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Leh Apex Body and Kargil Democratic Alliance demanded postponing Ladakh's LAHDC elections to April-May due to extreme winter conditions and logistical challenges, warning of shutdowns if the administration proceeds with December polling.",
+    "facts": [
+      {
+        "claim": "The Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA) have formally demanded the postponement of the upcoming Ladakh Autonomous Hill Development Council (LAHDC) elections to April–May",
+        "quote": "Srinagar, Nov 11: The Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA)—the two apex civil society and political coalitions spearheading agitation for constitutional safeguards in Union Territory of Ladakh—have formally demanded the postponement of the upcoming Ladakh Autonomous Hill Development Council (LAHDC) elections to April–May."
+      },
+      {
+        "claim": "Sub-zero temperatures—expected to drop between −20°C and −25°C—alongside heavy snowfall, frequent highway closures and seasonal migration of residents to warmer parts of the country, would drastically impair voter turnout",
+        "quote": "Sub-zero temperatures—expected to drop between −20°C and −25°C—alongside heavy snowfall, frequent highway closures and seasonal migration of residents to warmer parts of the country, would drastically impair voter turnout."
+      },
+      {
+        "claim": "Holding elections in peak winter months compromises democratic participation",
+        "quote": "\"Holding elections in peak winter months compromises democratic participation,\" stated Chering Dorjay, urging the State Election Commission and the Union Territory administration to defer the polling schedule until April or May to allow fair and full participation."
+      },
+      {
+        "claim": "Kargil observed a complete shutdown organised by local bodies protesting the election timing",
+        "quote": "Over the past few days, Kargil observed a complete shutdown organised by local bodies protesting the election timing."
+      },
+      {
+        "claim": "The UT Chief Secretary Ashish Kundra defended the December polling schedule, noting that the timely constitution of the councils was essential for preparing the upcoming fiscal budget in January–March and ensuring active governance",
+        "quote": "In response, UT Chief Secretary Ashish Kundra defended the December polling schedule, noting that the timely constitution of the councils was essential for preparing the upcoming fiscal budget in January–March and ensuring active governance."
+      },
+      {
+        "claim": "Climate activist Sonam Wangchuk accused the UT administration of moving at 'rocket speed' to conduct the polls despite widespread opposition over their timing and format",
+        "quote": "Climate activist Sonam Wangchuk on Wednesday issued an “SOS appeal to the nation”, accusing the UT administration of moving at “rocket speed” to conduct the polls despite widespread opposition over their timing and format."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Ladakh statehood movement has been ongoing since 2019, with demands for constitutional safeguards and elected representation under the Sixth Schedule. Local leaders are pushing for a review of the delimitation exercise to ensure balanced public representation.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "faa89099aa",
+  "url": "https://www.hindustantimes.com/cities/others/sfi-protest-over-student-suspensions-autonomous-college-norms-turns-violent-in-thiruvananthapuram-101794473823441.html",
+  "title": "SFI protest over student suspensions, autonomous college norms turns violent in Thiruvananthapuram",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2545,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "SFI activists in Thiruvananthapuram protested against student suspensions at Sree Sankaracharya University and relaxed autonomous college norms, turning violent with clashes and banners targeting the Keralam Minister.",
+    "facts": [
+      {
+        "claim": "SFI protest over student suspensions, autonomous college norms turns violent in Thiruvananthapuram",
+        "quote": "SFI protest over student suspensions, autonomous college norms turns violent in Thiruvananthapuram"
+      },
+      {
+        "claim": "The march, led by Students' Federation of India state secretary P S Sanjeev, proceeded towards the Secretariat gate near the office of the state Higher Education minister.",
+        "quote": "The march, led by Students' Federation of India state secretary P S Sanjeev, proceeded towards the Secretariat gate near the office of the state Higher Education minister."
+      },
+      {
+        "claim": "Despite police using water cannons four times to disperse the protesters, around 100 SFI activists refused to retreat, officials said.",
+        "quote": "Despite police using water cannons four times to disperse the protesters, around 100 SFI activists refused to retreat, officials said."
+      },
+      {
+        "claim": "The protesters subsequently cut the ropes securing the barricades and attempted to move towards the Secretariat gate, they added.",
+        "quote": "The protesters subsequently cut the ropes securing the barricades and attempted to move towards the Secretariat gate, they added."
+      },
+      {
+        "claim": "Police personnel were deployed in front of the gate to prevent the protesters from entering the Secretariat premises.",
+        "quote": "Police personnel were deployed in front of the gate to prevent the protesters from entering the Secretariat premises."
+      },
+      {
+        "claim": "After being prevented from entering the compound, Sanjeev and some activists climbed onto a water cannon vehicle and put up a banner against the minister on top of it. Another banner was placed on the Secretariat compound wall.",
+        "quote": "After being prevented from entering the compound, Sanjeev and some activists climbed onto a water cannon vehicle and put up a banner against the minister on top of it. Another banner was placed on the Secretariat compound wall."
+      },
+      {
+        "claim": "Sanjeev and other activists also addressed the protesters from atop the vehicle, police said.",
+        "quote": "Sanjeev and other activists also addressed the protesters from atop the vehicle, police said."
+      },
+      {
+        "claim": "Officials said police personnel deployed at different gates of the Secretariat were unable to contain all the protest marches, allowing SFI activists to remove barricades at some locations.",
+        "quote": "Officials said police personnel deployed at different gates of the Secretariat were unable to contain all the protest marches, allowing SFI activists to remove barricades at some locations."
+      },
+      {
+        "claim": "Police said a case would be registered against the protesters for allegedly damaging barricades and climbing onto the water cannon vehicle.",
+        "quote": "Police said a case would be registered against the protesters for allegedly damaging barricades and climbing onto the water cannon vehicle."
+      },
+      {
+        "claim": "As many as 16 SFI-affiliated students of Sree Sankaracharya University of Sanskrit in Kalady were suspended in August this year following protests against the vice-chancellor and the syndicate.",
+        "quote": "As many as 16 SFI-affiliated students of Sree Sankaracharya University of Sanskrit in Kalady were suspended in August this year following protests against the vice-chancellor and the syndicate."
+      },
+      {
+        "claim": "Subsequently, 10 students were denied permission to appear for examinations.",
+        "quote": "Subsequently, 10 students were denied permission to appear for examinations."
+      },
+      {
+        "claim": "The protest was also against a recent Higher Education Department decision to do away with the requirement of prior government approval for autonomous colleges to introduce new self-financing courses and increase seats in existing programmes.",
+        "quote": "The protest was also against a recent Higher Education Department decision to do away with the requirement of prior government approval for autonomous colleges to introduce new self-financing courses and increase seats in existing programmes."
+      },
+      {
+        "claim": "The decision has drawn criticism from Left parties, which alleged that it would allow autonomous aided and self-financing colleges to increase student intake without prior government approval, leading to the commercialisation of education and favouring private college managements.",
+        "quote": "The decision has drawn criticism from Left parties, which alleged that it would allow autonomous aided and self-financing colleges to increase student intake without prior government approval, leading to the commercialisation of education and favouring private college managements."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "SFI activists protested against student suspensions at Sree Sankaracharya University and relaxed autonomous college norms, turning violent with clashes and banners targeting the Keralam Minister.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "13/13",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

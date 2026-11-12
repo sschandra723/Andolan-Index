@@ -1,0 +1,66 @@
+{
+  "id": "dff8b613c9",
+  "url": "https://www.thehindu.com/news/national/kerala/hc-asks-ssus-why-it-persists-with-demand-for-apology-from-protesting-students-who-were-already-under-suspension/article71689276.ece",
+  "title": "HC asks SSUS why it persists with demand for apology from protesting students who were already under suspension",
+  "outlet": "The Hindu",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2314,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "pu-bachao-morcha-2025",
+    "new_movement": null,
+    "summary": "Kerala High Court asked Sree Sankaracharya University of Sanskrit to explain why it continued demanding an apology from 16 suspended students who protested against the V-C by holding a mock funeral and allegedly trying to manhandle him.",
+    "facts": [
+      {
+        "claim": "Kerala High Court asked Sree Sankaracharya University of Sanskrit, Kalady, why it persisted with the demand for apology from students who were already under suspension for 60 days in connection with a protest they held against the university’s Vice-Chancellor (V-C).",
+        "quote": "The Kerala High Court on Wednesday asked the Sree Sankaracharya University of Sanskrit, Kalady, why it persisted with the demand for apology from students who were already under suspension for 60 days in connection with a protest they held against the university’s Vice-Chancellor (V-C)."
+      },
+      {
+        "claim": "The protesting students also reportedly tried to manhandle the V-C.",
+        "quote": "The protesting students also reportedly tried to manhandle the V-C."
+      },
+      {
+        "claim": "The students contended that they held the mock funeral, to protest against dysfunctional lights on the university’s stage.",
+        "quote": "The students contended that they held the mock funeral, to protest against dysfunctional lights on the university’s stage."
+      },
+      {
+        "claim": "The students submitted before the court that the video footage had showed that the allegation that they manhandled the V-C was baseless.",
+        "quote": "The students submitted before the court that the video footage had showed that the allegation that they manhandled the V-C was baseless."
+      },
+      {
+        "claim": "Two FIRs were registered against them.",
+        "quote": "Still, two FIRs were registered against them."
+      },
+      {
+        "claim": "A week ago, a Division Bench of the High Court had observed that political activities like dharna, hunger strikes, and satyagraha had “no place in a constitutional democracy, much less in academic institutions”, as it quashed a Single Bench order that had permitted the 16 students to appear for semester examinations at the university.",
+        "quote": "A week ago, a Division Bench of the High Court had observed that political activities like dharna, hunger strikes, and satyagraha had “no place in a constitutional democracy, much less in academic institutions”, as it quashed a Single Bench order that had permitted the 16 students to appear for semester examinations at the university."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala High Court suspended 16 students for 60 days over a protest against the university's V-C, which included a mock funeral and alleged attempts to manhandle the V-C; the court has now asked the university why it continued demanding an apology from the suspended students.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

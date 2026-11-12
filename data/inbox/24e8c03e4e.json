@@ -1,0 +1,69 @@
+{
+  "id": "24e8c03e4e",
+  "url": "https://www.greaterkashmir.com/national/technological-superiority-key-to-enhancing-operational-readiness-against-emerging-threats-rajanth-singh-12803507",
+  "title": "Technological superiority key to enhancing operational readiness against emerging threats: Rajanth Singh",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5892,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Raksha Mantri Rajnath Singh urged Defence Forces to enhance operational readiness through technological advancements and intelligence, emphasizing drone and cyber capabilities amid evolving threats like Russia-Ukraine and Israel-Hamas conflicts.",
+    "facts": [
+      {
+        "claim": "Raksha Mantri Shri Rajnath Singh has called upon the Defence Forces to strengthen and sustain both offensive and defensive dimensions of the ‘element of surprise’ to maintain operational readiness against conventional and emerging threats arising from rapid technological advancements and the evolving nature of modern warfare.",
+        "quote": "Raksha Mantri Shri Rajnath Singh has called upon the Defence Forces to strengthen and sustain both offensive and defensive dimensions of the ‘element of surprise’ to maintain operational readiness against conventional and emerging threats arising from rapid technological advancements and the evolving nature of modern warfare."
+      },
+      {
+        "claim": "Our Defence Forces must develop capabilities and methods that leave the adversary with no time to react or recover, while simultaneously ensuring that we are never caught off guard by an unexpected move from the enemy.",
+        "quote": "Our Defence Forces must develop capabilities and methods that leave the adversary with no time to react or recover, while simultaneously ensuring that we are never caught off guard by an unexpected move from the enemy."
+      },
+      {
+        "claim": "Shri Rajnath Singh asserted that contemporary conflicts are extending beyond traditional battlefields into non-contact domains, with missiles, drones and advanced weapon systems playing a significant role.",
+        "quote": "Shri Rajnath Singh asserted that contemporary conflicts are extending beyond traditional battlefields into non-contact domains, with missiles, drones and advanced weapon systems playing a significant role."
+      },
+      {
+        "claim": "Referring to the Russia-Ukraine and Israel-Hamas conflicts, he stated that drones and air defence systems have emerged as critical components of modern warfare.",
+        "quote": "Referring to the Russia-Ukraine and Israel-Hamas conflicts, he stated that drones and air defence systems have emerged as critical components of modern warfare."
+      },
+      {
+        "claim": "Raksha Mantri called upon the Indian Air Force (IAF) to develop dedicated doctrines and architectures for emerging domains of warfare, including electronic, cyber and space.",
+        "quote": "Raksha Mantri called upon the Indian Air Force (IAF) to develop dedicated doctrines and architectures for emerging domains of warfare, including electronic, cyber and space."
+      },
+      {
+        "claim": "Victory in future conflicts would depend not merely on the number of aircraft, but also on technological sophistication, speed of response and precision of preparations.",
+        "quote": "Victory in future conflicts would depend not merely on the number of aircraft, but also on technological sophistication, speed of response and precision of preparations."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Victory in future conflicts would depend not merely on the number of aircraft, b”",
+        "name “Raksha Mantri Rajnath Singh” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

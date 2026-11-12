@@ -1,0 +1,78 @@
+{
+  "id": "3430afc536",
+  "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-spos-go-missing-in-jks-kishtwar-massive-search-operation-launched/article71692139.ece",
+  "title": "Two SPOs go missing in J&K's Kishtwar; massive search operation launched",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3055,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Two Special Police Officers went missing in Jammu and Kashmir's Kishtwar district, prompting a joint police and army search operation. Officials said the incident highlights ongoing security challenges in the region with a history of terror-related casualties.",
+    "facts": [
+      {
+        "claim": "Two Special Police Officers went missing from the higher reaches of Dachhan in Jammu and Kashmir's Kishtwar district on Wednesday (November 12, 2026)",
+        "quote": "Two Special Police Officers (SPOs) went missing from the higher reaches of Dachhan in Jammu and Kashmir's Kishtwar district on Wednesday (November 12, 2026), prompting security forces to launch a massive joint search operation to trace them, officials said."
+      },
+      {
+        "claim": "The missing personnel have been identified as Babi Chand (57) and Rashpal Kumar (45)",
+        "quote": "The missing personnel have been identified as Babi Chand (57) and Rashpal Kumar (45), both of whom were posted with the Special Operations Group (SOG) of the local police at their Kiyar village in Dachhan, the officials said."
+      },
+      {
+        "claim": "They were travelling from Kiyar camp to an Army post at Dharna-Marwah when they failed to reach their destination",
+        "quote": "They said the two SPOs were travelling from Kiyar camp to an Army post at Dharna-Marwah when they failed to reach their destination."
+      },
+      {
+        "claim": "Their mobile phones were initially reachable but were later switched off",
+        "quote": "Their mobile phones were initially reachable but were later switched off, raising concerns about their whereabouts."
+      },
+      {
+        "claim": "A massive search operation was launched jointly by the police and the Army's Rashtriya Rifles",
+        "quote": "Following their disappearance, a massive search operation was launched jointly by the police and the Army's Rashtriya Rifles to locate the missing personnel."
+      },
+      {
+        "claim": "The district has witnessed casualties among both security personnel and terrorists in recent years",
+        "quote": "The district has witnessed casualties among both security personnel and terrorists in recent years."
+      },
+      {
+        "claim": "Five people -- four terrorists and one Army soldier -- were killed in terror-related incidents in 2026",
+        "quote": "According to the figures available, five people -- four terrorists and one Army soldier -- were killed in terror-related incidents in 2026."
+      },
+      {
+        "claim": "In 2025, the toll stood at four, comprising three terrorists and one Army soldier",
+        "quote": "In 2025, the toll stood at four, comprising three terrorists and one Army soldier."
+      },
+      {
+        "claim": "In 2024, three security personnel and two civilians lost their lives",
+        "quote": "In 2024, three security personnel and two civilians lost their lives."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kishtwar district has been a focus for counter-insurgency operations to eliminate militant presence, with a history of terror-related casualties. The district administration has urged residents to cooperate with security forces to combat terrorism.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

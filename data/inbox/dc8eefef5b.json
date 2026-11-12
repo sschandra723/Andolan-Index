@@ -1,0 +1,74 @@
+{
+  "id": "dc8eefef5b",
+  "url": "https://nenow.in/north-east-news/manipur/manipur-cotu-announces-sit-in-protests-across-kangpokpi-from-november-12.html",
+  "title": "Manipur: CoTU announces sit-in protests across Kangpokpi from November 12",
+  "outlet": "Northeast Now",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": "manipur-protests-2026",
+  "score": 3.0,
+  "matched": [
+    "Manipur",
+    "Imphal",
+    "Kangpokpi"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1317,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "CoTU in Kangpokpi district announced sit-in protests starting November 12, 2026, protesting government's failure to address abduction and killing of two Kuki civilians from Taphou Kuki village.",
+    "facts": [
+      {
+        "claim": "CoTU announced sit-in protests across Kangpokpi district starting November 12, 2026",
+        "quote": "The Committee on Tribal Unity (CoTU), Sadar Hills, Kangpokpi district, has announced a series of peaceful sit-in demonstrations across the district from November 12, 2026, protesting what it described as the Manipur government’s failure to act on its Charter of Demands."
+      },
+      {
+        "claim": "Protests will begin in Saikul before moving to Saparmaina and Kangpokpi District Headquarters",
+        "quote": "According to a press communique issued by the committee, the protests will begin in Saikul before moving to Saparmaina and the Kangpokpi District Headquarters."
+      },
+      {
+        "claim": "Protests follow alleged government failure to address abduction and killing of two Kuki civilians from Taphou Kuki village",
+        "quote": "The proposed agitation follows the government’s alleged failure to address the abduction and killing of two Kuki civilians from Taphou Kuki village."
+      },
+      {
+        "claim": "CoTU submitted Charter of Demands seeking justice and gave authorities seven days to resolve",
+        "quote": "CoTU said it had earlier submitted a Charter of Demands seeking justice and provided the authorities with seven days to come up with a concrete resolution."
+      },
+      {
+        "claim": "Government failed to make meaningful progress on the issue",
+        "quote": "However, the committee alleged that the administration had remained silent and failed to make any meaningful progress."
+      },
+      {
+        "claim": "Lack of action weakened public confidence in government's commitment to justice, security and governance",
+        "quote": "It said the lack of action had weakened public confidence in the government’s commitment to ensuring justice, security and good governance."
+      },
+      {
+        "claim": "CoTU warned of intensifying protests if government fails to act within timeframe",
+        "quote": "The committee also warned that it might intensify its democratic agitation if the government failed to take satisfactory action within the stipulated timeframe."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CoTU in Kangpokpi district announced sit-in protests starting November 12, 2026, protesting government's failure to address abduction and killing of two Kuki civilians from Taphou Kuki village.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

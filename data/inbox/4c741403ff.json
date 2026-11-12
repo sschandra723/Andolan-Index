@@ -1,0 +1,53 @@
+{
+  "id": "4c741403ff",
+  "url": "https://www.thehindu.com/news/national/arunachal-pradesh/why-the-siang-upper-multipurpose-project-has-been-contentious-explained/article71692608.ece",
+  "title": "Why the Siang Upper Multipurpose Project has been contentious | Explained",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": "siang-dam-protests",
+  "score": 2.0,
+  "matched": [
+    "Siang",
+    "Siang Upper Multipurpose"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 478,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "Protesters in Arunachal Pradesh rejected the state government's offer of talks on the Siang Upper Multipurpose Project after activists were arrested or detained since October.",
+    "facts": [
+      {
+        "claim": "Protesters in Arunachal Pradesh rejected the state government's offer of talks on the Siang Upper Multipurpose Project",
+        "quote": "Protesting groups rejected the Arunachal government's offer of talks on November 5."
+      },
+      {
+        "claim": "activists were arrested or detained since October",
+        "quote": "activists have been arrested or detained since October."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Siang Upper Multipurpose Project is a proposed dam on the Siang river in Arunachal Pradesh, which has been a source of contention for the Adi community and activists since October 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 60,
+    "importance_reason": "4 outlets in the last 48 hours; coverage up from 2 to 7 reports this week."
+  }
+}

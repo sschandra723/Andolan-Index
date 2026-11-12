@@ -1,0 +1,58 @@
+{
+  "id": "547b787902",
+  "url": "https://www.greaterkashmir.com/sports/saff-championships-india-enter-semifinals-with-1-0-win-over-maldives-12802250",
+  "title": "SAFF Championships: India enter semifinals with 1-0 win over Maldives",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 693,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "India defeated Maldives 1-0 in a SAFF Championships group match to advance to the semifinals, with Suhail Ahmad Bhat scoring the only goal via penalty in the 38th minute.",
+    "facts": [
+      {
+        "claim": "India beat Maldives 1–0 to enter the semifinals of the South Asian Football Federation (SAFF) Championships",
+        "quote": "A dominant India beat Maldives 1–0 to enter the semifinals of the South Asian Football Federation (SAFF) Championships, following a first half strike by Suhail Ahmad Bhat in their Group B match here on Wednesday."
+      },
+      {
+        "claim": "Suhail Ahmad Bhat scored the only goal via penalty in the 38th minute",
+        "quote": "Suhail Ahmad put India ahead with a 38th-minute penalty after Abdul Rabeeh was fouled in the box."
+      },
+      {
+        "claim": "India needed a draw or win to guarantee a spot in the semifinals and top Group B",
+        "quote": "Heading into this game, India needed a draw or win to guarantee a spot in the semifinals and top Group B."
+      },
+      {
+        "claim": "Pakistan has already qualified from the group with 3 points and a +2 goal difference after defeating Maldives 3-0",
+        "quote": "Pakistan has already qualified from the group with 3 points and a +2 goal difference after defeating Maldives 3-0."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

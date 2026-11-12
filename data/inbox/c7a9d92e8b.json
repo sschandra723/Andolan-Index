@@ -1,0 +1,86 @@
+{
+  "id": "c7a9d92e8b",
+  "url": "https://www.greaterkashmir.com/jammu/reinforcements-rushed-as-search-for-missing-spos-intensified-in-j-ks-kishtwar-12802419",
+  "title": "Reinforcements rushed as search for missing SPOs intensified in J-K's Kishtwar",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2389,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Security forces intensified search for two missing Special Police Officers in Jammu and Kashmir's Kishtwar district after they went missing while traveling from camp to an Army post.",
+    "facts": [
+      {
+        "claim": "Security forces have rushed reinforcement and widened the search for two missing Special Police Officers (SPOs) across the forested upper reaches of Dachhan in Jammu and Kashmir's Kishtwar district for the second consecutive day on Thursday",
+        "quote": "Security forces have rushed reinforcement and widened the search for two missing Special Police Officers (SPOs) across the forested upper reaches of Dachhan in Jammu and Kashmir's Kishtwar district for the second consecutive day on Thursday"
+      },
+      {
+        "claim": "Specialised teams equipped with drones and sniffer dogs have been deployed across the forested stretches and difficult mountainous terrain",
+        "quote": "Specialised teams equipped with drones and sniffer dogs have been deployed across the forested stretches and difficult mountainous terrain"
+      },
+      {
+        "claim": "Babi Chand, 57, and Rashpal Kumar, 45, both posted with the Special Operations Group (SOG) of the local police at Kiyar village in Dachhan, went missing on Wednesday while travelling from their camp to an Army post at Dharna-Marwah",
+        "quote": "Babi Chand, 57, and Rashpal Kumar, 45, both posted with the Special Operations Group (SOG) of the local police at Kiyar village in Dachhan, went missing on Wednesday while travelling from their camp to an Army post at Dharna-Marwah"
+      },
+      {
+        "claim": "Their mobile phones were initially reachable but were later switched off, raising concerns among security agencies and prompting to launch an extensive search operation",
+        "quote": "Their mobile phones were initially reachable but were later switched off, raising concerns among security agencies and prompting to launch an extensive search operation"
+      },
+      {
+        "claim": "Additional police and Army personnel have been deployed to intensify the search, with multiple teams fanning out across the vast forested stretches and difficult mountainous terrain",
+        "quote": "Additional police and Army personnel have been deployed to intensify the search, with multiple teams fanning out across the vast forested stretches and difficult mountainous terrain"
+      },
+      {
+        "claim": "They said the operation has been expanded to cover a wider area around Kiyar and the route towards Dharna-Marwah. Drones are being pressed into service to scan inaccessible forest stretches and rugged terrain, while sniffer dogs are assisting ground teams in tracking possible movement",
+        "quote": "They said the operation has been expanded to cover a wider area around Kiyar and the route towards Dharna-Marwah. Drones are being pressed into service to scan inaccessible forest stretches and rugged terrain, while sniffer dogs are assisting ground teams in tracking possible movement"
+      },
+      {
+        "claim": "The search parties are combing dense forests, natural trails and remote pockets to establish the whereabouts of the missing personnel",
+        "quote": "The search parties are combing dense forests, natural trails and remote pockets to establish the whereabouts of the missing personnel"
+      },
+      {
+        "claim": "They said all possible angles were being examined to ascertain the circumstances surrounding their disappearance. However, they cautioned against linking the incident to militant activity at this stage, saying it would be premature to draw any conclusion until the facts emerge",
+        "quote": "They said all possible angles were being examined to ascertain the circumstances surrounding their disappearance. However, they cautioned against linking the incident to militant activity at this stage, saying it would be premature to draw any conclusion until the facts emerge"
+      },
+      {
+        "claim": "Kishtwar has remained a focus of counter-insurgency operations, with security forces continuing efforts to eliminate the remaining terrorist presence in its remote and forested areas",
+        "quote": "Kishtwar has remained a focus of counter-insurgency operations, with security forces continuing efforts to eliminate the remaining terrorist presence in its remote and forested areas"
+      },
+      {
+        "claim": "Successive counter-insurgency operations have resulted in the killing of several active terrorists, significantly weakening their presence in the district",
+        "quote": "Successive counter-insurgency operations have resulted in the killing of several active terrorists, significantly weakening their presence in the district"
+      },
+      {
+        "claim": "According to the figures available, five people, including four terrorists and one Army soldier, were killed in terror-related incidents in 2026. In 2025, the toll stood at four, comprising three terrorists and one Army soldier. In 2024, three security personnel and two civilians lost their lives",
+        "quote": "According to the figures available, five people, including four terrorists and one Army soldier, were killed in terror-related incidents in 2026. In 2025, the toll stood at four, comprising three terrorists and one Army soldier. In 2024, three security personnel and two civilians lost their lives"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Security forces are intensifying search for two missing SPOs in Kishtwar district amid ongoing counter-insurgency operations.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "11/11",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

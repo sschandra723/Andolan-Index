@@ -1,0 +1,74 @@
+{
+  "id": "8b6b2184a3",
+  "url": "https://www.thehindu.com/news/national/kerala/lpst-rankholders-resume-stir-in-front-of-keralam-secretariat-after-police-remove-protesters-on-hunger-strike/article71692697.ece",
+  "title": "LPST rankholders resume stir in front of Keralam Secretariat after police remove protesters on hunger strike",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "hunger strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4937,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "The All Kerala Lower Primary School Teachers (LPST) Rankholders’ Association resumed a hunger strike after police removed protesters on Wednesday night, demanding immediate appointments from the Kerala Public Service Commission rank list, reduced teacher-student ratios, and changes to recruitment systems.",
+    "facts": [
+      {
+        "claim": "The All Kerala Lower Primary School Teachers (LPST) Rankholders’ Association is on the 130th day of its agitation",
+        "quote": "Dramatic scenes unfolded in front of the Secretariat on Thursday noon, where the All Kerala Lower Primary School Teachers (LPST) Rankholders’ Association is on the 130th day of its agitation, with S. Valarmathi, the association secretary, returning to resume her fast-unto-death protest after being forcibly removed from the protest site by the police on Wednesday night citing her deteriorating health."
+      },
+      {
+        "claim": "S. Valarmathi, the association secretary, returned to resume her fast-unto-death protest after being forcibly removed by police",
+        "quote": "Dramatic scenes unfolded in front of the Secretariat on Thursday noon, where the All Kerala Lower Primary School Teachers (LPST) Rankholders’ Association is on the 130th day of its agitation, with S. Valarmathi, the association secretary, returning to resume her fast-unto-death protest after being forcibly removed from the protest site by the police on Wednesday night citing her deteriorating health."
+      },
+      {
+        "claim": "The police forcibly removed Ms. Valarmathi and dismantled the protesters’ shed and flex boards",
+        "quote": "The protest reached a flashpoint on Wednesday night when the Cantonment police forcibly removed Ms. Valarmathi and dismantled the protesters’ shed and flex boards."
+      },
+      {
+        "claim": "Ms. Valarmathi, who was on the 16th day of her fast-unto-death when the police shifted her to the General Hospital, said she would not give up until the government met their demands",
+        "quote": "Ms. Valarmathi, who was on the 16th day of her fast-unto-death when the police shifted her to the General Hospital, told reporters on Thursday that she would not give up until the government met their demands."
+      },
+      {
+        "claim": "The LPST rankholders began their protest over the delay in appointing candidates from the Kerala Public Service Commission (PSC) rank list to lower primary school teacher (LPST) posts",
+        "quote": "The LPST rankholders began their protest over the delay in appointing candidates from the Kerala Public Service Commission (PSC) rank list to lower primary school teacher (LPST) posts, along with demands for changes to the teacher-recruitment system and the teacher-student ratio."
+      },
+      {
+        "claim": "The rank list came into effect in all 14 districts on May 31, 2025. The list reportedly has around 11,758 candidates, but fewer than 500 appointments had been made by August",
+        "quote": "The LPST rank list came into effect in all 14 districts on May 31, 2025. The list reportedly has around 11,758 candidates, but fewer than 500 appointments had been made by August, according to reports."
+      },
+      {
+        "claim": "The LPST rankholders are demanding immediate appointment orders from the PSC list, a reduction in the teacher-student ratio from 1:30 to 1:25, timely reporting of vacancies and recruitment to head teacher posts",
+        "quote": "The LPST rankholders are demanding immediate appointment orders from the PSC list, a reduction in the teacher-student ratio from 1:30 to 1:25, timely reporting of vacancies and recruitment to head teacher posts."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The LPST rankholders have been protesting for over a year, initially demanding appointment orders but now expanding to broader recruitment system changes and teacher-student ratio reductions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/7",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The LPST rankholders are demanding immediate appointment orders from the PSC lis”"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

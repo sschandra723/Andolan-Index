@@ -1,0 +1,46 @@
+{
+  "id": "c739da290d",
+  "url": "https://www.deccanherald.com/india/karnataka/bengaluru/members-from-various-groups-to-protest-in-bengaluru-on-nov-12-seeking-fulfilment-of-poll-promises-4215182",
+  "title": "Members from various groups to protest in Bengaluru on Nov 12 seeking fulfilment of poll promises",
+  "outlet": "Deccan Herald",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 277,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Various groups plan a peaceful protest in Bengaluru on November 12 demanding fulfillment of election promises.",
+    "facts": [
+      {
+        "claim": "Members from various groups to protest in Bengaluru on Nov 12 seeking fulfilment of poll promises",
+        "quote": "Members from various groups to protest in Bengaluru on Nov 12 seeking fulfilment of poll promises"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "1/1",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

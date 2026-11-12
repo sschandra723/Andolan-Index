@@ -1,0 +1,50 @@
+{
+  "id": "b63eb94b04",
+  "url": "https://www.outlookindia.com/national/congress-will-continue-agitation-until-cec-gyanesh-kumar-is-removed-says-kc-venugopal",
+  "title": "Congress Will Continue Agitation Until CEC Gyanesh Kumar Is Removed, Says KC Venugopal",
+  "outlet": "Outlook India",
+  "published": "2026-11-09",
+  "collected": "2026-11-12",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "Gyanesh Kumar",
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 503: Service Unavailable",
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "mgnrega-bachao-2026",
+    "new_movement": null,
+    "summary": "Congress and trade unions have campaigned for the repeal of the VB-G RAM G Act, which replaced MGNREGA in December 2025, as the old law was set to end on 1 July 2026.",
+    "facts": [
+      {
+        "claim": "Congress and trade unions campaigned for the repeal of the VB-G RAM G Act",
+        "quote": "Congress and trade unions campaigned for its repeal; the old law was set to end on 1 July 2026."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The VB-G RAM G Act replaced MGNREGA in December 2025, with the old law set to expire on 1 July 2026.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

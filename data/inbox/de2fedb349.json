@@ -1,0 +1,54 @@
+{
+  "id": "de2fedb349",
+  "url": "https://www.nationalheraldindia.com/national/national-students-union-of-india-stages-protest-against-rising-pollution-in-delhi",
+  "title": "NSUI stages protest against rising pollution in Delhi",
+  "outlet": "National Herald",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1684,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "The National Students' Union of India staged a protest in Delhi demanding action on rising air pollution, with students wearing oxygen masks and carrying placards for clean air.",
+    "facts": [
+      {
+        "claim": "NSUI staged a protest in Delhi, demanding urgent government action to tackle rising air pollution and protect public health",
+        "quote": "NSUI staged a protest in Delhi, demanding urgent government action to tackle rising air pollution and protect public health"
+      },
+      {
+        "claim": "Led by national president Vinod Jakhar, students wore oxygen masks and carried placards demanding clean air",
+        "quote": "Led by national president Vinod Jakhar, students wore oxygen masks and carried placards demanding clean air"
+      },
+      {
+        "claim": "Delhi's AQI stood at 330 in the 'very poor' category on Thursday, with pollution expected to worsen",
+        "quote": "At 1 pm on Thursday, the national capital's average Air Quality Index (AQI) stood at 330, placing it in the 'very poor' category. Forecasts indicate that pollution levels could worsen further in the coming days, raising concerns over the health risks faced by residents."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest is part of ongoing efforts to address Delhi's air pollution crisis, which has been a recurring issue with severe health impacts.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

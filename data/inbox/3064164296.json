@@ -1,0 +1,58 @@
+{
+  "id": "3064164296",
+  "url": "https://theshillongtimes.com/2026/11/11/meghalaya-teachers-begin-indefinite-strike-over-unmet-demands/",
+  "title": "Meghalaya: Teachers begin indefinite strike over ‘unmet’ demands",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": "meghalaya-deficit-teachers-2026",
+  "score": 3.0,
+  "matched": [
+    "deficit school",
+    "Khasi Jaintia Deficit",
+    "=KJDSTA"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2390,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "Meghalaya teachers began an indefinite strike rejecting the government's latest communication as a 'refurbished' version of an earlier letter that failed to address their key demands, including unmet DA and arrears payments and changes to the Centralised Provident Fund scheme.",
+    "facts": [
+      {
+        "claim": "Khasi Jaintia Deficit School Teachers Association (KJDSTA) began an indefinite strike",
+        "quote": "The Khasi Jaintia Deficit School Teachers Association (KJDSTA) on Wednesday began an indefinite strike, rejecting the Meghalaya Education Department’s latest communication as a \"refurbished\" version of an earlier letter that failed to address its key demands."
+      },
+      {
+        "claim": "The government maintained that DA and arrears were 'under process' without specifying a timeline",
+        "quote": "He said the government had again maintained that the release of Dearness Allowance (DA) and pending arrears was \"under process\", without specifying a timeline."
+      },
+      {
+        "claim": "The association opposed proposed changes to the Centralised Provident Fund arrangement",
+        "quote": "The association also strongly opposed the government’s proposed changes to the Centralised Provident Fund (CPF) arrangement, alleging that the move would undermine the 2023 scheme agreed upon by the government and teachers."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Meghalaya teachers in deficit schools have been protesting over unmet demands for wages and benefits since the state government's Centralised Fund Scheme 2026 was implemented.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

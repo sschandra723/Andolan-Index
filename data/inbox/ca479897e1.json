@@ -1,0 +1,54 @@
+{
+  "id": "ca479897e1",
+  "url": "https://www.livelaw.in/top-stories/right-to-protest-cannot-be-abolished-for-students-peaceful-dharna-is-not-grammar-of-anarchy-ex-hc-judge-k-babu-558155",
+  "title": "“Expulsion should never be the price of a peaceful protest,” he said.",
+  "outlet": "LiveLaw",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Former Kerala High Court Judge Justice K Babu stated that peaceful student protests are integral to constitutional democracy, not the 'grammar of anarchy', emphasizing the right to protest cannot be abolished for students.",
+    "facts": [
+      {
+        "claim": "peaceful dharna is not the grammar of anarchy",
+        "quote": "A peaceful dharna is not the grammar of anarchy. It is the grammar of Article 19,"
+      },
+      {
+        "claim": "students must have the right to protest peacefully",
+        "quote": "With the deepest respect, I wish to submit why I believe that students must have the right to protest peacefully if our democracy is to remain fruitful,"
+      },
+      {
+        "claim": "the right to peaceful protest cannot be abolished",
+        "quote": "The right itself cannot be abolished, and certainly not for an entire class of citizens because they happen to be students,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Former Kerala High Court Judge Justice K Babu argued that peaceful student protests are constitutional and necessary for democracy, countering a Kerala High Court observation that political activities like dharna have no place in academic institutions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

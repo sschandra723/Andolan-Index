@@ -1,0 +1,54 @@
+{
+  "id": "6707db2594",
+  "url": "https://timesofindia.indiatimes.com/india/sad-day-for-democracy-bombay-hc-warns-against-criminalising-constitutional-right-to-protest/articleshow/135764160.cms",
+  "title": "'Sad day for democracy': Bombay HC warns against criminalising constitutional right to protest",
+  "outlet": "Times of India",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1139,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Bombay High Court quashed criminal charges against a protest participant over poor road conditions in Maharashtra, stating criminal prosecutions should not stifle peaceful agitations as it would be a 'sad day for democracy'.",
+    "facts": [
+      {
+        "claim": "Bombay High Court quashed an FIR and chargesheet against a man booked for participating in a protest over poor road conditions in Maharashtra's Chandrapur district",
+        "quote": "The Bombay high court has quashed an FIR and chargesheet against a man booked for participating in a protest over poor road conditions in Maharashtra's Chandrapur district"
+      },
+      {
+        "claim": "The court observed that it would be a 'sad day for democracy' if criminal prosecutions were used to suppress peaceful agitations",
+        "quote": "observing that it would be a \"sad day for democracy\" if criminal prosecutions were used to suppress peaceful agitations"
+      },
+      {
+        "claim": "The court said people have a constitutional right to protest as long as they do not resort to violence, take the law into their own hands or damage public or private property",
+        "quote": "The court said people have a constitutional right to protest as long as they do not resort to violence, take the law into their own hands or damage public or private property."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Bombay High Court ruled that criminal prosecutions should not be used to suppress peaceful protests, emphasizing constitutional rights to protest without violence.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

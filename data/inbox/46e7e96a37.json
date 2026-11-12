@@ -1,0 +1,64 @@
+{
+  "id": "46e7e96a37",
+  "url": "https://www.thehindu.com/news/national/karnataka/mla-farmers-protest-centres-failure-to-release-drought-relief-in-karnataka/article71690011.ece",
+  "title": "MLA, farmers protest Centre’s ‘failure to release drought relief’ in Karnataka",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2310,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka farmers protest Centre's failure to release drought relief funds after state demanded ₹22,400.58 crore under NDRF, citing crop losses across 57.93 lakh hectares.",
+    "facts": [
+      {
+        "claim": "Karnataka state faced one of its worst droughts in recent history",
+        "quote": "Mr Patil said the State was facing one of its worst droughts in recent history"
+      },
+      {
+        "claim": "226 taluks declared drought-hit",
+        "quote": "with 226 taluks declared drought-hit following a severe deficit in southwest monsoon rainfall in 2026"
+      },
+      {
+        "claim": "Crop loss reported across 57.93 lakh hectares",
+        "quote": "Crop loss had been reported across 57.93 lakh hectares, including 53.92 lakh hectares of crops and 4.01 lakh hectares of horticultural crops"
+      },
+      {
+        "claim": "State sought ₹20,585.73 crore in assistance under NDRF",
+        "quote": "the government of Karnataka had sought ₹20,585.73 crore in assistance under the National Disaster Response Fund (NDRF)"
+      },
+      {
+        "claim": "State revised demand to ₹22,400.58 crore after Union Government revised relief norms",
+        "quote": "Following the revision of relief norms by the Union Government, the State had revised its demand to ₹22,400.58 crore"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka farmers demanded ₹22,400.58 crore in drought relief funds from Centre after state reported crop losses across 57.93 lakh hectares.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 45,
+    "importance_reason": "6 outlets in the last 48 hours; coverage up from 0 to 1 reports this week."
+  }
+}

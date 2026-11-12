@@ -1,0 +1,70 @@
+{
+  "id": "77a755d84d",
+  "url": "https://www.greaterkashmir.com/jammu-kashmir/bullet-riddled-bodies-of-two-missing-spos-recovered-in-kishtwar-weapons-missing-12802532",
+  "title": "Bullet-riddled bodies of two missing SPOs recovered in Kishtwar, weapons missing",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 962,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Officials in Kishtwar district recovered bullet-riddled bodies of two missing Special Police Officers (SPOs), SPO Rashpal Kumar and SPO Bobby Chand, who went missing on November 10 after failing to report for duty at army Camp Dharna.",
+    "facts": [
+      {
+        "claim": "The bullet-riddled bodies of two Special Police Officers (SPOs) who had gone missing in Kishtwar district have been recovered",
+        "quote": "The bullet-riddled bodies of two Special Police Officers (SPOs) who had gone missing in Kishtwar district have been recovered, officials said on Thursday."
+      },
+      {
+        "claim": "SPO Rashpal Kumar, Belt No. 65, Age 45 years and SPO Bobby Chand, Belt No. 920, Age 57 years",
+        "quote": "Officials said that the deceased have been identified as SPO Rashpal Kumar, Belt No. 65, Age 45 years and SPO Bobby Chand, Belt No. 920, Age 57 years."
+      },
+      {
+        "claim": "Both were residents of Kiyar Dachhan and were posted with SOG Kiyar Sector Dachhan, District Kishtwar",
+        "quote": "Both were residents of Kiyar Dachhan and were posted with SOG Kiyar Sector Dachhan, District Kishtwar."
+      },
+      {
+        "claim": "The duo had gone untraceable on November 10 after they were detailed for rotation duty at army Camp Dharna, Sector Marwah. They had failed to report to the said TOB for duty.",
+        "quote": "The duo had gone untraceable on November 10 after they were detailed for rotation duty at army Camp Dharna, Sector Marwah. They had failed to report to the said TOB for duty."
+      },
+      {
+        "claim": "Their bodies, bearing bullet injuries, were recovered from the forest area in Dachhan sector.",
+        "quote": "Their bodies, bearing bullet injuries, were recovered from the forest area in Dachhan sector."
+      },
+      {
+        "claim": "Their service weapons were not found at the spot.",
+        "quote": "Their service weapons were not found at the spot."
+      },
+      {
+        "claim": "A massive search and cordon operation had been launched after they went missing. Security forces have now intensified the operation in the area to trace the attackers.",
+        "quote": "A massive search and cordon operation had been launched after they went missing. Security forces have now intensified the operation in the area to trace the attackers."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Two SPOs went missing in Kishtwar district on November 10 after failing to report for duty at army Camp Dharna, Sector Marwah, and their bullet-riddled bodies were recovered on November 12.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

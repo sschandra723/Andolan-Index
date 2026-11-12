@@ -1,0 +1,82 @@
+{
+  "id": "17a769169d",
+  "url": "https://www.indiatoday.in/india/story/ladakh-police-remove-wangchuk-from-protest-site-advise-him-to-stay-home-amid-election-curbs-3037075-2026-11-12",
+  "title": "Ladakh Police remove Sonam Wangchuk from protest site amid election curbs",
+  "outlet": "India Today",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Ladakh",
+    "Sonam Wangchuk"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3049,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh police removed climate activist Sonam Wangchuk from his protest site in Leh under election-related prohibitory orders, as he appealed to national leaders to intervene over slow judicial inquiry and concerns about winter polling.",
+    "facts": [
+      {
+        "claim": "Ladakh Police removed Sonam Wangchuk from his Leh protest site under election-related prohibitory orders",
+        "quote": "Ladakh Police removed Sonam Wangchuk from his Leh protest site under election-related prohibitory orders"
+      },
+      {
+        "claim": "Police said the preventive action was taken in compliance with orders issued by the Chief Electoral Officer of the Union Territory of Ladakh and the District Magistrate, Leh",
+        "quote": "the police said the preventive action was taken in compliance with orders issued by the Chief Electoral Officer of the Union Territory of Ladakh and the District Magistrate, Leh"
+      },
+      {
+        "claim": "Wangchuk posted a video message on X appealing to President Droupadi Murmu, Prime Minister Narendra Modi, Home Minister Amit Shah, Leader of Opposition Rahul Gandhi and the people of India to intervene",
+        "quote": "Following the police action, Wangchuk posted a video message on X, appealing to President Droupadi Murmu, Prime Minister Narendra Modi, Home Minister Amit Shah, Leader of Opposition Rahul Gandhi and the people of India to intervene in the situation in Ladakh"
+      },
+      {
+        "claim": "Wangchuk alleged that the judicial inquiry into the September 24 incidents in Leh was progressing slowly, more than a year after the events",
+        "quote": "Wangchuk alleged that the judicial inquiry into the September 24 incidents in Leh was progressing slowly, more than a year after the events"
+      },
+      {
+        "claim": "Wangchuk claimed that talks on restoring democracy in the Union Territory had broken down",
+        "quote": "Wangchuk claimed that talks on restoring democracy in the Union Territory had broken down"
+      },
+      {
+        "claim": "Wangchuk questioned the timing and conduct of the upcoming council elections",
+        "quote": "Questioning the timing and conduct of the upcoming council elections, Wangchuk alleged that the administration was pushing ahead with the polls to install people of its choice to negotiate on issues concerning democracy and safeguards for Ladakh"
+      },
+      {
+        "claim": "Wangchuk raised concerns over the proposed election schedule, pointing out that December and January are the coldest and snowiest months in the region, with temperatures falling below minus 30 degrees Celsius in several places",
+        "quote": "Wangchuk raised concerns over the proposed election schedule, pointing out that December and January are the coldest and snowiest months in the region, with temperatures falling below minus 30 degrees Celsius in several places"
+      },
+      {
+        "claim": "Wangchuk said nearly half the population migrates out of Ladakh during this period for education, holidays and pilgrimage",
+        "quote": "He claimed that nearly half the population migrates out of Ladakh during this period for education, holidays and pilgrimage"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh police removed climate activist Sonam Wangchuk from his protest site in Leh under election-related prohibitory orders, as he appealed to national leaders to intervene over slow judicial inquiry and concerns about winter polling.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Wangchuk claimed that talks on restoring democracy in the Union Territory had br”",
+        "quote not in article: “Wangchuk raised concerns over the proposed election schedule, pointing out that ”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

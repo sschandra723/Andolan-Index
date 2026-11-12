@@ -1,0 +1,60 @@
+{
+  "id": "f8ae7cdbdd",
+  "url": "https://www.greaterkashmir.com/kashmir/lg-proposes-veshow-archive-to-preserve-kashmirs-cultural-heritage-12802229",
+  "title": "LG proposes Veshow Archive to preserve Kashmir’s cultural heritage",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3470,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Lieutenant Governor Manoj Sinha proposed a Veshow Archive to preserve Kashmir's oral history and cultural heritage, alongside mobile libraries and writers' residencies, during the Veshow Festival inauguration in Kulgam.",
+    "facts": [
+      {
+        "claim": "proposed setting up a Veshow Archive to preserve Kashmir’s oral history, folk tales and poetry",
+        "quote": "Lieutenant Governor (LG) Manoj Sinha on Wednesday proposed setting up a Veshow Archive to preserve Kashmir’s oral history, folk tales and poetry"
+      },
+      {
+        "claim": "establishing mobile libraries and writers’ residencies to take the region’s literary heritage to a wider audience",
+        "quote": "establishing mobile libraries and writers’ residencies to take the region’s literary heritage to a wider audience"
+      },
+      {
+        "claim": "the festival has evolved into a platform for literary exchange, creativity and cultural dialogue",
+        "quote": "Launched in 2023, the festival has evolved into a platform for literary exchange, creativity and cultural dialogue"
+      },
+      {
+        "claim": "the festival celebrates the region’s literary and cultural heritage",
+        "quote": "Named after the Veshow Stream, a major tributary of the Jhelum, the festival celebrates the region’s literary and cultural heritage"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Veshow Festival, launched in 2023, has been used to promote Kashmir's cultural heritage through literary exchanges and creative dialogues, with the LG proposing new initiatives to expand its impact.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Lieutenant Governor Manoj Sinha” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

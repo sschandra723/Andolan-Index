@@ -1,0 +1,60 @@
+{
+  "id": "11c1a1d2e0",
+  "url": "https://www.thehindu.com/news/national/telangana/ktr-accuses-congress-bjp-of-neglecting-telangana-farmers-seeks-pending-rythu-bandhu-dues-drought-relief/article71690793.ece",
+  "title": "KTR accuses Congress, BJP of neglecting Telangana farmers’, seeks pending Rythu Bandhu dues, drought relief",
+  "outlet": "The Hindu",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2386,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "BRS leader KTR accused Congress and BJP of neglecting Telangana farmers amid drought, demanding release of pending Rythu Bandhu dues and drought relief.",
+    "facts": [
+      {
+        "claim": "BRS working president K.T. Rama Rao accused the Congress government in Telangana and the BJP-led Central government of neglecting distressed farmers and failing to provide relief amid drought conditions in the State.",
+        "quote": "BRS working president K.T. Rama Rao accused the Congress government in Telangana and the BJP-led Central government of neglecting distressed farmers and failing to provide relief amid drought conditions in the State."
+      },
+      {
+        "claim": "He accused the government of deliberately neglecting major irrigation projects. Though the Palamuru-Ranga Reddy Lift Irrigation Project was nearly 90% complete, it had been stalled, while the Kaleshwaram Lift Irrigation Project (KLIP) was also being neglected, he alleged.",
+        "quote": "He accused the government of deliberately neglecting major irrigation projects. Though the Palamuru-Ranga Reddy Lift Irrigation Project was nearly 90% complete, it had been stalled, while the Kaleshwaram Lift Irrigation Project (KLIP) was also being neglected, he alleged."
+      },
+      {
+        "claim": "He demanded that the State government immediately release all four pending instalments of Rythu Bandhu.",
+        "quote": "He demanded that the State government immediately release all four pending instalments of Rythu Bandhu."
+      },
+      {
+        "claim": "He also sought monthly financial assistance of ₹1,000 for 36 months, amounting to ₹36,000, for every agricultural labourer who had lost livelihood due to drought.",
+        "quote": "He also sought monthly financial assistance of ₹1,000 for 36 months, amounting to ₹36,000, for every agricultural labourer who had lost livelihood due to drought."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "KTR is demanding immediate release of pending Rythu Bandhu dues and drought relief for Telangana farmers amid drought conditions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

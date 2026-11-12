@@ -1,0 +1,56 @@
+{
+  "id": "bdcb9c98ea",
+  "url": "https://www.greaterkashmir.com/national/ethanol-blending-in-petrol-shivakumar-hits-out-at-centre-claims-damage-to-vehicles-12802306",
+  "title": "Ethanol blending in petrol: Shivakumar hits out at Centre, claims damage to vehicles",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 851,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka Chief Minister Shivakumar accused the Centre of causing vehicle damage and reduced mileage due to ethanol blending in petrol, urging BJP to address the issue.",
+    "facts": [
+      {
+        "claim": "Karnataka Chief Minister D K Shivakumar questioned the Centre’s accountability over problems from ethanol blending in petrol",
+        "quote": "Karnataka Chief Minister D K Shivakumar on Wednesday questioned the Centre’s accountability over the problems arising from ethanol blending in petrol, claiming that vehicles across the country were suffering reduced mileage and engine damage."
+      },
+      {
+        "claim": "Shivakumar said vehicles were suffering reduced mileage and engine damage due to ethanol blending",
+        "quote": "Mileage has come down. Vehicles are getting damaged, Engines are suffering damage, and vehicles are stopping midway."
+      },
+      {
+        "claim": "Shivakumar urged BJP to raise concerns over ethanol blending's impact on vehicles",
+        "quote": "Let the BJP protest against price rise; it’s politics. But when petrol and diesel prices increased, ethanol was mixed in vehicles, with the blending going beyond 20 per cent to 30 per cent."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "name “Karnataka Chief Minister Shivakumar” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 45,
+    "importance_reason": "5 outlets in the last 48 hours; coverage up from 0 to 1 reports this week."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "392ae3f60f",
+  "url": "https://www.hindustantimes.com/cities/mumbai-news/6-months-after-man-s-murder-brother-shot-dead-in-kurla-101794424215200.html",
+  "title": "6 months after man’s murder, brother shot dead in Kurla",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1576,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Pawar family staged a protest in front of the Vinoba Bhave Nagar police station demanding a speedy investigation and arrest of suspects linked to their brother's murder six months earlier.",
+    "facts": [
+      {
+        "claim": "The Pawar family staged a protest in front of the Vinoba Bhave Nagar police station",
+        "quote": "Members of the deceased’s family staged a protest in front of the Vinoba Bhave Nagar police station, demanding a speedy probe and arrest of the accused"
+      },
+      {
+        "claim": "The protest was demanding a speedy investigation and arrest of suspects",
+        "quote": "demanding a speedy probe and arrest of the accused"
+      },
+      {
+        "claim": "The deceased was shot dead six months after his brother was killed",
+        "quote": "A 40-year-old man was shot dead near the Halav bridge in Kurla on Wednesday, around six months after his brother was killed in a similar attack"
+      },
+      {
+        "claim": "The deceased worked as a labour contractor and moneylender",
+        "quote": "the deceased, Vinod Mallappa Pawar, worked as a labour contractor and moneylender"
+      },
+      {
+        "claim": "The deceased had three offences registered against him, including a murder case",
+        "quote": "he had three offences registered against him, including a murder case"
+      },
+      {
+        "claim": "The police suspect the two murders are linked to an old dispute between the Pawar family and their distant relatives",
+        "quote": "the police suspect the two murders are linked to an old dispute between the Pawar family and their distant relatives"
+      },
+      {
+        "claim": "The police have identified four suspects in Wednesday’s murder",
+        "quote": "The police have identified four suspects in Wednesday’s murder"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Pawar family has been involved in a series of murders linked to disputes with distant relatives, with the latest incident occurring six months after their brother's death.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

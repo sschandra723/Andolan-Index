@@ -1,0 +1,68 @@
+{
+  "id": "2b412ac1de",
+  "url": "https://www.thehindu.com/news/cities/Coimbatore/contract-sanitation-workers-in-coimbatore-halt-indefinite-protest-seeking-higher-wages-service-regularisation/article71690857.ece",
+  "title": "Contract sanitation workers in Coimbatore halt indefinite protest seeking higher wages, service regularisation",
+  "outlet": "The Hindu",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "sanitation workers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1066,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Contract sanitation workers in Coimbatore halted their indefinite protest after negotiations with officials, aiming to secure higher wages and job regularisation by January 2027.",
+    "facts": [
+      {
+        "claim": "Contract sanitation workers in Coimbatore halted their indefinite protest after negotiations with officials, aiming to secure higher wages and job regularisation by January 2027.",
+        "quote": "Accepting the assurance of time-bound action by authorities, contract sanitation workers in Coimbatore City Municipal Corporation on Wednesday (November 11) halted their indefinite protest that they started two days ago demanding job regularisation and payment of the minimum wages fixed by the District Collector."
+      },
+      {
+        "claim": "The workers had been demanding an increase in daily wages from ₹681 to a minimum of ₹798.",
+        "quote": "The workers, affiliated to various unions, had been demanding an increase in daily wages from ₹681 to a minimum of ₹798."
+      },
+      {
+        "claim": "They said they have deferred their protest, anticipating a solution to the issue before January 2027.",
+        "quote": "They said they have deferred their protest, anticipating a solution to the issue before January 2027."
+      },
+      {
+        "claim": "The withdrawal of the protest by 8,364 sanitation workers followed negotiations with senior officials lasting hours on Tuesday.",
+        "quote": "The withdrawal of the protest by 8,364 sanitation workers followed negotiations with senior officials lasting hours on Tuesday."
+      },
+      {
+        "claim": "Due to the protest, garbage to the extent of 1,000 to 1,100 tonnes generated a day got accumulated across 100 wards in the city.",
+        "quote": "Due to the protest, garbage to the extent of 1,000 to 1,100 tonnes generated a day got accumulated across 100 wards in the city."
+      },
+      {
+        "claim": "Representatives of the workers unions claimed that Corporation Commissioner Katta Ravi Teja assured to take steps for raising the minimum wages by January.",
+        "quote": "Representatives of the workers unions claimed that Corporation Commissioner Katta Ravi Teja assured to take steps for raising the minimum wages by January."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

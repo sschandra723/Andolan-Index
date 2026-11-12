@@ -1,0 +1,68 @@
+{
+  "id": "95d5957b20",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/anti-sterlite-protest-cm-orders-525-cr-additional-relief-to-victims/article71689687.ece",
+  "title": "Anti-Sterlite protests: CM orders ₹5.25-cr. additional relief to victims",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1226,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "tn-fishermen-arrests-2025",
+    "new_movement": null,
+    "summary": "Tamil Nadu Chief Minister ordered additional ₹5.25 crore relief for families affected by 2018 anti-Sterlite protests, where 13 died and 40 were grievously injured in police firing.",
+    "facts": [
+      {
+        "claim": "13 people lost their lives (in police firing)",
+        "quote": "13 people lost their lives (in police firing)"
+      },
+      {
+        "claim": "40 people sustained grievous injuries",
+        "quote": "40 people sustained grievous injuries"
+      },
+      {
+        "claim": "₹5.25 crore additional relief ordered",
+        "quote": "ordered disbursement of an additional ₹5.25 crore as relief to the families affected during the anti-Sterlite protest in Thoothukudi in 2018"
+      },
+      {
+        "claim": "Families had already received ₹25 lakh each for 13 deceased",
+        "quote": "Their families had already been provided relief of ₹25 lakh each for the 13 deceased"
+      },
+      {
+        "claim": "Families had already received ₹5 lakh each for 40 grievously injured",
+        "quote": "Their families had already been provided relief of ₹5 lakh each for the 40 grievously injured"
+      },
+      {
+        "claim": "Total compensation per grievously injured person is ₹10 lakh",
+        "quote": "The total compensation per person who was grievously injured amounts to ₹10 lakh"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The 2018 anti-Sterlite protest in Thoothukudi led to 13 deaths and 40 grievous injuries, prompting a compensation order from the Chief Minister.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Their families had already been provided relief of ₹5 lakh each for the 40 griev”"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

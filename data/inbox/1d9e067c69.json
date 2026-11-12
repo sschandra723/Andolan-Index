@@ -1,0 +1,47 @@
+{
+  "id": "1d9e067c69",
+  "url": "https://www.greaterkashmir.com/videos/smc-demolishes-food-cart-near-srinagars-clock-tower-after-shopkeepers-protest-12803650",
+  "title": "SMC demolishes food cart near Srinagar’s Clock Tower after shopkeepers’ protest",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Shopkeepers in Srinagar protested against a food cart being demolished by the SMC, leading to the demolition of the cart near the Clock Tower.",
+    "facts": [
+      {
+        "claim": "Shopkeepers in Srinagar protested against a food cart being demolished by the SMC",
+        "quote": "SMC demolishes food cart near Srinagar’s Clock Tower after shopkeepers’ protest"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

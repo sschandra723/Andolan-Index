@@ -1,0 +1,89 @@
+{
+  "id": "9c162608eb",
+  "url": "https://www.thehindu.com/news/national/ladakh/ladakh-elections-row-sonam-wangchuk-protest-police/article71692917.ece",
+  "title": "Ladakh elections row: Sonam Wangchuk removed from protest site, escorted to residence by Police",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Ladakh",
+    "Sonam Wangchuk"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2133,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh police removed climate activist Sonam Wangchuk from a protest site and escorted him to his residence, advising him to stay indoors, following election-related prohibitory orders.",
+    "facts": [
+      {
+        "claim": "Ladakh Police removed climate activist Sonam Wangchuk from the protest site and escorted him to his residence, advising him to remain indoors",
+        "quote": "Ladakh Police on Wednesday (November 11, 2026) removed climate activist Sonam Wangchuk from the protest site and escorted him to his residence, advising him to remain indoors, an official said."
+      },
+      {
+        "claim": "The action comes barely a few hours after Mr. Wangchuk, along with leaders of Leh Apex Body and Kargil Democratic Alliance (KDA), expressed resentment over the holding of hill council elections on December 4, citing harsh winter conditions and large-scale seasonal migration",
+        "quote": "The action comes barely a few hours after Mr. Wangchuk, along with leaders of Leh Apex Body and Kargil Democratic Alliance (KDA), expressed resentment over the holding of hill council elections on December 4, citing harsh winter conditions and large-scale seasonal migration."
+      },
+      {
+        "claim": "In a public intimation, the police said the preventive action against Mr. Wangchuk was taken in compliance with orders regulating public rallies, protests and other public gatherings within the limits of Leh Municipality amid the ongoing election exercise",
+        "quote": "In a public intimation, the police said the preventive action against Mr. Wangchuk was taken in compliance with orders regulating public rallies, protests and other public gatherings within the limits of Leh Municipality amid the ongoing election exercise."
+      },
+      {
+        "claim": "Sonam Wangchuk has been advised to stay at his residence in view of the prohibitory orders issued by the Chief Electoral Officer, UT Ladakh, and the District Magistrate, Leh",
+        "quote": "\"Sonam Wangchuk has been advised to stay at his residence in view of the prohibitory orders issued by the Chief Electoral Officer, UT Ladakh, and the District Magistrate, Leh,\" Ladakh Director General of Police, Anand Jain, said in a post on X."
+      },
+      {
+        "claim": "Before the elections to the eight Ladakh Autonomous Hill Development Councils (LAHDC), Ladakh is also going for Municipal and Panchayat elections on November 21",
+        "quote": "Before the elections to the eight Ladakh Autonomous Hill Development Councils (LAHDC), Ladakh is also going for Municipal and Panchayat elections on November 21."
+      },
+      {
+        "claim": "The LAB and KDA, which are spearheading an agitation in support of various demands including constitutional safeguards and statehood and engaged in dialogue with the Centre, appealed to the President of India, Prime Minister Narendra Modi, Leader of Opposition Rahul Gandhi, and Union Home Minister Amit Shah to help defer the LAHDC election",
+        "quote": "The LAB and KDA, which are spearheading an agitation in support of various demands including constitutional safeguards and statehood and engaged in dialogue with the Centre, appealed to the President of India, Prime Minister Narendra Modi, Leader of Opposition Rahul Gandhi, and Union Home Minister Amit Shah to help defer the LAHDC election."
+      },
+      {
+        "claim": "Later, Mr. Wangchuk on Wednesday led a protest in Leh to press for deferment of the LAHDC elections",
+        "quote": "Later, Mr. Wangchuk on Wednesday led a protest in Leh to press for deferment of the LAHDC elections."
+      },
+      {
+        "claim": "The police said the action against Mr. Wangchuk has been taken in exercise of the powers vested in the competent authority under the prevailing prohibitory orders, with the objective of preventing any potential breach of public order and maintaining peace and tranquillity",
+        "quote": "The police said the action against Mr. Wangchuk has been taken in exercise of the powers vested in the competent authority under the prevailing prohibitory orders, with the objective of preventing any potential breach of public order and maintaining peace and tranquillity."
+      },
+      {
+        "claim": "The general public is advised to strictly adhere to the prohibitory orders in view of the Panchayat, Municipal and LAHDC elections in Ladakh and refrain from any activity that may disturb public peace and law-and-order",
+        "quote": "The general public is advised to strictly adhere to the prohibitory orders in view of the Panchayat, Municipal and LAHDC elections in Ladakh and refrain from any activity that may disturb public peace and law-and-order,"
+      },
+      {
+        "claim": "The movement is about Ladakh statehood",
+        "quote": "Ladakh statehood movement (Leh and Kargil). The Sixth Schedule lets tribal areas in four north-eastern states run elected councils that make laws on land, forests and local customs. Ladakh, a union territory without a legislature since 2019, wants the same protection"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh police removed climate activist Sonam Wangchuk from a protest site and escorted him to his residence, advising him to stay indoors, following election-related prohibitory orders.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "9/10",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Ladakh statehood movement (Leh and Kargil). The Sixth Schedule lets tribal areas”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

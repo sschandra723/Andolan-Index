@@ -1,0 +1,114 @@
+{
+  "id": "080134f7f4",
+  "url": "https://www.thehindu.com/news/national/karnataka/dalit-leaders-threaten-to-launch-agitation-against-kanheri-seer/article71689770.ece",
+  "title": "Dalit leaders threaten to launch agitation against Kanheri seer",
+  "outlet": "The Hindu",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2448,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Dalit leaders in Vijayapura threaten to launch an agitation against Kanheri seer Sri Adrushya Kadasiddeshwar Swami for claiming the Constitution contains parts of the Manusmruti, demanding he withdraw his statement and apologize by November 26.",
+    "facts": [
+      {
+        "claim": "Dalit leaders in Vijayapura have condemned the statement of Sri Adrushya Kadasiddeshwar Swami, seer of Kanheri Math, claiming that the Constitution contains parts of the Manusmruti.",
+        "quote": "Dalit leaders in Vijayapura have condemned the statement of Sri Adrushya Kadasiddeshwar Swami, seer of Kanheri Math, claiming that the Constitution contains parts of the Manusmruti."
+      },
+      {
+        "claim": "They have warned of an agitation against the seer if he did not withdraw his statement and tender a public apology.",
+        "quote": "They have warned of an agitation against the seer if he did not withdraw his statement and tender a public apology."
+      },
+      {
+        "claim": "Activists told reporters in Vijayapura on Wednesday that the seer’s statement is completely false and is aimed at dividing society and creating hatred against some communities.",
+        "quote": "Activists told reporters in Vijayapura on Wednesday that the seer’s statement is completely false and is aimed at dividing society and creating hatred against some communities."
+      },
+      {
+        "claim": "It is absolutely clear that the Constitution has no traces of the Manusmruti. In fact, it is opposed to the rules laid down by Sanatan Hindu text.",
+        "quote": "It is absolutely clear that the Constitution has no traces of the Manusmruti. In fact, it is opposed to the rules laid down by Sanatan Hindu text,"
+      },
+      {
+        "claim": "From the Preamble to the very last part of the Constitution, there are absolutely no elements of the Manusmriti in the Constitution.",
+        "quote": "From the Preamble to the very last part of the Constitution, there are absolutely no elements of the Manusmriti in the Constitution."
+      },
+      {
+        "claim": "The seer seems to have made remarks about B.R. Ambedkar and the Constitution without having any understanding of the subject.",
+        "quote": "The seer seems to have made remarks about B.R. Ambedkar and the Constitution without having any understanding of the subject."
+      },
+      {
+        "claim": "He must offer an immediate public apology and withdraw his statement.",
+        "quote": "He must offer an immediate public apology and withdraw his statement,"
+      },
+      {
+        "claim": "By making this ridiculous and thoughtless statement, the seer has caused hurt to those who believe in the democratic system and the Constitution as well as to the followers of Dr. Ambedkar.",
+        "quote": "By making this ridiculous and thoughtless statement, the seer has caused hurt to those who believe in the democratic system and the Constitution as well as to the followers of Dr. Ambedkar."
+      },
+      {
+        "claim": "This is unacceptable. If the seer does not apologise immediately, we will be forced to launch an intense agitation on November 26.",
+        "quote": "This is unacceptable. If the seer does not apologise immediately, we will be forced to launch an intense agitation on November 26,"
+      },
+      {
+        "claim": "While the Constitution contains principles of equality, fraternity and liberty, the Manusmruti contains rules and provisions that aim at dividing society and discrimination.",
+        "quote": "While the Constitution contains principles of equality, fraternity and liberty, the Manusmruti contains rules and provisions that aim at dividing society and discrimination."
+      },
+      {
+        "claim": "It justifies caste and gender based inequality.",
+        "quote": "It justifies caste and gender based inequality."
+      },
+      {
+        "claim": "The Constitution offers remedies to these problems created by Manusmruti.",
+        "quote": "The Constitution offers remedies to these problems created by Manusmruti,"
+      },
+      {
+        "claim": "AHINDA leader Somanath Kallimani said that the seer has insulted Dr. Ambedkar and the Constitution by his statement.",
+        "quote": "AHINDA leader Somanath Kallimani said that the seer has insulted Dr. Ambedkar and the Constitution by his statement."
+      },
+      {
+        "claim": "The seer is acting as a stooge of the RSS and Sangh Parivar.",
+        "quote": "The seer is acting as a stooge of the RSS and Sangh Parivar."
+      },
+      {
+        "claim": "He should not make any statement before ascertaining facts.",
+        "quote": "He should not make any statement before ascertaining facts,"
+      },
+      {
+        "claim": "The seer does not seem to have any exposure to mainstream education.",
+        "quote": "The seer does not seem to have any exposure to mainstream education."
+      },
+      {
+        "claim": "He has no idea whatsoever about the Constitution or the works of Dr. Ambedkar.",
+        "quote": "He has no idea whatsoever about the Constitution or the works of Dr. Ambedkar."
+      },
+      {
+        "claim": "He will pay a great price for this misadventure.",
+        "quote": "He will pay a great price for this misadventure,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Dalit leaders in Vijayapura are threatening to launch an agitation against Kanheri seer Sri Adrushya Kadasiddeshwar Swami for claiming the Constitution contains parts of the Manusmruti, demanding he withdraw his statement and apologize by November 26.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "18/18",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

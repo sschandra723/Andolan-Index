@@ -1,0 +1,52 @@
+{
+  "id": "b3cc0021af",
+  "url": "https://www.indiatoday.in/india/video/student-movements-prioritise-education-and-employment-over-electoral-roll-revision-protests-ytvd-3037361-2026-11-12",
+  "title": "Student movements focus more on education and jobs than electoral roll protests",
+  "outlet": "India Today",
+  "published": "2026-11-12",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "electoral roll"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1269,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Student movements in India are focusing on education and job issues rather than electoral roll protests, with youth prioritizing non-violent methods over the Special Intensive Revision (SIR) voter list updates.",
+    "facts": [
+      {
+        "claim": "Student movements focus more on education and jobs than electoral roll protests",
+        "quote": "Student movements focus more on education and jobs than electoral roll protests"
+      },
+      {
+        "claim": "Youth prioritize non-violent methods over the Special Intensive Revision (SIR) voter list updates",
+        "quote": "Allegations of external influence are addressed, emphasising that Indian youth act independently and maintain non-violent methods."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.85,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

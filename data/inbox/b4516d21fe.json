@@ -1,0 +1,62 @@
+{
+  "id": "b4516d21fe",
+  "url": "https://www.thehindu.com/news/national/karnataka/price-rise-in-karnataka-bjp-stages-protest-in-bengaluru-warns-of-statewide-campaign-if-hike-not-rolled-back/article71689469.ece",
+  "title": "Price rise: BJP stages protest in Bengaluru; warns of Statewide campaign",
+  "outlet": "The Hindu",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2175,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The BJP staged a protest in Bengaluru against Congress government price hikes, warning of a statewide campaign if the increases aren't reversed.",
+    "facts": [
+      {
+        "claim": "The BJP staged a protest at Freedom Park of Bengaluru on Wednesday against hike in prices of various commodities and services by the Congress government",
+        "quote": "The Bharatiya Janata Party which staged a protest at Freedom Park of Bengaluru on Wednesday against hike in prices of various commodities and services by the Congress government"
+      },
+      {
+        "claim": "The BJP declared it would launch a statewide campaign against the government if the price hike was not rolled back",
+        "quote": "declared that it would launch a Statewide campaign against the government if the price hike was not rolled back"
+      },
+      {
+        "claim": "BJP State president B.Y. Vijayendra described the milk price increase as the 'Deepavali gift' by the Congress government",
+        "quote": "Describing the increase in milk prices as the “Deepavali gift” by the Congress government"
+      },
+      {
+        "claim": "BJP State president B.Y. Vijayendra referred to the price-raise as the 'sixth guarantee' of the Congress government",
+        "quote": "Describing the price-raise as the “sixth guarantee” of the Congress government"
+      },
+      {
+        "claim": "The BJP State president warned Chief Minister D.K. Shivakumar that people were anguished over constant price increases",
+        "quote": "he cautioned Chief Minister D.K. Shivakumar that people were anguished over such a constant increase in prices"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The BJP is warning of a statewide campaign against the Congress government over price hikes following a protest in Bengaluru.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

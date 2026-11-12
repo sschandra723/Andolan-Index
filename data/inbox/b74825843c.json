@@ -1,0 +1,66 @@
+{
+  "id": "b74825843c",
+  "url": "https://www.thehindu.com/news/cities/chennai/conservancy-workers-renew-protest-against-outsourcing-of-work/article71690366.ece",
+  "title": "Conservancy workers renew protest against outsourcing of work",
+  "outlet": "The Hindu",
+  "published": "2026-11-11",
+  "collected": "2026-11-12",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1587,
+    "fetch_note": null,
+    "drafted": "2026-11-12",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Conservancy workers renewed protests in Chennai demanding withdrawal of government orders facilitating outsourcing of urban conservancy work and permanent employment, wage revisions, and other benefits.",
+    "facts": [
+      {
+        "claim": "The Uzhaipor Urimai Iyakkam renewed its protest near the Collectorate on Wednesday, demanding the withdrawal of two government orders (G.O.) facilitating the outsourcing of conservancy work in urban local bodies and the Chennai Corporation.",
+        "quote": "The Uzhaipor Urimai Iyakkam renewed its protest near the Collectorate on Wednesday, demanding the withdrawal of two government orders (G.O.) facilitating the outsourcing of conservancy work in urban local bodies and the Chennai Corporation."
+      },
+      {
+        "claim": "The protesters opposed the introduction of contract-based employment through Overseas Manpower Corporation Limited, a Tamil Nadu government-owned corporation, and outsourcing of conservancy work in 21 municipal corporations.",
+        "quote": "The protesters opposed the introduction of contract-based employment through Overseas Manpower Corporation Limited, a Tamil Nadu government-owned corporation, and outsourcing of conservancy work in 21 municipal corporations."
+      },
+      {
+        "claim": "State president of the organisation K. Bharathi said the workers would continue to press for their long-pending demands, including permanent employment, revision of basic wages and dearness allowance, job security, medical examinations, paid weekly holidays, welfare board benefits, and housing for homeless workers.",
+        "quote": "State president of the organisation K. Bharathi said the workers would continue to press for their long-pending demands, including permanent employment, revision of basic wages and dearness allowance, job security, medical examinations, paid weekly holidays, welfare board benefits, and housing for homeless workers."
+      },
+      {
+        "claim": "State secretary K. Suresh said the protest was organised to press the government and the GCC to address the workers’ demands.",
+        "quote": "State secretary K. Suresh said the protest was organised to press the government and the GCC to address the workers’ demands."
+      },
+      {
+        "claim": "Following the earlier protests at Ripon Buildings in August and September, four Ministers held talks with the workers on September 4 and assured them of action on several demands., including a daily food allowance of ₹50, restrooms, safety equipment and withdrawal of cases registered during previous protests. The union had temporarily suspended its agitation pending further discussions. The demand for permanent employment, however, remained unresolved.",
+        "quote": "Following the earlier protests at Ripon Buildings in August and September, four Ministers held talks with the workers on September 4 and assured them of action on several demands., including a daily food allowance of ₹50, restrooms, safety equipment and withdrawal of cases registered during previous protests. The union had temporarily suspended its agitation pending further discussions. The demand for permanent employment, however, remained unresolved."
+      },
+      {
+        "claim": "The organisation also demanded that the State Government implement the wage revision, stating that the basic salary and dearness allowance had not been revised since G.O in 2017.",
+        "quote": "The organisation also demanded that the State Government implement the wage revision, stating that the basic salary and dearness allowance had not been revised since G.O in 2017."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Conservancy workers in Chennai have been protesting against outsourcing of their work since at least August 2026, with the union demanding permanent employment and wage revisions that have not been implemented.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

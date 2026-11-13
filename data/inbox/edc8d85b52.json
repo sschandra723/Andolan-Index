@@ -1,0 +1,55 @@
+{
+  "id": "edc8d85b52",
+  "url": "https://www.hindustantimes.com/india-news/manipur-normal-life-affected-due-to-bandh-in-kangpokpi-district-over-woman-s-death-101794559242014.html",
+  "title": "Manipur: Normal life affected due to bandh in Kangpokpi district over woman’s death",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": "manipur-protests-2026",
+  "score": 2.0,
+  "matched": [
+    "Manipur",
+    "Kangpokpi"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2388,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "A 48-hour shutdown was called by the Kangpokpi-based Committee on Tribal Unity (COTU) in Manipur following a woman's death during a firing incident at Taphou Kuki village, affecting transportation and markets.",
+    "facts": [
+      {
+        "claim": "A 48-hour shutdown was called by the Kangpokpi-based Committee on Tribal Unity (COTU) in Manipur following a woman's death during a firing incident at Taphou Kuki village",
+        "quote": "Kangpokpi-based Committee on Tribal Unity (COTU) called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village on Thursday morning."
+      },
+      {
+        "claim": "Affecting transportation and markets",
+        "quote": "Buses and autorickshaws remained off the roads, inconveniencing commuters. Markets also remained shut."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The shutdown was called by the Committee on Tribal Unity (COTU) in response to a woman's death during a firing incident at Taphou Kuki village, which they attributed to security forces under the superintendent of police (SP) in Kangpokpi district.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "1/2",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Buses and autorickshaws remained off the roads, inconveniencing commuters. Marke”"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "cd9fd4e556",
+  "url": "https://www.newsbytesapp.com/news/india/anti-sir-protests-set-to-resume-in-delhi/story",
+  "title": "Anti-SIR protests to resume on November 26; who are participating",
+  "outlet": "NewsBytes",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "anti-SIR protests",
+    "=SIR"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Anti-SIR protests in New Delhi, Mumbai and other cities are set to resume on November 26, according to organizers.",
+    "facts": [
+      {
+        "claim": "Anti-SIR protests in New Delhi, Mumbai and other cities are set to resume on November 26",
+        "quote": "Anti-SIR protests to resume on November 26; who are participating"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

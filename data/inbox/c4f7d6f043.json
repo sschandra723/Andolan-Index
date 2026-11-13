@@ -1,0 +1,63 @@
+{
+  "id": "c4f7d6f043",
+  "url": "https://scroll.in/latest/1097049/sonam-wangchuk-claims-house-arrest-ahead-of-protest",
+  "title": "Sonam Wangchuk claims house arrest ahead of protest",
+  "outlet": "Scroll.in",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Ladakh",
+    "Sonam Wangchuk"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3087,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "ladakh-statehood",
+    "new_movement": null,
+    "summary": "Activist Sonam Wangchuk claims police placed him under house arrest ahead of Ladakh council polls, alleging restrictions on his protest rights for questioning delayed judicial reports and 'phoney' elections.",
+    "facts": [
+      {
+        "claim": "Activist Sonam Wangchuk claims he had been placed under house arrest by the police ahead of planned protests against the upcoming council polls",
+        "quote": "Activist Sonam Wangchuk on Thursday claimed that he had been placed under house arrest by the police ahead of planned protests against the upcoming council polls."
+      },
+      {
+        "claim": "The police said that Wangchuk had been 'advised to stay' at home in line with prohibitory orders issued by the chief electoral officer and Leh district magistrate",
+        "quote": "The police said that Wangchuk had been \"advised to stay\" at home in line with the prohibitory orders issued by the chief electoral officer in the Union Territory and the Leh district magistrate ahead of the local elections."
+      },
+      {
+        "claim": "Wangchuk alleged that his movement was being restricted 'for asking uncomfortable questions' such as why the judicial enquiry commission’s report into the deaths during a protest in Leh in September 2025 had been delayed",
+        "quote": "The activist alleged that his movement was being restricted \"for asking uncomfortable questions\" such as why the judicial enquiry commission’s report into the deaths during a protest in Leh in September 2025 had been delayed"
+      },
+      {
+        "claim": "Wangchuk had been detained in September 2025 under the National Security Act, two days after protesters demanding statehood for Ladakh and its inclusion in the Sixth Schedule of the Constitution clashed with security personnel",
+        "quote": "He had been detained in September 2025 under the National Security Act, two days after protesters demanding statehood for Ladakh and its inclusion in the Sixth Schedule of the Constitution clashed with security personnel, injuring several of them."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh activists have been detained under the National Security Act following clashes with security forces over statehood demands, with the Sixth Schedule being a key constitutional provision for tribal areas.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "3 outlets in the last 48 hours; coverage up from 0 to 2 reports this week."
+  }
+}

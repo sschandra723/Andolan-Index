@@ -1,0 +1,84 @@
+{
+  "id": "e23445542a",
+  "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-police-halt-adi-galo-anti-dam-march-protesters-await-clearance",
+  "title": "Assam Police Halt Adi Galo Anti-Dam March, Protesters Await Clearance",
+  "outlet": "The Sentinel",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3099,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "Assam Police halted the Adi Galo Welfare Society's anti-dam march in Lakhimpur district on November 13, 2026, citing lack of prior administrative intimation, while protesters await clearance to continue their 300-400km journey from Geku village to Itanagar.",
+    "facts": [
+      {
+        "claim": "Assam Police halted the Adi Galo Welfare Society (AGWS) anti-dam march in Lakhimpur district on Friday, November 13, 2026, citing the absence of prior administrative intimation",
+        "quote": "Lakhimpur: Assam Police halted the Adi Galo Welfare Society (AGWS) anti-dam march in Lakhimpur district on Friday, November 13, 2026, citing the absence of prior administrative intimation."
+      },
+      {
+        "claim": "The protesters, travelling from Geku village in Arunachal Pradesh towards Itanagar, have paused their 300–400-kilometre journey while awaiting formal administrative clearance",
+        "quote": "The protesters, travelling from Geku village in Arunachal Pradesh towards Itanagar, have paused their 300–400-kilometre journey while awaiting formal administrative clearance."
+      },
+      {
+        "claim": "Assess Police intercepted the Adi Galo Welfare Society's foot march in Lakhimpur district on Friday, citing the lack of prior administrative intimation about the procession",
+        "quote": "Assess Police intercepted the Adi Galo Welfare Society's foot march in Lakhimpur district on Friday, citing the lack of prior administrative intimation about the procession."
+      },
+      {
+        "claim": "The marchers had been walking peacefully and had not disrupted public activity",
+        "quote": "Basar told reporters that the marchers had been walking peacefully and had not disrupted public activity."
+      },
+      {
+        "claim": "The protesters have since remained stationed in Lakhimpur while awaiting the necessary administrative permissions to resume their journey",
+        "quote": "The protesters have since remained stationed in Lakhimpur while awaiting the necessary administrative permissions to resume their journey."
+      },
+      {
+        "claim": "The AGWS march began on November 4, 2026, from Geku village in Upper Siang district of Arunachal Pradesh",
+        "quote": "The AGWS march began on November 4, 2026, from Geku village in Upper Siang district of Arunachal Pradesh."
+      },
+      {
+        "claim": "The organisation planned to submit a memorandum to Arunachal Pradesh Chief Minister Pema Khandu in Itanagar, opposing activities associated with the proposed 11,200 MW Siang Upper Multipurpose Project",
+        "quote": "The organisation planned to submit a memorandum to Arunachal Pradesh Chief Minister Pema Khandu in Itanagar, opposing activities associated with the proposed 11,200 MW Siang Upper Multipurpose Project."
+      },
+      {
+        "claim": "The proposed march covers approximately 300 to 400 kilometres between Geku village and Itanagar",
+        "quote": "The proposed march covers approximately 300 to 400 kilometres between Geku village and Itanagar."
+      },
+      {
+        "claim": "The protesters crossed into Assam through Ruksin on November 6 after beginning their journey two days earlier",
+        "quote": "The protesters crossed into Assam through Ruksin on November 6 after beginning their journey two days earlier."
+      },
+      {
+        "claim": "Their scheduled arrival in Itanagar was November 15",
+        "quote": "Their scheduled arrival in Itanagar was November 15."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Adi Galo Welfare Society is opposing the proposed 11,200 MW Siang Upper Multipurpose Project, which involves Pre-Feasibility Report activities and paramilitary deployment in Arunachal Pradesh.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "9/10",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Assess Police intercepted the Adi Galo Welfare Society's foot march in Lakhimpur”"
+      ]
+    },
+    "importance": 25,
+    "importance_reason": "1 outlet in the last 48 hours; coverage up from 3 to 6 reports this week."
+  }
+}

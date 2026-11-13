@@ -1,0 +1,54 @@
+{
+  "id": "73d1783f56",
+  "url": "https://www.hindustantimes.com/cities/mumbai-news/mumbai-resident-doctors-threaten-bheekh-maango-andolan-over-recurring-delays-in-stipend-payments-101794565960436.html",
+  "title": "Mumbai resident doctors threaten ‘bheekh maango andolan’ over recurring delays in stipend payments",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3286,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Mumbai resident doctors threaten a 'bheekh maango andolan' protest due to recurring delays in monthly stipend payments, which affect their financial planning and loan repayments.",
+    "facts": [
+      {
+        "claim": "Mumbai resident doctors threaten to launch a protest called 'bheekh maango andolan' over recurring delays in the disbursal of their monthly stipends",
+        "quote": "Resident doctors at Mumbai’s Cooper Hospital say recurring stipend delays affect EMIs and financial planning, and threaten a ‘bheekh maango andolan’."
+      },
+      {
+        "claim": "Resident doctors receive stipends of over ₹90,000 from medical colleges",
+        "quote": "Resident doctors in Mumbai receive stipends of over ₹90,000 from the medical colleges in lieu of the services rendered."
+      },
+      {
+        "claim": "Stipends are delayed due to clerical staff being diverted to Special Intensive Revision (SIR) work",
+        "quote": "The residents were told that their stipends were delayed because the clerical staff had been diverted to duty on the Special Intensive Revision (SIR) work."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Mumbai resident doctors are part of the broader movement against delays in stipend payments for medical residents, which has been reported in multiple BMC medical colleges.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

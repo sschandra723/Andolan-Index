@@ -1,0 +1,58 @@
+{
+  "id": "85830e6a48",
+  "url": "https://www.thehindu.com/news/national/opposition-not-informed-about-possible-special-parliament-session-on-delimitation-priyanka-gandhi/article71697000.ece",
+  "title": "Opposition not informed about possible Special Parliament session on delimitation: Priyanka Gandhi",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1237,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Congress MP Priyanka Gandhi Vadra stated that opposition parties were not informed about the Union government's potential special parliamentary session to pass the delimitation bill, claiming dissenters are being silenced and institutions upholding constitutional values are being destroyed by the BJP.",
+    "facts": [
+      {
+        "claim": "Opposition parties had not been informed about any move by the Union government to convene a special session of Parliament to pass the proposed Delimitation Bill",
+        "quote": "Congress MP Priyanka Gandhi Vadra on Friday (November 13, 2026) said Opposition parties had not been informed about any move by the Union government to convene a special session of Parliament to pass the proposed Delimitation Bill."
+      },
+      {
+        "claim": "They have not intimated the rest of us. So, if they are planning it, I don't know. As of now, I have no information",
+        "quote": "They have not intimated the rest of us. So, if they are planning it, I don't know. As of now, I have no information,"
+      },
+      {
+        "claim": "Anybody who has something to say or wants to express themselves is put down and shut down. We have seen that happening over the last few months",
+        "quote": "Anybody who has something to say or wants to express themselves is put down and shut down. We have seen that happening over the last few months,"
+      },
+      {
+        "claim": "We are fighting for the Constitution and its values. We are fighting because all the institutions in our country that uphold the Constitution and its values are being systematically destroyed by the BJP",
+        "quote": "We are fighting for the Constitution and its values. We are fighting because all the institutions in our country that uphold the Constitution and its values are being systematically destroyed by the BJP,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress MP Priyanka Gandhi Vadra claims opposition parties were not informed about a potential special parliamentary session to pass the delimitation bill, alleging systematic destruction of constitutional institutions by the BJP.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "69f1998a2a",
+  "url": "https://www.thehindu.com/news/national/kerala/sanskrit-varsity-mock-funeral-row-pinarayi-vijayan-alleges-conspiracy-by-ex-governor-arlekar-v-c-against-sfi-activists/article71696898.ece",
+  "title": "Sanskrit varsity ‘mock funeral’ row: Pinarayi Vijayan alleges conspiracy by ex-Governor Arlekar, V-C against SFI activists",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2262,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "Kerala's opposition leader Pinarayi Vijayan accused former Governor Arlekar and SFI's suspended activists of conspiring to falsely report a mock funeral, while students demanded revocation of their suspension and continued a 12-day fast.",
+    "facts": [
+      {
+        "claim": "Keralam’s Opposition Leader Pinarayi Vijayan has alleged a conspiracy by former Governor Rajendra Vishwanath Arlekar and Vice-Chancellor (V-C) of Sree Sankaracharya University of Sanskrit (SSUS) Ciza Thomas in connection with the controversy over the complaint that activists of the Students Federation of India (SFI) had carried out a mock funeral of the V-C.",
+        "quote": "Keralam’s Opposition Leader Pinarayi Vijayan has alleged a conspiracy by former Governor Rajendra Vishwanath Arlekar and Vice-Chancellor (V-C) of Sree Sankaracharya University of Sanskrit (SSUS) Ciza Thomas in connection with the controversy over the complaint that activists of the Students Federation of India (SFI) had carried out a mock funeral of the V-C."
+      },
+      {
+        "claim": "Addressing the relay fast staged by the suspended SFI activists at the SSUS main campus in Kalady near here on Friday, Mr. Vijayan alleged that the V-C had not raised any compliant of a mock funeral initially. However, such a false complaint was lodged after a few days.",
+        "quote": "Addressing the relay fast staged by the suspended SFI activists at the SSUS main campus in Kalady near here on Friday, Mr. Vijayan alleged that the V-C had not raised any compliant of a mock funeral initially. However, such a false complaint was lodged after a few days."
+      },
+      {
+        "claim": "Mr. Arlekar, “who has always implemented the wishes of the Rashtriya Swayamsevak Sangh”, played a key role in coming up with “a lie” that the protesting students held her mock funeral, he said.",
+        "quote": "Mr. Arlekar, “who has always implemented the wishes of the Rashtriya Swayamsevak Sangh”, played a key role in coming up with “a lie” that the protesting students held her mock funeral, he said."
+      },
+      {
+        "claim": "He also accused Chief Minister V. D. Satheesan and Higher Education Minister Roji M. John of not trying to address the indefinite fast organised by the suspended students.",
+        "quote": "He also accused Chief Minister V. D. Satheesan and Higher Education Minister Roji M. John of not trying to address the indefinite fast organised by the suspended students."
+      },
+      {
+        "claim": "The SFI staged an ‘Occupy Sanskrit University’ protest on Friday as its State leadership reiterated the demand that the suspension of its 16 activists must be revoked unconditionally.",
+        "quote": "The SFI staged an ‘Occupy Sanskrit University’ protest on Friday as its State leadership reiterated the demand that the suspension of its 16 activists must be revoked unconditionally."
+      },
+      {
+        "claim": "P. S. Sanjeev, SFI State Secretary, said the students would not tender any apology as directed by the varsity Syndicate.",
+        "quote": "P. S. Sanjeev, SFI State Secretary, said the students would not tender any apology as directed by the varsity Syndicate."
+      },
+      {
+        "claim": "The police on Friday shifted three SFI activists, including the federation’s unit president Archana P. S, who had been on a relay fast over the last 12 days, to hospital citing their deteriorating health.",
+        "quote": "The police on Friday shifted three SFI activists, including the federation’s unit president Archana P. S, who had been on a relay fast over the last 12 days, to hospital citing their deteriorating health."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "SFI activists were suspended for staging a mock funeral protest at Sree Sankaracharya University of Sanskrit, leading to a 12-day fast and police intervention.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/7",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The police on Friday shifted three SFI activists, including the federation’s uni”",
+        "name “Governor Arlekar” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

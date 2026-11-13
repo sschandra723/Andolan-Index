@@ -1,0 +1,61 @@
+{
+  "id": "d3f9dd0846",
+  "url": "https://nenow.in/national/pa-sir-calls-nationwide-protests-from-november-26-demanding-scrapping-of-sir-removal-of-cec.html",
+  "title": "PA-SIR calls nationwide protests from November 26 demanding scrapping of SIR, removal of CEC",
+  "outlet": "Northeast Now",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": "anti-sir-2026",
+  "score": 4.0,
+  "matched": [
+    "Special Intensive Revision",
+    "=SIR",
+    "=CEC",
+    "electoral roll"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2883,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "PA-SIR called nationwide protests from November 26 to December 20, 2026, demanding scrapping of the Special Intensive Revision (SIR) electoral rolls and restoration of voting rights.",
+    "facts": [
+      {
+        "claim": "PA-SIR called for nationwide protests from November 26 to December 20, 2026",
+        "quote": "The People Against SIR (PA-SIR) has called for a nationwide protests from November 26 to December 20, demanding the scrapping of the Special Intensive Revision (SIR) of electoral rolls and restoration of every citizen’s right to vote."
+      },
+      {
+        "claim": "PA-SIR demands scrapping of SIR and restoration of voting rights",
+        "quote": "PA-SIR said the ECI’s recent measures to address concerns over its conduct during the past 16 months were inadequate, as they did not address what the platform described as mass disenfranchisement and the undemocratic nature of the SIR process."
+      },
+      {
+        "claim": "PA-SIR calls for demonstrations on Constitution Day and Human Rights Day",
+        "quote": "As part of the campaign, PA-SIR has called for nationwide demonstrations on November 26, Constitution Day, to assert the right to vote and the right to livelihood."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "PA-SIR is demanding the scrapping of the Special Intensive Revision (SIR) electoral rolls and restoration of voting rights, which they claim leads to mass disenfranchisement and undemocratic practices.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "number 2026 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

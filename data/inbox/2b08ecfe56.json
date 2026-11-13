@@ -1,0 +1,54 @@
+{
+  "id": "2b08ecfe56",
+  "url": "https://www.thedailyjagran.com/india/news/jammu-protest-shiv-sena-dogra-front-rashtriya-bajrang-dal-target-pro-pakistan-remarks-after-kulgam-kishtwar-attacks-10336110",
+  "title": "Jammu Protest: Shiv Sena Dogra Front, Rashtriya Bajrang Dal Target 'Pro-Pakistan Remarks' After Kulgam, Kishtwar Attacks",
+  "outlet": "thedailyjagran.com",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4579,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Protesters from Shiv Sena Dogra Front and Rashtriya Bajrang Dal staged a demonstration in Jammu demanding action against alleged pro-Pakistan remarks following terror attacks in Kulgam and Kishtwar.",
+    "facts": [
+      {
+        "claim": "Shiv Sena Dogra Front and Rashtriya Bajrang Dal staged a protest in Jammu",
+        "quote": "With security agencies investigating fresh attacks on security personnel in Jammu and Kashmir, activists of the Shiv Sena Dogra Front and Rashtriya Bajrang Dal staged a protest in Jammu, demanding action against alleged supporters of Pakistan and those accused of helping terrorist groups operate in the region."
+      },
+      {
+        "claim": "Protesters demanded action against pro-Pakistan remarks",
+        "quote": "Protesters also demanded strict action against the people who make pro-Pakistan speeches in India."
+      },
+      {
+        "claim": "The protest followed terror attacks in Kulgam and Kishtwar",
+        "quote": "Jammu, Jammu and Kashmir: Rashtriya Bajrang Dal stages a protest against Pakistan over the attack on CRPF personnel in Kulgam and the recovery of two SPOs' bodies in Kishtwar."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest targets alleged pro-Pakistan remarks by National Conference leader Dr Farooq Abdullah following recent terror attacks in Jammu and Kashmir.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "6d339367ae",
+  "url": "https://timesofindia.indiatimes.com/city/hubballi/asha-workers-to-begin-round-the-clock-dharna-on-nov-17/articleshow/135778167.cms",
+  "title": "ASHA workers to begin round-the-clock dharna on Nov 17",
+  "outlet": "The Times of India",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 936,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "ASHA workers plan indefinite round-the-clock dharna starting Nov 17 in Bengaluru seeking Rs 15,000 monthly honorarium and other demands, after receiving only Rs 8,000 for nine years.",
+    "facts": [
+      {
+        "claim": "ASHA workers will begin an indefinite round-the-clock dharna at Freedom Park in Bengaluru on Nov 17",
+        "quote": "ASHA workers will begin an indefinite round-the-clock dharna at Freedom Park in Bengaluru on Nov 17"
+      },
+      {
+        "claim": "seeking a fixed monthly honorarium of Rs 15,000 and fulfilment of other demands",
+        "quote": "seeking a fixed monthly honorarium of Rs 15,000 and fulfilment of other demands"
+      },
+      {
+        "claim": "the state’s ASHA workers received Rs 8,000 a month and their honorarium had increased by only Rs 1,500 in nine years",
+        "quote": "the state’s ASHA workers received Rs 8,000 a month and their honorarium had increased by only Rs 1,500 in nine years"
+      },
+      {
+        "claim": "Workers in Kerala, Maharashtra, West Bengal and Haryana received Rs 12,000",
+        "quote": "Workers in Kerala, Maharashtra, West Bengal and Haryana received Rs 12,000"
+      },
+      {
+        "claim": "repeated protests had led to assurances from state govt, but the demands remained unfulfilled",
+        "quote": "repeated protests had led to assurances from state govt, but the demands remained unfulfilled"
+      },
+      {
+        "claim": "the state had about 30,000 ASHA workers",
+        "quote": "the state had about 30,000 ASHA workers"
+      },
+      {
+        "claim": "About 15,000 would join the protest daily by district-wise rotation",
+        "quote": "About 15,000 would join the protest daily by district-wise rotation"
+      },
+      {
+        "claim": "All workers would remain off duty indefinitely from Nov 17",
+        "quote": "All workers would remain off duty indefinitely from Nov 17"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "ASHA workers are community health workers in India who receive government payments for health services. They have been a key part of India's public health system since the 2010s.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

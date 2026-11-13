@@ -1,0 +1,65 @@
+{
+  "id": "7609e72994",
+  "url": "https://kashmirlife.net/jammu-kashmir-nhm-employees-seek-cms-intervention-warn-of-fresh-protest-460916/",
+  "title": "Jammu Kashmir NHM Employees Seek CM’s Intervention, Warn of Fresh Protest",
+  "outlet": "Kashmir Life",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": "up-nhm-staff-2026",
+  "score": 2.0,
+  "matched": [
+    "National Health Mission",
+    "=NHM"
+  ],
+  "alternatives": [
+    "jk-statehood-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3876,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "up-nhm-staff-2026",
+    "new_movement": null,
+    "summary": "Jammu Kashmir NHM employees warned of resuming protests if their demands for salary revisions, job security, and social security are not addressed within a reasonable timeframe, after calling off a strike following the Chief Minister's appeal for dialogue.",
+    "facts": [
+      {
+        "claim": "Jammu Kashmir NHM employees warned of resuming protests if their demands for salary revisions, job security, and social security are not addressed within a reasonable timeframe",
+        "quote": "The association said NHM employees had called off their strike in September following an appeal by the Chief Minister, who had publicly expressed his willingness to hold discussions with the employees on the condition that they first withdraw their agitation."
+      },
+      {
+        "claim": "Jammu Kashmir NHM employees called off their strike following the Chief Minister's appeal for dialogue",
+        "quote": "We honoured the Chief Minister’s appeal and called off our strike in the hope that our concerns would be addressed through dialogue."
+      },
+      {
+        "claim": "The association demands comprehensive salary revision, job policy, equal pay, social security, and retirement benefits",
+        "quote": "Reiterating its demands, JKNHMEAK spokesperson Rouf Ahmad called for a comprehensive salary revision, formulation of a dignified job policy, implementation of equal pay for equal work, social security coverage, retirement benefits and resolution of other long-pending service-related issues."
+      },
+      {
+        "claim": "The five per cent annual increment for contractual NHM employees is not considered fulfillment of government commitments",
+        "quote": "The association said the demands were not limited to routine financial adjustments but required comprehensive policy-level decisions to ensure job security, financial stability and dignity for thousands of employees working under the National Health Mission across Jammu and Kashmir."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Jammu Kashmir NHM employees have been demanding comprehensive policy-level changes for job security and financial stability since September 2026, following a high-level meeting where the Chief Minister promised dialogue.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Jammu Kashmir” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

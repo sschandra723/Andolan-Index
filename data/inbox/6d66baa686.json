@@ -1,0 +1,54 @@
+{
+  "id": "6d66baa686",
+  "url": "https://www.thehindu.com/news/national/kerala/hc-verdict-in-favour-of-no-cap-a-blow-to-keralam-udf-govts-undeclared-censorship-of-news-portals-pinarayi-vijayan/article71694576.ece",
+  "title": "HC verdict in favour of ‘No Cap’ a blow to Keralam UDF govt.’s undeclared censorship of news portals: Pinarayi Vijayan",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2180,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "Kerala High Court ruled in favor of digital media outlet 'No Cap', which Pinarayi Vijayan called a blow to UDF government's alleged undeclared censorship of news portals. The court confirmed the government requested Meta to block KIFA's Facebook page.",
+    "facts": [
+      {
+        "claim": "Kerala High Court ruled in favor of digital media outlet 'No Cap'",
+        "quote": "The Kerala High Court verdict in favour of the digital media outlet ‘No Cap’ is a major blow to the United Democratic Front (UDF) government’s undeclared censorship that seeks to shackle independent journalism and freedom of expression"
+      },
+      {
+        "claim": "Pinarayi Vijayan called it a blow to UDF government's alleged undeclared censorship",
+        "quote": "It is a mere delusion on the part of the UDF government to believe that they can suppress criticism and popular protests through the use of state power"
+      },
+      {
+        "claim": "The court confirmed the government requested Meta to block KIFA's Facebook page",
+        "quote": "the High Court verdict on Wednesday also confirms that it was the government itself that requested Meta to completely block the Facebook page of the Kerala Independent Farmers Association (KIFA)"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala High Court ruled in favor of digital media outlet 'No Cap' against UDF government's alleged undeclared censorship of news portals, confirming government requested Meta to block KIFA's Facebook page.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

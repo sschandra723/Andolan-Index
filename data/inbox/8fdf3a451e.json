@@ -1,0 +1,60 @@
+{
+  "id": "8fdf3a451e",
+  "url": "https://www.deccanchronicle.com/nation/sonam-wangchuk-removed-from-protest-site-in-leh-2003865",
+  "title": "Sonam Wangchuk Removed From Protest Site in Leh",
+  "outlet": "Deccan Chronicle",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": "ladakh-statehood",
+  "score": 3.0,
+  "matched": [
+    "Ladakh",
+    "Sonam Wangchuk",
+    "Leh"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh police removed climate activist Sonam Wangchuk from a protest site after invoking election-related prohibitory orders, as he opposed the timing of local body elections during harsh winter months.",
+    "facts": [
+      {
+        "claim": "Ladakh Police escorted Sonam Wangchuk away from a protest site",
+        "quote": "Ladakh Police said the preventive action had been taken in compliance with directions issued by the Chief Electoral Officer (CEO) of the Union Territory and the District Magistrate, Leh."
+      },
+      {
+        "claim": "Wangchuk was protesting the conduct of elections and administration's failure to address democratic concerns",
+        "quote": "Wangchuk was subsequently advised to remain at his residence and refrain from activities that could violate the restrictions."
+      },
+      {
+        "claim": "Elections were scheduled during harsh winter months affecting population migration",
+        "quote": "Wangchuk questioned the decision to hold elections during one of the harshest periods of the year in the Himalayan region. He noted that December and January are traditionally the coldest and snowiest months, with temperatures falling below minus 30 degrees Celsius in many areas."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh's political leadership has faced criticism for scheduling elections during extreme winter conditions that impact population mobility, with local groups boycotting the polls.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

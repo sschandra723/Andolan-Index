@@ -1,0 +1,71 @@
+{
+  "id": "088d55b08a",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/skm-threatens-to-gherao-haryana-cm-s-residence-on-dec-2-over-sugarcane-price-101794503712808.html",
+  "title": "SKM threatens to gherao Saini’s residence on December 2 over sugarcane prices",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": "farmers-india-us-trade-2026",
+  "score": 2.0,
+  "matched": [
+    "=SKM",
+    "farmers"
+  ],
+  "alternatives": [
+    "karnataka-sugarcane-2025"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2241,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Farmers in Haryana demand the state government set sugarcane price at ₹600 per quintal, threatening a statewide agitation including a gherao of chief minister's residence on December 2 if their demand is not met.",
+    "facts": [
+      {
+        "claim": "Farmers demand minimum SAP of ₹600 per quintal",
+        "quote": "Farmers demand minimum SAP of ₹600 per quintal; announce seven mahapanchayats across state before November 26 as part of agitation"
+      },
+      {
+        "claim": "The SKM warned of a major statewide agitation, including a gherao of chief minister Nayab Singh Saini’s residence in Kurukshetra on December 2",
+        "quote": "The Samyukt Kisan Morcha (SKM) on Thursday demanded that the Haryana government fix the sugarcane price at ₹600 per quintal and warned of a major statewide agitation, including a gherao of chief minister Nayab Singh Saini’s residence in Kurukshetra on December 2, if the demand was not accepted."
+      },
+      {
+        "claim": "The previous sugarcane price in Haryana was ₹415 per quintal",
+        "quote": "The previous sugarcane price in Haryana was ₹415 per quintal."
+      },
+      {
+        "claim": "The state government has increased it to ₹430 per quintal for the 2026-27 crushing season and announced a further hike to ₹450 per quintal for 2027-28",
+        "quote": "The state government has increased it to ₹430 per quintal for the 2026-27 crushing season and announced a further hike to ₹450 per quintal for 2027-28."
+      },
+      {
+        "claim": "This amounts to a cumulative increase of just ₹35 over two years",
+        "quote": "This amounts to a cumulative increase of just ₹35 over two years."
+      },
+      {
+        "claim": "As part of the agitation, the SKM has announced seven mahapanchayats across Haryana before November 26",
+        "quote": "As part of the agitation, the SKM has announced seven mahapanchayats across Haryana before November 26, followed by another round of seven such gatherings in the next phase."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers in Haryana are protesting over sugarcane prices, demanding ₹600 per quintal after the state government increased prices from ₹415 to ₹450 over two years, which they argue is insufficient given rising costs.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 45,
+    "importance_reason": "5 outlets in the last 48 hours; coverage up from 0 to 1 reports this week."
+  }
+}

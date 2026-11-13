@@ -1,0 +1,50 @@
+{
+  "id": "11867be46b",
+  "url": "https://www.thehindu.com/news/national/kerala/priyanka-gandhi-raises-concerns-about-police-action-against-protesting-lpst-rank-holders-in-keralam-capital/article71693424.ece",
+  "title": "Priyanka Gandhi raises concerns about police action against protesting LPST rank-holders in Keralam capital",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3165,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "pu-bachao-morcha-2025",
+    "new_movement": null,
+    "summary": "Priyanka Gandhi expressed concern over police actions against LPST rank-holders on indefinite strike for employment in Kerala, noting citizens should protect their right to protest peacefully.",
+    "facts": [
+      {
+        "claim": "Priyanka Gandhi expressed concern over police actions against LPST rank-holders on indefinite strike for employment in Kerala",
+        "quote": "All India Congress Committee (AICC) general secretary and Wayanad MP Priyanka Gandhi Vadra on Thursday expressed concern over the United Democratic Front (UDF) government’s controversial use of police force against All Kerala Primary School Teacher (LPST) rank-holders association activists on an indefinite strike for employment in front of the Secretariat for the past 130 days."
+      },
+      {
+        "claim": "Priyanka Gandhi noted citizens should protect their right to protest peacefully",
+        "quote": "Ms. Vadra, a high-profile public face of the ongoing Jantar Mantar agitation demanding the exit of Chief Election Commissioner Gyanesh Kumar over alleged voters’ list fraud, told reporters in Wayanad that citizens should zealously guard their constitutionally guaranteed right to protest peacefully."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "LPST rank-holders in Kerala have been on an indefinite hunger strike for employment since early 2026, demanding a student-teacher ratio of 1:25.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

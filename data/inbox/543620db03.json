@@ -1,0 +1,64 @@
+{
+  "id": "543620db03",
+  "url": "https://theprint.in/india/nsui-stages-protest-against-hazardous-air-pollution-in-delhi-demands-immediate-action/3097062/",
+  "title": "NSUI stages protest against hazardous air pollution in Delhi, demands immediate action",
+  "outlet": "ThePrint",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "air pollution"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1570,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "The National Students’ Union of India staged a protest in Delhi demanding immediate action to address hazardous air pollution, citing health risks for citizens.",
+    "facts": [
+      {
+        "claim": "The National Students’ Union of India staged a protest against hazardous air pollution in the national capital on Thursday",
+        "quote": "The National Students’ Union of India (NSUI) staged a protest against hazardous air pollution in the national capital on Thursday, demanding immediate government intervention to tackle the worsening situation and protect public health."
+      },
+      {
+        "claim": "Students and activists gathered at the organisation’s headquarters on Raisina Road and took out a protest march",
+        "quote": "Led by NSUI national president Vinod Jakhar, students and activists gathered at the organisation’s headquarters on Raisina Road and took out a protest march, raising concerns over the deteriorating pollution levels and their impact on residents."
+      },
+      {
+        "claim": "Delhi’s polluted air had put the health and daily lives of ordinary citizens at serious risk, with children and older adults particularly vulnerable",
+        "quote": "Addressing the protesters, Jakhar said Delhi’s polluted air had put the health and daily lives of ordinary citizens at serious risk, with children and older adults particularly vulnerable."
+      },
+      {
+        "claim": "The government and responsible agencies have failed to deliver concrete solutions",
+        "quote": "Despite repeated warnings and the worsening situation, the government and responsible agencies have failed to deliver concrete solutions."
+      },
+      {
+        "claim": "Students demand clean air for a healthy Delhi",
+        "quote": "NSUI members and students held oxygen masks to their noses and held up placards saying \"students demand clean air for a healthy Delhi\"."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest is part of ongoing efforts to address Delhi's air pollution crisis, with the NSUI demanding immediate government action.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "5 outlets in the last 48 hours."
+  }
+}

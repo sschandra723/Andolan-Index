@@ -1,0 +1,66 @@
+{
+  "id": "d7d45201ef",
+  "url": "https://www.thehindu.com/news/national/ladakh/restrictions-on-me-arbitrary-vague-sonam-wangchuk/article71695290.ece",
+  "title": "Restrictions on me arbitrary, vague: Sonam Wangchuk",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": "ladakh-statehood",
+  "score": 3.0,
+  "matched": [
+    "Ladakh",
+    "Sonam Wangchuk",
+    "Leh"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3446,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh activist Sonam Wangchuk criticized the administration's restrictions on his movement as arbitrary and disproportionate, claiming no written order for house arrest was issued despite being monitored by police.",
+    "facts": [
+      {
+        "claim": "Ladakh activist Sonam Wangchuk described the restrictions imposed by the administration on him as 'bad in law, arbitrary, vague and disproportionate'",
+        "quote": "Ladakh activist Sonam Wangchuk on Thursday (November 12, 2026) described the restrictions imposed by the administration on him as “bad in law, arbitrary, vague and disproportionate” and conspicuously “not using words such as house arrest”."
+      },
+      {
+        "claim": "The Ladakh administration shifted Mr. Wangchuk from a protest venue to his residence in Leh",
+        "quote": "Invoking Section 163(1) of the BNSS, the Ladakh administration on Wednesday (November 11, 2026) evening shifted Mr. Wangchuk from a protest venue to his residence in Leh and has been allegedly restrained from leaving his residence."
+      },
+      {
+        "claim": "Wangchuk claimed there was no explicit order of house arrest or directing deployment of police personnel shown to him",
+        "quote": "He claimed there was “no explicit order of house arrest or directing deployment of police personnel was shown to me then, and none has been served on me since”."
+      },
+      {
+        "claim": "The order did not use words such as 'house arrest' or 'detention'",
+        "quote": "The order does not use the words “detention” or “confinement”. It nowhere directs me to remain at my residence — a direction given orally to me by the personnel who picked me up and are now present outside my house."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh activists have been protesting for statehood since 2019, following the loss of statehood in 2019 when it was split into two union territories. The current movement focuses on demands for statehood and electoral process reforms.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/4",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The order does not use the words “detention” or “confinement”. It nowhere direct”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

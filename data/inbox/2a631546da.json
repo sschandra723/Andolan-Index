@@ -1,0 +1,54 @@
+{
+  "id": "2a631546da",
+  "url": "https://www.thehindu.com/news/national/karnataka/jds-takes-out-bike-rally-in-protest-against-milk-price-bus-fare-hike/article71693535.ece",
+  "title": "JD(S) takes out bike rally in protest against milk price, bus fare hike",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2305,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Janata Dal (Secular) activists held a motorcycle rally in Yadgir to protest state government hikes in milk, curd, and bus fares, citing drought impacts and affordability issues for farmers and households.",
+    "facts": [
+      {
+        "claim": "Several hundreds Janata Dal (Secular) activists and supporters of Gurmitkal MLA Sharanagouda Kandkur took out a motorcycle rally in Yadgir on Thursday to protest against the State government decision to hike the prices of milk, curd and also, bus fares.",
+        "quote": "Several hundreds Janata Dal (Secular) activists and supporters of Gurmitkal MLA Sharanagouda Kandkur took out a motorcycle rally in Yadgir on Thursday to protest against the State government decision to hike the prices of milk, curd and also, bus fares."
+      },
+      {
+        "claim": "The Janata Dal(S) demands that the State government immediately roll back the increase in the prices of milk, curd and bus fares to ensure affordability for daily commuters and households.",
+        "quote": "The Janata Dal(S) demands that the State government immediately roll back the increase in the prices of milk, curd and bus fares to ensure affordability for daily commuters and households,"
+      },
+      {
+        "claim": "Addressing the gathering, the party leaders said that the State is reeling under severe drought following a prolonged dry spell and rainfall deficit, leaving farmers with heavy crop losses.",
+        "quote": "Addressing the gathering, the party leaders said that the State is reeling under severe drought following a prolonged dry spell and rainfall deficit, leaving farmers with heavy crop losses."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Janata Dal (Secular) activists held a motorcycle rally in Yadgir to protest state government hikes in milk, curd, and bus fares, citing drought impacts and affordability issues for farmers and households.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

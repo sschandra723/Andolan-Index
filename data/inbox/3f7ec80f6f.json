@@ -1,0 +1,62 @@
+{
+  "id": "3f7ec80f6f",
+  "url": "https://theprint.in/india/nsui-stages-protest-against-rising-pollution-in-delhi/3096957/",
+  "title": "NSUI stages protest against rising pollution in Delhi",
+  "outlet": "ThePrint",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1079,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "The National Students’ Union of India staged a protest in New Delhi against rising pollution levels, demanding urgent action to improve air quality and protect public health.",
+    "facts": [
+      {
+        "claim": "The National Students’ Union of India staged a protest in New Delhi against rising pollution levels",
+        "quote": "The National Students’ Union of India (NSUI) staged a protest against the rising pollution levels in the national capital on Wednesday, demanding urgent measures to tackle the deteriorating air quality and protect public health."
+      },
+      {
+        "claim": "The protest was held at the NSUI headquarters on Raisina Road",
+        "quote": "The protest was held at the NSUI headquarters on Raisina Road"
+      },
+      {
+        "claim": "The student organisation said the demonstration highlights the growing pollution crisis and its adverse impact on the health and daily lives of ordinary citizens",
+        "quote": "The student organisation said the demonstration highlights the growing pollution crisis and its adverse impact on the health and daily lives of ordinary citizens."
+      },
+      {
+        "claim": "NSUI members and students held oxygen masks to their noses and held up placards saying 'students demand clean air for a healthy Delhi'",
+        "quote": "NSUI members and students held oxygen masks to their noses and held up placards saying “students demand clean air for a healthy Delhi”."
+      },
+      {
+        "claim": "The average AQI remained at 330, in the very poor category, at 1 pm on Thursday",
+        "quote": "The average AQI remained at 330, in the very poor category, at 1 pm on Thursday"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest occurs amid Delhi's deteriorating air quality, with pollution levels in the very poor category (AQI 330) as winter season approaches.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

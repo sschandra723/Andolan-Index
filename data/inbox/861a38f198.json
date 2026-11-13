@@ -1,0 +1,52 @@
+{
+  "id": "861a38f198",
+  "url": "https://www.ndtv.com/india-news/wangchuk-claims-house-arrest-amid-planned-ladakh-protest-alleges-security-deployment-outside-home-12319521",
+  "title": "Sonam Wangchuk Claims \"House Arrest\" Amid Planned Ladakh Protest",
+  "outlet": "NDTV",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Ladakh",
+    "Sonam Wangchuk"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A protest movement in Ladakh is planning demonstrations amid claims by Sonam Wangchuk that he is under house arrest.",
+    "facts": [
+      {
+        "claim": "Sonam Wangchuk claims he is under house arrest",
+        "quote": "Sonam Wangchuk Claims \"House Arrest\" Amid Planned Ladakh Protest"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh, a union territory without a legislature since 2019, wants the same protections as tribal areas in four north-eastern states under the Sixth Schedule.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

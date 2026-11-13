@@ -1,0 +1,58 @@
+{
+  "id": "b7a410fe03",
+  "url": "https://www.thehindu.com/news/national/kerala/psanal-mohan-resigns-from-kchr-executive-council/article71693940.ece",
+  "title": "P. Sanal Mohan resigns from KCHR executive council",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2508,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Kerala Council for Historical Research (KCHR) executive council members resigned in protest against the appointment of Vinodkumar Kallolikkal as chairperson, with official sources claiming the resignations were to avoid inquiry into alleged irregular appointments during the previous administration.",
+    "facts": [
+      {
+        "claim": "KCHR executive council members resigned in protest against the appointment of Vinodkumar Kallolikkal as chairperson",
+        "quote": "Academic P. Sanal Mohan has resigned from the executive council of the Kerala Council for Historical Research (KCHR)."
+      },
+      {
+        "claim": "Official sources claim the resignations were to avoid inquiry into alleged irregular appointments",
+        "quote": "official sources have defended the appointment and alleged that the resignations were orchestrated to avoid inquiry into purported irregularities during the previous administration’s tenure."
+      },
+      {
+        "claim": "Previous leadership made irregular appointments without prior listing or search committee",
+        "quote": "the previous leadership had undertaken irregular appointments during an executive council meeting on December 22, 2025, during which the KCHR director introduced three new members (Dr. Devadevan, V.J. Varghese and Shilpa Satheesh) without prior listing or the involvement of a search committee as mandated."
+      },
+      {
+        "claim": "The KCHR executive council had failed to adhere to its framework in appointing Dr. Devadevan as director",
+        "quote": "a government order had invalidated the proposed selection process, observing that the KCHR executive council had failed to adhere to its framework."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "KCHR executive council members resigned in protest against the appointment of Vinodkumar Kallolikkal as chairperson, with official sources claiming the resignations were to avoid inquiry into alleged irregular appointments during the previous administration.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

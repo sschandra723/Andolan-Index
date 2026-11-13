@@ -1,0 +1,60 @@
+{
+  "id": "c1d37cb528",
+  "url": "https://www.thehindu.com/news/national/kerala/sfi-activists-booked-for-protesting-against-minister-at-maharajas-college-in-keralams-kochi-granted-anticipatory-bail/article71695062.ece",
+  "title": "SFI activists booked for protesting against Minister at Maharaja’s College in Keralam’s Kochi granted anticipatory bail",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1149,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "SFI activists were granted anticipatory bail after protesting at Maharaja's College in Kochi against the Higher Education Minister, demanding the minister withdraw alleged statements against suspended students of Sree Sankaracharya University of Sanskrit.",
+    "facts": [
+      {
+        "claim": "SFI activists were granted anticipatory bail",
+        "quote": "The Ernakulam Principal Sessions Court has granted anticipatory bail to ten Students Federation of India (SFI) activists booked in connection with a protest staged during a convocation ceremony at Maharaja’s College here attended by Minister for Higher Education Roji M. John."
+      },
+      {
+        "claim": "The protest was against the Higher Education Minister",
+        "quote": "SFI activists staged the protest soon after the Minister completed his inaugural address at the convocation ceremony seeking answers from him about the suspension of 16 students of Sree Sankaracharya University of Sanskrit, Kalady."
+      },
+      {
+        "claim": "The protest demanded the minister withdraw alleged statements against suspended students",
+        "quote": "The activists demanded that the Minister withdraw his alleged statements against those who were suspended for protesting against Vice-Chancellor Ciza Thomas."
+      },
+      {
+        "claim": "The minister left the function midway",
+        "quote": "Following the protest, Mr. John had to leave the function midway."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "SFI activists protested against the Higher Education Minister's alleged statements regarding suspended students of Sree Sankaracharya University of Sanskrit, leading to the minister leaving the convocation ceremony early.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Higher Education Minister” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

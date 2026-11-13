@@ -1,0 +1,80 @@
+{
+  "id": "effd5403ee",
+  "url": "https://www.thehindu.com/news/national/obc-associations-call-for-protest-at-ramlila-maidan-demanding-drop-down-for-all-castes-in-2027-census/article71694662.ece",
+  "title": "OBC associations call for protest at Ramlila Maidan demanding drop-down for all castes in 2027 Census",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2583,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "OBC associations demand nationwide protest at Ramlila Maidan on November 28 to push for a drop-down menu in 2027 Census that assigns unique codes to all castes, including SC, ST, OBC, and General, to ensure accurate social data and proportionate representation.",
+    "facts": [
+      {
+        "claim": "OBC associations called for a nationwide protest at New Delhi’s Ramlila Maidan on November 28",
+        "quote": "The All India Caste Census Coordination Committee on Thursday (November 12, 2026) called for a nationwide protest at New Delhi’s Ramlila Maidan on November 28"
+      },
+      {
+        "claim": "The protest demands a drop-down menu in the 2027 Census that assigns unique codes to all castes",
+        "quote": "the coalition of various OBC associations across the country and other civil society groups called for the Union government to ensure that a drop-down menu is introduced in the Population Enumeration phase of the ongoing Census and that all castes (SC, ST, OBC, and General) are assigned unique codes"
+      },
+      {
+        "claim": "The Centre used an open column for caste enumeration in the 2027 Census, excluding SCs and STs",
+        "quote": "In finalising the questionnaire for this phase of the 2027 Census, the Centre decided that it will enumerate caste through an open column for everyone apart from SCs and STs"
+      },
+      {
+        "claim": "The 2011 SECC exercise used a similar method but was discarded due to inaccuracies",
+        "quote": "This is the same method used in the 2011 Socio-Economic Caste Census (SECC) exercise, which yielded over 46 lakh caste names and the results of which were discarded by this government on account of inaccuracies"
+      },
+      {
+        "claim": "OBC associations argue a drop-down menu is necessary for accurate social data and proportionate representation",
+        "quote": "leaders representing various organisations and OBC associations said a drop-down menu that enumerates all castes was necessary “so that accurate social, educational and economic data” can be gathered “for social justice and proportionate representation”"
+      },
+      {
+        "claim": "Yogendra Yadav, national convener of Bharat Jodo Abhiyan, called for caste census to understand inequalities",
+        "quote": "Activist and political organiser Yogendra Yadav, who represented the Bharat Jodo Abhiyan as national convener, said: “Caste census is essential to understand inequalities and ensure social justice. Every community must be properly counted.”"
+      },
+      {
+        "claim": "G. Kiran Kumar, national president of All India OBC Students Association, demanded unique codes for all castes and removal of 50% reservation ceiling",
+        "quote": "This sentiment was echoed by G. Kiran Kumar, national president of the All India OBC Students Association as well, who added: “Census 2027 is a historic opportunity to ensure social justice. We demand unique codes for all castes, a separate drop-down option for OBCs and the removal of the 50% ceiling on reservations.”"
+      },
+      {
+        "claim": "DMK Rajya Sabha MP P. Wilson called for a standardised caste directory",
+        "quote": "DMK Rajya Sabha MP P. Wilson said, “The government must prepare a standardised caste directory and provide unique codes for every OBC community to ensure accurate enumeration.”"
+      },
+      {
+        "claim": "V. Srinivas Goud, former Telangana government Minister, said such a method ensures OBCs receive due share in education, jobs, and political representation",
+        "quote": "Former Telangana government Minister and national convener of the All India OBC People’s Representatives Forum, V. Srinivas Goud said that such a method was essential to ensure OBCs received their due share in education, jobs, and political representation."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "OBC associations are pushing for a drop-down menu in the 2027 Census to assign unique codes to all castes, arguing that the current open column method used in the 2027 Census (similar to the 2011 SECC) leads to inaccuracies and fails to ensure proportionate representation for OBCs.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "8/9",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “This sentiment was echoed by G. Kiran Kumar, national president of the All India”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

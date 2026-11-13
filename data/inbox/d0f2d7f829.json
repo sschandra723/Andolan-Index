@@ -1,0 +1,62 @@
+{
+  "id": "d0f2d7f829",
+  "url": "https://theshillongtimes.com/2026/11/13/spain-approves-housing-measures-a-day-after-massive-street-protests/",
+  "title": "Spain approves housing measures a day after massive street protests",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "general strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1229,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Spain's interim housing minister said the right to housing won on streets and workplaces after a general strike, with measures to limit evictions approved but their duration dependent on November election.",
+    "facts": [
+      {
+        "claim": "Spain's interim housing minister said the right to housing won on streets and workplaces after a general strike",
+        "quote": "‘Yesterday, the right to housing on the street and in workplaces, and I hope it will win again at the ballot box,’ interim Housing Minister Isabel Rodriguez told lawmakers"
+      },
+      {
+        "claim": "Spain's government approved measures to limit evictions",
+        "quote": "Spain’s interim lower house of parliament on Thursday ratified housing measures designed to limit evictions and real estate speculation"
+      },
+      {
+        "claim": "The measures' duration depends on November election",
+        "quote": "The duration of the approved measures, however, will likely depend on the outcome of a national election set for later this month"
+      },
+      {
+        "claim": "The opposition party said it will repeal the housing measures if it takes power",
+        "quote": "The leading opposition party, the conservative Popular Party, has said that it will repeal the housing measures of the left-wing government if it takes power"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/4",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘Yesterday, the right to housing on the street and in workplaces, and I hope it ”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "1903766a3d",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/sonam-wangchuk-restricted-for-60-days-amid-leh-protest-against-lahdc-polls-101794510312818.html",
+  "title": "Amid protest against LAHDC elections, 60-day movement curbs on Wangchuk",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Ladakh",
+    "Leh"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5245,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh administration imposed 60-day movement restrictions on climate activist Sonam Wangchuk amid protests against LAHDC elections scheduled for December 4, as the Leh Apex Body organized a peaceful protest despite police restrictions.",
+    "facts": [
+      {
+        "claim": "Ladakh administration imposed 60-day movement restrictions on climate activist Sonam Wangchuk",
+        "quote": "Amid protests in Leh against the Ladakh Autonomous Hill Development Council (LAHDC) elections scheduled for December 4, the Ladakh administration has imposed 60-day movement restrictions on climate activist Sonam Wangchuk."
+      },
+      {
+        "claim": "The action came on Wednesday evening, when Ladakh Police removed Wangchuk from a protest site in Leh and escorted him to his residence",
+        "quote": "The action came on Wednesday evening, when Ladakh Police removed Wangchuk from a protest site in Leh and escorted him to his residence"
+      },
+      {
+        "claim": "The order issued by the additional district magistrate, Leh restricts Wangchuk from engaging in any activity, organizing or participating in any unauthorised rally, procession or public gathering",
+        "quote": "In terms of Section 163 of the Bharatiya Nagarik Suraksha Sanhita, 2023, restrictions were imposed on Sonam Wangchuk on his movement and direct him to refrain from engaging in any activity, organising or participating in any unauthorised rally, procession or public gathering, or any conduct likely to cause a breach of public peace, disturbance of public tranquillity or obstruction to the peaceful conduct of the ongoing electoral processes within the territorial jurisdiction of Leh district."
+      },
+      {
+        "claim": "The Leh Apex Body held a demonstration in Leh on Thursday",
+        "quote": "Meanwhile, protesting the holding of the LAHDC and panchayat polls during winter, the Leh Apex Body (LAB) held a demonstration in Leh on Thursday."
+      },
+      {
+        "claim": "The LAB said the peaceful protest was successfully held despite heavy police deployment and restrictions on protests within municipal limits",
+        "quote": "‘Despite the heavy deployment of police and paramilitary personnel and restrictions on organising protests within the municipal limits of Leh and Kargil during the model code of conduct, people from all walks of life across Ladakh participated in large numbers in the peaceful dharna,’ the LAB said in a statement"
+      },
+      {
+        "claim": "The LAB and KDA requested the President, Prime Minister, Union home minister, and Leader of the Opposition to defer December 4 elections to the LAHDC",
+        "quote": "The LAB and Kargil Democratic Alliance (KDA) on Wednesday had made a video appeal to the President, Prime Minister, Union home minister, and Leader of the Opposition in the Lok Sabha, Rahul Gandhi, to defer December 4 elections to the LAHDC."
+      },
+      {
+        "claim": "Ladakh MP Haneefa Jan wrote a letter to the Union home minister Amit Shah seeking postponement of polls",
+        "quote": "Ladakh MP Haneefa Jan also wrote a letter to the Union home minister Amit Shah seeking the postponement of the polls."
+      },
+      {
+        "claim": "Protests in Leh turned violent on September 24, 2025, resulting in four deaths and over 80 injuries",
+        "quote": "Several rounds of talks with the Union home ministry have failed to break the deadlock since September 24, 2025, when protests in Leh turned violent and protesters clashed with police. Four people were killed and more than 80 injured."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh's LAHDC elections scheduled for December 4 face opposition from the Leh Apex Body and KDA, who demand postponement due to winter and a new seat map review, following violent clashes in September 2025.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘Despite the heavy deployment of police and paramilitary personnel and restricti”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

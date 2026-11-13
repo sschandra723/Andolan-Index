@@ -1,0 +1,68 @@
+{
+  "id": "b3199c4031",
+  "url": "https://www.deccanchronicle.com/southern-states/kerala/priyanka-gandhi-defends-right-to-peaceful-protest-2003809",
+  "title": "Priyanka Gandhi Defends Right to Peaceful Protest",
+  "outlet": "Deccan Chronicle",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Jantar Mantar"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1691,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "pu-bachao-morcha-2025",
+    "new_movement": null,
+    "summary": "Wayanad MP Priyanka Gandhi defended peaceful protest rights, stating constitutional guarantees allow citizens to agitate against any government, including Congress-led ones, after police detained LPST rank holders on hunger strike in Thiruvananthapuram.",
+    "facts": [
+      {
+        "claim": "The action drew criticism from the LDF and others, even as the Congress has opposed the Centre's move to denotify Jantar Mantar as a protest site, calling it anti democratic",
+        "quote": "The action drew criticism from the LDF and others, even as the Congress has opposed the Centre's move to denotify Jantar Mantar as a protest site, calling it anti democratic"
+      },
+      {
+        "claim": "Wayanad MP Priyanka Gandhi said the right to protest is guaranteed by the Constitution and people are free to agitate peacefully against the policies of any government, including those led by the Congress party.",
+        "quote": "Wayanad MP Priyanka Gandhi said the right to protest is guaranteed by the Constitution and people are free to agitate peacefully against the policies of any government, including those led by the Congress party."
+      },
+      {
+        "claim": "She was responding to questions on the police action against Lower Primary School Teachers (LPST) rank holders, who were on a hunger strike in front of the Secretariat in Thiruvananthapuram, demanding immediate appointment through PSC . Police removed their tent and took leader Valarmathi into custody, shifting her to hospital.",
+        "quote": "She was responding to questions on the police action against Lower Primary School Teachers (LPST) rank holders, who were on a hunger strike in front of the Secretariat in Thiruvananthapuram, demanding immediate appointment through PSC . Police removed their tent and took leader Valarmathi into custody, shifting her to hospital."
+      },
+      {
+        "claim": "Priyanka told mediapersons, \"My view across India and the world is that people have the right to protest. In democracies, this right is guaranteed by the constitution. I believe people should be allowed to exercise their constitutional rights.\"",
+        "quote": "Priyanka told mediapersons, \"My view across India and the world is that people have the right to protest. In democracies, this right is guaranteed by the constitution. I believe people should be allowed to exercise their constitutional rights.\""
+      },
+      {
+        "claim": "She added, \"If there is violence or the protest becomes excessively aggressive, something is going wrong, or people are getting hurt, then the police should take action, as protesters must respect the rule of law. But as long as the protest, even if it is against our government or policies, remains peaceful, it should be allowed to continue.\"",
+        "quote": "She added, \"If there is violence or the protest becomes excessively aggressive, something is going wrong, or people are getting hurt, then the police should take action, as protesters must respect the rule of law. But as long as the protest, even if it is against our government or policies, remains peaceful, it should be allowed to continue.\""
+      },
+      {
+        "claim": "The rank holders have decided to continue their protest, demanding that the Kerala Public Service Commission make appointments to government schools from the LPST rank list before it expires.",
+        "quote": "The rank holders have decided to continue their protest, demanding that the Kerala Public Service Commission make appointments to government schools from the LPST rank list before it expires."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala Public Service Commission has been under pressure to appoint teachers from LPST rank list before it expires, leading to hunger strikes by rank holders.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

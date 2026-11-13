@@ -1,0 +1,74 @@
+{
+  "id": "934fb6dc3e",
+  "url": "https://www.thehindu.com/news/national/kerala/cpim-leader-p-rajeeve-flays-police-action-against-protesters-in-keralams-thiruvananthapuram/article71694561.ece",
+  "title": "CPI(M) leader P. Rajeeve flays police action against protesters in Keralam’s Thiruvananthapuram",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1263,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "CPI(M) leader P. Rajeeve criticized police actions in Thiruvananthapuram and government handling of public service commission rank lists, accusing authorities of suppressing agitations and reversing assurances.",
+    "facts": [
+      {
+        "claim": "police action against protesters in Thiruvananthapuram",
+        "quote": "police action against protesters in Thiruvananthapuram"
+      },
+      {
+        "claim": "removal to hospital of Valarmathi S.",
+        "quote": "removal to hospital of Valarmathi S., secretary of the action council"
+      },
+      {
+        "claim": "government must specify which court order",
+        "quote": "government must specify which court order within six months of the United Democratic Front (UDF) assuming power that it relied on for such actions"
+      },
+      {
+        "claim": "government owes explanation on extending time frame",
+        "quote": "it owes an explanation on why it \"went back\" on an earlier assurance to extend the time frame for Public Service Commission rank lists"
+      },
+      {
+        "claim": "agitations being suppressed",
+        "quote": "Agitations are being \"suppressed\""
+      },
+      {
+        "claim": "social media accounts closed down",
+        "quote": "social media accounts are being closed down"
+      },
+      {
+        "claim": "government taking credit for KIIFB projects",
+        "quote": "government that is finding fault with the Kerala Infrastructure Investment Fund Board (KIIFB) is taking credit for projects that were taken up under it"
+      },
+      {
+        "claim": "government preparing to inaugurate KIIFB-funded digital park",
+        "quote": "government is preparing to inaugurate the construction work of the KIIFB-funded digital park"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CPI(M) leader P. Rajeeve criticized government actions related to public service commission rank lists and police handling of protests in Kerala, linking it to broader suppression of agitations.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

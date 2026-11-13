@@ -1,0 +1,85 @@
+{
+  "id": "14dceec7b7",
+  "url": "https://www.thehindu.com/news/national/ladakh/ladakh-civil-society-group-begins-protest-over-home-ministry-failure-to-hold-talks/article71694812.ece",
+  "title": "Ladakh civil society group begins protest over Home Ministry failure to hold talks",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Ladakh",
+    "Sonam Wangchuk"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5316,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh civil society group LAB began an indefinite sit-in in Leh demanding MHA resume talks and postpone hill council elections due to concerns over election fairness and population exodus.",
+    "facts": [
+      {
+        "claim": "Ladakh’s civil society group, the Leh Apex Body (LAB), organised an indefinite sit-in in Leh over the failure of the Ministry of Home Affairs (MHA) to resume talks with the civil society bodies of the region and holding of hill council elections at the peak of winter",
+        "quote": "Ladakh’s civil society group, the Leh Apex Body (LAB), on Thursday (November 12, 2026) organised an indefinite sit-in in Leh over the failure of the Ministry of Home Affairs (MHA) to resume talks with the civil society bodies of the region and holding of hill council elections at the peak of winter."
+      },
+      {
+        "claim": "Climate activist Sonam Wangchuk was put under house arrest and disallowed to join the protest",
+        "quote": "Climate activist Sonam Wangchuk was put under house arrest and disallowed to join the protest."
+      },
+      {
+        "claim": "Scores of protesters, both men and women, assembled at the Nawang Dorjay Stobdan (NDS) Memorial Park in Leh",
+        "quote": "Scores of protesters, both men and women, assembled at the Nawang Dorjay Stobdan (NDS) Memorial Park in Leh."
+      },
+      {
+        "claim": "The protesters raised six demands, which included opposition to simultaneous elections, convening of the MHA Sub-Committee meeting, release of the Judicial Enquiry Commission report on the September 24 incident, unconditional withdrawal of all cases, constituting an independent Delimitation Commission and complete roll back of the new liquor policy",
+        "quote": "The protesters raised six demands, which included opposition to simultaneous elections, convening of the MHA Sub-Committee meeting, release of the Judicial Enquiry Commission report on the September 24 incident, unconditional withdrawal of all cases, constituting an independent Delimitation Commission and complete roll back of the new liquor policy."
+      },
+      {
+        "claim": "LAB co-chairman Tsering Dorjey Lakrook said, 'Our indefinite dharna is over the MHA’s failure to resume talks with Ladakh groups and holding of hill council elections at the peak of winter. Already 25% of the population has left Ladakh. This is not the right time to hold elections'",
+        "quote": "Our indefinite dharna is over the MHA’s failure to resume talks with Ladakh groups and holding of hill council elections at the peak of winter. Already 25% of the population has left Ladakh. This is not the right time to hold elections,"
+      },
+      {
+        "claim": "LAB highlighted fears over the fairness of upcoming elections. 'We fear these elections will be rigged. We have apprehensions of vote ‘chori’. Several voters, mostly Gen Z voters, have been deleted from the electoral rolls. They can’t enrol now. We see a conspiracy behind holding of these elections'",
+        "quote": "We fear these elections will be rigged. We have apprehensions of vote ‘chori’. Several voters, mostly Gen Z voters, have been deleted from the electoral rolls. They can’t enrol now. We see a conspiracy behind holding of these elections,"
+      },
+      {
+        "claim": "The State Election Commission (SEC) in Ladakh has announced panchayat and municipal elections on November 21 and hill council elections in eight districts on December 4",
+        "quote": "The State Election Commission (SEC) in Ladakh has announced panchayat and municipal elections on November 21 and hill council elections in eight districts on December 4."
+      },
+      {
+        "claim": "LAB and the Kargil Democratic Alliance (KDA) oppose council elections in December and demand postponement by six months",
+        "quote": "The LAB and the KDA oppose council elections in December and demand postponement by six months."
+      },
+      {
+        "claim": "The District Magistrate, Leh, on Wednesday (November 11, 2026) imposed restrictions on Mr. Wangchuk on his movement, 'to refrain from engaging in any activity, organising or participating in any unauthorised rally, procession or public gathering or conduct that is likely to cause a breach of public peace, disturbance of public tranquillity or obstruction to the peaceful conduct of the ongoing electoral processes within the territorial jurisdiction of Leh'",
+        "quote": "to refrain from engaging in any activity, organising or participating in any unauthorised rally, procession or public gathering or conduct that is likely to cause a breach of public peace, disturbance of public tranquillity or obstruction to the peaceful conduct of the ongoing electoral processes within the territorial jurisdiction of Leh"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh, a Union Territory without a legislature, faces civil society opposition to December hill council elections due to concerns over electoral fairness and population exodus.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "8/9",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The LAB and the KDA oppose council elections in December and demand postponement”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

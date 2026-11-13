@@ -1,0 +1,58 @@
+{
+  "id": "2ab7cce1fc",
+  "url": "https://www.greaterkashmir.com/security/intensive-casos-underway-after-killing-of-2-spos-in-dachchan-marwah-forests-12805091",
+  "title": "Intensive CASOs underway after killing of 2 SPOs in Dachchan-Marwah forests",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2909,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Security forces launched massive search operations in Dachchan-Marwah forests after recovering bullet-riddled bodies of two missing SPOs who went missing while heading to an army post on November 11, 2026.",
+    "facts": [
+      {
+        "claim": "Massive Cordon and Search Operations (CASOs) were launched on Thursday across the treacherous Dachchan-Marwah forests of Kishtwar and adjoining areas after the security forces recovered bullet-riddled bodies of two Special Police Officers (SPOs), who had gone missing while heading towards Dharna army post on November 11, 2026.",
+        "quote": "Jammu, Nov 12: Massive Cordon and Search Operations (CASOs) were launched on Thursday across the treacherous Dachchan-Marwah forests of Kishtwar and adjoining areas after the security forces recovered bullet-riddled bodies of two Special Police Officers (SPOs), who had gone missing while heading towards Dharna army post on November 11, 2026."
+      },
+      {
+        "claim": "The slain SPOs, identified as Rashpal Kumar, 45 and Bobby Chand, 57 were part of SOG Kiyar sector in Dachchan. They were detailed for reporting at 17 RR TOB (Temporary Operational Base) camp in Marwah sector for duty on Wednesday (November 11, 2926) morning yet till late evening they did not reach there, thus triggering searches.",
+        "quote": "The slain SPOs, identified as Rashpal Kumar, 45 and Bobby Chand, 57 were part of SOG Kiyar sector in Dachchan. They were detailed for reporting at 17 RR TOB (Temporary Operational Base) camp in Marwah sector for duty on Wednesday (November 11, 2926) morning yet till late evening they did not reach there, thus triggering searches."
+      },
+      {
+        "claim": "On Thursday evening, their bullet-riddled bodies were recovered 2-3 kms from the site from where they reportedly went missing.",
+        "quote": "On Thursday evening, their bullet-riddled bodies were recovered 2-3 kms from the site from where they reportedly went missing."
+      },
+      {
+        "claim": "Some reports quoting anonymous sources suggested that the duo came under an ambush by a group of terrorists, affiliated to Jaish-e-Muhammad, hidden and active in the area.",
+        "quote": "Some reports quoting anonymous sources suggested that the duo came under an ambush by a group of terrorists, affiliated to Jaish-e-Muhammad, hidden and active in the area."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Security forces launched massive search operations in Dachchan-Marwah forests after recovering bullet-riddled bodies of two missing SPOs who went missing while heading to an army post on November 11, 2026.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

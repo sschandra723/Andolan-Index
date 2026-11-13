@@ -1,0 +1,52 @@
+{
+  "id": "4cb01fb4e7",
+  "url": "https://www.greaterkashmir.com/politics/security-forces-will-establish-lasting-peace-in-jk-sunil-sharma-12805054",
+  "title": "Security forces will establish lasting peace in J&K: Sunil Sharma",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2229,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "J&K opposition leader Sunil Sharma stated security forces will eliminate Pakistan-sponsored terrorists and restore lasting peace in Kashmir after two SPOs were killed in a forest attack.",
+    "facts": [
+      {
+        "claim": "security forces will eliminate Pakistan-sponsored terrorists and restore lasting peace in Kashmir",
+        "quote": "security forces will \"soon eliminate the remnants of Pakistan-sponsored terrorist elements, terror ecosystem and restore lasting peace in Jammu and Kashmir.\""
+      },
+      {
+        "claim": "two SPOs were killed in a forest attack",
+        "quote": "two SPOs on patrol were attacked"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "J&K lost statehood in 2019, when it was split into two union territories. The elected government and the Congress say the Centre has not kept its promise to restore it, and protested in July 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "1/2",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “security forces will \"soon eliminate the remnants of Pakistan-sponsored terroris”"
+      ]
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

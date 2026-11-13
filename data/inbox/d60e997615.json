@@ -1,0 +1,69 @@
+{
+  "id": "d60e997615",
+  "url": "https://nenow.in/north-east-news/manipur/manipur-meitei-idps-announce-mass-rally-on-november-22-demanding-safe-return.html",
+  "title": "Manipur: Meitei IDPs announce mass rally on November 22 demanding safe return",
+  "outlet": "Northeast Now",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": "manipur-protests-2026",
+  "score": 2.0,
+  "matched": [
+    "Manipur",
+    "Imphal"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1737,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "Meitei IDPs in Manipur plan a November 22 rally demanding safe return and rehabilitation of displaced families affected by ethnic violence since May 2023.",
+    "facts": [
+      {
+        "claim": "The Apex Committee of Meitei Internally Displaced Persons (IDPs) announced a mass rally on November 22 to press for safe return and rehabilitation of families displaced by the ongoing crisis in Manipur.",
+        "quote": "Imphal: The Apex Committee of Meitei Internally Displaced Persons (IDPs) announced on Thursday that it would organise a mass rally on November 22 to press for the safe return and rehabilitation of families displaced by the ongoing crisis in Manipur."
+      },
+      {
+        "claim": "The rally will be held under the theme 'Eikhoi Eikhoigi Yumda Hanjinjarage' (We want to return to our homes).",
+        "quote": "Organisers said the demonstration would be held under the theme “Eikhoi Eikhoigi Yumda Hanjinjarage” (We want to return to our homes)."
+      },
+      {
+        "claim": "The march starts at THAU Ground and proceeds towards Khuman Lampak in Imphal.",
+        "quote": "The march is scheduled to begin at THAU Ground and proceed towards Khuman Lampak in Imphal."
+      },
+      {
+        "claim": "The event aims to draw public and administrative attention to the plight of displaced families and convey frustration over prolonged displacement and daily hardships.",
+        "quote": "Committee representatives said the rally aims to draw public and administrative attention to the plight of displaced families. They said the programme seeks to convey the frustration over prolonged displacement and the daily hardships faced by affected families."
+      },
+      {
+        "claim": "The participating committees include CMUC Churachandpur, Meitei Council Moreh, Torbung GP Victim Committee, Apex Committee of Victim Villagers Imphal East, Committee on Protection of Meitei Victims, Kangpokpi Meitei Union and the Mandop Yumpham Relief Camp.",
+        "quote": "The participating bodies include CMUC Churachandpur, Meitei Council Moreh, Torbung GP Victim Committee, Apex Committee of Victim Villagers Imphal East, Committee on Protection of Meitei Victims, Kangpokpi Meitei Union and the Mandop Yumpham Relief Camp."
+      },
+      {
+        "claim": "Thousands of displaced people from ethnic violence starting in May 2023 continue to live in relief camps and temporary shelters with many yet to return home.",
+        "quote": "The announcement comes as thousands of people displaced by the ethnic violence that began in Manipur in May 2023 continue to live in relief camps and temporary shelters. Many are yet to return to their homes, with resettlement and rehabilitation measures still under way."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Meitei IDPs in Manipur are organizing a mass rally on November 22 to demand safe return and rehabilitation of families displaced by ethnic violence since May 2023.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

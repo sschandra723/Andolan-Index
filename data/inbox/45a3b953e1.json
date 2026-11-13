@@ -1,0 +1,66 @@
+{
+  "id": "45a3b953e1",
+  "url": "https://www.thehindu.com/news/national/telangana/bjp-to-protest-rahul-gandhis-visit-for-bharat-summit-ramchander-rao/article71694501.ece",
+  "title": "BJP to protest Rahul Gandhi’s visit for Bharat Summit: Ramchander Rao",
+  "outlet": "The Hindu",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1583,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "BJP Telangana president N. Ramchander Rao announced protests against Rahul Gandhi's visit to Hyderabad for the Bharat Summit, calling it an 'anti-national gathering' and objecting to invited groups and a Norwegian journalist.",
+    "facts": [
+      {
+        "claim": "BJP Telangana president N. Ramchander Rao announced that the party would stage protests against Congress leader and Leader of the Opposition in the Lok Sabha Rahul Gandhi’s visit to Hyderabad for the proposed Bharat Summit",
+        "quote": "BJP Telangana president N. Ramchander Rao on Thursday announced that the party would stage protests against Congress leader and Leader of the Opposition in the Lok Sabha Rahul Gandhi’s visit to Hyderabad for the proposed Bharat Summit."
+      },
+      {
+        "claim": "Rao described the summit as an 'anti-national gathering' rather than an investors’ summit",
+        "quote": "Addressing the BJP Yuva Morcha (BJYM) State executive meeting at Nagole, which was attended by BJYM National President and MP Dr. Hemang Joshi, Mr. Rao once again criticised the event, describing it as an \"anti-national gathering\" rather than an investors’ summit as it had initially been projected."
+      },
+      {
+        "claim": "Rao alleged that the summit would host representatives of organisations such as the 'Progressive Alliance' and 'Progressive International', which he claimed were working with the sole objective of creating 'global anarchy'",
+        "quote": "Alleging that the summit would host representatives of organisations such as the ‘Progressive Alliance’ and ‘Progressive International’, he claimed that these groups were working with the sole objective of creating \"global anarchy\"."
+      },
+      {
+        "claim": "Rao objected to the invitation extended to Norwegian journalist Helle Lyng, alleging that the journalist had previously written articles 'against India and Prime Minister Narendra Modi'",
+        "quote": "He also objected to the invitation extended to Norwegian journalist Helle Lyng, alleging that the journalist had previously written articles \"against India and Prime Minister Narendra Modi\"."
+      },
+      {
+        "claim": "Rao supported the Union Home Ministry’s decision to cancel visas of individuals perceived to have an 'anti-national' stance",
+        "quote": "Supporting the Union Home Ministry’s decision to cancel visas of individuals perceived to have an \"anti-national\" stance, Mr. Rao said such persons were not welcome in India."
+      },
+      {
+        "claim": "Rao claimed that those taking part in recent street protests did not represent the 'real Gen Z' and were instead acting at the behest of external forces",
+        "quote": "The BJP leader also claimed that those taking part in recent street protests did not represent the \"real Gen Z\" and were instead acting at the behest of external forces."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "BJP Telangana president N. Ramchander Rao announced protests against Rahul Gandhi's visit to Hyderabad for the Bharat Summit, calling it an 'anti-national gathering' and objecting to invited groups and a Norwegian journalist.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

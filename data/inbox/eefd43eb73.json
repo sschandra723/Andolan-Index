@@ -1,0 +1,67 @@
+{
+  "id": "eefd43eb73",
+  "url": "https://kashmirobserver.net/2026/11/13/wangchuk-alleges-house-arrest-ahead-of-planned-ladakh-protest/",
+  "title": "Wangchuk Alleges House Arrest Ahead of Planned Ladakh Protest",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Ladakh",
+    "Sonam Wangchuk"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2619,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Climate activist Sonam Wangchuk claims he is under house arrest in Ladakh with police and paramilitary personnel deployed outside his residence, preventing him from participating in a planned protest over demands including the timing of the Autonomous Hill Development Council elections and the release of a Commission of Inquiry report.",
+    "facts": [
+      {
+        "claim": "Wangchuk has alleged that he has been put under house arrest",
+        "quote": "Leh- Climate activist Sonam Wangchuk has alleged that he has been put under house arrest, with around 25 police and paramilitary personnel deployed outside his residence in Ladakh, amid restrictions on a planned protest over various demands concerning the Union Territory."
+      },
+      {
+        "claim": "Wangchuk said he would challenge the restrictions on his movement before legal forums",
+        "quote": "Wangchuk, who is a prominent member of Leh Apex Body (LAB), said he would challenge the restrictions on his movement before the appropriate legal forums, including the magistrate, High Court and the Supreme Court, questioning how a person could be prevented from participating in a peaceful protest without being formally arrested."
+      },
+      {
+        "claim": "Wangchuk alleged armed personnel were deployed on all sides of his house",
+        "quote": "He also alleged that armed personnel were deployed on all sides of his house during the day, restricting his movement."
+      },
+      {
+        "claim": "Wangchuk said the restrictions were placed on him as he and fellow activists were preparing for a sit-in protest",
+        "quote": "Wangchuk said holding the elections during winter was \"unacceptable\", as a significant section of Ladakh’s population would be away from the region."
+      },
+      {
+        "claim": "Ladakh Police defended its preventive action against Wangchuk",
+        "quote": "Ladakh Police defended its preventive action against Wangchuk and said it was in compliance with prohibitory orders issued by the Chief Electoral Officer, UT Ladakh, and the District Magistrate, Leh, regulating public rallies, protests and other public gatherings within the limits of Leh Municipality amid the ongoing election exercise."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Climate activist Sonam Wangchuk, a prominent member of Leh Apex Body (LAB), claims he is under house arrest in Ladakh with police and paramilitary personnel deployed outside his residence, preventing him from participating in a planned protest over demands including the timing of the Autonomous Hill Development Council elections and the release of a Commission of Inquiry report.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "767d2322a5",
+  "url": "https://www.newindianexpress.com/india/2026/Nov/13/ladakh-protest-enters-second-day-wangchuk-claims-under-house-arrest",
+  "title": "Ladakh protest enters second day, Wangchuk claims 'under house arrest'",
+  "outlet": "The New Indian Express",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": "ladakh-statehood",
+  "score": 4.0,
+  "matched": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Leh",
+    "=LAB"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4985,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh protests continue as climate activist Sonam Wangchuk faces house arrest for two months, demanding deferment of hill council polls until May-June 2027 due to winter conditions and release of a judicial inquiry report into September 2025 violence.",
+    "facts": [
+      {
+        "claim": "Ladakh protests continue",
+        "quote": "The Leh Apex Body's (LAB) indefinite dharna has entered a second day defying restrictions imposed by Ladakh administration on protests and sit-ins"
+      },
+      {
+        "claim": "Wangchuk faces house arrest for two months",
+        "quote": "Wangchuk was taken away from the dharna site on Wednesday evening by police and shifted to his residence, where he has been kept under house detention."
+      },
+      {
+        "claim": "Demanding deferment of hill council polls until May-June 2027",
+        "quote": "Dorjay said \"December is not the right time to hold elections in Ladakh\""
+      },
+      {
+        "claim": "Release of judicial inquiry report into September 2025 violence",
+        "quote": "They also sought release of the inquiry report into September 24, 2025 violence in Leh, in which four people were killed and more than 40 injured in police firing."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh protests demand deferment of hill council polls until May-June 2027 due to winter conditions and release of a judicial inquiry report into September 2025 violence in Leh.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "number 2027 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

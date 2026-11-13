@@ -1,0 +1,85 @@
+{
+  "id": "239925a3af",
+  "url": "https://www.outlookindia.com/national/sonam-wangchuk-alleges-house-arrest-in-ladakh-ahead-of-peaceful-protest",
+  "title": "Sonam Wangchuk Alleges House Arrest In Ladakh Ahead Of Peaceful Protest",
+  "outlet": "Outlook India",
+  "published": "2026-11-12",
+  "collected": "2026-11-13",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Ladakh",
+    "Sonam Wangchuk"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2896,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Climate activist Sonam Wangchuk claims he is under house arrest in Ladakh with 25 personnel stationed outside his home, as he prepares for a sit-in protest demanding the release of an inquiry report and rescheduling of December council elections.",
+    "facts": [
+      {
+        "claim": "Wangchuk alleges house arrest, with 25 personnel posted outside home",
+        "quote": "- Wangchuk alleges house arrest, with 25 personnel posted outside home."
+      },
+      {
+        "claim": "Authorities cite election prohibitory orders; Wangchuk will contest them legally",
+        "quote": "- Authorities cite election prohibitory orders; Wangchuk will contest them legally."
+      },
+      {
+        "claim": "Wangchuk says security personnel, vehicles and tents have been outside his residence since Wednesday night",
+        "quote": "Wangchuk said security personnel, vehicles and tents have been outside his residence since Wednesday night"
+      },
+      {
+        "claim": "Wangchuk rejected authorities' reported position that he had merely been 'advised to stay at home'",
+        "quote": "Wangchuk, a prominent member of the Leh Apex Body, rejected the authorities' reported position that he had merely been \"advised to stay at home\"."
+      },
+      {
+        "claim": "Ladakh Police defended the action saying the preventive measures followed prohibitory orders from the Union Territory's Chief Electoral Officer and the Leh District Magistrate",
+        "quote": "Ladakh Police defended the action saying the preventive measures followed prohibitory orders from the Union Territory's Chief Electoral Officer and the Leh District Magistrate."
+      },
+      {
+        "claim": "Wangchuk said the restrictions came as he and other activists were preparing a sit-in",
+        "quote": "Wangchuk said the restrictions came as he and other activists, including leaders of the Leh Apex Body and the Kargil Democratic Alliance, were preparing a sit-in."
+      },
+      {
+        "claim": "Their demands include a rethink on the Autonomous Hill Development Council elections, scheduled for December 4",
+        "quote": "Their demands include a rethink on the Autonomous Hill Development Council elections, scheduled for December 4."
+      },
+      {
+        "claim": "Wangchuk called a winter poll 'unacceptable', since a large part of Ladakh's population is away from the region in those months",
+        "quote": "Wangchuk called a winter poll \"unacceptable\", since a large part of Ladakh's population is away from the region in those months."
+      },
+      {
+        "claim": "Wangchuk repeated his demand that the Commission of Inquiry report on the September 24 incident last year be made public",
+        "quote": "Wangchuk repeated his demand that the Commission of Inquiry report on the September 24 incident last year be made public, alleging that the matter is being suppressed."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Climate activist Sonam Wangchuk claims house arrest in Ladakh ahead of peaceful protest demanding release of inquiry report and rescheduling of December council elections.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "8/9",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Wangchuk called a winter poll \"unacceptable\", since a large part of Ladakh's pop”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

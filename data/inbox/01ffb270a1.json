@@ -1,0 +1,60 @@
+{
+  "id": "01ffb270a1",
+  "url": "https://www.greaterkashmir.com/world/jensen-huang-global-salesman-for-artificial-intelligence-resigns-from-nvidia-after-affair-12805161",
+  "title": "Jensen Huang, global salesman for artificial intelligence, resigns from Nvidia after affair",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5794,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Nvidia CEO Jensen Huang resigned following reports of extramarital affairs and alleged ties to a Chinese spy, causing stock declines and uncertainty for the AI chipmaker.",
+    "facts": [
+      {
+        "claim": "Nvidia CEO Jensen Huang resigned",
+        "quote": "Nvidia CEO Jensen Huang resigned Thursday"
+      },
+      {
+        "claim": "reports of extramarital affairs",
+        "quote": "reports of extramarital affairs"
+      },
+      {
+        "claim": "alleged ties to a Chinese spy",
+        "quote": "alleged ties to a Chinese spy"
+      },
+      {
+        "claim": "stock declined 14% at opening",
+        "quote": "shares of Nvidia plummeting 14 per cent at the opening bell"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/4",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “alleged ties to a Chinese spy”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

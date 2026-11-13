@@ -1,0 +1,53 @@
+{
+  "id": "bf364dd519",
+  "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-the-siang-upper-multipurpose-project-has-been-contentious-explained/article71692608.ece",
+  "title": "Why the Siang Upper Multipurpose Project has been contentious | Explained",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": "siang-dam-protests",
+  "score": 2.0,
+  "matched": [
+    "Siang",
+    "Siang Upper Multipurpose"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 478,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "The Adi community and activists protested against the Siang Upper Multipurpose Project in Arunachal Pradesh, with groups rejecting the Arunachal government's offer of talks on November 5.",
+    "facts": [
+      {
+        "claim": "The proposed Siang Upper Multipurpose Project (SUMP) in Arunachal Pradesh has triggered protests by the Adi community, and activists have been arrested or detained since October.",
+        "quote": "The proposed Siang Upper Multipurpose Project (SUMP) in Arunachal Pradesh has triggered protests by the Adi community, and activists have been arrested or detained since October."
+      },
+      {
+        "claim": "Protesting groups rejected the Arunachal government's offer of talks on November 5.",
+        "quote": "Protesting groups rejected the Arunachal government's offer of talks on November 5."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Siang Indigenous Farmers' Forum opposes a proposed mega dam on the Siang in Arunachal Pradesh, which has led to protests and detentions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 25,
+    "importance_reason": "1 outlet in the last 48 hours; coverage up from 3 to 6 reports this week."
+  }
+}

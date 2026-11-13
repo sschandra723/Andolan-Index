@@ -1,0 +1,62 @@
+{
+  "id": "6903b0510c",
+  "url": "https://nagalandpost.com/people-against-sir-calls-for-nationwide-stir-from-nov-26/",
+  "title": "People Against SIR calls for nationwide stir from Nov 26",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-13",
+  "collected": "2026-11-13",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "Special Intensive Revision",
+    "=SIR",
+    "electoral roll"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1074,
+    "fetch_note": null,
+    "drafted": "2026-11-13",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "People Against SIR announced nationwide protests from November 26 to December 20, 2026, aiming to reclaim Delhi’s Jantar Mantar as a protest site and push for voting rights restoration before elections.",
+    "facts": [
+      {
+        "claim": "People Against SIR announced nationwide protests from November 26 to December 20, 2026",
+        "quote": "People Against SIR, a platform of organisations and activists campaigning against the Special Intensive Revision of electoral rolls, on Thursday announced nationwide protests from November 26 to December 20, with a call to reclaim Delhi’s Jantar Mantar as a designated protest site."
+      },
+      {
+        "claim": "The campaign includes demonstrations on Constitution Day (November 26), Human Rights Day (December 10), public meetings, and rallies",
+        "quote": "The platform said the campaign would include demonstrations on the Constitution Day on November 26, mass gatherings on Human Rights Day on December 10, public meetings and rallies across states, and booth-level meetings."
+      },
+      {
+        "claim": "The campaign aims to push for voting rights restoration before any elections",
+        "quote": "The campaign will end on December 20, when the platform would appeal to President Droupadi Murmu to ensure restoration of voting rights before any elections are announced."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "People Against SIR is a coalition opposing the Special Intensive Revision (SIR) of electoral rolls, which the Election Commission conducts to recheck voter lists. The campaign seeks to cancel the SIR exercise and restore voting rights before elections.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "number 2026 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

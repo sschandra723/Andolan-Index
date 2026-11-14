@@ -1,0 +1,64 @@
+{
+  "id": "f3a34019e6",
+  "url": "https://www.indiatoday.in/india/video/lawyers-protest-in-lucknow-demanding-advocates-protection-act-implementation-ytvd-3038808-2026-11-14",
+  "title": "Lawyers in Lucknow protest for Advocates Protection Act and other demands",
+  "outlet": "India Today",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Lucknow"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1276,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "up-nhm-staff-2026",
+    "new_movement": null,
+    "summary": "Lawyers in Uttar Pradesh held a large protest in Lucknow demanding implementation of the Advocates Protection Act and other demands including toll tax exemptions and restoration of chambers.",
+    "facts": [
+      {
+        "claim": "Lawyers in Uttar Pradesh held a large protest in Lucknow",
+        "quote": "Lawyers in Uttar Pradesh held a large protest in Lucknow calling for the implementation of the Advocates Protection Act."
+      },
+      {
+        "claim": "Nearly 48 districts participated",
+        "quote": "Nearly 48 districts participated, removing police barricades en route to the Legislative Assembly."
+      },
+      {
+        "claim": "They requested that the draft Act be discussed with all Bar Associations before enforcement",
+        "quote": "They requested that the draft Act be discussed with all Bar Associations before enforcement."
+      },
+      {
+        "claim": "Other demands included toll tax exemptions, restoration of chambers, and insurance schemes",
+        "quote": "Other demands included toll tax exemptions, restoration of chambers, and insurance schemes."
+      },
+      {
+        "claim": "Bar leaders warned of work stoppage and a mahapanchayat if demands remain unmet within 15 days",
+        "quote": "Bar leaders warned of work stoppage and a mahapanchayat if demands remain unmet within 15 days."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Lawyers in Uttar Pradesh held a protest in Lucknow demanding implementation of the Advocates Protection Act and other demands including toll tax exemptions and restoration of chambers.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

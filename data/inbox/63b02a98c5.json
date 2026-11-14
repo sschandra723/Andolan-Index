@@ -1,0 +1,52 @@
+{
+  "id": "63b02a98c5",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/will-stop-supply-to-mills-if-demands-not-met-haryana-cane-farmers-101794596757966.html",
+  "title": "Will stop supply to mills if demands not met: Haryana cane farmers",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3251,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Haryana cane farmers announced an indefinite protest at Yamunanagar sugar mill starting November 15, threatening to stop sugarcane supply until state government raises price to ₹600 per quintal from current ₹430.",
+    "facts": [
+      {
+        "claim": "Haryana cane farmers announced an indefinite protest at Yamunanagar sugar mill starting November 15",
+        "quote": "BKU (Charuni) announces indefinite day-and-night protest at Yamunanagar mill from November 15"
+      },
+      {
+        "claim": "threatening to stop sugarcane supply until state government raises price to ₹600 per quintal from current ₹430",
+        "quote": "Agitated over the ₹15-per-quintal hike in the state advised price (SAP) of sugarcane, the Bharatiya Kisan Union (Charuni) has announced that farmers will not supply sugarcane to sugar mills in Haryana until the state government raises the price to ₹600 per quintal from the ₹430 fixed for the 2026-27 crushing season."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Haryana farmers are demanding ₹600 per quintal for sugarcane for the 2026-27 season, up from ₹430, after the state raised the advised price by ₹15 from ₹415 in the previous season.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 35,
+    "importance_reason": "3 outlets in the last 48 hours; coverage up from 0 to 1 reports this week."
+  }
+}

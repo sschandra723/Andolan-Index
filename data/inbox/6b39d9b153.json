@@ -1,0 +1,70 @@
+{
+  "id": "6b39d9b153",
+  "url": "https://www.news9live.com/india/delhi-police-proposes-new-ramlila-ground-protest-rules-sets-50000-person-limit-3024535",
+  "title": "Delhi Police proposes new Ramlila ground protest rules, sets 50,000-person limit",
+  "outlet": "News9Live",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2634,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "Delhi Police proposed new protest rules for Ramlila Ground with a 50,000-person limit, fixed timings and security measures after removing Jantar Mantar as a protest venue.",
+    "facts": [
+      {
+        "claim": "Delhi Police has proposed new Ramlila Ground protest guidelines, including a 50,000-person limit, fixed timings and stricter security measures",
+        "quote": "Delhi Police has proposed new Ramlila Ground protest guidelines, including a 50,000-person limit, fixed timings and stricter security measures."
+      },
+      {
+        "claim": "The move comes after Delhi Police issued a standing order on October 11, removing Jantar Mantar from the list of designated protest venues",
+        "quote": "The move comes after Delhi Police issued a standing order on October 11, removing Jantar Mantar from the list of designated protest venues."
+      },
+      {
+        "claim": "Ramlila Ground, Burari Ground and CBD Ground in east Delhi were identified as alternative locations for demonstrations",
+        "quote": "Ramlila Ground, Burari Ground and CBD Ground in east Delhi were identified as alternative locations for demonstrations."
+      },
+      {
+        "claim": "Under the proposed SOP, organisers will first need to obtain confirmation from the Municipal Corporation of Delhi (MCD) regarding the availability of Ramlila Ground",
+        "quote": "Under the proposed SOP, organisers will first need to obtain confirmation from the Municipal Corporation of Delhi (MCD) regarding the availability of Ramlila Ground."
+      },
+      {
+        "claim": "Applications will generally have to be submitted at least 10 days before the scheduled event",
+        "quote": "Applications will generally have to be submitted at least 10 days before the scheduled event."
+      },
+      {
+        "claim": "The proposed guidelines also include restrictions on items that could pose security risks",
+        "quote": "The proposed guidelines also include restrictions on items that could pose security risks."
+      },
+      {
+        "claim": "Ramlila Ground has recently hosted several major political events, including the INDIA bloc’s November 1 rally against alleged irregularities in the Special Intensive Revision (SIR) of electoral rolls",
+        "quote": "Ramlila Ground has recently hosted several major political events, including the INDIA bloc’s November 1 rally against alleged irregularities in the Special Intensive Revision (SIR) of electoral rolls."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Police removed Jantar Mantar as a protest venue and designated Ramlila Ground as an alternative after a committee recommended new protest locations.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

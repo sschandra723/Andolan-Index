@@ -1,0 +1,62 @@
+{
+  "id": "5091315b0a",
+  "url": "https://nagalandpost.com/ao-senden-calls-off-agitation-after-demands-fulfilled/",
+  "title": "Ao Senden calls off agitation after demands fulfilled",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1123,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "nagaland-mon-killings-2021",
+    "new_movement": null,
+    "summary": "Ao Senden, a Naga tribal group, ended its agitation after fulfilling demands for transfers, postings and attachments at a district hospital in Mokokchung, Nagaland, following support from allies and government intervention.",
+    "facts": [
+      {
+        "claim": "Ao Senden has called off its agitation, which began on October 21, following the fulfilment of all demands submitted to the directorate of health and family welfare (H&FW) over transfers, postings and attachments at Dr. Imkongliba Memorial District Hospital (IMDH), Mokokchung.",
+        "quote": "Ao Senden has called off its agitation, which began on October 21, following the fulfilment of all demands submitted to the directorate of health and family welfare (H&FW) over transfers, postings and attachments at Dr. Imkongliba Memorial District Hospital (IMDH), Mokokchung."
+      },
+      {
+        "claim": "In a press release, Ao Senden president Marsanen Imsong and general secretary Imtipokyim said the demands, raised through an ultimatum dated September 16, 2026, had been fulfilled.",
+        "quote": "In a press release, Ao Senden president Marsanen Imsong and general secretary Imtipokyim said the demands, raised through an ultimatum dated September 16, 2026, had been fulfilled."
+      },
+      {
+        "claim": "The organisation expressed gratitude to the Ao Students’ Conference (AKM), Ao Lanur Telungjem (ALT), Watsü Mungdang (WM) and All Wards Union Mokokchung Town (AWUMT) for their unstinted support during the agitation.",
+        "quote": "The organisation expressed gratitude to the Ao Students’ Conference (AKM), Ao Lanur Telungjem (ALT), Watsü Mungdang (WM) and All Wards Union Mokokchung Town (AWUMT) for their unstinted support during the agitation."
+      },
+      {
+        "claim": "Ao Senden also expressed gratitude to the people for their understanding, cooperation and solidarity. The organisation also thanked all those responsible individuals for their support and wisdom during the agitation.",
+        "quote": "Ao Senden also expressed gratitude to the people for their understanding, cooperation and solidarity. The organisation also thanked all those responsible individuals for their support and wisdom during the agitation."
+      },
+      {
+        "claim": "Further, Ao Senden acknowledged legislators from Mokokchung district, chief secretary Sentiyanger Imchen and deputy commissioner (DC) Mokokchung Ajit Kumar Verma for their intervention in resolving the matter.",
+        "quote": "Further, Ao Senden acknowledged legislators from Mokokchung district, chief secretary Sentiyanger Imchen and deputy commissioner (DC) Mokokchung Ajit Kumar Verma for their intervention in resolving the matter."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ao Senden, a Naga tribal group, ended its agitation after fulfilling demands for transfers, postings and attachments at a district hospital in Mokokchung, Nagaland, following support from allies and government intervention.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

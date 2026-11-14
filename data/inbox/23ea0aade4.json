@@ -1,0 +1,58 @@
+{
+  "id": "23ea0aade4",
+  "url": "https://www.thehindu.com/news/national/ladakh/should-ladakh-be-hub-of-agitation-or-development-lahdc-ks-former-chief-executive-councillor/article71698682.ece",
+  "title": "Should Ladakh be hub of agitation or development?: LAHDC-K’s former Chief Executive Councillor",
+  "outlet": "The Hindu",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": "ladakh-statehood",
+  "score": 3.0,
+  "matched": [
+    "Ladakh",
+    "Leh",
+    "=LAB"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3307,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh's Leh Apex Body and Kargil Democratic Alliance are holding an indefinite sit-in protest in Leh demanding renewed talks with the Centre and postponed hill council elections, with a former LAHDC-K CEC urging voters to choose between making the region a hub of agitation or development.",
+    "facts": [
+      {
+        "claim": "Ladakh's Leh Apex Body and Kargil Democratic Alliance are holding an indefinite sit-in protest in Leh",
+        "quote": "As the Leh Apex Body’s (LAB) indefinite sit-in entered its second day on Friday (November 13, 2026),"
+      },
+      {
+        "claim": "demanding renewed talks with the Centre and postponed hill council elections",
+        "quote": "pushing for the resumption of talks with the Centre and for the postponement of hill council elections"
+      },
+      {
+        "claim": "a former LAHDC-K CEC urging voters to choose between making the region a hub of agitation or development",
+        "quote": "Dr. Mohammad Jaffer Akhoon’s remarks came as LAB continued its protest in Leh pushing for the resumption of talks with the Centre and for the postponement of hill council elections. \"I appeal to voters, especially the new generation, to participate in the upcoming elections of panchayat, municipality and hill councils. We want democracy. Don’t we want elected councillors to raise the issues of people. Unfortunately, some people have developed vested interest. We need to think whether we want this region as a hub of agitation or a hub for development,\" said Mr. Akhoon, who recently stepped down as CEC of the LAHDC-K and joined the BJP."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh, a union territory without a legislature since 2019, has been seeking statehood through protests since 2026, with the current agitation centered on holding elections and special status.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "5d9ddf8c02",
+  "url": "https://theshillongtimes.com/2026/11/14/support-swells-for-jacs-anti-ropeway-agitation/",
+  "title": "Support swells for JAC’s anti-ropeway agitation",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5229,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "Support for the Joint Action Committee (JAC) against the Shillong Ropeway Project is growing, with women protesters camping near a statue since November 6 demanding government abandonment or relocation of the project, which activists call an ecological disaster.",
+    "facts": [
+      {
+        "claim": "Support for the Joint Action Committee (JAC) Against the Shillong Ropeway Project fighting is gaining strength with each passing day",
+        "quote": "Support for the Joint Action Committee (JAC) Against the Shillong Ropeway Project fighting is gaining strength with each passing day, with more voices being raised against what is being termed as an ecologically catastrophic project."
+      },
+      {
+        "claim": "Women protesters under the JAC have been camping near the life-size statue of U Kiang Nangbah opposite Civil Hospital since November 6",
+        "quote": "Women protesters under the JAC have been camping near the life-size statue of U Kiang Nangbah opposite Civil Hospital since November 6, demanding that the government abandon or relocate the ropeway planned at U Lum Shyllong."
+      },
+      {
+        "claim": "HYC Women’s Wing president Badashisha Lyngkhoi met the demonstrators",
+        "quote": "A team led by HYC Women’s Wing president Badashisha Lyngkhoi met the demonstrators."
+      },
+      {
+        "claim": "VPP State Youth Wing leader Jeremaiah Kharshiing questioned how the NPP-led MDA 2.0 government could push the project ahead amid growing opposition",
+        "quote": "VPP State Youth Wing leader Jeremaiah Kharshiing, after meeting the women protesters, questioned how the NPP-led MDA 2.0 government could push the project ahead amid growing opposition."
+      },
+      {
+        "claim": "Khanduli residents rejected the government’s proposal to form yet another expert committee",
+        "quote": "Residents of Khanduli, on the Meghalaya-Assam border in Jaintia Hills, also visited the protest site and rejected the government’s proposal to form yet another expert committee."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The JAC has been protesting the Shillong Ropeway Project since November 6, camping near a statue to demand government abandonment or relocation of the project, which activists describe as an ecological disaster.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

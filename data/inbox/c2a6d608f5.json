@@ -1,0 +1,54 @@
+{
+  "id": "c2a6d608f5",
+  "url": "https://www.thehindu.com/news/national/kerala/rescue-guards-undergo-specialised-training-in-iruvazhinji-river/article71696965.ece",
+  "title": "Rescue guards undergo specialised training in Iruvazhinji river",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1562,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Fire and rescue personnel in Kerala completed specialised training to handle river emergencies after rising tourist accidents near the Iruvazhinji river.",
+    "facts": [
+      {
+        "claim": "Fire and Rescue Services personnel under the Kozhikode division underwent specialised rope rescue training",
+        "quote": "Following a surge in accidents involving visitors reportedly lured to unfamiliar spots by social media reels, the Fire and Rescue Services personnel under the Kozhikode division underwent specialised rope rescue training."
+      },
+      {
+        "claim": "Incidents of tourists getting stranded on river islets due to sudden flash floods and strong currents have become frequent within the Mukkom fire station limits, particularly along the Iruvazhinji river",
+        "quote": "According to rescue officials, incidents of tourists getting stranded on river islets due to sudden flash floods and strong currents have become frequent within the Mukkom fire station limits, particularly along the Iruvazhinji river."
+      },
+      {
+        "claim": "The sessions focussed on rapidly deploying and anchoring ropes across swollen rivers to safely evacuate stranded individuals to the shore",
+        "quote": "The sessions focussed on rapidly deploying and anchoring ropes across swollen rivers to safely evacuate stranded individuals to the shore."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

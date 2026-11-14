@@ -1,0 +1,65 @@
+{
+  "id": "1dcc06e674",
+  "url": "https://www.thehindu.com/news/cities/Madurai/workers-federation-calls-for-state-wide-protest-against-labour-codes/article71698895.ece",
+  "title": "Workers’ federation calls for State-wide protest against labour codes",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": "labour-codes-strike-2025",
+  "score": 2.0,
+  "matched": [
+    "labour codes",
+    "labour code"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1374,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "labour-codes-strike-2025",
+    "new_movement": null,
+    "summary": "The Unorganised Workers’ Federation (UWF) organised a meeting in Thoothukudi to call for state-wide protests on November 26 against Tamil Nadu's labour codes, urging the state government to pass a resolution opposing the codes which unions say weaken job security and workers' rights.",
+    "facts": [
+      {
+        "claim": "The Unorganised Workers’ Federation (UWF) organised a meeting in Thoothukudi to call for state-wide protests on November 26 against Tamil Nadu's labour codes",
+        "quote": "A southern regional consultation meeting organised by the Unorganised Workers’ Federation (UWF) was held in Thoothukudi on Friday. The meeting resolved to organise State-wide protests on November 26, urging the State government to pass a resolution opposing the labour codes introduced by the union government."
+      },
+      {
+        "claim": "The meeting resolved to organise State-wide protest at the district headquarters on November 26, urging the Tamil Nadu government to pass a resolution in the legislative Assembly opposing the four labour codes",
+        "quote": "The meeting resolved to organise State-wide protest at the district headquarters on November 26, urging the Tamil Nadu government to pass a resolution in the legislative Assembly opposing the four labour codes introduced by the union government."
+      },
+      {
+        "claim": "Trade union representatives, office bearers of workers’ organisations and representatives of workers from various sectors in Thoothukudi, Tirunelveli, Kanniyakumari and Tenkasi districts participated in the meeting",
+        "quote": "Trade union representatives, office bearers of workers’ organisations and representatives of workers from various sectors in Thoothukudi, Tirunelveli, Kanniyakumari and Tenkasi districts participated in the meeting."
+      },
+      {
+        "claim": "The participants discussed the potential impact of the four labour codes introduced by the union government on workers’ rights, job security, social security and trade union rights",
+        "quote": "The participants discussed the potential impact of the four labour codes introduced by the union government on workers’ rights, job security, social security and trade union rights."
+      },
+      {
+        "claim": "They also expressed concern that the welfare boards functioning under the Tamil Nadu Manual Workers Act could face the risk of being dismantled following the implementation of labour codes",
+        "quote": "They also expressed concern that the welfare boards functioning under the Tamil Nadu Manual Workers Act could face the risk of being dismantled following the implementation of labour codes."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The labour codes were introduced by the Centre in November 2025, which unions say weaken job security and workers' rights, leading to nationwide protests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

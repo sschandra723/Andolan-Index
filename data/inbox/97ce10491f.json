@@ -1,0 +1,72 @@
+{
+  "id": "97ce10491f",
+  "url": "https://www.hindustantimes.com/india-news/this-movement-has-made-people-more-aware-akhilesh-yadav-on-youth-cjp-and-recent-protests-htls-2026-101794648853595.html",
+  "title": "‘Youngsters don’t want false promises': Akhilesh Yadav on youth, CJP and recent protests",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3304,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Akhilesh Yadav stated that Gen Z and younger generations reject false promises and demand clarity on what is possible, following protests that led to an education minister's resignation over examination irregularities.",
+    "facts": [
+      {
+        "claim": "Gen Z and the younger generation are clear about what they want, Akhilesh Yadav said at HT Leadership Summit, adding that they do not want false promises.",
+        "quote": "Gen Z and the younger generation are clear about what they want, Akhilesh Yadav said at HT Leadership Summit, adding that they do not want false promises."
+      },
+      {
+        "claim": "The Samajwadi Party has always stood with young people, said party supremo Akhilesh Yadav on Saturday, when asked about his views on the Cockroach Janta Party (CJP) and the protests led by the outfit, one of which led to the resignation of education minister over examination irregularities.",
+        "quote": "The Samajwadi Party has always stood with young people, said party supremo Akhilesh Yadav on Saturday, when asked about his views on the Cockroach Janta Party (CJP) and the protests led by the outfit, one of which led to the resignation of education minister over examination irregularities."
+      },
+      {
+        "claim": "When these young people saw how the government was playing with their children's futures, they came out and protested. Not just the students, but their parents also joined them. This movement has made people more aware",
+        "quote": "When these young people saw how the government was playing with their children's futures, they came out and protested. Not just the students, but their parents also joined them. This movement has made people more aware,"
+      },
+      {
+        "claim": "Gen Z and the younger generation are clear about what they want, he said, adding that they do not want false promises. \"They want clarity about what is possible and what is not.\"",
+        "quote": "Gen Z and the younger generation are clear about what they want, he said, adding that they do not want false promises. \"They want clarity about what is possible and what is not.\""
+      },
+      {
+        "claim": "Given the reach of social media and the penetration of the internet in society today, you cannot get away with lying to people. Ultimately, even the Prime Minister had to acknowledge the issue, and a minister had to be removed. That was the biggest achievement of the youth",
+        "quote": "Given the reach of social media and the penetration of the internet in society today, you cannot get away with lying to people. Ultimately, even the Prime Minister had to acknowledge the issue, and a minister had to be removed. That was the biggest achievement of the youth,"
+      },
+      {
+        "claim": "He said he was happy to see youth from UP and Bihar turn up in large numbers to the protests.",
+        "quote": "He said he was happy to see youth from Uttar Pradesh and Bihar turn up in large numbers to the protests."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protests led by the Cockroach Janta Party (CJP) resulted in the resignation of an education minister over examination irregularities, highlighting youth-led demands for transparency in education policies.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “He said he was happy to see youth from Uttar Pradesh and Bihar turn up in large ”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

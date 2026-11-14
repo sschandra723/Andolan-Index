@@ -1,0 +1,58 @@
+{
+  "id": "6f54a7316a",
+  "url": "https://www.hindustantimes.com/india-news/telangana-bjp-chief-put-under-house-arrest-to-prevent-protest-against-rahul-gandhi-s-visit-n-ramchander-rao-bharat-summit-101794641730338.html",
+  "title": "Telangana BJP chief put under ‘house arrest’ to prevent protest against Rahul Gandhi’s visit",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Telangana BJP chief N Ramchander Rao was placed under house arrest by police to prevent protests against Rahul Gandhi's visit to Hyderabad for the Bharat Summit, which he accused of being an 'Anti-India' event promoting foreign criticism of India's governance.",
+    "facts": [
+      {
+        "claim": "Telangana Police placed Bharatiya Janata Party’s state unit president N Ramchander Rao under house arrest",
+        "quote": "The Telangana Police on Saturday placed Bharatiya Janata Party’s state unit president N Ramchander Rao under house arrest and detained hundreds of BJP workers across the state to prevent them from staging protests against Congress leader Rahul Gandhi’s visit to Hyderabad and the Congress-organised ‘Bharat Summit’ at HITEX in Madhapur."
+      },
+      {
+        "claim": "Rao alleged the event was being organised by inviting 'anti-Bharat forces'",
+        "quote": "N Ramchander Rao alleged that the event was being organised by inviting “anti-Bharat forces”."
+      },
+      {
+        "claim": "Rao accused Congress of using public money for an international platform to criticize India",
+        "quote": "Ramchander Rao maintained that the event was neither an investment summit nor a programme aimed at promoting Telangana's industrial development. Instead, he alleged, the Congress was using public money to organise a platform for foreign delegates to discuss India's internal political affairs and project a negative image of the country and the Narendra Modi government before the international community."
+      },
+      {
+        "claim": "Rao claimed Rahul Gandhi was promoting himself as potential Prime Minister",
+        "quote": "Rao alleged that the summit was being organised to provide an international platform for Rahul Gandhi to project himself as a potential Prime Minister before representatives from nearly 100 countries."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Bharat Summit 2026 is a Congress-organised event in Hyderabad that Telangana BJP chief N Ramchander Rao accused of being an 'Anti-India' platform, with the BJP placing him under house arrest to prevent protests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

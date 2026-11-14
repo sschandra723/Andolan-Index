@@ -1,0 +1,92 @@
+{
+  "id": "ad3795fea5",
+  "url": "https://www.thehindu.com/news/national/karnataka/womans-death-triggers-protest-at-kr-nagar-hospital/article71697831.ece",
+  "title": "Woman’s death triggers protest at K.R. Nagar hospital",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1772,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Family members protested at K.R. Nagar Maternal and Child Health Hospital after a woman died following childbirth, alleging negligence. This is the second such death reported at the hospital in a month.",
+    "facts": [
+      {
+        "claim": "Death of a woman after she gave birth to a child at the Maternal and Child Health Hospital in K.R. Nagar on Thursday triggered a protest by her family members, who alleged negligence by the hospital authorities.",
+        "quote": "Death of a woman after she gave birth to a child at the Maternal and Child Health Hospital in K.R. Nagar on Thursday triggered a protest by her family members, who alleged negligence by the hospital authorities."
+      },
+      {
+        "claim": "The deceased was identified as Sheelavathi, wife of Manjunath and a resident of K.R. Nagar taluk.",
+        "quote": "The deceased was identified as Sheelavathi, wife of Manjunath and a resident of K.R. Nagar taluk."
+      },
+      {
+        "claim": "Following the delivery pain, she was admitted to the hospital on Tuesday and subsequently gave birth to a child on Thursday after Caesarian.",
+        "quote": "Following the delivery pain, she was admitted to the hospital on Tuesday and subsequently gave birth to a child on Thursday after Caesarian."
+      },
+      {
+        "claim": "She had also undergone birth control operation, according to her family sources.",
+        "quote": "She had also undergone birth control operation, according to her family sources."
+      },
+      {
+        "claim": "After delivery, she reportedly suffered severe bleeding and subsequently developed medical complications.",
+        "quote": "After delivery, she reportedly suffered severe bleeding and subsequently developed medical complications."
+      },
+      {
+        "claim": "She was shifted to Cheluvamba Hospital in Mysuru with ventilator support, where she was declared dead, her family sources said.",
+        "quote": "She was shifted to Cheluvamba Hospital in Mysuru with ventilator support, where she was declared dead, her family sources said."
+      },
+      {
+        "claim": "According to Manjunath, both the mother and the newborn were initially doing well.",
+        "quote": "According to Manjunath, both the mother and the newborn were initially doing well."
+      },
+      {
+        "claim": "Right from the beginning of pregnancy, Sheelavathi’s medical report was normal",
+        "quote": "Right from the beginning of pregnancy, Sheelavathi’s medical report was normal"
+      },
+      {
+        "claim": "Manjunath said, accusing the hospital of negligence.",
+        "quote": "Manjunath said, accusing the hospital of negligence."
+      },
+      {
+        "claim": "Sheelavathi was alive until we reached Cheluvamba Hospital in Mysuru only because she was on ventilator support. By the time we reached the hospital, she was in a critical condition. However, the medical consultants at the taluk hospital tried to convince me that nothing serious had happened while she was there",
+        "quote": "Sheelavathi was alive until we reached Cheluvamba Hospital in Mysuru only because she was on ventilator support. By the time we reached the hospital, she was in a critical condition. However, the medical consultants at the taluk hospital tried to convince me that nothing serious had happened while she was there"
+      },
+      {
+        "claim": "This is the second delivery death reported within a month at Maternal and Child Health Hospital in K.R. Nagar, according to sources.",
+        "quote": "This is the second delivery death reported within a month at Maternal and Child Health Hospital in K.R. Nagar, according to sources."
+      },
+      {
+        "claim": "When contacted, sources in the hospital said, \"Sheelavathi’s case is suspected to be a case of embolism. It is a rare occurrence. We are awaiting the postmortem report from Cheluvamba Hospital\"",
+        "quote": "When contacted, sources in the hospital said, \"Sheelavathi’s case is suspected to be a case of embolism. It is a rare occurrence. We are awaiting the postmortem report from Cheluvamba Hospital\""
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "This protest follows a second delivery death at the hospital in a month, highlighting concerns about maternal healthcare in the area.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "12/12",
+      "names_checked": true,
+      "problems": [
+        "name “Nagar Maternal” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

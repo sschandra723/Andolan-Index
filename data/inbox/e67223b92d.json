@@ -1,0 +1,62 @@
+{
+  "id": "e67223b92d",
+  "url": "https://www.greaterkashmir.com/business/cait-kashmir-seeks-special-trade-revival-package-for-jk-traders-12808053",
+  "title": "CAIT Kashmir seeks special trade revival package for J&K traders",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3081,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "CAIT Kashmir Chapter President Farhan Kitab called for a Trade Revival Package to address economic disruptions in Jammu and Kashmir, citing business closures, declining purchasing power, and liquidity constraints.",
+    "facts": [
+      {
+        "claim": "CAIT Kashmir Chapter President Farhan Kitab called for a comprehensive Trade Revival Package for the Union Territory",
+        "quote": "Representing Jammu and Kashmir, CAIT Kashmir Chapter President Farhan Kitab called for a comprehensive Trade Revival Package for the Union Territory, citing prolonged economic disruptions, business closures, declining purchasing power, liquidity constraints and mounting financial liabilities faced by traders."
+      },
+      {
+        "claim": "citing prolonged economic disruptions, business closures, declining purchasing power, liquidity constraints and mounting financial liabilities faced by traders",
+        "quote": "citing prolonged economic disruptions, business closures, declining purchasing power, liquidity constraints and mounting financial liabilities faced by traders."
+      },
+      {
+        "claim": "He urged the Government of India and the J&K Government to introduce targeted financial measures to help businesses recover from the sustained economic challenges",
+        "quote": "He urged the Government of India and the J&K Government to introduce targeted financial measures to help businesses recover from the sustained economic challenges."
+      },
+      {
+        "claim": "Kitab sought interest subvention, affordable working capital, loan restructuring and One-Time Settlement (OTS) facilities, relief in legacy liabilities and enhanced credit support for struggling retailers and Micro, Small and Medium Enterprises (MSMEs)",
+        "quote": "Kitab sought interest subvention, affordable working capital, loan restructuring and One-Time Settlement (OTS) facilities, relief in legacy liabilities and enhanced credit support for struggling retailers and Micro, Small and Medium Enterprises (MSMEs)."
+      },
+      {
+        "claim": "He said repeated disruptions had severely eroded the capital base of Kashmir’s trading community, making it difficult for businesses to sustain operations, meet financial obligations and retain employment",
+        "quote": "He said repeated disruptions had severely eroded the capital base of Kashmir’s trading community, making it difficult for businesses to sustain operations, meet financial obligations and retain employment."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CAIT Kashmir Chapter President Farhan Kitab called for a Trade Revival Package to address economic disruptions in Jammu and Kashmir, citing business closures, declining purchasing power, and liquidity constraints.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

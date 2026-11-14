@@ -1,0 +1,80 @@
+{
+  "id": "37814ebaf6",
+  "url": "https://www.thequint.com/news/webqoof/image-of-indian-embassy-counsellor-at-jaac-protest-in-london-is-ai-generated-fact-check",
+  "title": "Image of Indian Embassy Counsellor at JAAC Protest in London Is AI-Generated",
+  "outlet": "The Quint",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1640,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "An AI-generated image falsely claims to show Indian Embassy Counsellor Deepak Raghu at a JAAC protest in London, but verification shows the image does not depict the actual embassy official.",
+    "facts": [
+      {
+        "claim": "The post identifies the man in the image as Rakesh Dahiya, Secretary of the Indian Embassy",
+        "quote": "The post identifies the man in the image as Rakesh Dahiya, Secretary of the Indian Embassy."
+      },
+      {
+        "claim": "According to the caption, the Indian Embassy Counsellor, Deepak Raghu, was at the JAAC protest outside Pakistan's High Commission in London",
+        "quote": "According to the caption, the Indian Embassy Counsellor, Deepak Raghu, was at the JAAC protest outside Pakistan's High Commission in London."
+      },
+      {
+        "claim": "We ran a reverse image search on the image claiming to show Rakesh Dahiya, Secretary of the Indian Embassy",
+        "quote": "We ran a reverse image search on the image claiming to show Rakesh Dahiya, Secretary of the Indian Embassy."
+      },
+      {
+        "claim": "It led us to the X account of a man named Rakesh Dahiya, who works as the Director of Education in NDMC, Delhi (according to his X bio)",
+        "quote": "It led us to the X account of a man named Rakesh Dahiya, who works as the Director of Education in NDMC, Delhi (according to his X bio)."
+      },
+      {
+        "claim": "We found images of Dahiya from multiple sources, such as the Suffolk Chamber of Commerce, an X post and a Facebook post by Hockey India",
+        "quote": "We found images of Dahiya from multiple sources, such as the Suffolk Chamber of Commerce, an X post and a Facebook post by Hockey India."
+      },
+      {
+        "claim": "However, he doesn't look similar to the man in the viral image",
+        "quote": "However, he doesn't look similar to the man in the viral image."
+      },
+      {
+        "claim": "We also searched for Deepak Raghu, who, according to the post, is the Indian Embassy Counsellor and was at the protest",
+        "quote": "We also searched for Deepak Raghu, who, according to the post, is the Indian Embassy Counsellor and was at the protest"
+      },
+      {
+        "claim": "We found that Raghu is a Counsellor at the High Commission of India, London, United Kingdom",
+        "quote": "We found that Raghu is a Counsellor at the High Commission of India, London, United Kingdom."
+      },
+      {
+        "claim": "The image is AI-generated and doesn't show the Indian Embassy Counsellor at the JAAC protest",
+        "quote": "The image is AI-generated and doesn't show the Indian Embassy Counsellor at the JAAC protest"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The article reports that an AI-generated image falsely claimed to show an Indian Embassy Counsellor at a protest in London, but verification confirmed it was not the actual official.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": [
+        "name “Indian Embassy Counsellor Deepak Raghu” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

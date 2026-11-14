@@ -1,0 +1,64 @@
+{
+  "id": "fb8764c1c7",
+  "url": "https://www.thehindu.com/news/national/karnataka/farmers-demand-water-supply-for-crops-till-dec-30/article71698074.ece",
+  "title": "Farmers demand water supply for crops till Dec. 30",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2541,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Farmers in Karnataka staged a protest demanding water supply for crops until December 30 to prevent crop loss, as the state government plans to stop canal water on November 20.",
+    "facts": [
+      {
+        "claim": "Farmers under the banner of the All India Kisan Khet Mazdoor Sangathan (AIKKMS) staged a protest in Ballari on Thursday demanding that water be released to the HLC and LLC canals until December 30 to ensure that standing crops are saved.",
+        "quote": "Farmers under the banner of the All India Kisan Khet Mazdoor Sangathan (AIKKMS) staged a protest in Ballari on Thursday demanding that water be released to the HLC and LLC canals until December 30 to ensure that standing crops are saved."
+      },
+      {
+        "claim": "Hundreds of farmers took out a procession from Gandhi Bhavan to the Deputy Commissioner’s office where they staged a demonstration against the proposed discontinuation of canal water supply on November 20.",
+        "quote": "Hundreds of farmers took out a procession from Gandhi Bhavan to the Deputy Commissioner’s office where they staged a demonstration against the proposed discontinuation of canal water supply on November 20."
+      },
+      {
+        "claim": "More than 96 tmcft of water has been stored in the Tungabhadra reservoir this year and questioned the State government’s decision not to ensure water supply even for one crop.",
+        "quote": "He pointed out that more than 96 tmcft of water has been stored in the Tungabhadra reservoir this year and questioned the State government’s decision not to ensure water supply even for one crop."
+      },
+      {
+        "claim": "Water is being illegally supplied through motors to several industries, while the State government is unwilling to ensure adequate water for crops.",
+        "quote": "AIKKMS district secretary Guralli Raj said that water is being illegally supplied through motors to several industries, while the State government is unwilling to ensure adequate water for crops."
+      },
+      {
+        "claim": "The State government is making efforts to extend the water supply until November 30, keeping the interests of farmers in mind.",
+        "quote": "Speaking to reporters at the Koppal District Administrative Complex on Thursday, he said that the State government is making efforts to extend the water supply until November 30, keeping the interests of farmers in mind."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers in north Karnataka have been protesting over water supply for crops, with the state government planning to stop canal water on November 20, leading to demands for water until December 30.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 35,
+    "importance_reason": "3 outlets in the last 48 hours; coverage up from 0 to 1 reports this week."
+  }
+}

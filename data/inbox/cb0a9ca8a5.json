@@ -1,0 +1,62 @@
+{
+  "id": "cb0a9ca8a5",
+  "url": "https://kashmirobserver.net/2026/11/13/lab-to-intensify-ladakh-agitation-urges-poll-participation/",
+  "title": "LAB to Intensify Ladakh Agitation, Urges Poll Participation",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": "ladakh-statehood",
+  "score": 4.0,
+  "matched": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Leh",
+    "=LAB"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5116,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Leh Apex Body (LAB) plans to intensify agitation ahead of Ladakh's upcoming panchayat and hill council elections, demanding constitutional safeguards and a Union Territory-level elected government. LAB chairman Chering Dorje Lakruk stated the movement focuses on liquor policy, land protection, employment, and other safeguards, while former MP Thupstan Chhewang urged mass participation in the historic elections to strengthen local democracy.",
+    "facts": [
+      {
+        "claim": "LAB plans to intensify agitation ahead of Ladakh's upcoming panchayat and hill council elections",
+        "quote": "Leh/Jammu- Ahead of the upcoming polls to panchayats, municipalities and hill councils, the Leh Apex Body (LAB) announced plans on Friday to intensify its ongoing agitation"
+      },
+      {
+        "claim": "LAB chairman Chering Dorje Lakruk stated the movement focuses on liquor policy, land protection, employment, and other safeguards",
+        "quote": "Clarifying that the agitation is unrelated to the upcoming elections, Lakruk said it was planned well in advance to press the government to resume dialogue on constitutional safeguards and the demand for a Union Territory-level elected government headed by a chief minister. Besides resumption of talks, Lakruk said the agitation also focuses on the liquor policy, protection of land, employment and other safeguards for Ladakh."
+      },
+      {
+        "claim": "Former MP Thupstan Chhewang urged mass participation in the historic elections to strengthen local democracy",
+        "quote": "Chhewang has appealed to people across the region to participate wholeheartedly in the hill council elections, describing the polls as a historic opportunity to strengthen grassroots-level democracy and empower local communities."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh, a union territory without a legislature since 2019, has been seeking statehood through protests, with the current movement demanding constitutional safeguards and a Union Territory-level elected government.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "summary is 448 characters; it should be 20 to 400",
+        "quote not in article: “Clarifying that the agitation is unrelated to the upcoming elections, Lakruk sai”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

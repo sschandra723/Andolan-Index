@@ -1,0 +1,54 @@
+{
+  "id": "93d3d7d003",
+  "url": "https://www.greaterkashmir.com/opinion/bi-chhus-theek-doctor-sahib-12808008",
+  "title": "Bi Chhus Theek, Doctor Sahib",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A doctor in Delhi discusses diabetes risks with a retired headmaster and his son, highlighting prediabetes in South Asian communities and the importance of early intervention.",
+    "facts": [
+      {
+        "claim": "Rasool sahib's blood glucose was 420 mg/dL",
+        "quote": "The glucometer showed 420 mg/dL, two hours after his breakfast of nun chai and two kulchas."
+      },
+      {
+        "claim": "Bilal's HbA1c was 6.1%",
+        "quote": "His report arrived two days later: HbA1c 6.1%. This was in the prediabetes range, not the diabetes range."
+      },
+      {
+        "claim": "South Asian populations are at higher risk for type 2 diabetes",
+        "quote": "People of South Asian origin are more likely to develop type 2 diabetes at a younger age and at a lower BMI than many other populations."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

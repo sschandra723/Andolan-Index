@@ -1,0 +1,64 @@
+{
+  "id": "376758308e",
+  "url": "https://theprint.in/india/vijayan-visits-agitating-sanskrit-varsity-students-expresses-solidarity/3097716/",
+  "title": "Vijayan visits agitating Sanskrit varsity students, expresses solidarity",
+  "outlet": "ThePrint",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "hunger strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2025,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "CPI(M) leader Pinarayi Vijayan visited students at Sree Sankaracharya University of Sanskrit in Kalady who have been on an indefinite hunger strike for 109 days, expressing solidarity with their agitation against the university's alleged 'illegal and inhuman' approach.",
+    "facts": [
+      {
+        "claim": "CPI(M) veteran Pinarayi Vijayan visited students protesting at Sree Sankaracharya University of Sanskrit in Kalady",
+        "quote": "Kochi, Nov 13 (PTI) CPI(M) veteran Pinarayi Vijayan on Friday visited students protesting at Sree Sankaracharya University of Sanskrit in Kalady and expressed solidarity with their agitation, which has been continuing for 109 days."
+      },
+      {
+        "claim": "The students have been on an indefinite hunger strike for the past 13 days",
+        "quote": "Vijayan met the students, who have been on an indefinite hunger strike for the past 13 days under the leadership of the Students’ Federation of India (SFI) at the university gate"
+      },
+      {
+        "claim": "The university had adopted an 'illegal and inhuman' approach towards them",
+        "quote": "Addressing the protesters later, the Leader of the Opposition said the entire state supports the agitation as the university had adopted an \"illegal and inhuman\" approach towards them."
+      },
+      {
+        "claim": "The protest has been continuing for 109 days",
+        "quote": "Kochi, Nov 13 (PTI) CPI(M) veteran Pinarayi Vijayan on Friday visited students protesting at Sree Sankaracharya University of Sanskrit in Kalady and expressed solidarity with their agitation, which has been continuing for 109 days."
+      },
+      {
+        "claim": "The students were accused of staging a 'mock cremation' of Vice-Chancellor Ciza Thomas",
+        "quote": "The students were accused of staging a \"mock cremation\" of Vice-Chancellor Ciza Thomas, manhandling her and attempting to damage university property."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students at Sree Sankaracharya University of Sanskrit in Kalady have been protesting for 109 days against the university's alleged 'illegal and inhuman' approach, with the agitation led by the Students’ Federation of India (SFI).",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

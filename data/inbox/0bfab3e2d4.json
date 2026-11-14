@@ -1,0 +1,66 @@
+{
+  "id": "0bfab3e2d4",
+  "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+  "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+  "outlet": "BBC News",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Gen-Z-led protests in India previously forced the federal education minister to resign but now face restrictions, detentions, and a decline in momentum after a summer wave of dissent.",
+    "facts": [
+      {
+        "claim": "Gen-Z protests forced federal education minister Dharmendra Pradhan to resign",
+        "quote": "Cheers erupted at Delhi's Jantar Mantar protest site in July as news broke that Gen-Z protests had forced federal education minister Dharmendra Pradhan to resign."
+      },
+      {
+        "claim": "Demonstrations by the Gen Z-led Cockroach Janta Party (CJP) last month over voting rights were met with sweeping restrictions and thousands of peaceful protesters were detained",
+        "quote": "Demonstrations by the Gen Z-led Cockroach Janta Party (CJP) last month over voting rights were met with sweeping restrictions and thousands of peaceful protesters were detained."
+      },
+      {
+        "claim": "The movement spread across the country, and Prime Minister Narendra Modi struggled to contain it",
+        "quote": "The movement spread across the country, and Prime Minister Narendra Modi, a leader with a strongman image, unaccustomed to open criticism or mockery, struggled to contain it."
+      },
+      {
+        "claim": "The ruling Bharatiya Janata Party (BJP) national spokesperson Syed Zafar Islam rejected accusations of heavy-handedness",
+        "quote": "The ruling Bharatiya Janata Party (BJP) national spokesperson Syed Zafar Islam rejected accusations of heavy-handedness and told the BBC: \"The right to protest and freedom of expression is mandated by the constitution, but it has to be done within the law. It cannot override the rights of others, at the cost of public security\"."
+      },
+      {
+        "claim": "CJP leaders, including spokesperson Saurav Das, have faced repeated detentions and legal action",
+        "quote": "CJP leaders, including spokesperson Saurav Das, have faced repeated detentions and legal action. Das and fellow leader Ashutosh Ranka spent a week in Delhi's Tihar jail after being accused of trespassing at Jantar Mantar."
+      },
+      {
+        "claim": "The site of their summer victory has since been struck off the list of authorised protest venues",
+        "quote": "The site of their summer victory has since been struck off the list of authorised protest venues, a decision being challenged in court."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Gen-Z protests previously forced the federal education minister to resign but now face restrictions, detentions, and a decline in momentum after a summer wave of dissent.",
+    "confidence": 0.85,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

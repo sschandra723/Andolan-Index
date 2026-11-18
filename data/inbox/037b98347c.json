@@ -1,0 +1,66 @@
+{
+  "id": "037b98347c",
+  "url": "https://www.greaterkashmir.com/opinion/school-fee-and-a-familys-hope-12815552",
+  "title": "School fee and a family’s hope",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The article discusses the financial and educational pressures on families choosing between government and private schools in India, highlighting how private schooling can create additional costs through tuition when the school curriculum is not effectively taught.",
+    "facts": [
+      {
+        "claim": "For many families, choosing a school is one of the most consequential decisions they make. It involves money, certainly, but also fear, aspiration, social pressure, and an uncertain judgment about the future.",
+        "quote": "For many families, choosing a school is one of the most consequential decisions they make. It involves money, certainly, but also fear, aspiration, social pressure, and an uncertain judgment about the future."
+      },
+      {
+        "claim": "Private schooling often appears to offer reassurance through English instruction, prescribed uniforms, regular examinations, and visible discipline.",
+        "quote": "English instruction, prescribed uniforms, regular examinations, and visible discipline suggest that education is being taken seriously."
+      },
+      {
+        "claim": "Some private institutions provide excellent education, while others offer a convincing appearance of quality without strong classroom experience.",
+        "quote": "There are substantial differences between schools, and some private institutions provide excellent education. Others offer a convincing appearance of quality without a similarly strong experience inside the classroom."
+      },
+      {
+        "claim": "Parents rarely have enough access to distinguish between private schools that provide excellent education and those that do not.",
+        "quote": "Parents rarely have enough access to distinguish between the two."
+      },
+      {
+        "claim": "Tuition becomes necessary simply to understand the ordinary school curriculum, which creates financial strain for families.",
+        "quote": "When tuition becomes necessary simply to understand the ordinary school curriculum, parents face an uncomfortable situation."
+      },
+      {
+        "claim": "Schooling costs extend beyond the fees advertised at admission, including books, uniforms, transport, activities, and other requirements.",
+        "quote": "Schooling costs also extend beyond the fees advertised at admission. Books, uniforms, transport, activities, and other requirements accumulate across the year."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The article discusses the financial and educational pressures on families choosing between government and private schools in India, highlighting how private schooling can create additional costs through tuition when the school curriculum is not effectively taught.",
+    "confidence": 0.8,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

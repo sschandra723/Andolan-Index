@@ -1,0 +1,64 @@
+{
+  "id": "66d246da7b",
+  "url": "https://nenow.in/north-east-news/manipur/manipur-cotu-protest-continues-as-sdsa-opposes-shutdown-call-after-taphou-attack.html",
+  "title": "Manipur: CoTU protest continues as SDSA opposes shutdown call after Taphou attack",
+  "outlet": "Northeast Now",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": "manipur-protests-2026",
+  "score": 3.0,
+  "matched": [
+    "Manipur",
+    "Imphal",
+    "Kangpokpi"
+  ],
+  "alternatives": [
+    "farmers-india-us-trade-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3151,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "Tensions in Manipur's Senapati and Kangpokpi districts rose after an armed attack on farmers at Taphou Kuki village killed one farmer and injured two others, prompting protests and a 48-hour shutdown as tribal groups clashed over security and jurisdiction.",
+    "facts": [
+      {
+        "claim": "armed attack on farmers at Taphou Kuki village",
+        "quote": "Tensions have risen in Manipur’s Senapati and Kangpokpi districts following an armed attack on farmers at Taphou Kuki village"
+      },
+      {
+        "claim": "42-year-old farmer Kimneineng Chongloi dead",
+        "quote": "The incident left 42-year-old farmer Kimneineng Chongloi dead"
+      },
+      {
+        "claim": "two other male farmers critically injured",
+        "quote": "two other male farmers critically injured while they were harvesting paddy"
+      },
+      {
+        "claim": "48-hour shutdown",
+        "quote": "CoTU’s 48-hour total shutdown"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A 48-hour shutdown was called by CoTU in response to an armed attack on farmers at Taphou Kuki village, which killed one farmer and injured two others.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

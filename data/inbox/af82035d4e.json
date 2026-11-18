@@ -1,0 +1,69 @@
+{
+  "id": "af82035d4e",
+  "url": "https://theprint.in/india/forming-fact-finding-panel-by-agitating-students-unauthorised-aimed-at-fomenting-tension-srfti/3097771/",
+  "title": "Forming fact-finding panel by agitating students unauthorised, aimed at fomenting tension: SRFTI",
+  "outlet": "ThePrint",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": "srfti-kolkata-protest-2026",
+  "score": 2.0,
+  "matched": [
+    "SRFTI",
+    "Satyajit Ray Film"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3476,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "srfti-kolkata-protest-2026",
+    "new_movement": null,
+    "summary": "SRFTI authorities claim a student-led fact-finding panel is unauthorized and aims to distort facts and undermine the ongoing SIT probe into campus violence since September 27.",
+    "facts": [
+      {
+        "claim": "SRFTI authorities said an independent fact-finding exercise initiated by a group of protesting students into the campus crisis was 'unauthorised'",
+        "quote": "SRFTI authorities said an independent fact-finding exercise initiated by a group of protesting students into the campus crisis was “unauthorised”, claiming that such an attempt was aimed at “distorting the factual record, fomenting tension and undermining the ongoing SIT probe”."
+      },
+      {
+        "claim": "The SRFTI said several incidents, including alleged attacks on students, since September 27 have been investigated by a special investigation team",
+        "quote": "The Satyajit Ray Film and Television Institute, under the Ministry of Information and Broadcasting, said several incidents, including alleged attacks on students, since September 27 have been investigated by a special investigation team constituted by the West Bengal government, and questioned the legitimacy of a “parallel probe by an external organisation”."
+      },
+      {
+        "claim": "SRFTI Registrar Deepak Kumar said the institute had also constituted its own fact-finding committee",
+        "quote": "SRFTI Registrar Deepak Kumar said on Thursday night that the institute had also constituted its own fact-finding committee to inquire into alleged violence on the campus."
+      },
+      {
+        "claim": "The institute has been witnessing protests since September 27 following alleged attacks on students during an RSS-linked Akhil Bharatiya Grahak Panchayat event on the campus",
+        "quote": "The institute has been witnessing protests since September 27 following alleged attacks on students during an RSS-linked Akhil Bharatiya Grahak Panchayat event on the campus."
+      },
+      {
+        "claim": "The stir intensified after a second alleged attack on October 4 during a rally by Bangiya Hindu Jagran Manch",
+        "quote": "The stir intensified after a second alleged attack on October 4 during a rally by Bangiya Hindu Jagran Manch, with students organising sit-ins and raising concerns over their safety, privacy and freedom of movement."
+      },
+      {
+        "claim": "The situation deteriorated following an October 15 incident involving Vice Chancellor Santosh Ajmera",
+        "quote": "The situation deteriorated following an October 15 incident involving Vice Chancellor Santosh Ajmera. The SRFTI administration accused a group of students of gheraoing and manhandling the VC and vandalising his office."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "SRFTI students have been protesting since September 27 over alleged attacks on students during an RSS-linked event, with tensions escalating through October 15 when the VC was allegedly assaulted.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

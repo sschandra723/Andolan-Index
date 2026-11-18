@@ -1,0 +1,62 @@
+{
+  "id": "a263fae1c1",
+  "url": "https://www.greaterkashmir.com/business/kcci-pays-tribute-to-saifco-co-founder-khwaja-mohammad-khalil-12810454",
+  "title": "KCCI pays tribute to Saifco co-founder Khwaja Mohammad Khalil",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2440,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Kashmir Chamber of Commerce and Industry (KCCI) paid tribute to Saifco Group co-founder Khwaja Mohammad Khalil, calling his death an irreparable loss to Kashmir's business community and industrial sector.",
+    "facts": [
+      {
+        "claim": "KCCI expressed profound grief over the death of veteran entrepreneur Khwaja Mohammad Khalil, co-founder of the renowned Saifco Group",
+        "quote": "Srinagar, Nov 14: The Kashmir Chamber of Commerce and Industry (KCCI) has expressed profound grief over the death of veteran entrepreneur Khwaja Mohammad Khalil, co-founder of the renowned Saifco Group, calling his passing an irreparable loss to Kashmir’s business community and industrial sector."
+      },
+      {
+        "claim": "KCCI President Javid Ahmad Tenga described Khwaja Mohammad Khalil as a pioneering entrepreneur who demonstrated that indigenous businesses in Kashmir could grow into major enterprises despite economic uncertainties",
+        "quote": "In a condolence statement, KCCI President Javid Ahmad Tenga said Khwaja Mohammad Khalil Guna was among the pioneering entrepreneurs who demonstrated that indigenous businesses in Kashmir could grow into major enterprises despite the economic uncertainties and difficult circumstances prevailing in the region."
+      },
+      {
+        "claim": "KCCI noted that Khwaja Mohammad Khalil's contribution went far beyond establishing business ventures, creating employment and strengthening the local economy",
+        "quote": "With Khwaja Mohammad Khalil’s passing, Kashmir has lost an industrial pioneer whose contribution went far beyond establishing business ventures. He belonged to a generation of entrepreneurs who invested their resources, took considerable risks and built institutions that created employment, strengthened the local economy and enhanced Kashmir’s business identity."
+      },
+      {
+        "claim": "The Saifco Group, founded by Khwaja Mohammad Khalil and his late brother Khwaja Saif-ud-Din, established a significant presence across diverse sectors",
+        "quote": "KCCI President said the journey of the Saifco Group, built through the vision, determination and enterprise of Khwaja Mohammad Khalil and his late brother Khwaja Saif-ud-Din, remains an important example of entrepreneurial perseverance."
+      },
+      {
+        "claim": "KCCI conveyed condolences to the bereaved family of Khwaja Mohammad Khalil, including Parveez Ahmad Guna, Altaf Ahmad Guna, Manzoor Ahmad Guna and Aamir Manzoor Guna",
+        "quote": "KCCI conveyed its heartfelt condolences to the bereaved family, particularly Parveez Ahmad Guna, Altaf Ahmad Guna, Manzoor Ahmad Guna and Aamir Manzoor Guna, Treasurer of KCCI."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

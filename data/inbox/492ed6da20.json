@@ -1,0 +1,50 @@
+{
+  "id": "492ed6da20",
+  "url": "https://nenow.in/north-east-news/assam/assam-koch-rajbongshi-groups-stage-protest-in-bongaigaon-demand-kamatapur-state-st-status.html",
+  "title": "Assam: Koch-Rajbongshi groups stage protest in Bongaigaon, demand Kamatapur state, ST status",
+  "outlet": "Northeast Now",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 829,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Koch-Rajbongshi groups staged a three-hour sit-in protest in Assam's Bongaigaon on November 16, demanding a separate Kamatapur state and Scheduled Tribe status for their community.",
+    "facts": [
+      {
+        "claim": "Koch-Rajbongshi organisations staged a three-hour sit-in protest in Assam’s Bongaigaon on November 16",
+        "quote": "Koch-Rajbongshi organisations staged a three-hour sit-in protest in Assam’s Bongaigaon on November 16"
+      },
+      {
+        "claim": "demanding a separate Kamatapur state and Scheduled Tribe (ST) status for the community",
+        "quote": "demanding a separate Kamatapur state and Scheduled Tribe (ST) status for the community"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

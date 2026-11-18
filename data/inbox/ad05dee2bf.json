@@ -1,0 +1,82 @@
+{
+  "id": "ad05dee2bf",
+  "url": "https://www.thehindu.com/news/cities/Coimbatore/cpim-stages-protests-in-krishnagiri-demanding-financial-autonomy-for-local-bodies/article71711772.ece",
+  "title": "CPI(M) stages protests in Krishnagiri demanding financial autonomy for local bodies",
+  "outlet": "The Hindu",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1735,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "CPI(M) staged protests in Krishnagiri demanding financial autonomy for local bodies and job permanence for conservancy workers, citing lack of funds and restrictions on spending.",
+    "facts": [
+      {
+        "claim": "CPI(M) led demonstrations across local bodies in town panchayats and municipalities in Krishnagiri demanding financial autonomy for local bodies",
+        "quote": "The Communist Party of India (Marxist) (CPI(M) led demonstrations across local bodies in town panchayats and municipalities in Krishnagiri demanding financial autonomy for local bodies, here on Tuesday (November 17, 2026)."
+      },
+      {
+        "claim": "The protest was part of the State-wide protests which also demanded job permanence for conservancy workers",
+        "quote": "The protest was part of the State-wide protests which also demanded job permanence for conservancy workers."
+      },
+      {
+        "claim": "The party has demanded the Union government to immediately release ₹20,054 crore as recommended by the 16th Financial Commission",
+        "quote": "The party has demanded the Union government to immediately release ₹20,054 crore as recommended by the 16th Financial Commission."
+      },
+      {
+        "claim": "According to the CPI(M), local bodies were choked by the lack of financial independence and the paucity of funds",
+        "quote": "According to the CPI(M), local bodies were choked by the lack of financial independence and the paucity of funds."
+      },
+      {
+        "claim": "The protesters said that councillors were not provided the freedoms to spend the Ward Development funds for development works",
+        "quote": "The protesters said that councillors were not provided the freedoms to spend the Ward Development funds for development works."
+      },
+      {
+        "claim": "There were a host of guidelines and permissions required to attend to even emergency works, which prevented councillors from exercising their powers",
+        "quote": "There were a host of guidelines and permissions required to attend to even emergency works, which prevented councillors from exercising their powers."
+      },
+      {
+        "claim": "The various contractual works that were shelved for alleged irregularities must be revived in order to ensure completion of pending infrastructure works",
+        "quote": "The various contractual works that were shelved for alleged irregularities must be revived in order to ensure completion of pending infrastructure works, the party demanded."
+      },
+      {
+        "claim": "They also called for free and fair conduct of local body elections and ensure representatives exercise their autonomy to function as envisioned by the 73rd and 74th Constitutional Amendments",
+        "quote": "They also called for free and fair conduct of local body elections and ensure representatives exercise their autonomy to function as envisioned by the 73rd and 74th Constitutional Amendments."
+      },
+      {
+        "claim": "According to the CPI(M), the government has released tenders and proposal to outsource conservancy work to private firms, along with regularisation and workers wage revision in 21 Corporations",
+        "quote": "According to the CPI(M), the government has released tenders and proposal to outsource conservancy work to private firms, along with regularisation and workers wage revision in 21 Corporations."
+      },
+      {
+        "claim": "The government has to stop surrendering and outsourcing conservancy workers and allow them to work as full-time government staff in the rolls of the local bodies",
+        "quote": "The government has to stop surrendering and outsourcing conservancy workers and allow them to work as full-time government staff in the rolls of the local bodies."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CPI(M) protests in Krishnagiri demand financial autonomy for local bodies and job permanence for conservancy workers, highlighting systemic underfunding and restrictions on local governance.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "10/10",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

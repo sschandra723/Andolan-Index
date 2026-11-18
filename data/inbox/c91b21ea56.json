@@ -1,0 +1,56 @@
+{
+  "id": "c91b21ea56",
+  "url": "https://timesofindia.indiatimes.com/india/leh-protest-to-intensify-wangchuk-says-he-is-under-house-detention/articleshow/135814751.cms",
+  "title": "Leh protest to intensify, Wangchuk says he is under house detention",
+  "outlet": "Times of India",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Leh"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1603,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Leh protests intensified as LAB and KDA demanded Ladakh hill council elections be postponed, with Wangchuk claiming house detention after police blocked his exit from residence.",
+    "facts": [
+      {
+        "claim": "LAB and KDA demanded Ladakh hill council elections be postponed",
+        "quote": "SRINAGAR: The Leh Apex Body’s (LAB) indefinite dharna entered its second day on Friday as protests intensified against govt’s decision to hold Ladakh hill council elections on Dec 4 despite opposition from LAB and Kargil Democratic Alliance (KDA), two major political organisations in the Union Territory."
+      },
+      {
+        "claim": "Wangchuk claimed house detention after police blocked his exit from residence",
+        "quote": "Wangchuk said the incident demonstrated that he had been placed under house detention."
+      },
+      {
+        "claim": "Police issued preventive restrictions on Wangchuk for 60 days",
+        "quote": "On Thursday evening, the Leh DM had issued an order imposing preventive restrictions on Wangchuk for 60 days following a request from the police, which expressed apprehensions that his activities could disturb public order."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh lost statehood in 2019, when it was split into two union territories. The elected government and the Congress say the Centre has not kept its promise to restore it, and protested in July 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

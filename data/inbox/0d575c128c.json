@@ -1,0 +1,70 @@
+{
+  "id": "0d575c128c",
+  "url": "https://www.thehindu.com/news/national/telangana/telangana-government-hospital-contract-workers-threaten-indefinite-strike-over-wages/article71697530.ece",
+  "title": "Telangana government hospital contract workers threaten indefinite strike over wages",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1658,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "tn-hospital-workers-2026",
+    "new_movement": null,
+    "summary": "Contract workers in Telangana government hospitals threaten indefinite strike over wages, demanding ₹26,000 minimum monthly wage and other benefits.",
+    "facts": [
+      {
+        "claim": "Contract workers employed in government hospitals across Telangana have threatened to launch an indefinite strike if the State government fails to address their long-pending demands, including an increase in minimum wages, payment of bonuses and provision of statutory leave.",
+        "quote": "Contract workers employed in government hospitals across Telangana have threatened to launch an indefinite strike if the State government fails to address their long-pending demands, including an increase in minimum wages, payment of bonuses and provision of statutory leave."
+      },
+      {
+        "claim": "The Telangana Medical Contract Employees and Workers Union under the AITUC intensified its agitation for the second consecutive day on Friday, November 13 with protests held at government hospitals across the State.",
+        "quote": "The Telangana Medical Contract Employees and Workers Union under the AITUC intensified its agitation for the second consecutive day on Friday, November 13 with protests held at government hospitals across the State."
+      },
+      {
+        "claim": "The workers are demanding a minimum monthly wage of ₹26,000 for sanitation, patient care and security personnel employed under the Integrated Hospital Facility Management Services (IHFMS) system.",
+        "quote": "The workers are demanding a minimum monthly wage of ₹26,000 for sanitation, patient care and security personnel employed under the Integrated Hospital Facility Management Services (IHFMS) system."
+      },
+      {
+        "claim": "Addressing a protest at the Modern Government Maternity Hospital in Petlaburuj, AITUC State General Secretary M. Narasimha accused the State government of neglecting the concerns of contract workers by failing to revise their wages for the past two years despite repeated representations.",
+        "quote": "Addressing a protest at the Modern Government Maternity Hospital in Petlaburuj, AITUC State General Secretary M. Narasimha accused the State government of neglecting the concerns of contract workers by failing to revise their wages for the past two years despite repeated representations."
+      },
+      {
+        "claim": "Workers have been providing essential services in government hospitals for the past five years on meagre wages, without access to basic labour entitlements.",
+        "quote": "Workers have been providing essential services in government hospitals for the past five years on meagre wages, without access to basic labour entitlements,"
+      },
+      {
+        "claim": "Workers had received only two sets of uniforms during the entire five-year period, forcing many to continue working in worn-out and torn clothing.",
+        "quote": "workers had received only two sets of uniforms during the entire five-year period, forcing many to continue working in worn-out and torn clothing."
+      },
+      {
+        "claim": "Demanding immediate intervention by the government, Mr. Narasimha said workers were being denied basic rights guaranteed under labour laws, including minimum wages, leave and bonuses.",
+        "quote": "Demanding immediate intervention by the government, Mr. Narasimha said workers were being denied basic rights guaranteed under labour laws, including minimum wages, leave and bonuses."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Contract workers in Telangana government hospitals demand ₹26,000 minimum monthly wage and other benefits after five years of meagre wages and lack of basic labour entitlements.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

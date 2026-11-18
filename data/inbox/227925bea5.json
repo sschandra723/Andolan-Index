@@ -1,0 +1,74 @@
+{
+  "id": "227925bea5",
+  "url": "https://www.thehindu.com/news/national/karnataka/elephant-attack-protesters-want-forest-minister-visit-belur-after-two-deaths-in-three-days/article71707406.ece",
+  "title": "Karnataka elephant attack: Protesters want Forest Minister to visit Belur after two deaths in three days",
+  "outlet": "The Hindu",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2675,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Residents of Belur staged protests after two deaths in three days due to elephant attacks, demanding Forest Minister Ramalinga Reddy visit to address the human-elephant conflict.",
+    "facts": [
+      {
+        "claim": "hundreds of people staged a protest",
+        "quote": "Tension prevailed in Belur on Monday (November 16) as hundreds of people staged a protest, condemning the two deaths within three days due to elephant attacks."
+      },
+      {
+        "claim": "two deaths within three days due to elephant attacks",
+        "quote": "Tension prevailed in Belur on Monday (November 16) as hundreds of people staged a protest, condemning the two deaths within three days due to elephant attacks."
+      },
+      {
+        "claim": "protesters blocked the road and refused to allow one of the bodies to be taken for a post-mortem examination",
+        "quote": "The protesters blocked the road and refused to allow one of the bodies to be taken for a post-mortem examination."
+      },
+      {
+        "claim": "Jayamma, 65, was trampled to death by an elephant on Saturday (November 14) evening",
+        "quote": "Jayamma, 65, who was grazing cattle at Chowdanahalli, was trampled to death by an elephant on Saturday (November 14) evening."
+      },
+      {
+        "claim": "Hafees Ur Rahman, who was on his way to a coffee plantation in the village, was attacked by an elephant and died on the spot",
+        "quote": "early on Monday (November 16), another person was killed at Naenahalli. Hafees Ur Rahman, who was on his way to a coffee plantation in the village, was attacked by an elephant and died on the spot."
+      },
+      {
+        "claim": "protesters demanded that Forest Minister Ramalinga Reddy visit the spot and assure them of a permanent solution",
+        "quote": "The residents of Belur blocked the road in the town, demanding that Forest Minister Ramalinga Reddy visit the spot and assure them of a permanent solution to the human-elephant conflict in the area."
+      },
+      {
+        "claim": "Former Minister and Congress leader B. Shivaramu alleged that the district administration was responsible for the deaths",
+        "quote": "Former Minister and Congress leader B. Shivaramu, who joined the protest, alleged that the district administration was responsible for the deaths."
+      },
+      {
+        "claim": "The failure of the administration led to the second death",
+        "quote": "Two days ago, a woman was trampled to death. During the protest at Chowdanahalli, the Deputy Commissioner and others promised that the elephants would be driven away. Had that been done, today’s incident would not have occurred. The failure of the administration led to the second death,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Residents of Belur in Karnataka have been facing repeated human-elephant conflicts leading to deaths, prompting protests demanding permanent solutions from the Forest Department.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

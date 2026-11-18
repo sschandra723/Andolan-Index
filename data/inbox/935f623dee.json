@@ -1,0 +1,73 @@
+{
+  "id": "935f623dee",
+  "url": "https://nenow.in/north-east-news/meghalaya/meghalaya-jnc-slams-deputy-cm-prestone-tynsong-over-remarks-against-protesting-deficit-teachers.html",
+  "title": "Meghalaya: JNC slams Deputy CM Prestone Tynsong over remarks against protesting deficit teachers",
+  "outlet": "Northeast Now",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": "meghalaya-deficit-teachers-2026",
+  "score": 2.0,
+  "matched": [
+    "deficit school",
+    "deficit teachers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2891,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "The Jaiñtia National Council condemned Meghalaya Deputy Chief Minister Prestone Tynsong for comparing protesting deficit school teachers to 'termites' and 'rotten fruits', demanding an unconditional apology and concrete solutions to teachers' grievances.",
+    "facts": [
+      {
+        "claim": "The Jaiñtia National Council (JNC) has condemned Meghalaya Deputy Chief Minister Prestone Tynsong over his reported remarks comparing protesting deficit school teachers to 'termites' and 'rotten fruits'",
+        "quote": "Shillong: The Jaiñtia National Council (JNC) has condemned Meghalaya Deputy Chief Minister Prestone Tynsong over his reported remarks comparing protesting deficit school teachers to “termites” and “rotten fruits”, demanding an unconditional public apology from him."
+      },
+      {
+        "claim": "The JNC Central Executive Committee's General Secretary Wanshwa Suting criticised the NPP-led Meghalaya government’s handling of the ongoing indefinite strike by deficit school teachers",
+        "quote": "In a press statement issued on behalf of the JNC Central Executive Committee, its General Secretary Wanshwa Suting criticised the NPP-led Meghalaya government’s handling of the ongoing indefinite strike by deficit school teachers and accused it of failing to address their service-related and pension grievances."
+      },
+      {
+        "claim": "Suting questioned Tynsong’s reported choice of words, saying 'Who are you to call our respected teachers termites or rotten fruits? How dare you use such language against those who have devoted their lives to educating our society?'",
+        "quote": "Questioning Tynsong’s reported choice of words, Suting said, “Who are you to call our respected teachers termites or rotten fruits? How dare you use such language against those who have devoted their lives to educating our society?”"
+      },
+      {
+        "claim": "The JNC said such remarks were unacceptable and undermines the dignity of the teaching community",
+        "quote": "The JNC said such remarks were unacceptable and undermines the dignity of the teaching community."
+      },
+      {
+        "claim": "The council questioned whether the government had forgotten the role teachers in shaping the lives of politicians, bureaucrats and public representatives",
+        "quote": "It also questioned whether the government had forgotten the role teachers in shaping the lives of politicians, bureaucrats and public representatives."
+      },
+      {
+        "claim": "Suting argued that the progress of a state should not be measured only through roads, buildings and infrastructure projects",
+        "quote": "Suting also questioned the government’s understanding of development, arguing that the progress of a state should not be measured only through roads, buildings and infrastructure projects."
+      },
+      {
+        "claim": "The council demanded that Tynsong issue an unconditional public apology and that the NPP-led government provide concrete, time-bound solutions to the demands of deficit teachers",
+        "quote": "The council demanded that Tynsong issue an unconditional public apology and that the NPP-led government provide concrete, time-bound solutions to the demands of deficit teachers in the Khasi-Jaiñtia and Garo Hills regions."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Jaiñtia National Council is demanding an unconditional apology from Meghalaya Deputy Chief Minister Prestone Tynsong for his remarks comparing protesting deficit school teachers to 'termites' and 'rotten fruits', and the government has been accused of failing to address teachers' service-related and pension grievances.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

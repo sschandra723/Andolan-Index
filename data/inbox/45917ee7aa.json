@@ -1,0 +1,60 @@
+{
+  "id": "45917ee7aa",
+  "url": "https://www.greaterkashmir.com/jammu/paramedics-on-72-hour-strike-over-service-rules-stop-ministers-cavalcade-in-kathua-12814365",
+  "title": "Paramedics on 72-hour strike over service rules, stop minister's cavalcade in Kathua",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2039,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Paramedics in five Jammu and Kashmir government medical colleges struck for 72 hours demanding implementation of their service recruitment rules, which the Health Minister said were being formulated but failed to address their seven-year demands.",
+    "facts": [
+      {
+        "claim": "Paramedics in five government medical colleges in Jammu and Kashmir went on a 72-hour strike on Monday, demanding the framing and implementation of their service recruitment rules.",
+        "quote": "Jammu, Nov 16: Paramedics in five government medical colleges in Jammu and Kashmir went on a 72-hour strike on Monday, demanding the framing and implementation of their service recruitment rules."
+      },
+      {
+        "claim": "During their protest march in Kathua, the paramedics of Government Medical College attempted to meet Health Minister Sakina Itoo and briefly halted her cavalcade passing through the area to apprise her of their long-pending demands.",
+        "quote": "During their protest march in Kathua, the paramedics of Government Medical College attempted to meet Health Minister Sakina Itoo and briefly halted her cavalcade passing through the area to apprise her of their long-pending demands."
+      },
+      {
+        "claim": "The representative claimed that for years, the government had been announcing that their demands were “under process”, while employees were seeking a concrete decision rather than assurances.",
+        "quote": "The representative claimed that for years, the government had been announcing that their demands were “under process”, while employees were seeking a concrete decision rather than assurances."
+      },
+      {
+        "claim": "The protesters claimed that the minister was earlier given September 30 as the deadline for implementation of their service rules, but even after waiting another 45 days, there had been no progress.",
+        "quote": "The protesters claimed that the minister was earlier given September 30 as the deadline for implementation of their service rules, but even after waiting another 45 days, there had been no progress."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Paramedics in five Jammu and Kashmir government medical colleges have been striking for seven years over unimplemented service recruitment rules, with the Health Minister stating the rules are being formulated but failing to address their long-standing demands.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/4",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Jammu, Nov 16: Paramedics in five government medical colleges in Jammu and Kashm”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

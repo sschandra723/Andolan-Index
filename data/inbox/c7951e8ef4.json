@@ -1,0 +1,73 @@
+{
+  "id": "c7951e8ef4",
+  "url": "https://timesofindia.indiatimes.com/city/aurangabad/traders-body-urges-centre-to-set-up-designated-protest-zones-outside-city-limits/articleshow/135838772.cms",
+  "title": "Traders’ body urges Centre to set up designated protest zones outside city limits",
+  "outlet": "The Times of India",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2334,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Trade leaders from 25 states demand national policy for designated protest zones outside city limits to prevent disruptions to markets, roads, and daily life, citing Supreme Court rulings on the balance between protest rights and economic activity.",
+    "facts": [
+      {
+        "claim": "Traders from 25 states have called for a uniform national policy on protests, including permanent designated demonstration zones outside cities and away from markets, residential areas, and critical public infrastructure.",
+        "quote": "Traders from 25 states have called for a uniform national policy on protests, including permanent designated demonstration zones outside cities and away from markets, residential areas, and critical public infrastructure."
+      },
+      {
+        "claim": "CAIT also sought the protection of wholesale and retail markets, commercial hubs, and industrial zones from disruptive protests, alongside mandatory prior permission with defined timings and locations.",
+        "quote": "CAIT also sought the protection of wholesale and retail markets, commercial hubs, and industrial zones from disruptive protests, alongside mandatory prior permission with defined timings and locations."
+      },
+      {
+        "claim": "CAIT demanded a ban on indefinite occupation of roads, highways, and market entrances; uninterrupted access to markets, hospitals, and schools; accountability for violence and property damage; and formulation of a national policy in consultation with trade bodies and civil society.",
+        "quote": "CAIT demanded a ban on indefinite occupation of roads, highways, and market entrances; uninterrupted access to markets, hospitals, and schools; accountability for violence and property damage; and formulation of a national policy in consultation with trade bodies and civil society."
+      },
+      {
+        "claim": "CAIT secretary general Praveen Khandelwal said the organisation fully respected the constitutional right to peaceful protest and freedom of expression.",
+        "quote": "CAIT secretary general Praveen Khandelwal said the organisation fully respected the constitutional right to peaceful protest and freedom of expression."
+      },
+      {
+        "claim": "CAIT leaders cited Supreme Court rulings in Amit Sahni vs Commissioner of Police (2020) and Mazdoor Kisan Shakti Sangathan vs Union of India (2018), arguing that while peaceful protests are protected, public roads cannot be occupied indefinitely at the expense of others’ rights.",
+        "quote": "CAIT leaders cited Supreme Court rulings in Amit Sahni vs Commissioner of Police (2020) and Mazdoor Kisan Shakti Sangathan vs Union of India (2018), arguing that while peaceful protests are protected, public roads cannot be occupied indefinitely at the expense of others’ rights."
+      },
+      {
+        "claim": "Repeated road blockades and prolonged demonstrations in commercial areas cause enormous losses to traders, MSMEs, daily-wage workers, and transporters. Customers cannot reach markets, supply chains are disrupted, and citizens face hardship.",
+        "quote": "Repeated road blockades and prolonged demonstrations in commercial areas cause enormous losses to traders, MSMEs, daily-wage workers, and transporters. Customers cannot reach markets, supply chains are disrupted, and citizens face hardship."
+      },
+      {
+        "claim": "Trade leaders also called for special arrangements during festive and wedding seasons, when business activity supports millions of livelihoods.",
+        "quote": "Trade leaders also called for special arrangements during festive and wedding seasons, when business activity supports millions of livelihoods."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Trade leaders from 25 states have called for a national policy to establish designated protest zones outside city limits to prevent disruptions to markets, roads, and daily life, citing Supreme Court rulings on the balance between protest rights and economic activity.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/7",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “CAIT demanded a ban on indefinite occupation of roads, highways, and market entr”",
+        "quote not in article: “Repeated road blockades and prolonged demonstrations in commercial areas cause e”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

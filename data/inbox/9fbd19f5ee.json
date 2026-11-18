@@ -1,0 +1,50 @@
+{
+  "id": "9fbd19f5ee",
+  "url": "https://www.deccanherald.com/india/karnataka/bengaluru/karnataka-puts-brakes-on-registration-of-green-sm-cabs-amid-protest-by-taxi-unions-4220833",
+  "title": "Karnataka puts brakes on registration of Green SM cabs amid protest by taxi unions",
+  "outlet": "Deccan Herald",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 236,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka government halted registration of Green SM cabs following taxi unions' protests, with unions claiming the company's proposed Rs 8 per km pricing would undercut government rates.",
+    "facts": [
+      {
+        "claim": "Karnataka government halted registration of Green SM cabs",
+        "quote": "Karnataka puts brakes on registration of Green SM cabs amid protest by taxi unions"
+      },
+      {
+        "claim": "unions claimed the company's proposed Rs 8 per km pricing would undercut government rates",
+        "quote": "The company reportedly plans to offer services at Rs 8 per km, much lower than the government’s charges."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka taxi unions protested against Green SM cabs' proposed pricing, which they said would undercut government rates, leading to a temporary halt in registration.",
+    "confidence": 0.85,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

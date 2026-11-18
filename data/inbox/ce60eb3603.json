@@ -1,0 +1,67 @@
+{
+  "id": "ce60eb3603",
+  "url": "https://www.greaterkashmir.com/srinagar/children-must-get-right-to-protection-education-and-equal-opportunities-12810397",
+  "title": "‘Children must get right to protection, education and equal opportunities’",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Ladakh"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "High Court of Jammu & Kashmir and Ladakh Judge celebrated Children's Day with children in institutional care homes, emphasizing their right to protection, education, and equal opportunities.",
+    "facts": [
+      {
+        "claim": "Justice Sanjeev Kumar, Judge, High Court of Jammu & Kashmir and Ladakh and Executive Chairman, Jammu & Kashmir Legal Services Authority celebrated Children’s Day with children at Paresha and Palash Children Homes",
+        "quote": "Srinagar, Nov 14: In a heartfelt gesture reflecting compassion, commitment and institutional concern towards the welfare and well-being of children, Justice Sanjeev Kumar, Judge, High Court of Jammu & Kashmir and Ladakh and Executive Chairman, Jammu & Kashmir Legal Services Authority, celebrated Children’s Day with the children residing at Paresha (Children Home for Girls) and Palash (Children Home for Boys), at Ishber, Nishat, Srinagar, on Saturday."
+      },
+      {
+        "claim": "The celebration aimed to make children feel valued, encouraged and empowered while reaffirming collective responsibility for safeguarding children's rights, dignity, safety and development",
+        "quote": "The celebration was organised in an atmosphere of warmth, affection, enthusiasm and exuberance, with the objective of making the children feel valued, encouraged and empowered, while reaffirming the collective responsibility of institutions and society towards safeguarding the rights, dignity, safety and overall development of every child."
+      },
+      {
+        "claim": "The Executive Chairman emphasized that every child deserves equal opportunities, care, affection, protection and a dignified environment to grow and realize their potential",
+        "quote": "He emphasized that every child deserves equal opportunities, care, affection, protection and a dignified environment in which to grow and realise their full potential."
+      },
+      {
+        "claim": "Children in institutional care require particular attention, sensitivity and sustained support to grow with confidence, self-respect and a sense of belonging",
+        "quote": "He observed that children residing in institutional care deserve particular attention, sensitivity and sustained support so that they may grow up with confidence, self-respect and a sense of belonging."
+      },
+      {
+        "claim": "The celebration included cultural activities, recreational games, cake-cutting, and distribution of bicycles, cricket kits, blankets, sports uniforms, and Smart Boards",
+        "quote": "The celebration witnessed several vibrant cultural and recreational activities, with the children enthusiastically participating and showcasing their talents. A special highlight of the programme was the traditional Kashmiri Rauf performance presented by the boys and girls of Paresha and Palash, which beautifully reflected the rich cultural heritage and artistic traditions of Kashmir. The activities provided the children with an opportunity to express themselves, demonstrate their sporting spirit and experience the happiness of collective participation. The celebrations also included a special cake-cutting ceremony, in which the Executive Chairman, accompanied by the officers and officials present, joined the children in cutting the cake. As a gesture of encouragement and support towards the welfare, recreational interests and day-to-day needs of the children, the Executive Chairman, along with the accompanying officers, distributed bicycles, cricket kits, blankets, sports uniforms and other essential and utility items among the children. The distribution was intended to encourage their participation in sports and outdoor activities while also extending support towards their personal comfort and well-being. In a further initiative aimed at strengthening the educational infrastructure and promoting technology-enabled learning, Smart Boards were also provided to both Paresha and Palash Children Homes."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "High Court of Jammu & Kashmir and Ladakh Judge celebrated Children's Day with children in institutional care homes, emphasizing their right to protection, education, and equal opportunities.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The celebration witnessed several vibrant cultural and recreational activities, ”",
+        "name “Ladakh Judge” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

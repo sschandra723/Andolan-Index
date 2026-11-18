@@ -1,0 +1,59 @@
+{
+  "id": "db350dd91a",
+  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi?traffic_source=rss",
+  "title": "Students protest as air pollution chokes New Delhi",
+  "outlet": "Al Jazeera",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": "delhi-clean-air-2025",
+  "score": 2.0,
+  "matched": [
+    "air pollution",
+    "toxic air"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 322,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "Students protest in New Delhi demanding action on toxic air pollution after the city was ranked the world's most polluted. Police claimed the site was not a permitted venue for such protests.",
+    "facts": [
+      {
+        "claim": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi",
+        "quote": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi"
+      },
+      {
+        "claim": "The annual smog has deteriorated further since Diwali, and is expected to worsen during winter",
+        "quote": "The annual smog has deteriorated further since Diwali, and is expected to worsen during winter"
+      },
+      {
+        "claim": "Police said the site was not a permitted venue for such protests",
+        "quote": "Police said the site was not a permitted venue"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Delhi clean-air protests began in November 2025 at India Gate, where police claimed the site was not a permitted venue and over 20 arrests were made.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Police said the site was not a permitted venue”"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

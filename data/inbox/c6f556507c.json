@@ -1,0 +1,70 @@
+{
+  "id": "c6f556507c",
+  "url": "https://www.thehindu.com/news/national/karnataka/asha-workers-launch-indefinite-protest-refuse-to-withdraw-despite-health-ministers-assurance/article71712945.ece",
+  "title": "ASHA workers launch indefinite protest; refuse to withdraw despite Health Minister’s assurance",
+  "outlet": "The Hindu",
+  "published": "2026-11-17",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2130,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka ASHA workers launched an indefinite protest demanding ₹15,000 monthly honorarium and fulfillment of pending dues, refusing to withdraw despite Health Minister U.T. Khader's assurances.",
+    "facts": [
+      {
+        "claim": "Karnataka ASHA workers launched an indefinite day-and-night protest at Freedom Park",
+        "quote": "Members of the Karnataka Rajya Samyuktha ASHA Karyakarteyara Sangha launched an indefinite day-and-night protest at Freedom Park here on Tuesday (November 17)"
+      },
+      {
+        "claim": "demanding that the State government fix their monthly honorarium at ₹15,000 and fulfil their pending demands",
+        "quote": "demanding that the State government fix their monthly honorarium at ₹15,000 and fulfil their pending demands"
+      },
+      {
+        "claim": "refused to withdraw despite assurances from Health Minister U.T. Khader",
+        "quote": "The workers refused to withdraw their agitation despite assurances from Health Minister U.T. Khader"
+      },
+      {
+        "claim": "Health Minister U.T. Khader said he would take up the demand for an increase in the monthly honorarium to ₹15,000 with the Chief Minister at the Cabinet meeting scheduled for November 19",
+        "quote": "Addressing the protesters, Mr. Khader said he would take up the demand for an increase in the monthly honorarium to ₹15,000 with the Chief Minister at the Cabinet meeting scheduled for November 19"
+      },
+      {
+        "claim": "Health Minister U.T. Khader promised a meeting on November 18 with Health Department officials and union representatives to address complaints regarding the non-payment of the pending ₹8,000 honorarium and other dues",
+        "quote": "He also promised them that a meeting would be held on November 18 with Health Department officials and union representatives to address complaints regarding the non-payment of the pending ₹8,000 honorarium and other dues"
+      },
+      {
+        "claim": "Union representatives said the agitation would continue and be intensified until the government took concrete steps to fulfil their demands",
+        "quote": "Union representatives said the agitation would continue and be intensified until the government took concrete steps to fulfil their demands"
+      },
+      {
+        "claim": "Former Chief Minister Siddaramaiah had promised a minimum monthly honorarium of ₹10,000, but the assurance remained unfulfilled",
+        "quote": "He recalled that former Chief Minister Siddaramaiah had promised a minimum monthly honorarium of ₹10,000, but the assurance remained unfulfilled"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "ASHA workers in Karnataka have been demanding higher honorariums and fulfillment of pending dues since the state government failed to honor former Chief Minister Siddaramaiah's promise of ₹10,000 monthly payment.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

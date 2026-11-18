@@ -1,0 +1,58 @@
+{
+  "id": "c44350f950",
+  "url": "https://theshillongtimes.com/2026/11/14/dont-suppress-women-led-agitation-against-ropeway-vpp-warns-govt/",
+  "title": "Don’t suppress women-led agitation against ropeway, VPP warns govt",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3156,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "The Voice of the People Party (VPP) warns the Meghalaya government against suppressing women-led protests against the Shillong Peak Ropeway Project, which residents fear threatens water sources. VPP president Ardent Miller Basaiawmoit says the government must respect public consent for development projects.",
+    "facts": [
+      {
+        "claim": "The Voice of the People Party (VPP) has warned the NPP-led MDA Government against attempting to suppress the women-led agitation against the proposed Shillong Peak Ropeway Project",
+        "quote": "The Voice of the People Party (VPP) has warned the NPP-led MDA Government against attempting to suppress the women-led agitation against the proposed Shillong Peak Ropeway Project"
+      },
+      {
+        "claim": "VPP president Ardent Miller Basaiawmoit said the party could no longer remain a silent spectator to the government’s indifferent attitude towards their demand for the immediate suspension of the project",
+        "quote": "VPP president Ardent Miller Basaiawmoit on Friday said the party could no longer remain a silent spectator to the government’s indifferent attitude towards their demand for the immediate suspension of the project"
+      },
+      {
+        "claim": "The women under the banner of the Joint Action Committee Against Shillong Ropeway Project took part in a public rally to press for its suspension",
+        "quote": "women under the banner of the Joint Action Committee Against Shillong Ropeway Project taking part in a public rally on Thursday to press for its suspension"
+      },
+      {
+        "claim": "Deputy Chief Minister Prestone Tynsong and South Shillong MLA and Cabinet Minister Sanbor Shullai have maintained that the project will not be scrapped",
+        "quote": "Deputy Chief Minister Prestone Tynsong and South Shillong MLA and Cabinet Minister Sanbor Shullai have maintained that the project will not be scrapped"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Women in Shillong are protesting against the Shillong Peak Ropeway Project due to concerns about water sources, with the VPP joining the movement to support their demands.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

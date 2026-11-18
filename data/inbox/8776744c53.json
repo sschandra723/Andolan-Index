@@ -1,0 +1,66 @@
+{
+  "id": "8776744c53",
+  "url": "https://www.thehindu.com/news/national/congress-launches-website-to-help-voters-check-sir-deletions-seek-restoration/article71699249.ece",
+  "title": "Congress launches website to help voters check SIR deletions, seek restoration",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=SIR"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1459,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "mgnrega-bachao-2026",
+    "new_movement": null,
+    "summary": "Congress launched a website for voters to check SIR deletions and seek restoration, part of their 'Vote Bachao, Desh Bachao' campaign against electoral irregularities.",
+    "facts": [
+      {
+        "claim": "Congress launched a website where voters can check if their names have been deleted from electoral rolls during the special intensive revision (SIR) and register complaints seeking restoration",
+        "quote": "The Congress on Friday (November 13, 2026) launched a website where voters can check if their names have been deleted from electoral rolls during the special intensive revision (SIR) and register complaints seeking restoration."
+      },
+      {
+        "claim": "The website, Iamvoterakshak.in, would allow citizens to verify their names and formally protest against deletions by applying for restoration",
+        "quote": "Announcing the initiative, Congress general secretary (organisation) K.C. Venugopal said the website, Iamvoterakshak.in, would allow citizens to verify their names and formally protest against deletions by applying for restoration."
+      },
+      {
+        "claim": "Before the announcement, Mr. Venugopal chaired a video conference with AICC general secretaries, in-charges, Pradesh Congress Committee (PCC) presidents, AICC secretaries and observers to review the party’s ongoing ‘Vote Bachao, Desh Bachao’ campaign against alleged electoral irregularities",
+        "quote": "Before the announcement, Mr. Venugopal chaired a video conference with AICC general secretaries, in-charges, Pradesh Congress Committee (PCC) presidents, AICC secretaries and observers to review the party’s ongoing ‘Vote Bachao, Desh Bachao’ campaign against alleged electoral irregularities."
+      },
+      {
+        "claim": "As part of the next phase of the campaign, Congress workers will function as ‘Vote Rakshaks’ and visit every polling booth to verify deletions from electoral rolls",
+        "quote": "As part of the next phase of the campaign, Congress workers will function as ‘Vote Rakshaks’ and visit every polling booth to verify deletions from electoral rolls."
+      },
+      {
+        "claim": "The mission to stop ‘vote chori’ continues in every single corner of India",
+        "quote": "‘The mission to stop ‘vote chori’ continues in every single corner of India,’ said, asserting that the Congress would continue its campaign until the integrity of the electoral system was restored."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress is campaigning against alleged electoral irregularities during the Special Intensive Revision (SIR) voter list recheck, which has led to voter deletions and demands for restoration.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘The mission to stop ‘vote chori’ continues in every single corner of India,’ sa”"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

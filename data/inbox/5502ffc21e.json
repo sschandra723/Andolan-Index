@@ -1,0 +1,62 @@
+{
+  "id": "5502ffc21e",
+  "url": "https://www.greaterkashmir.com/kashmir/iust-observes-world-diabetes-day-with-mou-signing-screening-drive-12808045",
+  "title": "IUST observes World Diabetes Day with MoU signing, screening drive",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2880,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Islamic University of Science and Technology (IUST) in Awantipora observed World Diabetes Day 2026 with an MoU signing, screening drive, and expert lectures, emphasizing diabetes prevention and health awareness.",
+    "facts": [
+      {
+        "claim": "The Islamic University of Science and Technology (IUST) observed World Diabetes Day 2026",
+        "quote": "Awantipora, Nov 13: The Islamic University of Science and Technology (IUST) observed World Diabetes Day 2026 on Friday with a series of activities, including the signing of a Memorandum of Understanding (MoU), a felicitation ceremony, expert lectures and diabetes screening."
+      },
+      {
+        "claim": "The programme was held at the Conference Hall of the Rumi Library, IUST",
+        "quote": "The programme was held at the Conference Hall of the Rumi Library, IUST."
+      },
+      {
+        "claim": "Diabetes affects a substantial section of the global population",
+        "quote": "He said diabetes affects a substantial section of the global population and that, despite widespread awareness about preventive measures and lifestyle modifications, adherence remains a major challenge."
+      },
+      {
+        "claim": "More than 101 million people in India were affected by diabetes",
+        "quote": "DrShujad Hussain Shuja, Assistant Director, AYUSH, said more than 101 million people in India were affected by diabetes, making preventive interventions particularly important."
+      },
+      {
+        "claim": "Sustained lifestyle changes, including balanced nutrition, regular physical activity and effective stress management, were essential for preventing and managing diabetes",
+        "quote": "Sustained lifestyle changes, including balanced nutrition, regular physical activity and effective stress management, were essential for preventing and managing diabetes, he said."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

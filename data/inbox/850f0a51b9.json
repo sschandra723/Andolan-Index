@@ -1,0 +1,69 @@
+{
+  "id": "850f0a51b9",
+  "url": "https://timesofindia.indiatimes.com/city/bengaluru/forum-holds-24-hour-protest-demanding-removal-of-brahmarakootlu-tollgate/articleshow/135922847.cms",
+  "title": "Forum holds 24-hour protest demanding removal of Brahmarakootlu tollgate",
+  "outlet": "The Times of India",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2231,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "An action committee of organisations and political parties held a 24-hour protest in Mangaluru demanding removal of the Brahmarakootlu tollgate on the Mangaluru-Bengaluru National Highway, which activists claim has been collecting toll for 23 years without permanent structures.",
+    "facts": [
+      {
+        "claim": "An action committee comprising like-minded organisations and political parties commenced a 24-hour protest from 9.30 am at Brahmarakootlu, Bantwal, on Tuesday, demanding the removal of the Brahmarakootlu tollgate on the Mangaluru-Bengaluru National Highway.",
+        "quote": "An action committee comprising like-minded organisations and political parties commenced a 24-hour protest from 9.30 am at Brahmarakootlu, Bantwal, on Tuesday, demanding the removal of the Brahmarakootlu tollgate on the Mangaluru-Bengaluru National Highway."
+      },
+      {
+        "claim": "Activists said vehicles have been paying toll at Brahmarakootlu for the past 23 years, despite the absence of permanent toll plaza structures.",
+        "quote": "Activists said vehicles have been paying toll at Brahmarakootlu for the past 23 years, despite the absence of permanent toll plaza structures."
+      },
+      {
+        "claim": "Senior Congress leader and former minister B Ramanath Rai said that the tollgate located at Brahmarakootlu is unnecessary. \"Even though the allotted period has expired, the toll collection has continued for so many years. There is absolutely no need to continue collecting toll. Do not commit this injustice, and do not harass the poor,\" Rai said.",
+        "quote": "Senior Congress leader and former minister B Ramanath Rai said that the tollgate located at Brahmarakootlu is unnecessary. \"Even though the allotted period has expired, the toll collection has continued for so many years. There is absolutely no need to continue collecting toll. Do not commit this injustice, and do not harass the poor,\" Rai said."
+      },
+      {
+        "claim": "There is no need for a tollgate in this section of the road. Citizens coming from Belthangady will have to pay toll twice at Panapila and also at Brahmarakootlu. Those coming from Puttur, Belthangady, and Uppinangady also will have to pay toll at Valal. Hence, this issue is not limited only to Bantwal, he said.",
+        "quote": "There is no need for a tollgate in this section of the road. Citizens coming from Belthangady will have to pay toll twice at Panapila and also at Brahmarakootlu. Those coming from Puttur, Belthangady, and Uppinangady also will have to pay toll at Valal. Hence, this issue is not limited only to Bantwal, he said."
+      },
+      {
+        "claim": "When the demand to remove Brahmarakootlu tollgate was discussed, officials of the National Highways Authority of India (NHAI) asserted that it would not be removed, Rai said.",
+        "quote": "When the demand to remove Brahmarakootlu tollgate was discussed, officials of the National Highways Authority of India (NHAI) asserted that it would not be removed, Rai said."
+      },
+      {
+        "claim": "Urging the central govt to respond to the demand, Rai appealed to Dakshina Kannada MP Capt Brijesh Chowta to continue his efforts to remove the tollgate.",
+        "quote": "Urging the central govt to respond to the demand, Rai appealed to Dakshina Kannada MP Capt Brijesh Chowta to continue his efforts to remove the tollgate."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Protesters demand removal of Brahmarakootlu tollgate on Mangaluru-Bengaluru National Highway, which has been collecting toll for 23 years without permanent structures, causing double toll payments for travelers.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Senior Congress leader and former minister B Ramanath Rai said that the tollgate”",
+        "quote not in article: “There is no need for a tollgate in this section of the road. Citizens coming fro”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

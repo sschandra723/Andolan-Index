@@ -1,0 +1,60 @@
+{
+  "id": "7f61335d05",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-to-protest-seeking-action-against-deputy-speaker-in-thuraiyur-assault-incident/article71702408.ece",
+  "title": "AIADMK to protest seeking action against Deputy Speaker in Thuraiyur ‘assault’ incident",
+  "outlet": "The Hindu",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1161,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "AIADMK plans protest on November 18 demanding action against Tamil Nadu Deputy Speaker M. Ravisankar for allegedly assaulting a social activist, after claims he threatened the victim and used police to fabricate the incident's non-occurrence.",
+    "facts": [
+      {
+        "claim": "AIADMK announced a protest on November 18",
+        "quote": "The AIADMK has announced a protest on November 18, demanding action over an alleged incident in which M. Ravisankar, the TVK MLA for Thuraiyur and Deputy Speaker of the Tamil Nadu Legislative Assembly, assaulted a social activist."
+      },
+      {
+        "claim": "M. Ravisankar assaulted a social activist",
+        "quote": "In a statement, AIADMK general secretary Edappadi K. Palaniswami alleged that Karthik Kumar, a social activist who went to meet Mr. Ravisankar to submit grievances, was subjected to a \"brutal attack\" and \"verbal abuse\"."
+      },
+      {
+        "claim": "Ravisankar threatened the activist and used police to fabricate the incident",
+        "quote": "Mr. Palaniswami further claimed that after evidence of the assault surfaced, Mr. Ravisankar threatened the activist again and used a police officer to coerce the victim into posting on social media that the incident had never occurred."
+      },
+      {
+        "claim": "AIADMK will protest near Thuraiyur bus stand",
+        "quote": "Criticising Chief Minister C. Joseph Vijay for remaining silent on the issue, Mr. Palaniswami announced that the AIADMK would stage a condemnation protest at 10 a.m. on Wednesday (November 18 near the Anna Statue at the Thuraiyur bus stand, demanding strict action against Mr. Ravisankar."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "AIADMK is demanding action against Tamil Nadu Deputy Speaker M. Ravisankar for alleged assault on a social activist, following claims he threatened the victim and fabricated the incident's non-occurrence.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Tamil Nadu Deputy Speaker” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

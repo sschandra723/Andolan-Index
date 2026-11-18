@@ -1,0 +1,74 @@
+{
+  "id": "1cd614c43a",
+  "url": "https://www.greaterkashmir.com/kashmir/phe-handwara-warns-employees-of-action-over-drinking-water-disruptions-12808052",
+  "title": "PHE Handwara warns employees of action over drinking water disruptions",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1982,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Jal Shakti (PHE) Division Handwara issued a circular warning field staff over drinking water disruptions, demanding prompt action on complaints and road blockades to address supply issues.",
+    "facts": [
+      {
+        "claim": "frequent complaints about disruption in drinking water supply",
+        "quote": "Taking serious note of frequent complaints about disruption in drinking water supply and alleged negligence by field staff"
+      },
+      {
+        "claim": "alleged negligence by field staff",
+        "quote": "alleged negligence by field staff"
+      },
+      {
+        "claim": "complaints about interruptions in water supply continued to pour in",
+        "quote": "complaints about interruptions in water supply continued to pour in despite repeated directions to the concerned officials"
+      },
+      {
+        "claim": "failure to address public grievances had forced people to block roads in protest",
+        "quote": "failure to address public grievances had, at times, forced people to block roads in protest"
+      },
+      {
+        "claim": "directed Assistant Executive Engineers, Assistant Engineers and Junior Engineers to ensure adequate deployment of manpower",
+        "quote": "The department has directed Assistant Executive Engineers, Assistant Engineers and Junior Engineers to ensure adequate deployment of manpower in their respective jurisdictions"
+      },
+      {
+        "claim": "issue public advisories on judicious use of water",
+        "quote": "Officials have also been asked to issue public advisories on judicious use of water"
+      },
+      {
+        "claim": "remain available on phones round the clock",
+        "quote": "They have further been directed to remain available on their phones round the clock"
+      },
+      {
+        "claim": "warning of consequences for non-compliance including suspension, withholding of annual increments and imposition of fines",
+        "quote": "Action against defaulting officials may include suspension, withholding of annual increments and imposition of fines"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

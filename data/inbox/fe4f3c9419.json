@@ -1,0 +1,68 @@
+{
+  "id": "fe4f3c9419",
+  "url": "https://scroll.in/article/1096994/why-the-wave-of-protests-sweeping-europe-is-unlike-the-mass-mobilisation-in-1968",
+  "title": "Why the wave of protests sweeping Europe is unlike the mass mobilisation in 1968",
+  "outlet": "Scroll.in",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The article compares the 2026 European protests to 1968, noting differences in protester grievances (state failures vs. demand for freedom), political outcomes, and violence. It highlights Serbia's student movement winning elections while France's protests led to political blame.",
+    "facts": [
+      {
+        "claim": "Spain’s November 11 general strike",
+        "quote": "Spain’s November 11 general strike, called in response to a housing crisis, stagnant wages and rising living costs, is part of a much wider European story."
+      },
+      {
+        "claim": "French pupils describe classrooms with rats, extreme temperatures and no running water",
+        "quote": "French pupils describe classrooms with rats, extreme temperatures and no running water"
+      },
+      {
+        "claim": "up to 40,000 German pupils walked out recently over fears of conscription",
+        "quote": "up to 40,000 German pupils walked out recently over fears of conscription"
+      },
+      {
+        "claim": "Serbia’s recent protest movement emerged after the 2024 collapse of a railway station canopy",
+        "quote": "Serbia’s recent protest movement suggests another trajectory. It emerged after the 2024 collapse of a railway station canopy in the city of Novi Sad, which became a symbol of wider corruption and accountability concerns."
+      },
+      {
+        "claim": "Aleksandar Vučić dismissed the protesters as part of a western-backed 'colour revolution'",
+        "quote": "Aleksandar Vučić, the former Serbian president who was recently removed from power, dismissed the protesters as part of a western-backed \"colour revolution\"."
+      },
+      {
+        "claim": "Serbia’s students won the election",
+        "quote": "The students of 2026 have already unseated the ruling party at the ballot box."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The article discusses how 2026 European protests differ from 1968 in grievances (state failures vs. freedom demands), political outcomes (Serbia's election win vs. France's political blame), and violence.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The students of 2026 have already unseated the ruling party at the ballot box.”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

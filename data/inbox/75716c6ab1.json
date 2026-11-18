@@ -1,0 +1,55 @@
+{
+  "id": "75716c6ab1",
+  "url": "https://www.greaterkashmir.com/videos/non-gazetted-staff-of-five-new-gmcs-resume-indefinite-strike-over-delay-in-recruitment-rule-12814418",
+  "title": "Non-gazetted staff of five new GMCs resume indefinite strike over delay in recruitment rule",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Non-gazetted staff of five new GMCs have resumed an indefinite strike due to delays in implementing recruitment rules.",
+    "facts": [
+      {
+        "claim": "Non-gazetted staff of five new GMCs",
+        "quote": "Non-gazetted staff of five new GMCs"
+      },
+      {
+        "claim": "resume indefinite strike",
+        "quote": "resume indefinite strike"
+      },
+      {
+        "claim": "delay in implementation of recruitment rules",
+        "quote": "delay in recruitment rule"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "e059acf343",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/companies-in-j-k-must-prioritise-local-hiring-omar-101794936038537.html",
+  "title": "Companies in J&K must prioritise local hiring: Omar",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-17",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Omar Abdullah"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2666,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "J&K Chief Minister Omar Abdullah urged companies in the union territory to hire local youth, stating the region has sufficient talent and that companies must train and employ J&K youth before hiring outsiders.",
+    "facts": [
+      {
+        "claim": "Companies in J&K must prioritise the recruitment of local youth",
+        "quote": "Chief minister Omar Abdullah stressed that J&K had no shortage of talent and that its youth needed opportunities to demonstrate their abilities."
+      },
+      {
+        "claim": "Companies could be given a period of six months to a year to train local youngsters before taking them on board",
+        "quote": "Companies could be given a period of six months to a year to train local youngsters before taking them on board,"
+      },
+      {
+        "claim": "J&K has sufficient talent and youth need opportunities",
+        "quote": "We will not tolerate the excuse that trained local youngsters are not available. We can give you six months or a year to train our youth. We have academies, training facilities, colleges and universities,"
+      },
+      {
+        "claim": "Youth from J&K serve in various fields including sports and regiments",
+        "quote": "youngsters from J&K had demonstrated their capabilities in different fields, including sports, and were serving in various regiments and across different parts of the country."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "J&K lost statehood in 2019, when it was split into two union territories. The elected government and the Congress say the Centre has not kept its promise to restore it, and protested in July 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

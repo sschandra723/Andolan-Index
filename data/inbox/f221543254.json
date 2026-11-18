@@ -1,0 +1,52 @@
+{
+  "id": "f221543254",
+  "url": "https://kashmirobserver.net/2026/11/17/spo-killings-jk-congress-seeks-bjp-mlas-apology/",
+  "title": "SPO Killings: J&K Congress Seeks BJP MLA’s Apology",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Jammu and Kashmir Pradesh Congress"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1485,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Congress workers in Srinagar protested police blocking their march against BJP MLA Shagun Parihar for allegedly making mosque announcements before SPO killings, demanding an FIR and apology from her.",
+    "facts": [
+      {
+        "claim": "Congress workers in Srinagar protested police blocking their march against BJP MLA Shagun Parihar for allegedly making mosque announcements before SPO killings",
+        "quote": "Srinagar- Police on Tuesday foiled a protest by the Jammu and Kashmir Pradesh Congress Committee (JKPCC) against the alleged attempts by the BJP to disturb communal harmony in the Union territory."
+      },
+      {
+        "claim": "demanding an FIR and apology from her",
+        "quote": "We demand that an FIR be registered against Parihar. We also demand a public apology from her,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress seeks BJP MLA's apology over alleged role in SPO killings and communal tensions in J&K.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

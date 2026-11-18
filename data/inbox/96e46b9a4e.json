@@ -1,0 +1,94 @@
+{
+  "id": "96e46b9a4e",
+  "url": "https://www.thehindu.com/news/national/kerala/lpst-protests-keralam-mulling-lowering-teacher-student-ratio-in-govt-schools-with-division-fall-leading-to-loss-of-post/article71710858.ece",
+  "title": "LPST protests: Keralam mulling lowering teacher-student ratio in govt schools with division fall leading to loss of post",
+  "outlet": "The Hindu",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2332,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "Kerala government considers lowering teacher-student ratio to 1:25 in government schools where student numbers drop, to retain teachers from redeployment due to vacancies, but not for aided schools. Implementation may cost ₹50 crore annually.",
+    "facts": [
+      {
+        "claim": "Keralam government is mulling lowering the teacher-student ratio to 1:25 only in government schools where a fall in student strength leads to loss of teaching post",
+        "quote": "In a step towards ending the agitation in front of the Secretariat by All Kerala Lower Primary School Teachers’ (LPST) Rankholders’ Association, the Keralam government is mulling lowering the teacher-student ratio to 1:25 only in government schools where a fall in student strength leads to loss of teaching post."
+      },
+      {
+        "claim": "At present, the teacher-student ratio is 1:30 in lower primary schools",
+        "quote": "At present, the teacher-student ratio is 1:30 in lower primary schools."
+      },
+      {
+        "claim": "The government is considering reducing this to 1:25 in government lower primary schools where there is a drop in the number of students in order to protect the teachers in that post itself",
+        "quote": "The government is considering reducing this to 1:25 in government lower primary schools where there is a drop in the number of students in order to protect the teachers in that post itself."
+      },
+      {
+        "claim": "This in turn will help avoid redeployment of the teachers who are “thrown out” owing to division fall in vacancies arising owing to retirements every year",
+        "quote": "This in turn will help avoid redeployment of the teachers who are “thrown out” owing to division fall in vacancies arising owing to retirements every year."
+      },
+      {
+        "claim": "With this, the retirement vacancies could be filled up from the current LPST rank-lists",
+        "quote": "With this, the retirement vacancies could be filled up from the current LPST rank-lists."
+      },
+      {
+        "claim": "Another proposal under consideration is making appointments from LPST rank-lists to vacancies that arise from exempting head teachers from teaching duties in schools that have 150 or more students",
+        "quote": "Another proposal under consideration is making appointments from LPST rank-lists to vacancies that arise from exempting head teachers from teaching duties in schools that have 150 or more students."
+      },
+      {
+        "claim": "At present, the head teacher vacancies (HTV) are filled by appointing teachers on daily wages",
+        "quote": "At present, the head teacher vacancies (HTV) are filled by appointing teachers on daily wages."
+      },
+      {
+        "claim": "Both these proposals are likely to come up in Wednesday’s Cabinet meeting",
+        "quote": "Both these proposals are likely to come up in Wednesday’s Cabinet meeting."
+      },
+      {
+        "claim": "Implementation of these two proposals is expected to create an additional financial burden of ₹50 crore a year",
+        "quote": "Implementation of these two proposals is expected to create an additional financial burden of ₹50 crore a year."
+      },
+      {
+        "claim": "After the LPST rank-holders had intensified their over 130-day protest, saying they would not give up until their demands were met, the Chief Minister’s Office had signalled the intention for further discussions",
+        "quote": "After the LPST rank-holders had intensified their over 130-day protest, saying they would not give up until their demands were met, the Chief Minister’s Office had signalled the intention for further discussions."
+      },
+      {
+        "claim": "The LPST rank-holders were demanding implementation of the 1:25 ratio across lower primary schools",
+        "quote": "The LPST rank-holders were demanding implementation of the 1:25 ratio across lower primary schools."
+      },
+      {
+        "claim": "However, this would incur an additional expenditure of ₹400 crore, the Minister had pointed out",
+        "quote": "However, this would incur an additional expenditure of ₹400 crore, the Minister had pointed out."
+      },
+      {
+        "claim": "The latest proposals are expected to assuage the striking rank-holders to an extent and resolve the current impasse",
+        "quote": "The latest proposals are expected to assuage the striking rank-holders to an extent and resolve the current impasse."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala government proposes to lower teacher-student ratio from 1:30 to 1:25 in government schools with declining student numbers to retain teachers, potentially reducing redeployment due to retirement vacancies, but not for aided schools.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "13/13",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

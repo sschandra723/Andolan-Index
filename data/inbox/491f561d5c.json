@@ -1,0 +1,54 @@
+{
+  "id": "491f561d5c",
+  "url": "https://www.hindustantimes.com/cities/others/unregistered-hospital-owner-aides-beat-man-to-death-in-bihar-for-protesting-poor-care-2-held-101794901503640.html",
+  "title": "Unregistered hospital owner, aides beat man to death in Bihar for protesting poor care; 2 held",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2174,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Police said an unregistered hospital owner and his aides beat a man to death in Bihar after he protested poor care for his pregnant daughter, leading to two arrests and a health department inquiry.",
+    "facts": [
+      {
+        "claim": "an unregistered hospital owner and his aides beat a man to death in Bihar after he protested poor care for his pregnant daughter",
+        "quote": "A man died after being allegedly battered with a baseball bat and iron rods by the owner of an unregistered private hospital and his aides in Bihar's Aurangabad district for protesting the inadequate treatment of a pregnant woman, police said on Tuesday."
+      },
+      {
+        "claim": "leading to two arrests",
+        "quote": "Two men were nabbed on November 12, following the incident at K P Memorial Hospital in Rafiganj, they said."
+      },
+      {
+        "claim": "and a health department inquiry",
+        "quote": "Aurangabad civil surgeon said the incident prompted the health department to launch an inquiry into the affairs of the hospital, and it was found that the facility was not a registered one."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The incident involved an unregistered hospital in Bihar where a man died after being beaten by the owner for protesting inadequate care for his pregnant daughter, prompting a health department inquiry and police action.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

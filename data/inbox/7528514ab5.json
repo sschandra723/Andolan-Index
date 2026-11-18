@@ -1,0 +1,64 @@
+{
+  "id": "7528514ab5",
+  "url": "https://www.greaterkashmir.com/politics/difficulty-with-cabinet-expansion-was-ek-anaar-sau-bimar-cm-omar-12815487",
+  "title": "Difficulty with cabinet expansion was ‘Ek Anaar, Sau Bimar’: CM Omar",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": "ladakh-statehood",
+  "score": 3.0,
+  "matched": [
+    "Ladakh",
+    "Leh",
+    "Kargil"
+  ],
+  "alternatives": [
+    "jk-statehood-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Chief Minister Omar Abdullah questioned the Centre's logic for reducing J&K's ministerial strength from 25 to 9 despite increased assembly seats and stable population, calling it unjust and highlighting the statehood restoration timeline.",
+    "facts": [
+      {
+        "claim": "Chief Minister Omar Abdullah questioned the Centre's logic behind trimming the ministerial strength in J&K while the number of administrative departments did not undergo any major change",
+        "quote": "Chief Minister Omar Abdullah on Monday questioned the (Centre’s) logic behind trimming the ministerial strength in J&K while the number of administrative departments did not undergo any major change; the population almost remained static or rose and assembly seats also increased."
+      },
+      {
+        "claim": "The number of ministers was reduced from 25 to 9",
+        "quote": "You can well imagine – during the earlier scenario in my earlier government, we used to have around 25 ministers. There is hardly any change in the structure of Jammu and Kashmir in terms of population (post 2019), only Ladakh has been separated (from its earlier map). Ladakh is a less populated area. If we talk in terms of population, four assembly seats of Kargil, Zanskar, Leh and Nubra (of Ladakh) were reduced but (after delimitation), seven seats were added, thus in total, the seats of J&K Legislative Assembly increased and not decreased. From earlier 87 seats, we went up to 90 seats. But the number of ministers was reduced from 25 to 9,"
+      },
+      {
+        "claim": "Omar Abdullah called the reduction of ministers 'sheer injustice'",
+        "quote": "This is sheer injustice, not with me, but with J&K. If we don’t get statehood during our tenure, even the next government will have to face the same injustice."
+      },
+      {
+        "claim": "Omar Abdullah stated that J&K was promised statehood by the BJP but it has not been restored",
+        "quote": "Statehood was their (BJP’s) promise. Why is it not being restored?"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "J&K lost statehood in 2019, when it was split into two union territories. The elected government and the Congress say the Centre has not kept its promise to restore it, and protested in July 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

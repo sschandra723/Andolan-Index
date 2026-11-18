@@ -1,0 +1,82 @@
+{
+  "id": "d8eb33424b",
+  "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/tension-erupts-outside-vanchiyoor-court-after-verdict-in-ranjith-murder-case/article71712043.ece",
+  "title": "Tension erupts outside Vanchiyoor court after verdict in Ranjith murder case",
+  "outlet": "The Hindu",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1994,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Political tensions erupted outside Vanchiyoor District Court following a murder verdict, with BJP and CPI(M) workers clashing over accusations of provocative slogans and police bias.",
+    "facts": [
+      {
+        "claim": "Tension prevailed outside the Vanchiyoor District Court complex after the court delivered its verdict in the Mannanthala Ranjith murder case on Tuesday.",
+        "quote": "Tension prevailed outside the Vanchiyoor District Court complex after the court delivered its verdict in the Mannanthala Ranjith murder case on Tuesday."
+      },
+      {
+        "claim": "Bharatiya Janata Party (BJP) and Communist Party of India (Marxist) [CPI(M)] workers confronted each other, while police personnel also faced resistance from protesters as the convicts were escorted out of the court premises.",
+        "quote": "Bharatiya Janata Party (BJP) and Communist Party of India (Marxist) [CPI(M)] workers confronted each other, while police personnel also faced resistance from protesters as the convicts were escorted out of the court premises."
+      },
+      {
+        "claim": "Around ten minutes after the verdict was pronounced, a police bus carrying the 11 convicts emerged through the court gate. A large number of BJP workers who had gathered outside the court raised slogans against the convicts.",
+        "quote": "Around ten minutes after the verdict was pronounced, a police bus carrying the 11 convicts emerged through the court gate. A large number of BJP workers who had gathered outside the court raised slogans against the convicts."
+      },
+      {
+        "claim": "This prompted the convicted men to shout back and allegedly hurl abuses at the BJP workers from within the bus.",
+        "quote": "This prompted the convicted men to shout back and allegedly hurl abuses at the BJP workers from within the bus."
+      },
+      {
+        "claim": "As the situation intensified, the police attempted to disperse the BJP protesters. However, the protesters resisted, leading to a scuffle between them and the police personnel.",
+        "quote": "As the situation intensified, the police attempted to disperse the BJP protesters. However, the protesters resisted, leading to a scuffle between them and the police personnel."
+      },
+      {
+        "claim": "The situation took a further turn when local CPI(M) workers reached the area, thereby triggering heated arguments and confrontations between the rival groups.",
+        "quote": "The situation took a further turn when local CPI(M) workers reached the area, thereby triggering heated arguments and confrontations between the rival groups."
+      },
+      {
+        "claim": "The CPI(M) workers alleged that the BJP workers had raised provocative slogans outside the court and accused the police of supporting the BJP protesters.",
+        "quote": "The CPI(M) workers alleged that the BJP workers had raised provocative slogans outside the court and accused the police of supporting the BJP protesters."
+      },
+      {
+        "claim": "Despite repeated appeals from senior police officials, including an Assistant Commissioner of Police, to disperse, both groups refused to leave the area.",
+        "quote": "Despite repeated appeals from senior police officials, including an Assistant Commissioner of Police, to disperse, both groups refused to leave the area."
+      },
+      {
+        "claim": "Taken into custody",
+        "quote": "A few political activists who continued to argue with the police were forcibly taken into custody."
+      },
+      {
+        "claim": "The City police have stepped up security in an around the court premises to prevent a further escalation of tension. Security will also been intensified in the region on Wednesday on account of the scheduled pronouncement of sentences.",
+        "quote": "The City police have stepped up security in an around the court premises to prevent a further escalation of tension. Security will also been intensified in the region on Wednesday on account of the scheduled pronouncement of sentences."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Political tensions erupted outside Vanchiyoor District Court following a murder verdict, with BJP and CPI(M) workers clashing over accusations of provocative slogans and police bias.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "10/10",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

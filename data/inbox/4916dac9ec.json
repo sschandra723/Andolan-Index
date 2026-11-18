@@ -1,0 +1,88 @@
+{
+  "id": "4916dac9ec",
+  "url": "https://www.newindianexpress.com/india/2026/Nov/16/ladakh-protests-escalate-as-lab-begins-hunger-strike",
+  "title": "Ladakh protests escalate as LAB begins hunger strike",
+  "outlet": "The New Indian Express",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": "ladakh-statehood",
+  "score": 6.0,
+  "matched": [
+    "Ladakh protests",
+    "Ladakh",
+    "Leh Apex Body",
+    "Leh",
+    "=LAB"
+  ],
+  "alternatives": [
+    "tn-hospital-workers-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3761,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh protests escalate as LAB begins hunger strike demanding Centre resume dialogue, defer Hill Council polls, roll back liquor policy, and release judicial inquiry report into 2025 Leh killings.",
+    "facts": [
+      {
+        "claim": "LAB has intensified its agitation by launching a hunger strike alongside its indefinite dharna",
+        "quote": "The LAB has intensified its agitation by launching a hunger strike alongside its indefinite dharna pressing the Centre to resume dialogue with Ladakh leaders, defer Hill Council polls, roll back new liquor policy and release judicial inquiry report into last year’s killings in Leh."
+      },
+      {
+        "claim": "LAB has been holding an indefinite dharna since November 12",
+        "quote": "The LAB has been holding an indefinite dharna since November 12 under the leadership of its chairman Chering Dorjay at NDS Memorial Park in Leh."
+      },
+      {
+        "claim": "40 people sat on hunger strike on Saturday",
+        "quote": "On Saturday 40 people sat on hunger strike."
+      },
+      {
+        "claim": "300 people present for dharna and 20 sat on hunger strike",
+        "quote": "Yesterday there were about 300 people present for dharna and 20 sat on hunger strike"
+      },
+      {
+        "claim": "LAB demands Centre resume dialogue with Ladakh leaders, defer Hill Council polls, roll back new liquor policy, and release judicial inquiry report",
+        "quote": "Dorjay said the protests would continue till Centre resumes dialogue with Ladakh leaders, defers the Hill Council polls scheduled for December 4, rolls back the new liquor policy and releases the judicial inquiry report."
+      },
+      {
+        "claim": "LAB and KDA oppose LG administration’s decision to hold elections to eight Hill Councils in Ladakh on December 4",
+        "quote": "The LAB and Kargil Democratic Alliance (KDA), which are jointly agitating for constitutional safeguards under Article 371 and UT-level elected body for Ladakh, have strongly opposed LG administration’s decision to hold elections to eight Hill Councils in Ladakh on December 4, arguing that no elections had previously been held in the region during harsh winter."
+      },
+      {
+        "claim": "Dorjay said December is not the time to hold elections in Ladakh due to extreme cold",
+        "quote": "December is not the time to hold elections in Ladakh, when the region is under intense cold and temperature stays many degrees below freezing point"
+      },
+      {
+        "claim": "The issue of the minor boy, whose father Havaldar T Tharchin was killed in Leh violence on September 24, 2025, has been settled",
+        "quote": "Dorjay said the issue has been settled and the boy is now with his mother at home."
+      },
+      {
+        "claim": "Police have given written assurance that the boy will not be harassed",
+        "quote": "Police has advised both mother and son to stay at their own home without any fear or apprehension, take care of her son’s health, not to allow the boy to attend any protest and should seek medical consultation for his well-being and whenever required."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh, a union territory without a legislature since 2019, has been protesting for constitutional safeguards under Article 371 and an elected body for Ladakh, following the Centre's decision to hold Hill Council elections in December 2025.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "8/9",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The LAB has intensified its agitation by launching a hunger strike alongside its”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

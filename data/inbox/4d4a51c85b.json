@@ -1,0 +1,69 @@
+{
+  "id": "4d4a51c85b",
+  "url": "https://nenow.in/north-east-news/manipur/manipur-athletes-protest-alleged-misuse-of-khuman-lampak-sports-complex-following-recent-concert.html",
+  "title": "Manipur: Athletes protest alleged misuse of Khuman Lampak Sports Complex following recent concert",
+  "outlet": "Northeast Now",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": "manipur-protests-2026",
+  "score": 2.0,
+  "matched": [
+    "Manipur",
+    "Imphal"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1333,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "Athletes in Manipur protested at Khuman Lampak Sports Complex over alleged misuse for commercial events and alcohol after a concert left training grounds littered with liquor bottles.",
+    "facts": [
+      {
+        "claim": "Hundreds of athletes, coaches and sports officials staged a peaceful protest rally at the Khuman Lampak Sports Complex in Manipur’s Imphal",
+        "quote": "Hundreds of athletes, coaches and sports officials staged a peaceful protest rally at the Khuman Lampak Sports Complex in Manipur’s Imphal on Monday to condemn the venue’s use for commercial entertainment events and alcohol consumption."
+      },
+      {
+        "claim": "Demonstrators marched through the facility to express their anger over the aftermath of a recent Ranbir Thouna concert, which reportedly left the training grounds littered with liquor bottles and beer cans",
+        "quote": "Demonstrators marched through the facility to express their anger over the aftermath of a recent Ranbir Thouna concert, which reportedly left the training grounds littered with liquor bottles and beer cans."
+      },
+      {
+        "claim": "Participants from the Coaches Association, PET Association, Youth Affairs and Sports (YAS) and Regular Coaching Centre (RCC) trainers joined players in protesting the disruption of daily athletic activities",
+        "quote": "Participants from the Coaches Association, PET Association, Youth Affairs and Sports (YAS) and Regular Coaching Centre (RCC) trainers joined players in protesting the disruption of daily athletic activities."
+      },
+      {
+        "claim": "Protesters said the complex serves as a training ground where aspiring athletes prepare to bring laurels to Manipur and argued that such commercial activities disrespect the facility",
+        "quote": "Protesters said the complex serves as a training ground where aspiring athletes prepare to bring laurels to Manipur and argued that such commercial activities disrespect the facility."
+      },
+      {
+        "claim": "Carrying banners and placards urging authorities to respect the ground, protect sporting aspirations and preserve the state’s sporting legacy, the marchers demanded strict measures to prevent the misuse of athletic infrastructure for recreational activities",
+        "quote": "Carrying banners and placards urging authorities to respect the ground, protect sporting aspirations and preserve the state’s sporting legacy, the marchers demanded strict measures to prevent the misuse of athletic infrastructure for recreational activities."
+      },
+      {
+        "claim": "Oinam Nganthoiba, secretary of the Youth Affairs and Sports Coaches Association, Manipur, said the organisations were preparing a three-point memorandum to submit to the Chief Minister for the welfare of the state’s sportspersons",
+        "quote": "Oinam Nganthoiba, secretary of the Youth Affairs and Sports Coaches Association, Manipur, said the organisations were preparing a three-point memorandum to submit to the Chief Minister for the welfare of the state’s sportspersons."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Athletes in Manipur protested at Khuman Lampak Sports Complex over alleged misuse for commercial events and alcohol after a recent concert left training grounds littered with liquor bottles.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

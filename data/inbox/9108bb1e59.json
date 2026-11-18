@@ -1,0 +1,76 @@
+{
+  "id": "9108bb1e59",
+  "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-ready-for-talks-with-lpst-rank-holders-leader-valarmathi-minister-samsudheen/article71707638.ece",
+  "title": "Keralam govt ready for talks with LPST rank holders’ leader Valarmathi: Minister Samsudheen",
+  "outlet": "The Hindu",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "hunger strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2424,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "Kerala government says it is ready to hold talks with Lower Primary School Teachers (LPST) rank holders' leader S. Valarmathi, who is on an indefinite hunger strike demanding appointments and is hospitalized. The government claims several rounds of discussions have been held but failed to resolve issues over teacher-student ratio.",
+    "facts": [
+      {
+        "claim": "Keralam General Education Minister N. Samsudheen said the government was ready to hold talks with LPST rank holders’ leader S. Valarmathi",
+        "quote": "Keralam General Education Minister N. Samsudheen on Monday said the government was ready to hold talks with Lower Primary School Teachers (LPST) rank holders’ leader S. Valarmathi, who is on an indefinite hunger strike demanding appointments and is currently undergoing treatment at a hospital."
+      },
+      {
+        "claim": "The government assured LPST rank holders that many of their issues would be addressed",
+        "quote": "Speaking to reporters at Cherthala, the Minister said several rounds of discussions had already been held with the LPST rank holders, and the government had assured them that many of the issues they raised would be addressed."
+      },
+      {
+        "claim": "S. Valarmathi was admitted to hospital on November 12 after developing physical discomfort during the hunger strike",
+        "quote": "Ms. Valarmathi was admitted to hospital on November 12 after developing physical discomfort during the indefinite hunger strike."
+      },
+      {
+        "claim": "The government's immediate priority is to ensure Valarmathi's recovery",
+        "quote": "Regarding her health condition, Mr. Samsudheen said the immediate priority was to ensure she recovered and returned to good health."
+      },
+      {
+        "claim": "The government and rank holders have been in communication with mediators",
+        "quote": "He said communication was continuing between the government and the rank holders, with some mediators also involved in facilitating discussions."
+      },
+      {
+        "claim": "The rank holders have been staging a protest in front of the Secretariat in Thiruvananthapuram",
+        "quote": "The rank holders have been staging a protest in front of the Secretariat in Thiruvananthapuram, demanding appointment orders for all eligible candidates who cleared the Kerala Public Service Commission (PSC) exam and were included in the LPST rank list before it expired."
+      },
+      {
+        "claim": "Their demands include transferring appointments to aided-school teaching posts to the PSC, ending cash-for-job practices, and implementing a teacher-student ratio of 1:25",
+        "quote": "Their other demands include transferring appointments to aided-school teaching posts to the PSC, ending alleged cash-for-job practices in recruitment and implementing a teacher-student ratio of 1:25 in government schools."
+      },
+      {
+        "claim": "Earlier discussions failed to reach consensus over teacher-student ratio",
+        "quote": "The earlier discussions between the government and the protesters failed to reach a consensus, particularly over the teacher-student ratio."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala government and LPST rank holders have been in ongoing talks since November 2026 over teacher-student ratio and appointments, with the rank holders on an indefinite hunger strike since November 12.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

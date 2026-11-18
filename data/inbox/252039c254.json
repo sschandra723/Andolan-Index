@@ -1,0 +1,47 @@
+{
+  "id": "252039c254",
+  "url": "https://www.greaterkashmir.com/videos/jk-congress-stages-protest-against-bjp-over-kishtwar-incident-12816860",
+  "title": "J&K Congress stages protest against BJP over Kishtwar incident",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "The J&K Congress staged a protest against the BJP over the Kishtwar incident, following J&K's loss of statehood in 2019 when it was split into two union territories.",
+    "facts": [
+      {
+        "claim": "The J&K Congress staged a protest against the BJP over the Kishtwar incident",
+        "quote": "J&K Congress stages protest against BJP over Kishtwar incident"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "J&K lost statehood in 2019, when it was split into two union territories. The elected government and the Congress say the Centre has not kept its promise to restore it, and protested in July 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

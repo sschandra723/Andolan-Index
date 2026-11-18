@@ -1,0 +1,68 @@
+{
+  "id": "cb94f65323",
+  "url": "https://www.hindustantimes.com/cities/delhi-news/cjp-leaders-saurav-das-ashutosh-ranka-appear-before-sem-in-oct-13-protest-case-101794916031680.html",
+  "title": "CJP leaders Saurav Das, Ashutosh Ranka appear before SEM in Oct 13 protest case",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2501,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "CJP leaders Saurav Das and Ashutosh Ranka appeared before a Special Executive Magistrate in Delhi for verification of their sureties related to their detention following the October 13 protest at Jantar Mantar.",
+    "facts": [
+      {
+        "claim": "CJP leaders Saurav Das and Ashutosh Ranka appeared before a Special Executive Magistrate here on Tuesday for verification of their sureties and supporting documents",
+        "quote": "CJP leaders Saurav Das, Ashutosh Ranka appear before SEM in Oct 13 protest case"
+      },
+      {
+        "claim": "The two leaders had last appeared before SEM Assistant Commissioner of Police Ritu Raj on October 23, two days after their release from Tihar jail following seven days in judicial custody",
+        "quote": "The two leaders had last appeared before SEM Assistant Commissioner of Police Ritu Raj on October 23, two days after their release from Tihar jail following seven days in judicial custody"
+      },
+      {
+        "claim": "They were directed to return on November 17 for verification of their sureties and the accompanying documents",
+        "quote": "They were directed to return on November 17 for verification of their sureties and the accompanying documents"
+      },
+      {
+        "claim": "At the time of their release on October 21, both leaders had furnished personal and surety bonds and submitted written undertakings before the SEM, assuring that they would not call for any protest at Jantar Mantar as long as it remained a denotified protest site",
+        "quote": "At the time of their release on October 21, both leaders had furnished personal and surety bonds and submitted written undertakings before the SEM, assuring that they would not call for any protest at Jantar Mantar as long as it remained a denotified protest site"
+      },
+      {
+        "claim": "The two were detained on October 13 and sent to five days of judicial custody the following day",
+        "quote": "The two were detained on October 13 and sent to five days of judicial custody the following day"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CJP leaders were detained after allegedly obstructing police at Jantar Mantar on October 13, leading to a legal case involving sureties and compliance with protest restrictions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The two were detained on October 13 and sent to five days of judicial custody th”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

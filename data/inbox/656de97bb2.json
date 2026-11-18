@@ -1,0 +1,108 @@
+{
+  "id": "656de97bb2",
+  "url": "https://www.greaterkashmir.com/jammu-kashmir/jk-tightens-rules-for-doctors-seeking-pg-12815541",
+  "title": "J&K tightens rules for doctors seeking PG",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1977,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "J&K Health Department introduced stricter rules for doctors seeking postgraduate studies, requiring 5 years of service and at least 3 years of government service remaining after completion, with penalties for abandoning courses.",
+    "facts": [
+      {
+        "claim": "The J&K Health and Medical Education Department has introduced stricter eligibility conditions for in-service medical officers applying for No Objection Certificates (NOCs) to pursue higher studies.",
+        "quote": "Srinagar, Nov 16: The J&K Health and Medical Education Department has introduced stricter eligibility conditions for in-service medical officers applying for No Objection Certificates (NOCs) to pursue higher studies."
+      },
+      {
+        "claim": "Doctors must have completed 5 years of service and have at least 3 years of government service remaining after completion of the course.",
+        "quote": "Doctors must have completed 5 years of service and have at least 3 years of government service remaining after completion of the course."
+      },
+      {
+        "claim": "The order issued by Health and Medical Education Department (Circular No. 07-JK(HME) of 2026 issued on November 12) requires that the course must be their first such course during service.",
+        "quote": "The order issued by Health and Medical Education Department (Circular No. 07-JK(HME) of 2026 issued on November 12) requires that the course must be their first such course during service."
+      },
+      {
+        "claim": "Doctors must have at least 3 years of remaining government service after completing the course, and those with less than 3 years left will not get an NOC.",
+        "quote": "Doctors must have at least 3 years of remaining government service after completing the course, and those with less than 3 years left will not get an NOC."
+      },
+      {
+        "claim": "For tenure posts such as Senior and Junior Residency, Registrarship, demonstratorship, Fellowship, Tutorship within J&K, the prescribed probation or 3 years of service must be completed.",
+        "quote": "For tenure posts such as Senior and Junior Residency, Registrarship, demonstratorship, Fellowship, Tutorship within J&K, the prescribed probation or 3 years of service must be completed."
+      },
+      {
+        "claim": "There is a compulsory 2-year “cooling-off period” which they will need to give in the department after returning from any study leave or tenure posting.",
+        "quote": "There is a compulsory 2-year “cooling-off period” which they will need to give in the department after returning from any study leave or tenure posting."
+      },
+      {
+        "claim": "Abandoning a course midway or leaving before fulfilling obligations will attract penalties.",
+        "quote": "Abandoning a course midway or leaving before fulfilling obligations will attract penalties."
+      },
+      {
+        "claim": "These include withholding of two increments.",
+        "quote": "These include withholding of two increments."
+      },
+      {
+        "claim": "There is also a fine of Rs 2 lakh and the entire amount is paid during the course.",
+        "quote": "There is also a fine of Rs 2 lakh and the entire amount is paid during the course."
+      },
+      {
+        "claim": "There is also a possibility of a ban on future government-sponsored courses.",
+        "quote": "There is also a possibility of a ban on future government-sponsored courses."
+      },
+      {
+        "claim": "The department has invited applications from eligible officers of the J&K Health and Family Welfare (Gazetted) Service.",
+        "quote": "The department has invited applications from eligible officers of the J&K Health and Family Welfare (Gazetted) Service."
+      },
+      {
+        "claim": "Applications must reach the respective directorates of health by 20 November 2026 for the 2027 cycle.",
+        "quote": "Applications must reach the respective directorates of health by 20 November 2026 for the 2027 cycle."
+      },
+      {
+        "claim": "These rules build on earlier guidelines.",
+        "quote": "These rules build on earlier guidelines."
+      },
+      {
+        "claim": "However the study-leave qualifying service has been raised from 3 to 5 years.",
+        "quote": "However the study-leave qualifying service has been raised from 3 to 5 years."
+      },
+      {
+        "claim": "The officials said that the order aims to ensure doctors complete courses and return to serve in the J&K health system.",
+        "quote": "The officials said that the order aims to ensure doctors complete courses and return to serve in the J&K health system."
+      },
+      {
+        "claim": "That, they said, may help in addressing the shortages in government facilities.",
+        "quote": "That, they said, may help in addressing the shortages in government facilities."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "J&K Health Department introduced stricter rules for doctors seeking postgraduate studies, requiring 5 years of service and at least 3 years of government service remaining after completion, with penalties for abandoning courses.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "16/16",
+      "names_checked": true,
+      "problems": [
+        "name “Health Department” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

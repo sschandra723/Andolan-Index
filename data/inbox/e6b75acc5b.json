@@ -1,0 +1,62 @@
+{
+  "id": "e6b75acc5b",
+  "url": "https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
+  "title": "Three space companies selected to develop high-resolution 3D reconstruction techniques for Indian cities",
+  "outlet": "The Hindu",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3117,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Indian National Space Promotion and Authorization Centre (IN-SPACe) selected three Indian space companies to develop high-resolution 3D reconstruction techniques for Indian cities using satellite data, with pilot projects in Bengaluru and Shimla.",
+    "facts": [
+      {
+        "claim": "The Indian National Space Promotion and Authorization Centre (IN-SPACe) has selected three Indian space companies to develop High-Resolution Indian Human Settlement Layers (IHSL) across Indian cities.",
+        "quote": "The Indian National Space Promotion and Authorization Centre (IN-SPACe) has selected three Indian space companies to develop High-Resolution Indian Human Settlement Layers (IHSL) across Indian cities."
+      },
+      {
+        "claim": "The three companies, SpacePixxel Technologies Pvt. Ltd., KaleidEO Space Systems Pvt. Ltd. and Azista Industries Pvt. Ltd. have been selected under IN-SPACe’s Seed Fund Scheme for Use Case Demonstration by Non-Government Entities (NGEi) to develop IHSL across Indian cities.",
+        "quote": "The three companies, SpacePixxel Technologies Pvt. Ltd., KaleidEO Space Systems Pvt. Ltd. and Azista Industries Pvt. Ltd. have been selected under IN-SPACe’s Seed Fund Scheme for Use Case Demonstration by Non-Government Entities (NGEi) to develop IHSL across Indian cities."
+      },
+      {
+        "claim": "These companies will collectively receive seed funding of ₹1.46 crore to develop and demonstrate an indigenous satellite-based system for 3D reconstruction of India’s built environment using monocular imageries.",
+        "quote": "These companies will collectively receive seed funding of ₹1.46 crore to develop and demonstrate an indigenous satellite-based system for 3D reconstruction of India’s built environment using monocular imageries."
+      },
+      {
+        "claim": "The selected companies will develop models using Earth Observation data to generate three integrated outputs covering built-up surface and building type, building height, and built-up volume.",
+        "quote": "The selected companies will develop models using Earth Observation data to generate three integrated outputs covering built-up surface and building type, building height, and built-up volume."
+      },
+      {
+        "claim": "The pilot demonstrations will cover Bengaluru and Shimla, representing distinct urban contexts of a large metropolitan region and a hill city.",
+        "quote": "The pilot demonstrations will cover Bengaluru and Shimla, representing distinct urban contexts of a large metropolitan region and a hill city."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

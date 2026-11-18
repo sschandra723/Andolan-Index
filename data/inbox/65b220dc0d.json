@@ -1,0 +1,64 @@
+{
+  "id": "65b220dc0d",
+  "url": "https://www.thehindu.com/news/cities/Madurai/farmers-stage-dharna-at-collectorate-demanding-disbursal-of-arrears/article71708550.ece",
+  "title": "Farmers stage dharna at Collectorate demanding disbursal of arrears",
+  "outlet": "The Hindu",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2975,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Farmers in Tamil Nadu staged a dharna at the District Collectorate demanding immediate payment of ₹1.20 crore in paddy procurement arrears from the NCCF, which they claim has withheld funds for months despite repeated appeals.",
+    "facts": [
+      {
+        "claim": "Farmers staged a dharna at the District Collectorate",
+        "quote": "Demanding the immediate disbursal of arrears for paddy procured from them, a group of farmers staged a dharna inside the weekly grievances redressal meeting hall at the District Collectorate here on Monday."
+      },
+      {
+        "claim": "NCCF procured ₹1.20 crore-worth paddy from 58 farmers",
+        "quote": "The members of Tamil Nadu Anaiththu Vivasaayigal Munnetra Sangam, who sat on the floor of the meeting hall before submitting their petition, said the Centre’s National Cooperative Consumers’ Federation of India (NCCF), the apex body of consumer cooperatives in India, procured ₹1.20 crore-worth paddy from 58 farmers of Nanguneri and Ambasamudram through direct procurement centres in the two taluks."
+      },
+      {
+        "claim": "NCCF has withheld arrears for months",
+        "quote": "However, the NCCF was allegeldy refusing to disburse the arrears for the past several months despite repeated appeals from the paddy supplier and reminders from the district administration."
+      },
+      {
+        "claim": "Farmers need immediate payment to repay loans and avoid debt burden",
+        "quote": "Even though we submitted appeals to officials before Deepavali, as we were badly in need of money, they turned a blind eye to iur situation. Farmers, who availed loans for agricultural operations and family needs, have to repay their loans with interest. They are also unable to start cultivation of paddy and other crops during the ‘pisanam’ season. If the arrears is not disbursed immediately, they may be forced to take extreme steps as they are unable to bear their debt burden,"
+      },
+      {
+        "claim": "District Revenue Officer assured early disbursal of arrears",
+        "quote": "When the farmers refused to give up their agitation, District Revenue Officer S. Vidhya, who chaired the meeting, got down from the dais and assured them that the district administration had already initiated steps to ensure early disbursal of the arrears."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers in Tamil Nadu are demanding payment of arrears from the NCCF for paddy procured through direct procurement centers, which they claim has withheld funds for months despite repeated appeals.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "991a35142d",
+  "url": "https://www.greaterkashmir.com/national/winter-session-likely-in-first-week-of-december-govt-may-push-womens-quota-bill-12811343",
+  "title": "Winter session likely in first week of December; govt may push women's quota bill",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": "anti-sir-2026",
+  "score": 6.0,
+  "matched": [
+    "Special Intensive Revision",
+    "=SIR",
+    "Gyanesh Kumar",
+    "chief election commissioner",
+    "electoral roll",
+    "Election Commission"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3268,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "The Indian government plans to hold a Winter session of Parliament in early December to push through a constitutional amendment bill that would expand the Lok Sabha to 850 seats, enabling 33% women's reservation ahead of 2029 elections, amid opposition protests against the Special Intensive Revision (SIR) voter list recheck.",
+    "facts": [
+      {
+        "claim": "Winter session likely to begin in first week of December",
+        "quote": "The Winter session of Parliament is likely to begin in the first week of December"
+      },
+      {
+        "claim": "Government's biggest legislative priority is the women's reservation bill",
+        "quote": "with the proposed delimitation-linked women's reservation bill emerging as the government's biggest legislative priority amid an increasingly confrontational political atmosphere over the Special Intensive Revision (SIR) of electoral rolls."
+      },
+      {
+        "claim": "Bill requires 361 votes in Lok Sabha to pass",
+        "quote": "The bill requires a two-thirds majority in the Lok Sabha, or 361 votes in the present 543-member House."
+      },
+      {
+        "claim": "Ruling NDA has 320 members and needs opposition support",
+        "quote": "The ruling NDA has 320 members and would need the support of opposition parties to cross the threshold."
+      },
+      {
+        "claim": "Opposition parties are demanding Chief Election Commissioner Gyanesh Kumar's resignation",
+        "quote": "Opposition parties, which have stepped up their campaign against the SIR and are demanding Chief Election Commissioner Gyanesh Kumar's resignation, are expected to take their protests to Parliament"
+      },
+      {
+        "claim": "Government confident of passing bill with 15-18 vote margin",
+        "quote": "A senior government functionary on Thursday expressed confidence that the bill would be passed with a margin of 15 to 18 votes."
+      },
+      {
+        "claim": "Monsoon session adjourned sine die since August 13",
+        "quote": "The Monsoon session was adjourned sine die (for an indefinite period) on August 13 and has remained unprorogued for 94 days"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The government aims to implement 33% women's reservation in Parliament and state legislatures through delimitation linked to the SIR voter list recheck, which has faced opposition protests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": [
+        "name “The Indian” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

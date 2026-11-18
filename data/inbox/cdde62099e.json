@@ -1,0 +1,68 @@
+{
+  "id": "cdde62099e",
+  "url": "https://www.thehindu.com/news/national/karnataka/one-more-dies-in-elephant-attack-in-hassans-belur-taluk/article71706960.ece",
+  "title": "One more killed in elephant attack in Hassan’s Belur taluk; protests intensify",
+  "outlet": "The Hindu",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3077,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Residents of Belur taluk in Hassan district protested after a second death in human-elephant conflict, blaming forest department negligence and demanding the minister visit for a permanent solution.",
+    "facts": [
+      {
+        "claim": "Another person died in an elephant attack in Nagenahalli in Belur taluk",
+        "quote": "Less than 48 hours after a woman was killed in an elephant attack at Chowdanahalli in Belur taluk, another person died in a similar incident at Nagenahalli in the taluk on Monday (November 16)."
+      },
+      {
+        "claim": "Hafees-Ur-Rahman, 60, was trampled to death by an elephant while on his way to a coffee estate",
+        "quote": "Hafees-Ur-Rahman, 60, was on his way to the coffee estate where he worked when he encountered an elephant, which trampled him to death."
+      },
+      {
+        "claim": "Residents staged protests after the first death, blaming forest department negligence",
+        "quote": "Following the death of Jayamma, 65, at Chowdahalli on Saturday (November 14) evening, people of Belur taluk staged a protest on Sunday (November 15) with the body. They blamed the Forest Department’s negligence for the series of deaths due to human-elephant conflict in the region."
+      },
+      {
+        "claim": "The Forest Department deployed an Elephant Task Force to monitor elephant movements",
+        "quote": "The Forest Department has deployed an Elephant Task Force that monitors the movement of elephants in the region."
+      },
+      {
+        "claim": "Nearly 100 people have died in elephant attacks over the last 10 years in Belur, Sakaleshpur and Alur taluks",
+        "quote": "Nearly 100 people have died in elephant attacks over the last 10 years."
+      },
+      {
+        "claim": "Residents of Nagenahalli said there was no alert about elephant movement",
+        "quote": "According to residents of Nagenahalli, there was no alert, particularly about the movement of elephants near their place."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Human-elephant conflict in Belur taluk has led to repeated deaths and protests, with the Forest Department deploying an Elephant Task Force but residents claiming inadequate alerts and negligence.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": [
+        "name “Residents of Belur” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

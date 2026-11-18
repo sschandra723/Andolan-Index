@@ -1,0 +1,70 @@
+{
+  "id": "f23e14de16",
+  "url": "https://theshillongtimes.com/2026/11/18/bus-association-to-march-to-secretariat-today-over-vendor-relocation-row/",
+  "title": "Bus association to march to Secretariat today over vendor relocation row",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1046,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "The Khasi Hills Bazar Bus Association plans a peaceful march to the Secretariat to protest proposed relocation of street vendors to Mawlonghat parking lot, refusing to vacate until government addresses grievances.",
+    "facts": [
+      {
+        "claim": "The Khasi Hills Bazar Bus Association (KHDBA) will hold a peaceful rally to the Secretariat on Wednesday to protest the proposed relocation of street vendors to the Mawlonghat parking lot",
+        "quote": "The Khasi Hills Bazar Bus Association (KHDBA) will hold a peaceful rally to the Secretariat on Wednesday to protest the proposed relocation of street vendors to the Mawlonghat parking lot."
+      },
+      {
+        "claim": "The association has hardened its stance, refusing to vacate the facility until the government addresses its grievances",
+        "quote": "The association has hardened its stance, refusing to vacate the facility until the government addresses its grievances."
+      },
+      {
+        "claim": "Association general secretary Kyrshan Rynjah stated that the decision follows an inconclusive meeting with Director of Urban Affairs PK Boro on Tuesday, where officials reportedly asked for a vacating date instead of discussing the operators’ concerns",
+        "quote": "Association general secretary Kyrshan Rynjah stated that the decision follows an inconclusive meeting with Director of Urban Affairs PK Boro on Tuesday, where officials reportedly asked for a vacating date instead of discussing the operators’ concerns."
+      },
+      {
+        "claim": "Bus operators have been staging a night-long protest at the parking lot for over a week",
+        "quote": "Bus operators have been staging a night-long protest at the parking lot for over a week."
+      },
+      {
+        "claim": "The facility is a vital transport hub, catering to buses from five districts and approximately 41 villages",
+        "quote": "The facility is a vital transport hub, catering to buses from five districts and approximately 41 villages."
+      },
+      {
+        "claim": "The rally is scheduled to begin at Iew Mawlong, proceed through Motphran to the Secretariat and return to the Mawlonghat parking lot",
+        "quote": "The rally is scheduled to begin at Iew Mawlong, proceed through Motphran to the Secretariat and return to the Mawlonghat parking lot."
+      },
+      {
+        "claim": "The Association has appealed to regular commuters and bus users to join the march in support of their cause",
+        "quote": "The Association has appealed to regular commuters and bus users to join the march in support of their cause."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Khasi Hills Bazar Bus Association is part of the Meghalaya teachers' strike movement, which rejects the state's Centralised Fund Scheme 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

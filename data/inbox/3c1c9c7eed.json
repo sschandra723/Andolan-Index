@@ -1,0 +1,64 @@
+{
+  "id": "3c1c9c7eed",
+  "url": "https://www.hindustantimes.com/india-news/inclusion-in-obc-reservation-list-cannot-be-treated-as-permanent-automatically-justified-madras-hc-101794633734067.html",
+  "title": "Inclusion in OBC reservation list cannot be treated as permanent, automatically justified: Madras HC",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Tamil Nadu"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Madras High Court ruled that Tamil Nadu's inclusion of Christian communities and converts in the OBC reservation list cannot be treated as permanent, requiring the state to demonstrate constitutional validity for continued retention.",
+    "facts": [
+      {
+        "claim": "The Madras high court bench said on November 12 that the Tamil Nadu government must 'demonstrate the constitutional validity of a community's inclusion'",
+        "quote": "A Madras high court bench said on November 12 that the Tamil Nadu government must “demonstrate the constitutional validity of a community's inclusion”."
+      },
+      {
+        "claim": "The Madras high court has held that a community's inclusion in the Other Backward Classes (OBC) list cannot be treated as permanent or automatically justified 'merely because it has enjoyed reservation benefits for decades'",
+        "quote": "The Madras high court has held that a community's inclusion in the Other Backward Classes (OBC) list cannot be treated as permanent or automatically justified “merely because it has enjoyed reservation benefits for decades.”"
+      },
+      {
+        "claim": "A bench of Justices GR Swaminathan and MD Sumathi said on November 12 that the Tamil Nadu government must 'demonstrate the constitutional validity of a community's inclusion' or 'continued retention' in the list whenever someone challenges its classification",
+        "quote": "A bench of Justices GR Swaminathan and MD Sumathi said on November 12 that the Tamil Nadu government must “demonstrate the constitutional validity of a community's inclusion” or “continued retention” in the list whenever someone challenges its classification."
+      },
+      {
+        "claim": "The court questioned the constitutional basis for granting OBC reservation benefits to Christian communities and converts in Tamil Nadu, observing that in such cases, 'even a Brahmin could claim such benefits by converting to Christianity and joining the Church of South India (CSI)'",
+        "quote": "The court questioned the constitutional basis for granting OBC reservation benefits to Christian communities and converts in Tamil Nadu, observing that in such cases, “even a Brahmin could claim such benefits by converting to Christianity and joining the Church of South India (CSI).”"
+      },
+      {
+        "claim": "The petitioner's counsel, advocate K Suresh, relied on reports of two State Backwards Classes Commissions to question the inclusion",
+        "quote": "The petitioner’s counsel, advocate K Suresh, relied on reports of two State Backwards Classes Commissions to question the inclusion."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Madras High Court ruled that Tamil Nadu must demonstrate constitutional validity for Christian communities and converts in the OBC list, requiring the state to address concerns about the basis of reservation benefits.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

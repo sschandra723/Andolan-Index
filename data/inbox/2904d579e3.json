@@ -1,0 +1,88 @@
+{
+  "id": "2904d579e3",
+  "url": "https://www.thehindu.com/news/cities/Madurai/custodial-death-of-truck-driver-family-members-refuse-to-receive-body-alleging-police-torture/article71705029.ece",
+  "title": "Custodial death of truck driver: family members refuse to receive body, alleging police torture",
+  "outlet": "The Hindu",
+  "published": "2026-11-15",
+  "collected": "2026-11-16",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2675,
+    "fetch_note": null,
+    "drafted": "2026-11-16",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Family members of a truck driver who died in police custody refused to accept his body, alleging police torture and implicating him in a destroyed cardamom shipment. They demanded the CBI investigate the custodial death case.",
+    "facts": [
+      {
+        "claim": "family members refused to receive body",
+        "quote": "The family members and relatives of truck driver R. Balakrishnan, who died in police custody at the Chekkanoorani station on Saturday, refused to receive his body even after a postmortem."
+      },
+      {
+        "claim": "alleged police torture",
+        "quote": "They alleged that there were injuries on his body due to the third-degree treatment meted out to him under police custody."
+      },
+      {
+        "claim": "demanded CBI investigation",
+        "quote": "They had earlier rejected the CB-CID probe ordered by the State government, and had demanded that the custodial death case be transferred to the CBI."
+      },
+      {
+        "claim": "refused compensation cheque",
+        "quote": "When officials tried to hand over a cheque for ₹3 lakh as compensation, the family members refused it, and staged a protest near the Government Rajaji Hospital."
+      },
+      {
+        "claim": "alleged police implicate in fire",
+        "quote": "They alleged that the police were hand-in-glove with the truck owner and operator of the courier service for whom Balakrishnan worked, and tried to implicate him in an “accidental fire” on the truck that had destroyed cardamom being transported from Thevaram in Theni to Madurai."
+      },
+      {
+        "claim": "family member's statement",
+        "quote": "\"Since the value of the destroyed goods was high, they wanted to implicate my husband in the case,\" said Sudha, wife of the deceased."
+      },
+      {
+        "claim": "CPI(M) joined protest",
+        "quote": "CPI(M) cadre, led by its Madurai rural district secretary K. Rajendran, joined the protest."
+      },
+      {
+        "claim": "CPI(M) called case 'fishy'",
+        "quote": "Local party leader K. Samuelraj said the entire case was \"fishy\", and had a lot of procedural lapses leading to the death of the driver in police custody."
+      },
+      {
+        "claim": "CPI(M) questioned police actions",
+        "quote": "\"Going by the family members, it looks like Balakrishnan was treated by the police as if he had stolen the cardamom parcels. If that were the case, the police should have booked him for theft and proceeded as per law. But after booking a case of accidental fire, why did the police hold inquiries with him for two days, that too all night on Friday,\" he asked."
+      },
+      {
+        "claim": "CPI(M) accused police of procedural lapses",
+        "quote": "If the value of the goods lost was high, the police should have taken immediate action on the day the fire broke out (November 3), the CPI(M) said."
+      },
+      {
+        "claim": "CPI(M) alleged no police records",
+        "quote": "The CPI(M) alleged that the police had not entered the details of the custodial inquiry of Balakrishnan in the station’s records. He was illegally detained without an FIR, and hence, the erring personnel should be booked for all these procedural lapses leading to his death, it added."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Family members of a truck driver who died in police custody refused to accept his body, alleging police torture and implicating him in a destroyed cardamom shipment. They demanded the CBI investigate the custodial death case.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "10/11",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “They alleged that there were injuries on his body due to the third-degree treatm”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

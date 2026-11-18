@@ -1,0 +1,58 @@
+{
+  "id": "bb3e7bb7b0",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/six-cops-booked-on-murder-charges-in-karnal-custodial-death-case-101794770856047.html",
+  "title": "Haryana inspector among 6 cops booked on murder charges in ‘custodial death’ case",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-16",
+  "collected": "2026-11-16",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5472,
+    "fetch_note": null,
+    "drafted": "2026-11-16",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Haryana police booked six officers, including an inspector, on murder charges following the custodial death of a 30-year-old man in police custody, with protests by family and villagers demanding justice.",
+    "facts": [
+      {
+        "claim": "Haryana police booked six officers, including an inspector, on murder charges",
+        "quote": "A day after a man allegedly died in police custody, the Karnal police booked six of their own personnel, including an inspector-rank in-charge, on murder charges on Sunday."
+      },
+      {
+        "claim": "The victim was 30 years old",
+        "quote": "This follows the death of 30-year-old Jitender Singh from Bijna village under mysterious circumstances while in the custody of CIA-2"
+      },
+      {
+        "claim": "The victim's family and villagers protested demanding arrests and an investigation",
+        "quote": "On Sunday, tension prevailed in Karnal city after the victim’s family, relatives and villagers staged a protest demanding an FIR against the cops."
+      },
+      {
+        "claim": "The police formed an SIT to investigate",
+        "quote": "The case was registered and Ram Nagar SHO is conducting an investigation. Senior officials will form an SIT soon to probe the matter"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Haryana government has a policy for compensation in cases of unnatural death in police custody due to torture or beating, with 50% of compensation deducted from the erring officer's salary.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

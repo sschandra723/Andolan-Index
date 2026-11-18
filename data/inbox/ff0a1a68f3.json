@@ -1,0 +1,66 @@
+{
+  "id": "ff0a1a68f3",
+  "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-police-seek-a-dedicated-post-and-free-protest-zone-in-ramlila-maidan-101794853572039.html",
+  "title": "Delhi Police seek dedicated post, free protest zone at Ramlila Maidan",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Jantar Mantar"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4431,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "Delhi Police propose a dedicated police post and free protest zone at Ramlila Maidan to manage smaller demonstrations without booking fees, following its designation as one of Delhi's three official protest venues after Jantar Mantar was de-notified.",
+    "facts": [
+      {
+        "claim": "The Delhi Police have asked the Municipal Corporation of Delhi (MCD) to allot around 500 square yards of land inside Ramlila Maidan for a dedicated police post and demarcate a separate area where smaller groups can hold protests without paying booking charges",
+        "quote": "The Delhi Police have asked the Municipal Corporation of Delhi (MCD) to allot around 500 square yards of land inside Ramlila Maidan for a dedicated police post and demarcate a separate area where smaller groups can hold protests without paying booking charges"
+      },
+      {
+        "claim": "Ramlila Maidan was designated as one of Delhi’s three official protest venues following the de-notification of Jantar Mantar",
+        "quote": "Ramlila Maidan was designated as one of Delhi’s three official protest venues following the de-notification of Jantar Mantar"
+      },
+      {
+        "claim": "Booking the 12-acre ground costs ₹50,000 per day, apart from a refundable security deposit of ₹55,000",
+        "quote": "booking the 12-acre ground costs ₹50,000 per day, apart from a refundable security deposit of ₹55,000"
+      },
+      {
+        "claim": "The proposed post would be headed by a sub-inspector and have around 30 personnel deployed there",
+        "quote": "The proposed post would be headed by a sub-inspector and have around 30 personnel deployed there"
+      },
+      {
+        "claim": "The draft standard operating procedure (SOP) proposes a maximum capacity of 50,000 people and allows protests between 10am and 5pm",
+        "quote": "The draft standard operating procedure (SOP) proposes a maximum capacity of 50,000 people and allows protests between 10am and 5pm"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Police are creating a dedicated protest zone at Ramlila Maidan to address concerns about the cost and accessibility of using the venue for smaller demonstrations after Jantar Mantar was de-notified.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The draft standard operating procedure (SOP) proposes a maximum capacity of 50,0”"
+      ]
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

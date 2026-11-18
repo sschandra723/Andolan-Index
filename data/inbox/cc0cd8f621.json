@@ -1,0 +1,50 @@
+{
+  "id": "cc0cd8f621",
+  "url": "https://www.thehindu.com/news/national/andhra-pradesh/tirumala-electric-bus-drivers-stage-protest-demanding-wage-hike/article71702330.ece",
+  "title": "Tirumala electric bus drivers stage protest demanding wage hike",
+  "outlet": "The Hindu",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1392,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Electric bus drivers in Tirupati staged a protest demanding higher wages and an end to alleged management harassment, with over 100 drivers causing 80 buses to stop operations.",
+    "facts": [
+      {
+        "claim": "Electric bus drivers in Tirupati staged a protest demanding higher wages and an end to alleged management harassment",
+        "quote": "The APSRTC Electric Hired Bus Drivers and Workers’ Union, affiliated with the CITU, staged a dharna in front of the Alipiri depot in Tirupati on Saturday, demanding an immediate wage hike and an end to alleged harassment by the management."
+      },
+      {
+        "claim": "over 100 drivers caused 80 buses to stop operations",
+        "quote": "More than 100 drivers took part in the protest, resulting in around 80 electric buses scheduled to operate between Tirupati and Tirumala remaining off the road."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

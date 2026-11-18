@@ -1,0 +1,66 @@
+{
+  "id": "9bacc06d2e",
+  "url": "https://nagalandpost.com/congress-alleges-detention-of-party-workers-during-amit-shahs-pune-visit-warns-of-protests/",
+  "title": "Congress alleges detention of party workers during Amit Shah’s Pune visit, warns of protests",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-16",
+  "collected": "2026-11-16",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2547,
+    "fetch_note": null,
+    "drafted": "2026-11-16",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Congress warns of black-flag protests in Pune if police continue detaining party workers during BJP leaders' visits, citing alleged authoritarian treatment.",
+    "facts": [
+      {
+        "claim": "Congress’s Pune unit chief Prashant Jagtap alleged that party workers were routinely picked up from their homes whenever Shah visited Pune",
+        "quote": "In a video message posted on social media, Congress’s city unit chief Prashant Jagtap alleged that party workers were routinely picked up from their homes whenever Shah visited Pune, even when the party had announced no agitation."
+      },
+      {
+        "claim": "Jagtap claimed that the treatment meted out to opposition workers reflected an authoritarian approach",
+        "quote": "He condemned the alleged action and claimed that the treatment meted out to opposition workers reflected an authoritarian approach."
+      },
+      {
+        "claim": "Jagtap remarked that if Shah had not committed wrongdoing, why is he afraid of the Opposition",
+        "quote": "\"If he (Shah) has not committed any wrongdoing or acted against the country, why is he afraid of the Opposition?\" Jagtap remarked."
+      },
+      {
+        "claim": "Jagtap alleged that over the past few months, whenever Shah visited Pune, Congress workers had been detained by police",
+        "quote": "He alleged that over the past few months, whenever Shah visited Pune, Congress workers had been detained by police"
+      },
+      {
+        "claim": "Jagtap claimed that the BJP was taking the Union Home Minister around Pune under heavy police security",
+        "quote": "Jagtap further claimed that the BJP was taking the Union Home Minister around Pune under heavy police security"
+      },
+      {
+        "claim": "Jagtap warned that the party would intensify protests if detaining workers continued",
+        "quote": "He also warned that the party would intensify its protests during visits by senior BJP leaders if the practice of detaining workers continued."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress has warned of black-flag protests in Pune if police continue detaining party workers during BJP leaders' visits, citing alleged authoritarian treatment.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

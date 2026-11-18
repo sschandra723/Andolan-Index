@@ -1,0 +1,54 @@
+{
+  "id": "5a066c508b",
+  "url": "https://nagalandpost.com/ctan-gives-govt-final-ultimatum-sets-november-26-deadline/",
+  "title": "CTAN gives govt final ultimatum, sets November 26 deadline",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1364,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "nagaland-vande-mataram-2026",
+    "new_movement": null,
+    "summary": "CTAN demands state government address three issues by November 26, 2026, or risk peaceful agitation.",
+    "facts": [
+      {
+        "claim": "CTAN has served a final ultimatum to the state government",
+        "quote": "The Combined Technical Association of Nagaland (CTAN) has served a final ultimatum to the state government"
+      },
+      {
+        "claim": "CTAN demands action on three issues by November 26, 2026",
+        "quote": "demanding action on three issues by November 26, 2026"
+      },
+      {
+        "claim": "CTAN warned of democratic and peaceful agitation if demands not met",
+        "quote": "it warned of democratic and peaceful agitation"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CTAN is a technical association in Nagaland that has been protesting over staff selection board regulations and pay levels.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

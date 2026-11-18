@@ -1,0 +1,58 @@
+{
+  "id": "f8f33fa75c",
+  "url": "https://www.thehindu.com/news/national/karnataka/private-school-management-and-staff-members-stage-protest-in-dharwad/article71712730.ece",
+  "title": "Private school management and staff members stage protest in Dharwad",
+  "outlet": "The Hindu",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3660,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Private school staff and management in Dharwad staged a protest demanding pension scheme implementation, notional pay benefits, and filling of vacant posts in aided schools and colleges.",
+    "facts": [
+      {
+        "claim": "Private educational institutions and their employees staged a protest in Dharwad on Tuesday",
+        "quote": "Private educational institutions and their employees staged a protest in Dharwad on Tuesday"
+      },
+      {
+        "claim": "The protest was organised by the Coordination Committee of Private Educational Institutions Managements and Employees",
+        "quote": "The protest was organised by the Coordination Committee of Private Educational Institutions Managements and Employees"
+      },
+      {
+        "claim": "One of the major demands was the implementation of the old pension scheme, along with notional pay benefits, for employees of aided educational institutions appointed after April 1, 2006",
+        "quote": "One of the major demands was the implementation of the old pension scheme, along with notional pay benefits, for employees of aided educational institutions appointed after April 1, 2006, in accordance with a High Court order."
+      },
+      {
+        "claim": "The committee also sought the filling of vacant posts in aided schools and colleges that have remained unfilled since 2015",
+        "quote": "The committee also sought the filling of vacant posts in aided schools and colleges that have remained unfilled since 2015"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Private school staff and management in Dharwad staged a protest demanding pension scheme implementation, notional pay benefits, and filling of vacant posts in aided schools and colleges.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

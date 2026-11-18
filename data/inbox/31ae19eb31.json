@@ -1,0 +1,54 @@
+{
+  "id": "31ae19eb31",
+  "url": "https://nagalandpost.com/idbi-bank-employee-unions-strike-on-dec-3/",
+  "title": "IDBI Bank employee unions strike on Dec 3",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 419,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "IDBI Bank employee unions announced a one-day nationwide strike on December 3 to protest the proposed sale of the bank to Canadian firm Fairfax Financial Holdings, demanding the government and LIC halt the sale.",
+    "facts": [
+      {
+        "claim": "IDBI Bank employee unions have called a one-day nationwide strike on December 3",
+        "quote": "IDBI Bank employee unions have called a one-day nationwide strike on December 3"
+      },
+      {
+        "claim": "to protest against the proposed sale of the bank to Canada-based Fairfax Financial Holdings",
+        "quote": "to protest against the proposed sale of the bank to Canada-based Fairfax Financial Holdings"
+      },
+      {
+        "claim": "They demanded that government and LIC stop the proposed sale of IDBI Bank",
+        "quote": "They demanded that government and LIC stop the proposed sale of IDBI Bank"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

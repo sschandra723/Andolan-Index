@@ -197,6 +197,29 @@ class TestPipeline(Tmp):
         (self.data / "inbox" / f"{cid}.json").write_text(json.dumps(c))
         return c
 
+    def test_old_copies_of_approved_and_rejected_stories_are_tidied(self):
+        # An editor approves one story and rejects another, then an old copy of both comes back (from the
+        # collector's review branch). Validation flags them, and tidying removes exactly those two.
+        published_url = load_reports(self.data)[0]["url"]
+        self.template = sorted((self.data / "inbox").glob("*.json"))[0].read_text()
+        for f in (self.data / "inbox").glob("*.json"):
+            f.unlink()
+        day = CHECK_DAY.isoformat()
+        self._candidate("eeeeeeeeee", "https://example.test/not-a-protest", day)
+        curate.reject("eeeeeeeeee", "Not a protest story", data=self.data)
+        copies = {"eeeeeeeeee": "https://example.test/not-a-protest", "ffffffffff": published_url}
+        for cid, url in copies.items():
+            self._candidate(cid, url, day)
+        self._candidate("0a0a0a0a0a", "https://example.test/still-waiting", day)
+        warnings: list[str] = []
+        errors = validate.check_dataset(self.data, CHECK_DAY, warnings=warnings)
+        self.assertTrue(any("eeeeeeeeee" in e and "rejected list" in e for e in errors), errors)
+        self.assertTrue(any("ffffffffff" in w and "already published" in w for w in warnings), warnings)
+        from andolan.common import tidy_inbox
+        self.assertEqual(sorted(tidy_inbox(self.data)), sorted(copies))
+        self.assertEqual([p.stem for p in (self.data / "inbox").glob("*.json")], ["0a0a0a0a0a"])
+        self.assertEqual(validate.check_dataset(self.data, CHECK_DAY), [])
+
     def test_published_and_stale_stories_leave_the_waiting_list(self):
         published_url = load_reports(self.data)[0]["url"]
         self.template = sorted((self.data / "inbox").glob("*.json"))[0].read_text()

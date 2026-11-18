@@ -98,12 +98,13 @@ def load_inbox(data: Path = DATA) -> list[dict]:
 
 
 def tidy_inbox(data: Path = DATA) -> list[str]:
-    """Remove inbox stories that are already published as reports, which happens when the collector's pull request is
-    merged after a pull request that approved some of its stories. Returns the ids removed."""
-    published = {normalize_url(r["url"]) for r in load_reports(data)}
+    """Remove inbox stories that are already published as reports or whose link is on the rejected list. Both happen
+    when an editor's pull request approves or rejects stories while another copy of them is still waiting, for example
+    in the collector's review branch. Returns the ids removed."""
+    done = {normalize_url(r["url"]) for r in load_reports(data)} | load_rejected(data)
     gone = []
     for c in load_inbox(data):
-        if normalize_url(c["url"]) in published:
+        if normalize_url(c["url"]) in done:
             (data / "inbox" / f"{c['id']}.json").unlink()
             gone.append(c["id"])
     return gone

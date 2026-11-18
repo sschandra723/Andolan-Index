@@ -114,7 +114,7 @@ def check_dataset(data: Path = DATA, today: date | None = None, warnings: list[s
         if ai_mv and ai_mv not in movements and ai_mv not in ("new", "none"):
             errors.append(f"{label}: AI movement '{ai_mv}' does not exist")
         if normalize_url(c["url"]) in rejected:
-            errors.append(f"{label}: URL is on the rejected list")
+            errors.append(f"{label}: URL is on the rejected list; `python -m andolan curate tidy` removes it")
         if normalize_url(c["url"]) in report_urls:
             warnings.append(f"{label}: already published as a report; `python -m andolan curate tidy` removes it")
         if not c.get("published"):

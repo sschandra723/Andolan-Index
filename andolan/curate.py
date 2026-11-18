@@ -149,7 +149,7 @@ def main(argv: list[str] | None = None) -> int:
     a.add_argument("--date", required=True); a.add_argument("--movement", required=True); a.add_argument("--summary", required=True)
     a.add_argument("--read", action="store_true"); a.add_argument("--kind", choices=KINDS, default="news")
     n = sub.add_parser("new-movement"); n.add_argument("id"); n.add_argument("--from", dest="from_candidate")
-    sub.add_parser("tidy", help="remove inbox stories that are already published")
+    sub.add_parser("tidy", help="remove inbox stories that are already published or rejected")
     args = ap.parse_args(argv)
     try:
         if args.cmd == "list":
@@ -175,7 +175,7 @@ def main(argv: list[str] | None = None) -> int:
                                       summary=args.summary, read=args.read, kind=args.kind))
         elif args.cmd == "tidy":
             gone = tidy_inbox()
-            print(f"removed {len(gone)} inbox stor{'y' if len(gone) == 1 else 'ies'} already published" + (": " + ", ".join(gone) if gone else ""))
+            print(f"removed {len(gone)} inbox stor{'y' if len(gone) == 1 else 'ies'} already published or rejected" + (": " + ", ".join(gone) if gone else ""))
         elif args.cmd == "new-movement":
             print("wrote", new_movement(args.id, from_candidate=args.from_candidate), "\nFill in every TODO, then add a first report with `curate add` or `curate promote`.")
     except CurateError as e:

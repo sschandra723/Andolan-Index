@@ -1,0 +1,61 @@
+{
+  "id": "shillong-ropeway-2026",
+  "name": "Women-led protest against the Shillong ropeway project",
+  "short_name": "Shillong ropeway protest",
+  "aliases": [
+    "Shillong Peak ropeway protest",
+    "Anti-ropeway agitation"
+  ],
+  "keywords": [
+    "ropeway",
+    "Shillong Peak",
+    "U Lum Shyllong",
+    "Joint Action Committee Against Shillong Ropeway"
+  ],
+  "cause": "Environment",
+  "states": [
+    "Meghalaya"
+  ],
+  "places": "U Kiang Nangbah statue, Shillong",
+  "locations": [
+    {
+      "name": "U Kiang Nangbah statue, Shillong",
+      "lat": 25.5713,
+      "lon": 91.8862
+    }
+  ],
+  "started": "2026-11-06",
+  "about": "Women under the Joint Action Committee Against Shillong Ropeway Project have camped near the statue of U Kiang Nangbah opposite Civil Hospital in Shillong since 6 November, demanding that the state abandon or relocate the Rs 151-crore ropeway planned at U Lum Shyllong (Shillong Peak). Opposition parties and youth groups back them; the government says the project, due for completion by 2028, will not be scrapped.",
+  "demands": "Scrap the Shillong ropeway project, or move it away from U Lum Shyllong.",
+  "context": {
+    "question": "Why are women in Shillong protesting against a ropeway?",
+    "short": "Women under a joint action committee have camped near the U Kiang Nangbah statue in Shillong since 6 November, demanding that a Rs 151-crore ropeway at U Lum Shyllong be scrapped or moved. The government says it will not be scrapped.",
+    "explainer": [
+      "The planned ropeway is a 913-metre gondola line funded by the New Development Bank and the Central Government under the PM-DevINE scheme. The state government says the Rs 151-crore project is due for completion by 2028 and that its site is 3.15 km from Shillong Peak itself (Nagaland Post, The Shillong Times).",
+      "Women under the Joint Action Committee Against Shillong Ropeway Project began an indefinite sit-in near the statue of U Kiang Nangbah on 6 November and held a public rally on 12 November. The Voice of the People Party warned the government not to suppress the agitation, and the Hynniewtrep Youth Council's women's wing and residents from other districts visited the protesters (The Shillong Times).",
+      "A stakeholders' meeting called by Cabinet Minister Sanbor Shullai on 11 November ended in chaos, and the minister said there was a political hand behind the protest. He and Deputy Chief Minister Prestone Tynsong have said the project will not be scrapped (The Shillong Times)."
+    ],
+    "impact": [
+      "Protesters and their supporters call the project ecologically catastrophic for U Lum Shyllong; the government says the site is 3.15 km from the peak. These reports do not include an independent assessment of either claim."
+    ],
+    "sources": [
+      {
+        "title": "Support swells for JAC’s anti-ropeway agitation (The Shillong Times, 14 November 2026)",
+        "url": "https://theshillongtimes.com/2026/11/14/support-swells-for-jacs-anti-ropeway-agitation/"
+      },
+      {
+        "title": "Don’t suppress women-led agitation against ropeway, VPP warns govt (The Shillong Times, 14 November 2026)",
+        "url": "https://theshillongtimes.com/2026/11/14/dont-suppress-women-led-agitation-against-ropeway-vpp-warns-govt/"
+      },
+      {
+        "title": "M’laya ropeway standoff: JAC hesitant to attend minister’s stakeholder meet (Nagaland Post, 11 November 2026)",
+        "url": "https://nagalandpost.com/mlaya-ropeway-standoff-jac-hesitant-to-attend-ministers-stakeholder-meet/"
+      },
+      {
+        "title": "Stand-off intensifies as street protest meets online support (The Shillong Times, 14 November 2026)",
+        "url": "https://theshillongtimes.com/2026/11/14/stand-off-intensifies-as-street-protest-meets-online-support/"
+      }
+    ],
+    "updated": "2026-11-18"
+  }
+}

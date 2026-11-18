@@ -1,6 +1,6 @@
 import copy
 import unittest
-from datetime import date
+from datetime import date, timedelta
 
 from andolan.build import assemble, client_data, load_site_config
 from andolan.common import DATA
@@ -76,9 +76,12 @@ class TestCoverage(unittest.TestCase):
 
     def test_today_rolls_the_window(self):
         movements = copy.deepcopy([m for m in assemble(DATA, TODAY, 21)])
-        later = coverage(movements, date(2026, 11, 20))
+        # a month after the newest report nothing is in the week's window, so the lead falls back to the latest
+        newest = max(date.fromisoformat(r["date"]) for m in movements for r in m["reports"])
+        later_day = newest + timedelta(days=30)
+        later = coverage(movements, later_day)
         self.assertEqual(later["basis"], "latest")
-        self.assertEqual(later["from"], "2026-11-14")
+        self.assertEqual(later["from"], (later_day - timedelta(days=6)).isoformat())
 
 
 if __name__ == "__main__":

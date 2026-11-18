@@ -1,0 +1,56 @@
+{
+  "id": "kolhapur-gokul-dairy-2026",
+  "name": "Kolhapur protest over the Gokul Dairy board ordinance",
+  "short_name": "Gokul Dairy protest",
+  "aliases": [
+    "Gokul milk cooperative protest",
+    "Gokul Dairy nominations row"
+  ],
+  "keywords": [
+    "Gokul Dairy",
+    "Gokul milk",
+    "Gokal Dairy",
+    "Satej Patil"
+  ],
+  "cause": "Agriculture",
+  "states": [
+    "Maharashtra"
+  ],
+  "places": "Collector's office, Kolhapur",
+  "locations": [
+    {
+      "name": "Kolhapur",
+      "lat": 16.705,
+      "lon": 74.2433
+    }
+  ],
+  "started": "2026-11-09",
+  "about": "Dairy farmers and opposition parties marched their cattle to the Kolhapur collectorate on 9 November against a Maharashtra ordinance that gives state-nominated directors voting rights on the boards of large cooperatives. A panel backed by Congress MLC Satej Patil had won 13 of the 25 seats on the Gokul Dairy board on 18 October; four nominees with votes could raise the ruling Mahayuti's strength from 12 to 16. The High Court refused to stay the ordinance.",
+  "demands": "Withdrawal of the Maharashtra ordinance that gives state-nominated directors voting rights on the Gokul Dairy board.",
+  "context": {
+    "question": "Why did Kolhapur's dairy farmers march their cattle to the collectorate?",
+    "short": "Farmers and opposition parties marched in Kolhapur on 9 November against a state ordinance giving nominated directors voting rights on cooperative boards, which could tip the Gokul Dairy board to the ruling alliance.",
+    "explainer": [
+      "A panel backed by Congress MLC Satej Patil won 13 of the 25 seats on the board of Gokul Dairy, Kolhapur's milk cooperative, on 18 October, against 12 for the ruling Mahayuti. A state ordinance then gave voting rights to four nominated directors, which could raise the Mahayuti's strength from 12 to 16 (The Hindu, Outlook India).",
+      "On 9 November dairy farmers marched their cattle to the Kolhapur collectorate in an agitation led by Patil's Rajarshi Shahu Shetkari Samvichari Aghadi, which alleges the ruling alliance is trying to take control of the cooperative despite losing the election. The High Court refused to stay the ordinance and directed that the election of a chairperson go ahead the next day (Hindustan Times, The Hindu)."
+    ],
+    "impact": [
+      "Control of the Gokul Dairy board depends on whether the four nominated directors can vote. These reports do not give the result of the chairperson election."
+    ],
+    "sources": [
+      {
+        "title": "Protests in Kolhapur over Gokul Dairy board nominations; election for chairperson today (The Hindu, 10 November 2026)",
+        "url": "https://www.thehindu.com/news/cities/mumbai/protests-in-kolhapur-over-gokul-dairy-board-nominations-election-for-chairperson-today/article71683585.ece"
+      },
+      {
+        "title": "Kolhapur Protest Erupts Over Maharashtra Ordinance On Gokul Milk Cooperative Board (Outlook India, 9 November 2026)",
+        "url": "https://www.outlookindia.com/national/kolhapur-protest-erupts-over-maharashtra-ordinance-on-gokul-milk-cooperative-board"
+      },
+      {
+        "title": "Gokal Dairy nominations row: Farmers hold cattle march amid protest over voting rights for directors (Hindustan Times, 10 November 2026)",
+        "url": "https://www.hindustantimes.com/cities/pune-news/gokal-dairy-nominations-now-farmers-hold-cattle-march-satej-patil-accuses-hassan-mushrif-chandrakant-patil-for-deadlock-101794249183639.html"
+      }
+    ],
+    "updated": "2026-11-18"
+  }
+}

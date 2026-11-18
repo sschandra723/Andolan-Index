@@ -207,7 +207,9 @@ the original (canonical link), citations link to it, and `sitemap.xml` and `robo
 every pull request.
 
 **GitHub Pages** (optional copy). The deploy workflow also publishes to Pages. It keeps `base_url`, so search
-engines treat the Vercel address as the original. To turn it off, disable the workflow.
+engines treat the Vercel address as the original. Unlike Vercel, its waiting list also includes the headlines in the
+collector's open review pull request, minus any an editor has since approved or rejected. To turn it off, disable the
+workflow.
 
 Either way:
 

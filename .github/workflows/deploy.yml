@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: read
+  pull-requests: read   # to find the collector's open review pull request
   pages: write
   id-token: write
 
@@ -34,14 +35,23 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Include stories waiting for review (only their headlines and links are shown)
+      - name: Check main's data
+        run: python -m andolan validate
+      - name: Add the stories in the open review (only their headlines and links are shown)
+        # Copy only what the collector's open pull request adds or changes, then drop any copy an editor has since
+        # approved or rejected. A review branch whose pull request was merged is ignored: its stories are on main.
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          if git fetch --depth=1 origin bot/inbox:refs/remotes/origin/bot/inbox 2>/dev/null; then
-            git checkout origin/bot/inbox -- data/inbox
-          else
-            echo "No stories waiting for review."
-          fi
-      - run: python -m andolan validate
+          pr=$(gh pr list --head bot/inbox --state open --json number --jq '.[0].number // empty')
+          if [ -z "$pr" ]; then echo "No open review; showing the waiting list on main."; exit 0; fi
+          git fetch --no-tags --depth=1 origin bot/inbox
+          n=0
+          for f in $(gh pr diff "$pr" --name-only | grep -E '^data/inbox/[^/]+\.json$' || true); do
+            if git cat-file -e "FETCH_HEAD:$f" 2>/dev/null; then git show "FETCH_HEAD:$f" > "$f"; n=$((n + 1)); fi
+          done
+          echo "Added $n waiting stor(ies) from pull request #$pr"
+          python -m andolan curate tidy
       - id: pages
         uses: actions/configure-pages@v5
       # base_url in config/site.json (the Vercel address) stays the main address, so search engines and citations

@@ -1,0 +1,62 @@
+{
+  "id": "keralam-lpst-rankholders-2026",
+  "name": "Keralam LPST rank-holders' protest at the Secretariat",
+  "short_name": "LPST rank-holders' protest",
+  "aliases": [
+    "LPST rankholders' agitation",
+    "Lower Primary School Teachers rank holders' protest"
+  ],
+  "keywords": [
+    "LPST",
+    "rank holders",
+    "rankholders",
+    "rank-holders",
+    "Valarmathi"
+  ],
+  "cause": "Labour",
+  "states": [
+    "Keralam"
+  ],
+  "places": "Government Secretariat, Thiruvananthapuram",
+  "locations": [
+    {
+      "name": "Secretariat, Thiruvananthapuram",
+      "lat": 8.4966,
+      "lon": 76.9497
+    }
+  ],
+  "started": "2026-07",
+  "about": "Members of the All Kerala Lower Primary School Teachers (LPST) Rankholders' Association have protested in front of the Secretariat in Thiruvananthapuram since July over delays in appointing candidates from the Kerala Public Service Commission's LPST rank list. On 11 November police removed their secretary, S. Valarmathi, on the 16th day of a fast unto death, and dismantled the protest shed, drawing criticism from Left leaders and Priyanka Gandhi. The government has since offered talks.",
+  "demands": "Appointment orders for all eligible candidates before the LPST rank list expires; appointments to aided-school teaching posts made through the PSC; an end to alleged cash-for-job practices; changes to how teaching vacancies are calculated and reported.",
+  "context": {
+    "question": "Why are teacher job candidates protesting outside Keralam's Secretariat?",
+    "short": "Candidates on the state PSC's rank list for lower primary school teachers have protested at the Secretariat since July over delayed appointments. Police removed their hunger-striking leader on 11 November; the government has since offered talks.",
+    "explainer": [
+      "Members of the All Kerala Lower Primary School Teachers (LPST) Rankholders' Association began protesting in front of the Secretariat in Thiruvananthapuram in July over delays in appointing candidates from the Kerala Public Service Commission's rank list. The dispute has widened into how teaching vacancies are calculated, reported and filled (The Hindu).",
+      "On the night of 11 November police removed the association's secretary, S. Valarmathi, then on the 16th day of a fast unto death, and dismantled the protest shed. Left leaders criticised the action, and Priyanka Gandhi said people are free to protest peacefully against Congress-led governments (The Hindu, Hindustan Times, ThePrint).",
+      "The government offered talks on 15 November. It is considering lowering the teacher-student ratio in government lower primary schools from 1:30 to 1:25 where enrolment has fallen, so that retirement vacancies can be filled from the rank list (The Hindu)."
+    ],
+    "impact": [
+      "Rank holders want appointment orders before the LPST rank list expires; the minister says many of their issues will be addressed. These reports do not say how many candidates are on the list or when it expires."
+    ],
+    "sources": [
+      {
+        "title": "Keralam government to hold talks with LPST protesters (The Hindu, 15 November 2026)",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-government-to-hold-talks-with-lpst-protesters/article71705414.ece"
+      },
+      {
+        "title": "LPST rankholders resume stir in front of Keralam Secretariat after police remove protesters on hunger strike (The Hindu, 12 November 2026)",
+        "url": "https://www.thehindu.com/news/national/kerala/lpst-rankholders-resume-stir-in-front-of-keralam-secretariat-after-police-remove-protesters-on-hunger-strike/article71692697.ece"
+      },
+      {
+        "title": "Keralam: CPI(M), CJP extend support to protesting LPST rank holders after police action (Hindustan Times, 12 November 2026)",
+        "url": "https://www.hindustantimes.com/cities/others/keralam-cpi-m-cjp-extend-support-to-protesting-lpst-rank-holders-after-police-action-101794460175162.html"
+      },
+      {
+        "title": "LPST protests: Keralam mulling lowering teacher-student ratio in govt schools with division fall leading to loss of post (The Hindu, 17 November 2026)",
+        "url": "https://www.thehindu.com/news/national/kerala/lpst-protests-keralam-mulling-lowering-teacher-student-ratio-in-govt-schools-with-division-fall-leading-to-loss-of-post/article71710858.ece"
+      }
+    ],
+    "updated": "2026-11-18"
+  }
+}

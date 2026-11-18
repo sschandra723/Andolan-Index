@@ -1,0 +1,142 @@
+{
+  "id": "5e62785194",
+  "url": "https://kashmirobserver.net/2026/11/13/campus-green-destruction/",
+  "title": "Campus Green Destruction",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3053,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The University of Kashmir has cut branches from century-old chestnut trees, following past incidents of tree damage, raising concerns about conservation practices and historical heritage.",
+    "facts": [
+      {
+        "claim": "The University of Kashmir has a history of doing damage to its own green heritage.",
+        "quote": "The University of Kashmir has a history of doing damage to its own green heritage."
+      },
+      {
+        "claim": "The recent cutting of branches from century-old chestnut trees is not an isolated incident.",
+        "quote": "The recent cutting of branches from century-old chestnut trees is not an isolated incident."
+      },
+      {
+        "claim": "It follows an earlier episode at Naseem Bagh in 2009 and 2010, when extensive pruning and cutting destroyed much of the garden’s iconic shade.",
+        "quote": "It follows an earlier episode at Naseem Bagh in 2009 and 2010, when extensive pruning and cutting destroyed much of the garden’s iconic shade."
+      },
+      {
+        "claim": "The university defended that exercise as necessary to remove old and overgrown branches, but the damage went far beyond routine maintenance.",
+        "quote": "The university defended that exercise as necessary to remove old and overgrown branches, but the damage went far beyond routine maintenance."
+      },
+      {
+        "claim": "Nearly 15 years later, the same disregard appears to have returned.",
+        "quote": "Nearly 15 years later, the same disregard appears to have returned."
+      },
+      {
+        "claim": "This time, century-old chestnut trees on the university campus have suffered heavy branch cutting.",
+        "quote": "This time, century-old chestnut trees on the university campus have suffered heavy branch cutting."
+      },
+      {
+        "claim": "The intervention of a civil society climate group limited the damage largely to two trees.",
+        "quote": "The intervention of a civil society climate group limited the damage largely to two trees."
+      },
+      {
+        "claim": "The campus has undergone considerable construction over the past decade to accommodate modern academic needs.",
+        "quote": "The campus has undergone considerable construction over the past decade to accommodate modern academic needs."
+      },
+      {
+        "claim": "Expansion is a legitimate institutional responsibility, but it should never come at the cost of indiscriminate damage to established greenery.",
+        "quote": "Expansion is a legitimate institutional responsibility, but it should never come at the cost of indiscriminate damage to established greenery."
+      },
+      {
+        "claim": "The University of Kashmir is an educational institution with a distinctive historical landscape.",
+        "quote": "The University of Kashmir is an educational institution with a distinctive historical landscape."
+      },
+      {
+        "claim": "Its old trees, gardens and shaded pathways are part of a heritage that belongs to generations of students and the wider community.",
+        "quote": "Its old trees, gardens and shaded pathways are part of a heritage that belongs to generations of students and the wider community."
+      },
+      {
+        "claim": "The recent cutting of the iconic green tunnel at Amar Singh College points to the same problem.",
+        "quote": "The recent cutting of the iconic green tunnel at Amar Singh College points to the same problem."
+      },
+      {
+        "claim": "Its administration defended the decision by citing the age of the trees.",
+        "quote": "Its administration defended the decision by citing the age of the trees."
+      },
+      {
+        "claim": "Such justifications expose a troubling approach to conservation, in which the age of a tree becomes a reason for its removal rather than a reason for greater care.",
+        "quote": "Such justifications expose a troubling approach to conservation, in which the age of a tree becomes a reason for its removal rather than a reason for greater care."
+      },
+      {
+        "claim": "Old trees need expert assessment and appropriate maintenance, rather than arbitrary cutting.",
+        "quote": "Old trees need expert assessment and appropriate maintenance, rather than arbitrary cutting."
+      },
+      {
+        "claim": "These institutions are custodians of public assets.",
+        "quote": "These institutions are custodians of public assets."
+      },
+      {
+        "claim": "Their administrations may change, but the historical and environmental value of their campuses goes well beyond individual tenures.",
+        "quote": "Their administrations may change, but the historical and environmental value of their campuses goes well beyond individual tenures."
+      },
+      {
+        "claim": "The chestnut trees at Kashmir University, planted during Maharaja Hari Singh’s time, also hold historical significance.",
+        "quote": "The chestnut trees at Kashmir University, planted during Maharaja Hari Singh’s time, also hold historical significance."
+      },
+      {
+        "claim": "The demand by his grandson to hold those responsible accountable should prompt a transparent inquiry into who authorised the cutting and what expert advice informed the decision.",
+        "quote": "The demand by his grandson to hold those responsible accountable should prompt a transparent inquiry into who authorised the cutting and what expert advice informed the decision."
+      },
+      {
+        "claim": "Kashmir needs a clear conservation policy for its educational campuses.",
+        "quote": "Kashmir needs a clear conservation policy for its educational campuses."
+      },
+      {
+        "claim": "It should protect heritage trees, green tunnels and established landscapes through independent assessments, expert supervision and strict rules governing pruning and removal.",
+        "quote": "It should protect heritage trees, green tunnels and established landscapes through independent assessments, expert supervision and strict rules governing pruning and removal."
+      },
+      {
+        "claim": "Construction projects should also undergo proper scrutiny to prevent avoidable damage to existing greenery.",
+        "quote": "Construction projects should also undergo proper scrutiny to prevent avoidable damage to existing greenery."
+      },
+      {
+        "claim": "Universities teach students about environmental protection and sustainability. Their own campuses should demonstrate those principles.",
+        "quote": "Universities teach students about environmental protection and sustainability. Their own campuses should demonstrate those principles."
+      },
+      {
+        "claim": "Kashmir’s educational institutions must move beyond defending damage after it occurs and adopt a culture of conservation before it is too late.",
+        "quote": "Kashmir’s educational institutions must move beyond defending damage after it occurs and adopt a culture of conservation before it is too late."
+      },
+      {
+        "claim": "Those responsible for the latest cutting should be held accountable, and the protection of the region’s living heritage must become a binding institutional responsibility.",
+        "quote": "Those responsible for the latest cutting should be held accountable, and the protection of the region’s living heritage must become a binding institutional responsibility."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The University of Kashmir has a history of damaging its green heritage, including past incidents at Naseem Bagh in 2009-2010 and recent cutting of century-old chestnut trees, raising concerns about conservation practices and historical heritage.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "25/25",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

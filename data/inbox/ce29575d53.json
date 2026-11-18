@@ -1,0 +1,72 @@
+{
+  "id": "ce29575d53",
+  "url": "https://www.freepressjournal.in/india/up-lawyers-demand-advocates-protection-act-breach-multiple-police-barricades-during-lucknow-protest-video",
+  "title": "UP Lawyers Demand Advocates Protection Act, Breach Multiple Police Barricades During Lucknow Protest | Video",
+  "outlet": "Free Press Journal",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Lucknow"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2033,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "up-nhm-staff-2026",
+    "new_movement": null,
+    "summary": "Lawyers in Lucknow breached police barricades during a protest demanding the Advocates Protection Act in Uttar Pradesh, leading to clashes with security personnel as they marched toward the state Assembly.",
+    "facts": [
+      {
+        "claim": "Hundreds of lawyers took to the streets in Lucknow on Saturday, demanding the immediate implementation of the Advocates Protection Act in Uttar Pradesh",
+        "quote": "Hundreds of lawyers took to the streets in Lucknow on Saturday, demanding the immediate implementation of the Advocates Protection Act in Uttar Pradesh."
+      },
+      {
+        "claim": "The protest turned tense as demonstrators breached multiple police barricades and pushed their way towards the state Assembly, leading to scuffles with security personnel",
+        "quote": "The protest turned tense as demonstrators breached multiple police barricades and pushed their way towards the state Assembly, leading to scuffles with security personnel."
+      },
+      {
+        "claim": "Lawyers, who began their march from the district court premises in Kaiserbagh, moved through Parivartan Chowk and Atal Chowk before reaching Hazratganj",
+        "quote": "Lawyers, who began their march from the district court premises in Kaiserbagh, moved through Parivartan Chowk and Atal Chowk before reaching Hazratganj."
+      },
+      {
+        "claim": "At Hazratganj crossing, the protesters broke through a police barricade and climbed over another in an attempt to move forward",
+        "quote": "At Hazratganj crossing, the protesters broke through a police barricade and climbed over another in an attempt to move forward."
+      },
+      {
+        "claim": "The protesters subsequently breached barricades erected along the route from Kaiserbagh to Parivartan Chowk, Hazratganj and the Gandhi statue near the GPO",
+        "quote": "The protesters subsequently breached barricades erected along the route from Kaiserbagh to Parivartan Chowk, Hazratganj and the Gandhi statue near the GPO."
+      },
+      {
+        "claim": "Lawyers from several districts and associations across the state participated in the demonstration",
+        "quote": "Lawyers from several districts and associations across the state participated in the demonstration."
+      },
+      {
+        "claim": "They argued that an Advocates Protection Act was essential to ensure the safety of lawyers, who face threats and attacks in the course of their professional duties",
+        "quote": "They argued that an Advocates Protection Act was essential to ensure the safety of lawyers, who face threats and attacks in the course of their professional duties."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Lawyers in Uttar Pradesh are demanding the Advocates Protection Act to address threats and attacks they face in their professional duties.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

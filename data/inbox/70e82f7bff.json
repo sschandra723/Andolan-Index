@@ -1,0 +1,74 @@
+{
+  "id": "70e82f7bff",
+  "url": "https://www.thehindu.com/news/cities/Hyderabad/ou-students-protest-poor-quality-meals/article71711898.ece",
+  "title": "OU students protest poor-quality meals",
+  "outlet": "The Hindu",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1254,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Students at Osmania University's ladies' hostel protested over alleged poor-quality and unhygienic food, including finding worms in rice, and called for immediate action from university authorities.",
+    "facts": [
+      {
+        "claim": "Students of the ladies’ hostel at Osmania University staged a protest late on Monday over the alleged supply of poor-quality and unhygienic food.",
+        "quote": "Students of the ladies’ hostel at Osmania University staged a protest late on Monday over the alleged supply of poor-quality and unhygienic food."
+      },
+      {
+        "claim": "Around 100 women students pursuing MBA and Law courses participated in the protest, raising concerns over the quality of food served at the hostel.",
+        "quote": "Around 100 women students pursuing MBA and Law courses participated in the protest, raising concerns over the quality of food served at the hostel."
+      },
+      {
+        "claim": "The students alleged that they had found worms in the rice served to them.",
+        "quote": "The students alleged that they had found worms in the rice served to them."
+      },
+      {
+        "claim": "To substantiate their claims, they took to the streets carrying plates and bowls containing rice and curries.",
+        "quote": "To substantiate their claims, they took to the streets carrying plates and bowls containing rice and curries."
+      },
+      {
+        "claim": "The students expressed dissatisfaction over the hostel management’s response, and stated that repeated complaints about food quality had gone unaddressed.",
+        "quote": "The students expressed dissatisfaction over the hostel management’s response, and stated that repeated complaints about food quality had gone unaddressed."
+      },
+      {
+        "claim": "They also pointed to previous incidents of contaminated and poor-quality food at the university, in which blades and worms were allegedly found in food, and curries were served uncooked or were too watery.",
+        "quote": "They also pointed to previous incidents of contaminated and poor-quality food at the university, in which blades and worms were allegedly found in food, and curries were served uncooked or were too watery."
+      },
+      {
+        "claim": "Later, the police at OU station reached the protest site and spoke to the students. They assured the protesters that their grievances would be brought to the notice of the university authorities.",
+        "quote": "Later, the police at OU station reached the protest site and spoke to the students. They assured the protesters that their grievances would be brought to the notice of the university authorities."
+      },
+      {
+        "claim": "The students called off their protest and urged the university administration to take immediate steps to ensure the provision of hygienic and quality food to hostel residents.",
+        "quote": "The students called off their protest and urged the university administration to take immediate steps to ensure the provision of hygienic and quality food to hostel residents."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students at Osmania University's ladies' hostel protested over alleged poor-quality and unhygienic food, including finding worms in rice, and called for immediate action from university authorities.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "993ede6359",
+  "url": "https://www.indiatoday.in/india/video/protest-erupts-against-rahul-gandhi-during-bharat-summit-visit-in-hyderabad-ytvd-3038822-2026-11-14",
+  "title": "Protesters clash with Rahul Gandhi during Bharat Summit in Hyderabad",
+  "outlet": "India Today",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1293,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "tn-thiruparankundram-deepam-2026",
+    "new_movement": null,
+    "summary": "Protesters clashed with Rahul Gandhi during his Bharat Summit visit in Hyderabad, as Telangana BJP Yuva Morcha members tore his posters and criticized his presence at a state-funded event, calling it a Congress affair. Police detained several protesters amid the unrest.",
+    "facts": [
+      {
+        "claim": "Protesters clashed with Rahul Gandhi during his Bharat Summit visit in Hyderabad",
+        "quote": "Protesters clash with Rahul Gandhi during Bharat Summit in Hyderabad"
+      },
+      {
+        "claim": "Telangana BJP Yuva Morcha members tore his posters and criticized his presence at a state-funded event",
+        "quote": "Demonstrators tore his posters and criticised his presence at a state-funded event"
+      },
+      {
+        "claim": "Police detained several protesters amid the unrest",
+        "quote": "Police detained several protesters amid the unrest"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

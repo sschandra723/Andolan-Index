@@ -1,0 +1,76 @@
+{
+  "id": "73cc103337",
+  "url": "https://theprint.in/india/cusat-syndicate-backs-higher-education-minister-amid-sfi-protests/3100111/",
+  "title": "CUSAT Syndicate backs Higher Education Minister amid SFI protests",
+  "outlet": "The Print",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "syndicate"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1986,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Syndicate of CUSAT expressed support for Higher Education Minister Roji M John amid protests by CPI(M) and SFI against his decisions on autonomous colleges and student suspensions.",
+    "facts": [
+      {
+        "claim": "The Syndicate of CUSAT has passed a resolution expressing support for Higher Education Minister Roji M John amid protests by the CPI(M) and its student wing SFI",
+        "quote": "The Syndicate of CUSAT has passed a resolution expressing support for Higher Education Minister Roji M John amid protests by the CPI(M) and its student wing SFI against certain decisions taken by him, officials said on Monday."
+      },
+      {
+        "claim": "A resolution was adopted at a Syndicate meeting held on Friday, extending support to the minister’s efforts to develop the higher education sector, ensure quality education, and improve the academic standards of universities",
+        "quote": "A statement by Cochin University of Science and Technology (CUSAT) said that a resolution was adopted at a Syndicate meeting held on Friday, extending support to the minister’s efforts to develop the higher education sector, ensure quality education, and improve the academic standards of universities."
+      },
+      {
+        "claim": "The Syndicate appreciated his interventions in bringing positive changes to the higher education sector and enhancing academic excellence in universities",
+        "quote": "The Syndicate appreciated his interventions in bringing positive changes to the higher education sector and enhancing academic excellence in universities, the statement said,"
+      },
+      {
+        "claim": "It also condemned activities aimed at obstructing the minister’s work, disrupting official programmes and making what it termed false allegations against him",
+        "quote": "It also condemned activities aimed at obstructing the minister’s work, disrupting official programmes and making what it termed false allegations against him."
+      },
+      {
+        "claim": "The resolution also endorsed the minister’s approach of prioritising the progress of universities and protecting their academic autonomy in matters concerning higher education",
+        "quote": "The resolution also endorsed the minister’s approach of prioritising the progress of universities and protecting their academic autonomy in matters concerning higher education, the statement added."
+      },
+      {
+        "claim": "The development comes amid protests by CPI(M) and the Students Federation of India (SFI) against John over two recent issues",
+        "quote": "The development comes amid protests by the CPI(M) and the Students Federation of India (SFI) against John over two recent issues."
+      },
+      {
+        "claim": "The first concerns a Higher Education Department circular exempting autonomous colleges from obtaining prior government approval or a no-objection certificate (NOC) for introducing new self-financing courses or increasing student intake in existing programmes",
+        "quote": "The first concerns a Higher Education Department circular exempting autonomous colleges from obtaining prior government approval or a no-objection certificate (NOC) for introducing new self-financing courses or increasing student intake in existing programmes."
+      },
+      {
+        "claim": "The SFI has also been protesting against the minister’s support for the suspension of 16 students of Sree Sankaracharya University of Sanskrit, who had launched an agitation against the Vice-Chancellor and university administration over the alleged lack of adequate facilities on the campus",
+        "quote": "The SFI has also been protesting against the minister’s support for the suspension of 16 students of Sree Sankaracharya University of Sanskrit, who had launched an agitation against the Vice-Chancellor and university administration over the alleged lack of adequate facilities on the campus."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CUSAT Syndicate supports Higher Education Minister amid student protests over academic autonomy and university management.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

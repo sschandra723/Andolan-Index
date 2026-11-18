@@ -1,0 +1,50 @@
+{
+  "id": "d9702735cf",
+  "url": "https://www.thehindu.com/news/national/kerala/cultural-activists-protest-at-thiruvananthapuram-corporation-over-denial-of-permission-to-manaveeyam-veedhi-event/article71708740.ece",
+  "title": "Cultural activists protest at Thiruvananthapuram Corporation over denial of permission to Manaveeyam Veedhi event",
+  "outlet": "The Hindu",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3154,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Cultural activists protested at Thiruvananthapuram Corporation after being denied permission for a cultural event at Manaveeyam Veedhi, with police detaining six activists including veteran theatre artist D. Raghoothaman.",
+    "facts": [
+      {
+        "claim": "Cultural activists protested at Thiruvananthapuram Corporation after being denied permission for a cultural event at Manaveeyam Veedhi",
+        "quote": "Following the Bharatiya Janata Party (BJP)-led Thiruvananthapuram Corporation’s denial of permission for a cultural programme at Manaveeyam Veedhi featuring singer Pushpavathy, a group of cultural activists representing various organisations at Manaveeyam staged a protest at the Corporation office on Monday."
+      },
+      {
+        "claim": "police detaining six activists including veteran theatre artist D. Raghoothaman",
+        "quote": "The police dragged out of the Corporation office the six activists, including veteran theatre artist D. Raghoothaman, Vinod Vaisakhi, S.Rahul, K.G.Suraj, Diya Sana and S.S.Deepu."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Cultural activists in Thiruvananthapuram protested after local government denied permission for a cultural event at Manaveeyam Veedhi, a public space with 25 years of history used for cultural expression.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

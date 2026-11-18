@@ -1,0 +1,66 @@
+{
+  "id": "184334f8cb",
+  "url": "https://nagalandpost.com/cong-shifts-chalo-delhi-protest-to-state-marches/",
+  "title": "Cong shifts ‘Chalo Delhi’ protest to state marches",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-16",
+  "collected": "2026-11-16",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1539,
+    "fetch_note": null,
+    "drafted": "2026-11-16",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Congress postponed its planned 'Chalo Delhi' protest for Constitution Day to hold state-level 'Constitution Protection Marches' amid opposition to the Election Commission's voter list revision.",
+    "facts": [
+      {
+        "claim": "Congress postponed its planned 'Chalo Delhi' protest on Constitution Day, November 26",
+        "quote": "The Congress has postponed its planned ‘Chalo Delhi’ protest on Constitution Day, November 26, and will instead organise ‘Samvidhan Raksha March’ (Constitution Protection Marches) in the capitals of all States on the same day."
+      },
+      {
+        "claim": "The move comes amid the INDIA bloc’s campaign against alleged irregularities in electoral rolls and the Election Commission’s Special Intensive Revision (SIR) exercise",
+        "quote": "The move comes amid the INDIA bloc’s campaign against alleged irregularities in electoral rolls and the Election Commission’s Special Intensive Revision (SIR) exercise, according to a Mirror Now report."
+      },
+      {
+        "claim": "The opposition bloc had held a rally at Delhi’s Ramlila Maidan on November 1",
+        "quote": "The opposition bloc had held a rally at Delhi’s Ramlila Maidan on November 1, with leaders from several parties participating."
+      },
+      {
+        "claim": "On October 31, opposition figures had also organised a public ‘impeachment’ programme against Chief Election Commissioner Gyanesh Kumar",
+        "quote": "On October 31, opposition figures had also organised a public ‘impeachment’ programme against Chief Election Commissioner Gyanesh Kumar."
+      },
+      {
+        "claim": "The campaign has drawn support from INDIA bloc leaders, including Lok Sabha Leader of Opposition Rahul Gandhi, Congress president Mallikarjun Kharge, West Bengal Chief Minister Mamata Banerjee, Abhishek Banerjee, Telangana Chief Minister Revanth Reddy, Tejashwi Yadav, Farooq Abdullah, D Raja, Mehbooba Mufti and Akhilesh Yadav",
+        "quote": "The campaign has drawn support from INDIA bloc leaders, including Lok Sabha Leader of Opposition Rahul Gandhi, Congress president Mallikarjun Kharge, West Bengal Chief Minister Mamata Banerjee, Abhishek Banerjee, Telangana Chief Minister Revanth Reddy, Tejashwi Yadav, Farooq Abdullah, D Raja, Mehbooba Mufti and Akhilesh Yadav."
+      },
+      {
+        "claim": "The shift to State-level marches is intended to mobilise supporters across regions simultaneously, rather than concentrate the protest in the national capital",
+        "quote": "The shift to State-level marches is intended to mobilise supporters across regions simultaneously, rather than concentrate the protest in the national capital."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress shifted its 'Chalo Delhi' protest to state-level marches to counter the Election Commission's voter list revision (SIR) amid allegations of irregularities in electoral rolls.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

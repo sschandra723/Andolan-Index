@@ -1,0 +1,47 @@
+{
+  "id": "2fa4fb86bd",
+  "url": "https://www.thehindu.com/news/national/kerala//article71708777.ece",
+  "title": "Ex-servicemen stage protest in Kannur, demand improved ECHS healthcare and pension benefits",
+  "outlet": "The Hindu",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently",
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ex-servicemen in Kannur staged a protest demanding better ECHS healthcare and pension benefits.",
+    "facts": [
+      {
+        "claim": "Ex-servicemen in Kannur staged a protest",
+        "quote": "Ex-servicemen stage protest in Kannur, demand improved ECHS healthcare and pension benefits"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

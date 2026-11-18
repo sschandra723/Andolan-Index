@@ -1,0 +1,74 @@
+{
+  "id": "d10ef4dfd6",
+  "url": "https://www.thehindu.com/news/national/kerala/cpim-rallies-behind-abdurahiman-plans-protest-at-tirur-in-keralams-malappuram-on-november-20/article71705263.ece",
+  "title": "CPI(M) rallies behind Abdurahiman, plans protest at Tirur in Keralam’s Malappuram on November 20",
+  "outlet": "The Hindu",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2608,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "CPI(M) plans protest in Tirur, Kerala on November 20 against UDF government's inquiry into alleged corruption involving former Sports Minister V. Abdurahiman, calling it politically motivated and claiming no loss to state exchequer.",
+    "facts": [
+      {
+        "claim": "CPI(M) will organise a public protest at Tirur on Friday (November 20) against the United Democratic Front (UDF) government’s decision to order an inquiry into the alleged corruption in connection with the proposed visit of the Argentina football team to Keralam",
+        "quote": "The Communist Party of India (Marxist) [CPI(M)] will organise a public protest at Tirur on Friday (November 20) against the United Democratic Front (UDF) government’s decision to order an inquiry into the alleged corruption in connection with the proposed visit of the Argentina football team to Keralam."
+      },
+      {
+        "claim": "The inquiry covers former Sports Minister V. Abdurahiman, his private secretary C. Sathyapalan, and others",
+        "quote": "The inquiry covers former Sports Minister V. Abdurahiman, his private secretary C. Sathyapalan, and others."
+      },
+      {
+        "claim": "CPI(M) Politburo member A. Vijayaraghavan will inaugurate the meeting",
+        "quote": "CPI(M) Politburo member A. Vijayaraghavan will inaugurate the meeting."
+      },
+      {
+        "claim": "The CPI(M) district secretariat termed the inquiry politically motivated and said the party would challenge it both politically and legally",
+        "quote": "In a statement, the CPI(M) district secretariat termed the inquiry politically motivated and said the party would challenge it both politically and legally."
+      },
+      {
+        "claim": "The party said several State governments had made efforts to bring leading players and teams that had performed well in the World Cup and Olympics to their States",
+        "quote": "The party said several State governments had made efforts to bring leading players and teams that had performed well in the World Cup and Olympics to their States."
+      },
+      {
+        "claim": "The district secretariat alleged that Chief Minister V.D. Satheesan was targeting Mr. Abdurahiman at the instance of the Indian Union Muslim League (IUML) to damage his political career for attempting to bring Lionel Messi and his Argentina team to Keralam",
+        "quote": "The district secretariat alleged that Chief Minister V.D. Satheesan was targeting Mr. Abdurahiman at the instance of the Indian Union Muslim League (IUML) to damage his political career for attempting to bring Lionel Messi and his Argentina team to Keralam."
+      },
+      {
+        "claim": "The party said that Mr. Abdurahiman had only supported the sponsor who took the initiative to bring the team, and that the arrangement did not cause any loss to the State exchequer",
+        "quote": "The party said that Mr. Abdurahiman had only supported the sponsor who took the initiative to bring the team, and that the arrangement did not cause any loss to the State exchequer."
+      },
+      {
+        "claim": "The district secretariat said it would mobilise public support against attempts to portray Mr. Abdurahiman and others as corrupt without evidence",
+        "quote": "The district secretariat said it would mobilise public support against attempts to portray Mr. Abdurahiman and others as corrupt without evidence."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "CPI(M) is planning a protest in Tirur, Kerala against UDF government's inquiry into alleged corruption involving former Sports Minister V. Abdurahiman, claiming it is politically motivated and that no loss to state exchequer occurred.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

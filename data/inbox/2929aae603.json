@@ -1,0 +1,75 @@
+{
+  "id": "2929aae603",
+  "url": "https://nenow.in/north-east-news/manipur/manipur-npcm-announces-24-hour-statewide-shutdown-over-killing-of-four-naga-civilians.html",
+  "title": "Manipur: NPCM announces 24-hour statewide shutdown over killing of four Naga civilians",
+  "outlet": "Northeast Now",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": "manipur-protests-2026",
+  "score": 2.0,
+  "matched": [
+    "Manipur",
+    "Imphal"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1596,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "The Native People’s Committee, Manipur (NPCM) coordinated with civil society groups to hold a 24-hour statewide shutdown from November 15 to 16, 2026, protesting the killing of four Naga civilians in Ukhrul and demanding justice.",
+    "facts": [
+      {
+        "claim": "The Native People’s Committee, Manipur (NPCM), in coordination with Hill and Valley Civil Society Organisations (CSOs), has called a 24-hour statewide general shutdown from midnight on November 15 to midnight on November 16 to protest the killing of four Naga persons in Ukhrul and demand justice for the victims.",
+        "quote": "Imphal: The Native People’s Committee, Manipur (NPCM), in coordination with Hill and Valley Civil Society Organisations (CSOs), has called a 24-hour statewide general shutdown from midnight on November 15 to midnight on November 16 to protest the killing of four Naga persons in Ukhrul and demand justice for the victims."
+      },
+      {
+        "claim": "The committee said the shutdown is intended to demand immediate action against those responsible and measures to prevent similar incidents.",
+        "quote": "The committee said the shutdown is intended to demand immediate action against those responsible and measures to prevent similar incidents."
+      },
+      {
+        "claim": "The strike will begin at 12 am on November 16 and continue until midnight the same day.",
+        "quote": "The strike will begin at 12 am on November 16 and continue until midnight the same day."
+      },
+      {
+        "claim": "During the shutdown, business establishments, shops, markets, private offices and educational institutions will remain closed. Vehicular movement across the state will also remain suspended, except for emergency services.",
+        "quote": "During the shutdown, business establishments, shops, markets, private offices and educational institutions will remain closed. Vehicular movement across the state will also remain suspended, except for emergency services."
+      },
+      {
+        "claim": "Medical services, ambulances, fire services, water supply, electricity, media personnel and other essential emergency services have been exempted from the shutdown.",
+        "quote": "Medical services, ambulances, fire services, water supply, electricity, media personnel and other essential emergency services have been exempted from the shutdown."
+      },
+      {
+        "claim": "The NPCM has appealed to people across Manipur, irrespective of community, to cooperate and observe the strike peacefully and democratically. It has also urged the public to maintain communal harmony and brotherhood during the shutdown.",
+        "quote": "The NPCM has appealed to people across Manipur, irrespective of community, to cooperate and observe the strike peacefully and democratically. It has also urged the public to maintain communal harmony and brotherhood during the shutdown."
+      },
+      {
+        "claim": "The committee further appealed to the Manipur government and the Centre to take immediate steps to restore peace, ensure the safety of indigenous communities and bring those responsible for the killings to justice.",
+        "quote": "The committee further appealed to the Manipur government and the Centre to take immediate steps to restore peace, ensure the safety of indigenous communities and bring those responsible for the killings to justice."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The shutdown follows the killing of four Naga civilians in Ukhrul, which the NPCM and civil society groups are protesting to demand justice and prevent further incidents.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": [
+        "number 2026 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

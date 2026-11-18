@@ -1,0 +1,58 @@
+{
+  "id": "de5981ba13",
+  "url": "https://www.greaterkashmir.com/national/nielit-to-organise-3rd-international-conference-on-cyber-security-digital-forensics-and-intelligence-in-new-delhi-tomorrow-12811382",
+  "title": "NIELIT to organise 3rd international conference on cyber security, digital forensics and intelligence in New Delhi tomorrow",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "National Conference"
+  ],
+  "alternatives": [
+    "manipur-protests-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5980,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "NIELIT is organizing the 3rd National Conference on Cyber Security, Digital Forensics & Intelligence in New Delhi on November 16-17, 2026, focusing on cybersecurity and digital forensics with industry partnerships and a hackathon.",
+    "facts": [
+      {
+        "claim": "NIELIT is organizing the 3rd National Conference on Cyber Security, Digital Forensics & Intelligence in New Delhi on November 16-17, 2026",
+        "quote": "The National Institute of Electronics & Information Technology (NIELIT), under the Ministry of Electronics & Information Technology (MeitY), Government of India, is organising the 3rd National Conference on Cyber Security, Digital Forensics & Intelligence (NCCDFI 2026) on November 16-17, 2026, at the Dr. Ambedkar International Centre, 15 Janpath, New Delhi"
+      },
+      {
+        "claim": "The conference focuses on cybersecurity and digital forensics with industry partnerships and a hackathon",
+        "quote": "NCCDFI 2026 will provide a knowledge-sharing platform for stakeholders from government, law enforcement, defence, judiciary, technology providers, industry, academia and the cybersecurity ecosystem to deliberate on emerging cyber threats and evolving challenges in digital investigations and cyber resilience."
+      },
+      {
+        "claim": "The conference includes a hackathon with 1,031 teams and 3,093 participants",
+        "quote": "The hackathon has received an overwhelming response, with 1,031 teams comprising 3,093 participants registering for the competition. Of these, 923 teams (2,769 participants) have been shortlisted for Level 1, while 50 teams have qualified for Level 2 and 10 teams for Level 3."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

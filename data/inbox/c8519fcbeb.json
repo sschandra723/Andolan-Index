@@ -1,0 +1,110 @@
+{
+  "id": "c8519fcbeb",
+  "url": "https://www.thehindu.com/news/national/karnataka/bagalkot-farmers-decide-to-withdraw-protest/article71697913.ece",
+  "title": "Bagalkot farmers decide to withdraw protest",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [
+    "karnataka-sugarcane-2025"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2423,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Sugarcane farmers in Bagalkot district withdrew their protest after factories agreed to a base price of ₹3,800 per tonne, meeting their reduced demand of ₹5,500 but with conditions including profit sharing and upfront payment.",
+    "facts": [
+      {
+        "claim": "Sugarcane farmers in Bagalkot district have decided to withdraw their agitation after factories promised a base price of ₹3,800 per tonne.",
+        "quote": "Sugarcane farmers in Bagalkot district have decided to withdraw their agitation after factories promised a base price of ₹3,800 per tonne."
+      },
+      {
+        "claim": "Leaders told reporters in Mudhol on Friday that they are accepting the offer price with some conditions that the factories agree to share profits of the sale of byproducts and that the factories maintain transparency in their operations.",
+        "quote": "Leaders told reporters in Mudhol on Friday that they are accepting the offer price with some conditions that the factories agree to share profits of the sale of byproducts and that the factories maintain transparency in their operations."
+      },
+      {
+        "claim": "Their other conditions include a tripartite agreement between farmers, factories and the State government, upfront payment of ₹3,800 before the end of the crushing season and timely payment of additional payments.",
+        "quote": "Their other conditions include a tripartite agreement between farmers, factories and the State government, upfront payment of ₹3,800 before the end of the crushing season and timely payment of additional payments."
+      },
+      {
+        "claim": "A team of senior officers, including Deputy Commissioner Sangappa and Superintendent of Police Siddartha Goel, facilitated three rounds of talks between factories and farmers.",
+        "quote": "A team of senior officers, including Deputy Commissioner Sangappa and Superintendent of Police Siddartha Goel, facilitated three rounds of talks between factories and farmers."
+      },
+      {
+        "claim": "The deal was struck as the farmers stepped down from their original demand of ₹5,500 per tonne and factories agreed to hike the offer price to ₹3,800, a senior officer involved in the talks told reporters in Bagalkot on Friday.",
+        "quote": "The deal was struck as the farmers stepped down from their original demand of ₹5,500 per tonne and factories agreed to hike the offer price to ₹3,800, a senior officer involved in the talks told reporters in Bagalkot on Friday."
+      },
+      {
+        "claim": "Officials said that the Nirani group of companies led by the former Minister Murugesh Nirani was the first to offer ₹3,800 per tonne, ₹200 above the Belagavi offer and ₹500 above the average price paid to farmers last year.",
+        "quote": "Officials said that the Nirani group of companies led by the former Minister Murugesh Nirani was the first to offer ₹3,800 per tonne, ₹200 above the Belagavi offer and ₹500 above the average price paid to farmers last year."
+      },
+      {
+        "claim": "Later, officials from Godavari Sugars, Prabhulingeshwara, ICPL and other factories announced that they will honour the offer.",
+        "quote": "Later, officials from Godavari Sugars, Prabhulingeshwara, ICPL and other factories announced that they will honour the offer."
+      },
+      {
+        "claim": "Sugarcane growers were protesting in Bagalkot, Mudhol and Jamkhandi for over a week now.",
+        "quote": "Sugarcane growers were protesting in Bagalkot, Mudhol and Jamkhandi for over a week now."
+      },
+      {
+        "claim": "They rejected the offer price of ₹3,600 offered by factories in a meeting headed by Minister Satish Jarkiholi in Belagavi.",
+        "quote": "They rejected the offer price of ₹3,600 offered by factories in a meeting headed by Minister Satish Jarkiholi in Belagavi."
+      },
+      {
+        "claim": "They set up a platform named after farmers leader late Ramesh Gadadannavar and sat on a dharna.",
+        "quote": "They set up a platform named after farmers leader late Ramesh Gadadannavar and sat on a dharna."
+      },
+      {
+        "claim": "They said that they would not budge until the factories offered ₹5,500 per tonne.",
+        "quote": "They said that they would not budge until the factories offered ₹5,500 per tonne."
+      },
+      {
+        "claim": "However, the protest ended by Friday.",
+        "quote": "However, the protest ended by Friday."
+      },
+      {
+        "claim": "Farmers leader Eerappa Hanchinal argued that they will not accept ₹3,600 as it is a result of a political bargain.",
+        "quote": "Farmers leader Eerappa Hanchinal argued that they will not accept ₹3,600 as it is a result of a political bargain."
+      },
+      {
+        "claim": "He criticised Belagavi leaders Chunappa Pujeri and Shashikant Padasalagi Guruji for accepting the offer of ₹3,600.",
+        "quote": "He criticised Belagavi leaders Chunappa Pujeri and Shashikant Padasalagi Guruji for accepting the offer of ₹3,600."
+      },
+      {
+        "claim": "He said that the earlier offer has not taken into account the cost of cultivation and the rise in the cost of living.",
+        "quote": "He said that the earlier offer has not taken into account the cost of cultivation and the rise in the cost of living."
+      },
+      {
+        "claim": "He demanded the proper implementation of the recommendations made by C. Rangarajan and M.S. Swaminathan committees.",
+        "quote": "He demanded the proper implementation of the recommendations made by C. Rangarajan and M.S. Swaminathan committees."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers in north Karnataka reduced their demand from ₹5,500 to ₹3,800 per tonne after negotiations with factories, with conditions including profit sharing and upfront payment.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "16/16",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 35,
+    "importance_reason": "3 outlets in the last 48 hours; coverage up from 0 to 1 reports this week."
+  }
+}

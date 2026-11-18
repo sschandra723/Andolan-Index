@@ -1,0 +1,74 @@
+{
+  "id": "7934a5cd5b",
+  "url": "https://nenow.in/north-east-news/nagaland/rose-revisits-the-1974-assault-that-sparked-tangkhul-naga-womens-movement.html",
+  "title": "‘ROSE’ revisits the 1974 assault that sparked Tangkhul Naga women’s movement",
+  "outlet": "Northeast Now",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Imphal"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2007,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "A film titled ROSE was screened at NSCN-GPRN GHQ in Nagaland on November 13, 2026, revisiting the 1974 death of Tangkhul Naga woman Rose that sparked women's protests leading to the formation of the Tangkhul Shanao Long.",
+    "facts": [
+      {
+        "claim": "A film titled ROSE was screened at NSCN-GPRN GHQ in Nagaland on November 13, 2026",
+        "quote": "Imphal: A feature film revisiting the 1974 death of a young Tangkhul Naga woman and the protests that led to the formation of a prominent Naga women’s organisation was released and screened at Camp Hebron, the General Headquarters (GHQ) of National Socialist Council of Nagaland (Isak-Muivah) in Peren district, Nagaland, on November 13."
+      },
+      {
+        "claim": "The film chronicles the life and death of 20-year-old Rose from Kumram village in the then Ukhrul district of Manipur",
+        "quote": "Titled ROSE, the film was produced by M-Series and Jangko Production House. It chronicles the life and death of 20-year-old Rose from Kumram village in the then Ukhrul district of Manipur and the subsequent mobilisation of Tangkhul women demanding justice and accountability."
+      },
+      {
+        "claim": "Rose was allegedly sexually assaulted by Major Pundir and Captain Negi of the 95th Battalion of the Border Security Force (BSF) on the night of March 4, 1974",
+        "quote": "According to the account presented by the filmmakers, Rose, born on February 21, 1954, to N. Angti and N. Binu, was allegedly sexually assaulted by Major Pundir and Captain Negi of the 95th Battalion of the Border Security Force (BSF) on the night of March 4, 1974."
+      },
+      {
+        "claim": "She died by suicide three days later, on March 7",
+        "quote": "She died by suicide three days later, on March 7."
+      },
+      {
+        "claim": "The incident triggered protests by Tangkhul women amid prolonged militarisation under the Armed Forces (Special Powers) Act, 1958",
+        "quote": "The incident triggered protests by Tangkhul women amid prolonged militarisation under the Armed Forces (Special Powers) Act, 1958."
+      },
+      {
+        "claim": "The mobilisation led to the formation of the East District Women Association, which later became the Tangkhul Shanao Long, the apex organisation of Tangkhul women",
+        "quote": "The mobilisation led to the formation of the East District Women Association, which later became the Tangkhul Shanao Long, the apex organisation of Tangkhul women."
+      },
+      {
+        "claim": "Organisers said the film aims to preserve community memory and familiarise younger generations with the origins of organised women’s resistance in the region",
+        "quote": "Organisers said the film aims to preserve community memory and familiarise younger generations with the origins of organised women’s resistance in the region."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The film revisits the 1974 death of Tangkhul Naga woman Rose, which led to the formation of the Tangkhul Shanao Long, a prominent Naga women’s organisation.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": [
+        "number 2026 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

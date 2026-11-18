@@ -1,0 +1,90 @@
+{
+  "id": "bbcb4e7617",
+  "url": "https://www.thehindu.com/news/cities/Kochi/man-launches-indefinite-protest-in-front-of-hospital-seeking-action-against-alleged-medical-negligence/article71707929.ece",
+  "title": "Man launches indefinite protest in front of hospital seeking action against alleged medical negligence",
+  "outlet": "The Hindu",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1977,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A man in North Paravur, Ernakulam, launched an indefinite sit-in protest demanding an impartial investigation into alleged medical negligence that led to his leg amputation, claiming hospital officials ignored his complaints and delayed medical records.",
+    "facts": [
+      {
+        "claim": "The man whose leg had to be amputated three months ago owing to alleged medical negligence launched an indefinite sit-in protest on Monday (November 16) in front of the Government Taluk Hospital in North Paravur, Ernakulam.",
+        "quote": "The man whose leg had to be amputated three months ago owing to alleged medical negligence launched an indefinite sit-in protest on Monday (November 16) in front of the Government Taluk Hospital in North Paravur, Ernakulam."
+      },
+      {
+        "claim": "Chief Minister V.D. Satheesan had ordered an inquiry into the charge that the right leg of the patient, Abdul Jabbar, 56, had to be amputated below the knee following the alleged delayed diagnosis and treatment.",
+        "quote": "Chief Minister V.D. Satheesan had ordered an inquiry into the charge that the right leg of the patient, Abdul Jabbar, 56, had to be amputated below the knee following the alleged delayed diagnosis and treatment."
+      },
+      {
+        "claim": "The medical superintendent had submitted a preliminary report to the District Medical Officer denying charges of medical negligence.",
+        "quote": "The medical superintendent had submitted a preliminary report to the District Medical Officer denying charges of medical negligence."
+      },
+      {
+        "claim": "Mr. Jabbar, a native of Kunnukara, launched a protest demanding an impartial investigation and the immediate release of his complete medical records.",
+        "quote": "Mr. Jabbar, a native of Kunnukara, launched a protest demanding an impartial investigation and the immediate release of his complete medical records."
+      },
+      {
+        "claim": "He also demanded that the medical superintendent and the doctor concerned be kept away from duty pending inquiry.",
+        "quote": "He also demanded that the medical superintendent and the doctor concerned be kept away from duty pending inquiry."
+      },
+      {
+        "claim": "Mr. Jabbar accused the police and the Health department of ignoring his complaints, while also accusing hospital officials of trying to dissuade him by invoking the name of the Chief Minister, who represents the North Paravur constituency.",
+        "quote": "Mr. Jabbar accused the police and the Health department of ignoring his complaints, while also accusing hospital officials of trying to dissuade him by invoking the name of the Chief Minister, who represents the North Paravur constituency."
+      },
+      {
+        "claim": "He accused the hospital of failing to provide his medical records up to July 27, even though he had filed an application under the Right to Information Act about 40 days earlier.",
+        "quote": "He accused the hospital of failing to provide his medical records up to July 27, even though he had filed an application under the Right to Information Act about 40 days earlier."
+      },
+      {
+        "claim": "Later on Monday, the North police registered a case against the doctor in charge of the casualty on the day Mr. Jabbar sought treatment.",
+        "quote": "Later on Monday, the North police registered a case against the doctor in charge of the casualty on the day Mr. Jabbar sought treatment."
+      },
+      {
+        "claim": "He was booked under Section 125 (which penalises any act done so rashly or negligently as to endanger human life or the personal safety of others) of the Bharatiya Nyaya Sanhita.",
+        "quote": "He was booked under Section 125 (which penalises any act done so rashly or negligently as to endanger human life or the personal safety of others) of the Bharatiya Nyaya Sanhita."
+      },
+      {
+        "claim": "Mr. Jabbar dismissed allegations that his protest was politically motivated and that he had launched it to obtain financial assistance.",
+        "quote": "Mr. Jabbar dismissed allegations that his protest was politically motivated and that he had launched it to obtain financial assistance."
+      },
+      {
+        "claim": "Complaints to the cyber police and the State Police Chief about his alleged online harassment have also been ignored, he said.",
+        "quote": "Complaints to the cyber police and the State Police Chief about his alleged online harassment have also been ignored, he said."
+      },
+      {
+        "claim": "North Paravur municipal chairman Ramesh D. Kurup and health standing committee chairman visited Jabbar.",
+        "quote": "North Paravur municipal chairman Ramesh D. Kurup and health standing committee chairman visited Jabbar."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A man in North Paravur, Ernakulam, launched an indefinite sit-in protest demanding an impartial investigation into alleged medical negligence that led to his leg amputation, claiming hospital officials ignored his complaints and delayed medical records.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "12/12",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

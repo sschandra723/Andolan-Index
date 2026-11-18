@@ -1,0 +1,86 @@
+{
+  "id": "a21e82b684",
+  "url": "https://www.thehindu.com/news/national/kerala/unnatural-death-allegations-family-to-protest-with-womans-body-outside-bank-in-kozhikode/article71704147.ece",
+  "title": "Unnatural death allegations: Family to protest with woman’s body outside bank in Kozhikode",
+  "outlet": "The Hindu",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2411,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Relatives of a 42-year-old homemaker allege bank refusal to grant a five-day grace period for loan repayment led to her death, planning to protest with her body outside the bank branch on November 16, 2026.",
+    "facts": [
+      {
+        "claim": "Relatives of a 42-year-old homemaker who was found dead at her house following bank attachment proceedings at Koothali near Perambra",
+        "quote": "Relatives and family members of a 42-year-old homemaker who was found dead at her house following bank attachment proceedings at Koothali near Perambra have announced their plans to stage a protest with her body in front of the bank branch on Monday (November 16, 2026), alleging that the officials’ refusal to grant a five-day grace period for loan repayment led to her death."
+      },
+      {
+        "claim": "The deceased, identified as Kavitha Babu, was an employee at a paint shop in Kainatty, Vadakara",
+        "quote": "The deceased, identified as Kavitha Babu, was an employee at a paint shop in Kainatty, Vadakara."
+      },
+      {
+        "claim": "The body would be taken to the Naduvannur branch of the accused bank on Monday (November 16, 2026) before funeral rites",
+        "quote": "The body, which is currently kept at the mortuary of the Kozhikode Medical College Hospital following post-mortem procedures, would be taken to the Naduvannur branch of the accused bank on Monday (November 16, 2026) before funeral rites are held."
+      },
+      {
+        "claim": "The incident occurred around 11 a.m. on November 13 when a team comprising bank officials, an advocate commissioner, and police personnel arrived at Kavitha’s residence to execute Court-mandated attachment proceedings",
+        "quote": "The incident occurred around 11 a.m. on November 13 when a team comprising bank officials, an advocate commissioner, and police personnel arrived at Kavitha’s residence to execute Court-mandated attachment proceedings."
+      },
+      {
+        "claim": "Following defaults in repayment, the outstanding dues, including accumulated interest, had reportedly mounted to nearly ₹50 lakh",
+        "quote": "Following defaults in repayment, the outstanding dues, including accumulated interest, had reportedly mounted to nearly ₹50 lakh."
+      },
+      {
+        "claim": "Finding the newly constructed main residence locked upon arrival, the team initiated a search of the premises and discovered Kavitha hanging inside an old ancestral house located behind the property",
+        "quote": "Finding the newly constructed main residence locked upon arrival, the team initiated a search of the premises and discovered Kavitha hanging inside an old ancestral house located behind the property."
+      },
+      {
+        "claim": "Though she was immediately shifted to the Perambra taluk hospital, doctors declared her dead",
+        "quote": "Though she was immediately shifted to the Perambra taluk hospital, doctors declared her dead."
+      },
+      {
+        "claim": "Kavitha’s husband and relatives alleged that the family had earnestly requested a five-day extension to remit a stipulated portion of the dues and avoid immediate attachment, but bank authorities refused to relent",
+        "quote": "Kavitha’s husband and relatives alleged that the family had earnestly requested a five-day extension to remit a stipulated portion of the dues and avoid immediate attachment, but bank authorities refused to relent."
+      },
+      {
+        "claim": "Holding the bank’s unyielding stance directly responsible for the tragedy, relatives and local residents said they would intensify their agitation outside the branch on Monday (November 16, 2026)",
+        "quote": "Holding the bank’s unyielding stance directly responsible for the tragedy, relatives and local residents said they would intensify their agitation outside the branch on Monday (November 16, 2026)."
+      },
+      {
+        "claim": "Meanwhile, local police have registered a case of unnatural death and launched a formal investigation into the incident",
+        "quote": "Meanwhile, local police have registered a case of unnatural death and launched a formal investigation into the incident."
+      },
+      {
+        "claim": "Officials associated with the bank said they initiated only the legal proceedings and the allegations against them were baseless",
+        "quote": "Officials associated with the bank said they initiated only the legal proceedings and the allegations against them were baseless."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Relatives of a 42-year-old homemaker who died after bank attachment proceedings allege the bank's refusal to grant a five-day grace period for loan repayment led to her death, planning to protest with her body outside the bank branch on November 16, 2026.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "11/11",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

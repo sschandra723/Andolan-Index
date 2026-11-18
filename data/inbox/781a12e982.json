@@ -1,0 +1,64 @@
+{
+  "id": "781a12e982",
+  "url": "https://www.thehindu.com/news/national/karnataka/kprs-to-stage-protest-on-nov-20/article71705121.ece",
+  "title": "KPRS to stage protest on Nov. 20",
+  "outlet": "The Hindu",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1371,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka Prantha Raitha Sangha (KPRS) accuses insurance companies of underreporting crop losses in Kalaburagi district, demanding full compensation for 4.52 lakh farmers affected by drought.",
+    "facts": [
+      {
+        "claim": "KPRS district president Sharanabasappa Mamshetty said that crops have been damaged across 5,55,032 hectares owing to drought",
+        "quote": "crops have been damaged across 5,55,032 hectares owing to drought"
+      },
+      {
+        "claim": "KPRS district president Sharanabasappa Mamshetty said that insurance companies are considering only the initial stage of crop damage while ignoring losses during pod formation and the yield stage",
+        "quote": "insurance companies are considering only the initial stage of crop damage while ignoring losses during pod formation and the yield stage"
+      },
+      {
+        "claim": "As many as 4.52 lakh farmers have enrolled under the crop insurance scheme and ₹67.87 crore has been collected as premium",
+        "quote": "As many as 4.52 lakh farmers have enrolled under the crop insurance scheme and ₹67.87 crore has been collected as premium"
+      },
+      {
+        "claim": "Pointing to the mounting agrarian distress, he said that 22 farmers have been found dead in the district till June this year",
+        "quote": "Pointing to the mounting agrarian distress, he said that 22 farmers have been found dead in the district till June this year"
+      },
+      {
+        "claim": "The KPRS, along with other farmers organisations, will stage a protest outside an insurance company’s office on November 20 if the authorities fail to resolve the issue by then",
+        "quote": "The KPRS, along with other farmers organisations, will stage a protest outside an insurance company’s office on November 20 if the authorities fail to resolve the issue by then"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka Prantha Raitha Sangha (KPRS) is a farmers' organisation in Karnataka that has been protesting crop insurance issues since 2025.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 25,
+    "importance_reason": "2 outlets in the last 48 hours; coverage up from 0 to 1 reports this week."
+  }
+}

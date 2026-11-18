@@ -1,0 +1,74 @@
+{
+  "id": "1ef7121cbf",
+  "url": "https://www.greaterkashmir.com/ladakh/wangchuk-being-targeted-for-raising-issues-of-ladakhs-democracy-constitutional-safeguards-kda-12809893",
+  "title": "Wangchuk being targeted for raising issues of Ladakh’s democracy, constitutional safeguards: KDA",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": "ladakh-statehood",
+  "score": 8.0,
+  "matched": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Kargil Democratic Alliance",
+    "Sonam Wangchuk",
+    "Leh",
+    "Kargil",
+    "=LAB",
+    "=KDA"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026",
+    "tn-hospital-workers-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4049,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Kargil Democratic Alliance co-chairman Sajjad Kargili accused climate activist Sonam Wangchuk of being targeted for advocating Ladakh's democratic rights and constitutional safeguards, amid protests demanding a UT-level elected government.",
+    "facts": [
+      {
+        "claim": "Kargili alleged Wangchuk was being targeted for raising issues concerning Ladakh’s democratic rights, constitutional safeguards and political representation",
+        "quote": "Leh, Nov 14: Accusing the BJP of double standards, Kargil Democratic Alliance (KDA) co-chairman Sajjad Kargili on Saturday alleged that climate activist Sonam Wangchuk was being targeted for raising issues concerning Ladakh’s democratic rights, constitutional safeguards and political representation."
+      },
+      {
+        "claim": "Kargili said Wangchuk was being targeted for standing with his homeland and raising his voice for the protection of Ladakh’s land and identity",
+        "quote": "He alleged that Wangchuk was being targeted for standing with his homeland and raising his voice for the protection of Ladakh’s land and identity."
+      },
+      {
+        "claim": "Kargili accused Lieutenant Governor VK Saxena-led administration of promoting bureaucratic authoritarianism in Ladakh",
+        "quote": "The KDA leader accused Lieutenant Governor VK Saxena-led administration of promoting bureaucratic authoritarianism in Ladakh and called for the restoration of democracy, protection of land and identity, justice for those killed in the September 24, 2025 protests, and greater unity between the people of Leh and Kargil."
+      },
+      {
+        "claim": "Kargili cited late leader Qamar Ali Akhoon as elderly and wheelchair-bound",
+        "quote": "Rejecting claims that the LAB-KDA movement was aimed at securing political positions, Kargili cited late leader Qamar Ali Akhoon, saying he was elderly and wheelchair-bound, and questioned what positions he could possibly have sought."
+      },
+      {
+        "claim": "Kargili said Larkuk, who is leading the movement in Leh, is an elderly former minister in the J&K government",
+        "quote": "Similarly, he said Larkuk, who is leading the movement in Leh, is an elderly former minister in the J&K government whose sole objective is to protect Ladakh from powerful industrialists close to the government and safeguard its land and resources for future generations."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kargil Democratic Alliance co-chairman Sajjad Kargili is leading protests in Leh demanding constitutional safeguards and a UT-level elected government for Ladakh, following the September 24, 2025 protests where five people were killed.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

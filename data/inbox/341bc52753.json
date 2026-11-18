@@ -1,0 +1,74 @@
+{
+  "id": "341bc52753",
+  "url": "https://nagalandpost.com/womens-quota-delimitation-bill-to-dominate-winter-session/",
+  "title": "Women’s quota, delimitation bill to dominate Winter session",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-16",
+  "collected": "2026-11-16",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "Special Intensive Revision",
+    "=SIR",
+    "electoral roll"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1913,
+    "fetch_note": null,
+    "drafted": "2026-11-16",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "The government plans to expand the Lok Sabha to 850 seats via delimitation, aiming for women's reservation in Parliament and state legislatures before 2029 elections, amid opposition protests against the Special Intensive Revision (SIR) of electoral rolls.",
+    "facts": [
+      {
+        "claim": "Winter session of Parliament likely to begin in first week of December",
+        "quote": "Winter session of Parliament is likely to begin in the first week of December"
+      },
+      {
+        "claim": "Bill seeks to increase Lok Sabha’s strength from 543 to 850 seats through delimitation",
+        "quote": "The bill seeks to increase Lok Sabha’s strength from 543 to a maximum of 850 seats through delimitation"
+      },
+      {
+        "claim": "Paving the way for women’s reservation in Parliament and state legislatures before 2029 general elections",
+        "quote": "paving the way for women’s reservation in Parliament and state legislatures before 2029 general elections"
+      },
+      {
+        "claim": "Bill requires a two-thirds majority, or 361 votes in the present 540-member House",
+        "quote": "The bill requires a two-thirds majority, or 361 votes in the present 540-member House"
+      },
+      {
+        "claim": "Ruling NDA has 320 members and needs opposition support",
+        "quote": "The ruling NDA has 320 members and needs opposition support"
+      },
+      {
+        "claim": "Government is confident of securing the numbers",
+        "quote": "The government is confident of securing the numbers"
+      },
+      {
+        "claim": "Bill failed to secure numbers during a special sitting on April 17",
+        "quote": "The bill failed to secure numbers during a special sitting on April 17"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The government's proposal to expand the Lok Sabha through delimitation, which includes women's reservation, faces opposition protests against the Special Intensive Revision (SIR) of electoral rolls.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

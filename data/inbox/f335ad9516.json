@@ -1,0 +1,66 @@
+{
+  "id": "f335ad9516",
+  "url": "https://www.hindustantimes.com/cities/others/gorakhpur-ghats-witness-massive-turnout-101794766780209.html",
+  "title": "Gorakhpur ghats witness massive turnout",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-16",
+  "collected": "2026-11-16",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1223,
+    "fetch_note": null,
+    "drafted": "2026-11-16",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Devotees gathered at multiple ghats in Gorakhpur for Chhath Puja rituals on Sunday evening, with municipal officials monitoring sanitation and security arrangements.",
+    "facts": [
+      {
+        "claim": "Thousands of devotees gathered at riverbanks and water bodies across Gorakhpur on Sunday evening to offer ‘arghya’ to the setting sun on the third day of Chhath Puja.",
+        "quote": "Thousands of devotees gathered at riverbanks and water bodies across Gorakhpur on Sunday evening to offer ‘arghya’ to the setting sun on the third day of Chhath Puja."
+      },
+      {
+        "claim": "Women observing the 36-hour fast offered prayers for the health and prosperity of their families amid devotional songs and chants.",
+        "quote": "Women observing the 36-hour fast offered prayers for the health and prosperity of their families amid devotional songs and chants."
+      },
+      {
+        "claim": "The rituals began around 5.20 pm, with devotees offering milk, water and traditional offerings, including fruits, sugarcane and thekua.",
+        "quote": "The rituals began around 5.20 pm, with devotees offering milk, water and traditional offerings, including fruits, sugarcane and thekua."
+      },
+      {
+        "claim": "Municipal officials inspected the ghats to review sanitation, security and other arrangements.",
+        "quote": "Municipal officials inspected the ghats to review sanitation, security and other arrangements."
+      },
+      {
+        "claim": "The Jal Kal department monitored facilities at hundreds of urban and rural locations, with water supplied to 105 temporary ponds through tankers and other equipment.",
+        "quote": "The Jal Kal department monitored facilities at hundreds of urban and rural locations, with water supplied to 105 temporary ponds through tankers and other equipment."
+      },
+      {
+        "claim": "The Municipal Corporation appealed to devotees to avoid firecrackers, banned polythene and dumping Puja offerings into water bodies.",
+        "quote": "The Municipal Corporation appealed to devotees to avoid firecrackers, banned polythene and dumping Puja offerings into water bodies."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

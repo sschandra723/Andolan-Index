@@ -1,0 +1,84 @@
+{
+  "id": "818225202e",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-to-stage-protest-over-allegations-of-tvk-mlas-inappropriate-messages-to-collector/article71701990.ece",
+  "title": "BJP to stage protest against TVK’s Kallakurichi MLA on Nov. 18",
+  "outlet": "The Hindu",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2340,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The BJP plans to protest against TVK's Kallakurichi MLA Arul Vignesh on November 18, accusing him of sending inappropriate messages to the district Collector and demanding accountability from the Tamil Nadu government.",
+    "facts": [
+      {
+        "claim": "The BJP will hold a demonstration in Kallakurichi on November 18",
+        "quote": "The BJP will hold a demonstration in Kallakurichi on November 18"
+      },
+      {
+        "claim": "The protest will be led by former Telangana Governor Tamilisai Soundararajan",
+        "quote": "the protest will be led by former Telangana Governor Tamilisai Soundararajan"
+      },
+      {
+        "claim": "State BJP president Nainar Nagenthran alleged the State government had failed to act on complaints relating to the case",
+        "quote": "State BJP president Nainar Nagenthran told journalists in Chennai on Saturday that the protest will be led by former Telangana Governor Tamilisai Soundararajan"
+      },
+      {
+        "claim": "The BJP wants a special court to ensure an effective investigation into the allegations",
+        "quote": "He said the BJP wanted a special court to ensure an effective investigation into the allegations"
+      },
+      {
+        "claim": "The BJP urged the Madras High Court to take suo motu cognisance of the matter",
+        "quote": "He also urged the Madras High Court to take suo motu cognisance of the matter"
+      },
+      {
+        "claim": "Nainar Nagenthran accused the State government of failing to maintain law and order",
+        "quote": "He also accused the State government of failing to maintain law and order"
+      },
+      {
+        "claim": "Nainar Nagenthran alleged incidents involving crimes against women and children had increased in the past six months",
+        "quote": "he questioned the government’s response to concerns over women’s safety"
+      },
+      {
+        "claim": "The BJP claimed Tamil Nadu was losing investments to neighbouring States due to deterioration in law and order",
+        "quote": "On the State’s industrial performance, he alleged Tamil Nadu was losing investments to neighbouring States because of a deterioration in law and order and a lack of investor confidence"
+      },
+      {
+        "claim": "The BJP cited a proposed investment of ₹15,000 crore by a Hyundai group company in Andhra Pradesh",
+        "quote": "citing a proposed investment of ₹15,000 crore by a Hyundai group company in Andhra Pradesh"
+      },
+      {
+        "claim": "The BJP claimed the State’s GST revenue growth had declined from 5% to minus 5%",
+        "quote": "He also claimed the State’s GST revenue growth had declined from 5% to minus 5%"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The BJP plans to protest against TVK's Kallakurichi MLA Arul Vignesh on November 18, accusing him of sending inappropriate messages to the district Collector and demanding accountability from the Tamil Nadu government.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "9/10",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “He also accused the State government of failing to maintain law and order”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "12c1f3b4ca",
+  "url": "https://www.greaterkashmir.com/kashmir/epg-raises-serious-concerns-over-cutting-of-century-old-trees-at-kashmir-university-seeks-independent-inquiry-12815607",
+  "title": "EPG raises serious concerns over cutting of century-old trees at Kashmir University; seeks independent inquiry",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4142,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Environmental Policy Group (EPG) called for an independent inquiry into the University of Kashmir's reported cutting of century-old sweet chestnut trees, citing past environmental violations and demanding accountability for ecological heritage protection.",
+    "facts": [
+      {
+        "claim": "EPG raised concerns over cutting of century-old sweet chestnut trees at Kashmir University",
+        "quote": "Srinagar, Nov 16: The Environmental Policy Group (EPG) has expressed serious concern over the reported cutting of large branches of century-old sweet chestnut trees on the University of Kashmir campus, calling for an independent inquiry into the university’s actions and accountability for any violations of environmental norms."
+      },
+      {
+        "claim": "EPG demanded public clarification on the cutting of branches",
+        "quote": "EPG Convener Faiz Bakshi said the incident raises important questions about the protection of mature trees within educational institutions and the responsibility of public institutions to safeguard the region’s ecological heritage."
+      },
+      {
+        "claim": "EPG recalled past tree-cutting incidents at Kashmir University",
+        "quote": "EPG said the latest controversy also brings back painful memories of the earlier large-scale cutting of historic Chinar trees at Naseem Bagh on the University of Kashmir campus."
+      },
+      {
+        "claim": "EPG urged introduction of guidelines for mature tree protection",
+        "quote": "The Group urged the University of Kashmir, the Higher Education Department and the concerned environmental authorities to introduce clear and enforceable guidelines governing the protection, maintenance and management of mature trees on educational campuses."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "EPG has raised concerns over historical tree-cutting incidents at Kashmir University, including Chinar trees at Naseem Bagh, which previously triggered public concern over ecological heritage destruction.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

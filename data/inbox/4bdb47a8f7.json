@@ -1,0 +1,62 @@
+{
+  "id": "4bdb47a8f7",
+  "url": "https://www.greaterkashmir.com/sports/jay-shah-reappointed-as-icc-chairman-for-second-term-12813122",
+  "title": "Jay Shah reappointed as ICC Chairman for second term",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-16",
+  "collected": "2026-11-16",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2636,
+    "fetch_note": null,
+    "drafted": "2026-11-16",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The International Cricket Council reappointed Jay Shah as its Chairman for a second term to ensure continuity during a period of global expansion and Olympic inclusion. The ICC stated the decision reflects confidence in Shah's leadership for the sport's strategic roadmap.",
+    "facts": [
+      {
+        "claim": "reappointed unopposed as its Chairman for a second term of two years",
+        "quote": "Bali, Nov 16: The International Cricket Council (ICC) on Monday announced that Jay Shah has been reappointed unopposed as its Chairman for a second term of two years to ensure \"continuity at a defining moment for the sport\"."
+      },
+      {
+        "claim": "took over in December 2024",
+        "quote": "The 38-year-old Shah, who served as BCCI secretary before his elevation to the international body, took over in December 2024 and was reappointed during the ICC's Board Meetings that ended here on Sunday."
+      },
+      {
+        "claim": "ICC stated the decision reflects confidence in Shah's leadership",
+        "quote": "\"The decision reflects the Board's confidence in Shah's leadership and provides continuity at a defining moment for the sport, with global expansion, growth in fandom and commercial development central to its strategic roadmap,\" the ICC stated."
+      },
+      {
+        "claim": "Cricket's return to the Olympics at LA28",
+        "quote": "Cricket is also preparing for its return to the Olympics at the 2028 Los Angeles Games."
+      },
+      {
+        "claim": "Shah's reappointment comes at an important time for international cricket",
+        "quote": "England and Wales Cricket Board Chair, Richard Thompson, said Shah's reappointment comes at an important time for international cricket."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

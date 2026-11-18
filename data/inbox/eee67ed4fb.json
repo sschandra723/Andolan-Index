@@ -1,0 +1,58 @@
+{
+  "id": "eee67ed4fb",
+  "url": "https://www.thehindu.com/news/national/karnataka/jain-seer-reminds-cong-govt-of-unfulfilled-demands-threatens-sallekhana-vrata/article71698242.ece",
+  "title": "Jain seer reminds Cong. govt. of unfulfilled demands, threatens Sallekhana Vrata",
+  "outlet": "The Hindu",
+  "published": "2026-11-13",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1662,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Jain monk Gunadhar Nandi Maharaj threatens to start a protest march from Chikkodi to Suvarna Soudha if Karnataka state government fails to address Jain community demands, citing lack of satisfactory written responses.",
+    "facts": [
+      {
+        "claim": "Jain monk Gunadhar Nandi Maharaj threatens to start a protest march from Chikkodi to Suvarna Soudha if Karnataka state government fails to address Jain community demands",
+        "quote": "Reiterating his earlier announcement about taking up Sallekhana Vrata (a Jain religious vow of voluntary fasting unto death) if the State government fails to address the major demands of the Jain community, Jain monk Gunadhar Nandi Maharaj has said that from December 4 he will lead a protest march from Chikkodi to Suvarna Soudha in Belagavi when the State Legislature will be in Session for the winter."
+      },
+      {
+        "claim": "Jain community has repeatedly submitted representations to the State government and Ministers seeking action on its demands but has not received any satisfactory written response",
+        "quote": "Speaking to presspersons at Varur near Hubballi on Friday, he said that the community has repeatedly submitted representations to the State government and Ministers seeking action on its demands but, it has not received any satisfactory written response."
+      },
+      {
+        "claim": "He urged the State government to enact legislation on the lines of the law in Maharashtra to ensure the safety of Jain monks and ascetics",
+        "quote": "He urged the State government to enact legislation on the lines of the law in Maharashtra to ensure the safety of Jain monks and ascetics."
+      },
+      {
+        "claim": "He also called for measures to promote the development of Jain pilgrimage centres and protect the community's interests",
+        "quote": "He also called for measures to promote the development of Jain pilgrimage centres and protect the interests of the community."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Jain community has been demanding legislative action for safety and pilgrimage centre development in Karnataka, but state government has not provided satisfactory written responses.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

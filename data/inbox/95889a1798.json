@@ -1,0 +1,56 @@
+{
+  "id": "95889a1798",
+  "url": "https://www.cnbctv18.com/india/politics/2027-elections-protests-against-cec-opposition-unity-electoral-win-views-20034603.htm",
+  "title": "2027 Elections: Will the protests against CEC bring the opposition together electorally",
+  "outlet": "CNBCTV18",
+  "published": "2026-11-16",
+  "collected": "2026-11-16",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-16",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "The opposition has united to protest against the Election Commission's voter list revision, demanding Chief Election Commissioner Gyanesh Kumar's resignation, but state-level political divisions and historical rivalries prevent forming a durable electoral front.",
+    "facts": [
+      {
+        "claim": "The opposition has united to protest against the Election Commission's voter list revision",
+        "quote": "The opposition has framed the SIR as \"vote chori\", alleging that large-scale deletions, claimed in the region of 13 crore names across states, have disproportionately hit its supporters and that the process has proceeded under the direction of the ruling party."
+      },
+      {
+        "claim": "demanding Chief Election Commissioner Gyanesh Kumar's resignation",
+        "quote": "On 1 November 2026, opposition bloc leaders, including Rahul Gandhi, Mallikarjun Kharge, Akhilesh Yadav, Mamata Banerjee and others, gathered at Ramlila Maidan in a rare display of joint mobilisation, demanding Kumar’s resignation and an end to the revision."
+      },
+      {
+        "claim": "state-level political divisions and historical rivalries prevent forming a durable electoral front",
+        "quote": "Political ambitions remain high, and agreement on a single prime-ministerial face is far from automatic. Congress leaders continue to project Rahul Gandhi as the natural choice, and some allies have offered public support. Sections of the CPI(M) and others have described any pre-poll declaration as premature."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The opposition has united to protest against the Election Commission's voter list revision, demanding Chief Election Commissioner Gyanesh Kumar's resignation, but state-level political divisions and historical rivalries prevent forming a durable electoral front.",
+    "confidence": 0.85,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

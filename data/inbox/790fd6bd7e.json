@@ -1,0 +1,74 @@
+{
+  "id": "790fd6bd7e",
+  "url": "https://www.greaterkashmir.com/national/bombay-hc-quashes-case-against-man-for-protesting-poor-road-conditions-says-peaceful-protests-cannot-be-criminalised-12808067",
+  "title": "Bombay HC quashes case against man for protesting poor road conditions, says peaceful protests cannot be criminalised",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2453,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Bombay High Court quashed criminal case against man protesting poor road conditions in Maharashtra, stating peaceful protests cannot be criminalised without evidence of violence or unlawful restraint.",
+    "facts": [
+      {
+        "claim": "Bombay High Court quashed criminal proceedings against a 26-year-old man booked for protesting against poor road conditions in Maharashtra’s Chandrapur district",
+        "quote": "The Nagpur Bench of the Bombay High Court has quashed criminal proceedings against a 26-year-old man booked for protesting against poor road conditions in Maharashtra’s Chandrapur district, observing that peaceful civic protests cannot be criminalised in the absence of concrete evidence of unlawful restraint or violence."
+      },
+      {
+        "claim": "The court stated peaceful civic protests cannot be criminalised without evidence of violence or unlawful restraint",
+        "quote": "observing that peaceful civic protests cannot be criminalised in the absence of concrete evidence of unlawful restraint or violence."
+      },
+      {
+        "claim": "The case arose from an incident on January 21 this year, when a pickup vehicle overturned near Mauza Nandgaon after hitting an electricity pole",
+        "quote": "The case, Nishkarsh Kiran Nimgade v. State of Maharashtra, arose from an incident on January 21 this year, when a pickup vehicle overturned near Mauza Nandgaon after hitting an electricity pole, leaving several passengers injured."
+      },
+      {
+        "claim": "Protesters allegedly tied a rope across the road",
+        "quote": "local residents gathered at the spot and demanded action against Public Works Department (PWD) officials and the contractor over the poor condition of the road. The protesters allegedly tied a rope across the road."
+      },
+      {
+        "claim": "Police registered an FIR against Nimgade for wrongful restraint and unlawful assembly under BNS",
+        "quote": "Police subsequently registered an FIR against Nimgade for offences including wrongful restraint and unlawful assembly under the Bharatiya Nyaya Sanhita (BNS), besides provisions of the Maharashtra Police Act, 1951."
+      },
+      {
+        "claim": "The court noted prosecution did not record statements of commuters to establish traffic obstruction",
+        "quote": "Justice Chandwani noted that the prosecution had not recorded statements of any commuters to establish that traffic was obstructed."
+      },
+      {
+        "claim": "The court said merely gathering to agitate against road conditions does not form an unlawful assembly",
+        "quote": "Merely because a large number of persons gathered to agitate against the condition of the road and insisting for action against the erring officials of PWD department and the contractor, it cannot be presumed that the people gathered on the spot formed an unlawful assembly,"
+      },
+      {
+        "claim": "The court held prosecution against Nimgade was abuse of legal process",
+        "quote": "Holding that the prosecution against Nimgade amounted to an abuse of the legal process, the court quashed the FIR and the charge-sheet under Section 528 of the Bharatiya Nagarik Suraksha Sanhita."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Bombay High Court ruled that peaceful protests against road conditions in Maharashtra cannot be criminalised without evidence of violence or unlawful restraint.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

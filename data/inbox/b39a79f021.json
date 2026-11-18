@@ -1,0 +1,60 @@
+{
+  "id": "b39a79f021",
+  "url": "https://www.thehindu.com/news/cities/Delhi/citizens-delegation-protests-outside-environment-ministry-over-pollution/article71709236.ece",
+  "title": "Citizens’ delegation protests outside Environment Ministry over pollution",
+  "outlet": "The Hindu",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2463,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "A citizens' delegation including AISA president Neha Bora protested outside Delhi's Environment Ministry demanding urgent action on air pollution and the 'Right to Breathe', after sending a letter to the Environment Minister on November 12.",
+    "facts": [
+      {
+        "claim": "A citizens’ delegation, including All India Students’ Association (AISA) president Neha Bora, staged a protest outside the Ministry of Environment, Forest and Climate Change (MoEFCC) office in Jor Bagh on Monday",
+        "quote": "A citizens’ delegation, including All India Students’ Association (AISA) president Neha Bora, staged a protest outside the Ministry of Environment, Forest and Climate Change (MoEFCC) office in Jor Bagh on Monday"
+      },
+      {
+        "claim": "The protest followed a letter sent by the delegation to Environment Minister Bhupender Yadav on November 12, seeking an urgent meeting to discuss worsening air pollution and demand solutions",
+        "quote": "The protest followed a letter sent by the delegation to Environment Minister Bhupender Yadav on November 12, seeking an urgent meeting to discuss worsening air pollution and demand solutions"
+      },
+      {
+        "claim": "We want to meet the Environment Minister and ask what the Ministry has done in the past one year to curb pollution in the city",
+        "quote": "We want to meet the Environment Minister and ask what the Ministry has done in the past one year to curb pollution in the city"
+      },
+      {
+        "claim": "India is facing a severe public health emergency. As many as 22 of the world’s 25 most polluted cities are in India",
+        "quote": "India is facing a severe public health emergency. As many as 22 of the world’s 25 most polluted cities are in India"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest occurred in Delhi, where air quality has been a major issue with AQI levels exceeding 400 and reaching up to 800 in other cities.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Environment Ministry” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "8586a93a48",
+  "url": "https://kashmirlife.net/non-gazetted-employees-of-five-new-gmcs-resume-protest-over-non-finalisation-of-service-rules-461483/",
+  "title": "Non-gazetted Employees of Five New GMCs Resume Protest Over Non-finalisation of Service Rules",
+  "outlet": "Kashmir Life",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4242,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Non-gazetted employees of five new Jammu and Kashmir Government Medical Colleges resumed protests over the government's failure to finalize their Service Recruitment Rules since 2019, despite repeated assurances.",
+    "facts": [
+      {
+        "claim": "Non-gazetted employees of five newly established Government Medical Colleges (GMCs) in Jammu and Kashmir on Monday resumed their protest over the alleged failure of the government to finalise their Service Recruitment Rules (SRRs).",
+        "quote": "Non-gazetted employees of five newly established Government Medical Colleges (GMCs) in Jammu and Kashmir on Monday resumed their protest over the alleged failure of the government to finalise their Service Recruitment Rules (SRRs)."
+      },
+      {
+        "claim": "The employees, representing GMCs Rajouri, Doda, Kathua, Baramulla and Anantnag said they were compelled to resume their agitation as their long-pending demands continued to remain unresolved despite repeated assurances from the administration.",
+        "quote": "The employees, representing GMCs Rajouri, Doda, Kathua, Baramulla and Anantnag said they were compelled to resume their agitation as their long-pending demands continued to remain unresolved despite repeated assurances from the administration."
+      },
+      {
+        "claim": "They said the prolonged uncertainty had deprived hundreds of non-gazetted employees of a clearly defined service structure, regular Departmental Promotion Committee (DPC) proceedings and fair opportunities for career progression.",
+        "quote": "They said the prolonged uncertainty had deprived hundreds of non-gazetted employees of a clearly defined service structure, regular Departmental Promotion Committee (DPC) proceedings and fair opportunities for career progression."
+      },
+      {
+        "claim": "The employees said they had earlier deferred their protest after being assured that the service rules would be finalised by September 30, 2026. However, the deadline passed without any notification, leaving them with no option but to resume their agitation from November 16.",
+        "quote": "They said they had earlier deferred their protest after being assured that the service rules would be finalised by September 30, 2026. However, the deadline passed without any notification, leaving them with no option but to resume their agitation from November 16."
+      },
+      {
+        "claim": "The committee expressed resentment over what it termed “repeated assurances without concrete action,” questioning why the matter had remained pending for almost seven years despite changes in the administrative leadership of the department.",
+        "quote": "The committee expressed resentment over what it termed “repeated assurances without concrete action,” questioning why the matter had remained pending for almost seven years despite changes in the administrative leadership of the department."
+      },
+      {
+        "claim": "It pointed out that around six IAS officers have served as Secretary or held the corresponding senior administrative position in the H&ME Department since 2019, but the service rules continued to await finalisation.",
+        "quote": "It pointed out that around six IAS officers have served as Secretary or held the corresponding senior administrative position in the H&ME Department since 2019, but the service rules continued to await finalisation."
+      },
+      {
+        "claim": "The employees said the delay has severely affected their professional growth, seniority and prospects of elevation to higher posts.",
+        "quote": "The employees said the delay has severely affected their professional growth, seniority and prospects of elevation to higher posts."
+      },
+      {
+        "claim": "They said that while gazetted employees have received three rounds of promotions or promotional advancements since 2019, non-gazetted employees of the five new medical colleges continue to face stagnation in the absence of approved service rules and a defined promotional framework.",
+        "quote": "They said that while gazetted employees have received three rounds of promotions or promotional advancements since 2019, non-gazetted employees of the five new medical colleges continue to face stagnation in the absence of approved service rules and a defined promotional framework."
+      },
+      {
+        "claim": "According to the committee, the first JKSSB recruitment advertisement for non-gazetted posts in the five institutions was issued in 2019, with no subsequent recruitment advertisement for these posts issued since then, as per the information available with the employees.",
+        "quote": "According to the committee, the first JKSSB recruitment advertisement for non-gazetted posts in the five institutions was issued in 2019, with no subsequent recruitment advertisement for these posts issued since then, as per the information available with the employees."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Non-gazetted employees of five new Jammu and Kashmir Government Medical Colleges have been protesting for over seven years since 2019 over the lack of finalized Service Recruitment Rules, affecting their promotions and recruitment.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "8/9",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “They said they had earlier deferred their protest after being assured that the s”",
+        "name “Kashmir Government Medical Colleges” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

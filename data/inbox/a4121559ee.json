@@ -1,0 +1,52 @@
+{
+  "id": "a4121559ee",
+  "url": "https://www.greaterkashmir.com/business/mega-job-fair-held-in-kupwara-over-1600-youth-connect-with-30-employers-12810461",
+  "title": "Mega job fair held in Kupwara; over 1,600 youth connect with 30 employers",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Blinkit"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1897,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A job fair in Kupwara, Kashmir, connected over 1,600 youth with 30 employers from across Kashmir and India, aiming to strengthen local employment opportunities amid the district's developmental challenges.",
+    "facts": [
+      {
+        "claim": "over 1,600 youth from Kupwara and adjoining areas",
+        "quote": "The event received an encouraging response, with more than 1,600 youth from Kupwara and adjoining areas registering and attending the fair."
+      },
+      {
+        "claim": "30 employers from across Kashmir and India",
+        "quote": "The job fair witnessed participation from over 30 employers from across Kashmir, while several reputed companies from different parts of the country joined virtually."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

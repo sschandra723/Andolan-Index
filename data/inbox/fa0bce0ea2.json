@@ -1,0 +1,58 @@
+{
+  "id": "fa0bce0ea2",
+  "url": "https://www.hindustantimes.com/india-news/13yearold-boy-beaten-to-death-over-alleged-theft-of-biscuits-in-odisha-shop-owner-son-arrested-101794882582910.html",
+  "title": "13-year-old boy beaten to death over alleged theft of biscuits in Odisha; shop owner, son arrested",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3798,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A 13-year-old boy died after allegedly stealing biscuits in Odisha, leading to police arresting a shop owner and his son. Villagers and family members protested with the boy's body demanding action.",
+    "facts": [
+      {
+        "claim": "A 13-year-old boy was allegedly beaten to death over the theft of a packet of biscuits in Odisha's Baleshwar district",
+        "quote": "A 13-year-old boy was allegedly beaten to death over the theft of a packet of biscuits in Odisha's Baleshwar district, following which police arrested a shop owner and his son, officials said on Monday."
+      },
+      {
+        "claim": "The arrests came a day after villagers and family members of the deceased staged a protest with the boy's body, demanding stringent action",
+        "quote": "The arrests came a day after villagers and family members of the deceased staged a protest with the boy's body, demanding stringent action against those responsible for his death."
+      },
+      {
+        "claim": "The 12-hour-long dharna was called off after senior district administration officials intervened and assured the protesters of strict action",
+        "quote": "The 12-hour-long dharna was called off after senior district administration officials intervened and assured the protesters of strict action."
+      },
+      {
+        "claim": "The body was handed over to the family on Sunday following a post-mortem examination at the Baleshwar District Headquarters Hospital",
+        "quote": "The body was handed over to the family on Sunday following a post-mortem examination at the Baleshwar District Headquarters Hospital."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A 13-year-old boy died after allegedly stealing biscuits in Odisha, leading to police arresting a shop owner and his son. Villagers and family members protested with the boy's body demanding action.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

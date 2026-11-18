@@ -1,0 +1,56 @@
+{
+  "id": "45c1409d72",
+  "url": "https://www.hindustantimes.com/india-news/maharashtra-likely-to-declare-10-more-talukas-drought-hit-around-1-crore-farmers-get-5-000-advance-101794884986583.html",
+  "title": "Maharashtra likely to declare 10 more talukas drought-hit; around 1 crore farmers get ₹5,000 advance",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2281,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Maharashtra government likely to declare 10 more talukas drought-hit amid farmer protests, with 1 crore farmers receiving ₹5,000 advance despite pending payments for 10 lakh due to record discrepancies.",
+    "facts": [
+      {
+        "claim": "Maharashtra government likely to take a decision on Tuesday on a proposal to declare 10 more talukas drought-hit",
+        "quote": "The Maharashtra government is likely to take a decision on Tuesday on a proposal to declare 10 more talukas drought-hit, including some in the state's Western and Konkan regions."
+      },
+      {
+        "claim": "Around 1 crore farmers get ₹5,000 advance",
+        "quote": "around one crore farmers have received the first advance assistance of ₹5,000 announced by the state government as part of drought relief."
+      },
+      {
+        "claim": "Payments to nearly 10 lakh farmers are still pending due to discrepancies",
+        "quote": "payments to nearly 10 lakh farmers are still pending due to discrepancies between their bank and beneficiary records."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers in Maharashtra are protesting for drought status in their talukas after exclusion from previous drought declarations, leading to potential inclusion of 10 more talukas and advance payments.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

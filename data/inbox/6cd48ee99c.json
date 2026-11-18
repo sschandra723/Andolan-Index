@@ -1,0 +1,62 @@
+{
+  "id": "6cd48ee99c",
+  "url": "https://www.thehindu.com/news/national/kerala/death-of-woman-in-kozhikodes-perambra-cases-filed-against-those-who-protested-outside-bank-branch/article71710617.ece",
+  "title": "Death of woman in Kozhikode’s Perambra: Cases filed against those who protested outside bank branch",
+  "outlet": "The Hindu",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2173,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Police in Kozhikode registered cases against 200 protesters who blocked a road for four hours outside a bank branch, claiming the bank's refusal to grant a five-day grace period for loan repayment led to a woman's death.",
+    "facts": [
+      {
+        "claim": "Police in Kozhikode registered cases against 200 protesters",
+        "quote": "The Balussery police in Kozhikode district of Keralam have registered cases against a large number of people who staged a protest outside the Naduvannur branch of a bank on November 16"
+      },
+      {
+        "claim": "Protesters blocked the Perambra-Kozhikode road for four hours",
+        "quote": "The protesters blocked the Perambra-Kozhikode road for around four hours from 10.30 a.m."
+      },
+      {
+        "claim": "Protesters demanded a write-off of the loan and financial compensation",
+        "quote": "also demanding a write-off of the loan taken by the family and a financial compensation"
+      },
+      {
+        "claim": "The woman's death was linked to bank attachment proceedings",
+        "quote": "The incident occurred around 11 a.m. on November 13 when a team comprising bank officials, an advocate commissioner, and police personnel arrived at her residence to execute court-mandated attachment proceedings"
+      },
+      {
+        "claim": "The woman was found hanging after bank officials searched her home",
+        "quote": "Subsequently, they discovered Kavitha hanging inside an old ancestral house located behind the property"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A woman died after bank officials executed attachment proceedings on her home; protesters claimed the bank's refusal to grant a five-day grace period for loan repayment led to her death.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

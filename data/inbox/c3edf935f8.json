@@ -1,0 +1,60 @@
+{
+  "id": "c3edf935f8",
+  "url": "https://www.thehindu.com/news/national/kerala/speakers-last-minute-withdrawal-triggers-protest-at-unveiling-of-kanayis-sculpture-in-kasaragod/article71699011.ece",
+  "title": "Speaker’s last-minute withdrawal triggers protest at unveiling of Kanayi’s sculpture in Kasaragod",
+  "outlet": "The Hindu",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1274,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Protesters in Kasaragod demanded artist Kanayi Kunhiraman unveil his sculpture after Speaker Radhakrishnan withdrew last-minute from the inauguration event.",
+    "facts": [
+      {
+        "claim": "Speaker Thiruvanchoor Radhakrishnan failed to turn up at the last minute",
+        "quote": "Speaker Thiruvanchoor Radhakrishnan, who was scheduled to inaugurate the installation, failed to turn up at the last minute."
+      },
+      {
+        "claim": "Protesters demanded Kanayi Kunhiraman unveil the sculptures",
+        "quote": "When the organisers proposed Kasaragod MP Rajmohan Unnithan as an alternative chief guest, the protesters demanded that Mr. Kunhiraman himself unveil the sculptures."
+      },
+      {
+        "claim": "P. Sudhakaran expressed disappointment over the speaker’s last-minute withdrawal",
+        "quote": "P. Sudhakaran, co-author of Kanayi’s autobiography, openly expressed disappointment over the speaker’s last-minute withdrawal."
+      },
+      {
+        "claim": "Documentary filmmaker A.T. Mohandas removed the ribbon to oppose the change in plan",
+        "quote": "Documentary filmmaker and art historian A.T. Mohandas removed the ribbon tied across the square to register his opposition to the change in plan."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest occurred in Kasaragod, a district in Kerala, following the Speaker's last-minute withdrawal from the sculpture unveiling event.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Speaker Radhakrishnan” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

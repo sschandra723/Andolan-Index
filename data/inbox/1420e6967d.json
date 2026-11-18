@@ -1,0 +1,64 @@
+{
+  "id": "1420e6967d",
+  "url": "https://timesofindia.indiatimes.com/india/telangana-bjp-chief-n-ramchander-rao-claims-house-arrest-blames-rahul-gandhis-hyderabad-rally/articleshow/135826025.cms",
+  "title": "Telangana BJP chief N Ramchander Rao claims house arrest, blames Rahul Gandhi's Hyderabad rally",
+  "outlet": "Times of India",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4686,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Telangana BJP chief N Ramchander Rao claimed he and other leaders were placed under house arrest to prevent protests against Rahul Gandhi's Hyderabad rally and Bharat Summit, calling it an 'Anti-Bharat Summit' that violates democratic rights.",
+    "facts": [
+      {
+        "claim": "Telangana BJP president N Ramchander Rao claimed that he and other party leaders had been placed under house arrest to prevent them from holding peaceful protests against Congress leader Rahul Gandhi's visit to Hyderabad and the Bharat Summit being hosted by the state government.",
+        "quote": "Telangana BJP president N Ramchander Rao on Saturday claimed that he and other party leaders had been placed under house arrest to prevent them from holding peaceful protests against Congress leader Rahul Gandhi's visit to Hyderabad and the Bharat Summit being hosted by the state government."
+      },
+      {
+        "claim": "Rao described the action as illegal and said it violated the democratic right to protest.",
+        "quote": "Rao described the action as illegal and said it violated the democratic right to protest."
+      },
+      {
+        "claim": "Rao alleged that the Congress government was wasting taxpayers' money by organising the event to relaunch Rahul Gandhi politically.",
+        "quote": "Rao further alleged that the Congress government was wasting taxpayers' money by organising the event to relaunch Rahul Gandhi politically."
+      },
+      {
+        "claim": "Telangana BJP chief spokesperson N V Subhash demanded that the government end Rao's house arrest and release BJP and Bharatiya Janata Yuva Morcha (BJYM) activists who, he claimed, had been illegally detained.",
+        "quote": "Telangana BJP chief spokesperson N V Subhash demanded that the government end Rao's house arrest and release BJP and Bharatiya Janata Yuva Morcha (BJYM) activists who, he claimed, had been illegally detained."
+      },
+      {
+        "claim": "KTR accused Rahul Gandhi of not responding to protests by students demanding jobs, the alleged mistreatment of tribal women in Lagacharla and the demolition of houses by the Hyderabad Disaster Response and Asset Protection Agency (HYDRAA).",
+        "quote": "KTR accused Rahul Gandhi of not responding to protests by students demanding jobs, the alleged mistreatment of tribal women in Lagacharla and the demolition of houses by the Hyderabad Disaster Response and Asset Protection Agency (HYDRAA)."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Telangana BJP chief N Ramchander Rao claimed house arrest to prevent protests against Rahul Gandhi's Hyderabad rally and Bharat Summit, calling it an 'Anti-Bharat Summit' that violates democratic rights.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Telangana BJP president N Ramchander Rao on Saturday claimed that he and other p”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

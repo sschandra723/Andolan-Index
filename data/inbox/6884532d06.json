@@ -1,0 +1,54 @@
+{
+  "id": "6884532d06",
+  "url": "https://www.indiatoday.in/india/story/video-bhojpri-star-khesari-lal-yadav-nalanda-show-disrupted-stone-pelting-lathicharge-vandalism-fir-filed-3041033-2026-11-17",
+  "title": "Stone-pelting, lathicharge at Khesari Lal Yadav's show in Bihar's Nalanda; FIR filed",
+  "outlet": "India Today",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2274,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Police registered an FIR after a cultural event in Nalanda, Bihar, was disrupted by stone-pelting and vandalism, with security using lathicharge to control the crowd.",
+    "facts": [
+      {
+        "claim": "Police registered an FIR against unidentified persons",
+        "quote": "Police have registered an FIR against unidentified persons and are examining videos to identify those involved."
+      },
+      {
+        "claim": "Stone-pelting and vandalism disrupted the event",
+        "quote": "A cultural programme featuring Bhojpuri singer and actor Khesari Lal Yadav in Bihar's Nalanda district witnessed chaos after a large crowd reportedly turned unruly, with stone-pelting, a police lathicharge and vandalism disrupting the event."
+      },
+      {
+        "claim": "Security used lathicharge to disperse the crowd",
+        "quote": "As the situation escalated, security personnel resorted to a lathicharge to disperse the crowd."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

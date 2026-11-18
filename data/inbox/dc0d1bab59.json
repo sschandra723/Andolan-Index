@@ -1,0 +1,74 @@
+{
+  "id": "dc0d1bab59",
+  "url": "https://www.greaterkashmir.com/business/fcik-pays-tributes-to-saifco-founder-khwaja-mohammad-khalil-12808035",
+  "title": "FCIK pays tributes to Saifco founder Khwaja Mohammad Khalil",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4216,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": false,
+    "movement": "none",
+    "new_movement": null,
+    "summary": "The Federation of Chambers of Industries Kashmir (FCIK) paid tribute to the late founder of Saifco Group, Khwaja Mohammad Khalil, highlighting his contributions to Kashmir's industrial development and entrepreneurship across three generations despite the region's economic challenges.",
+    "facts": [
+      {
+        "claim": "FCIK expressed profound grief over the demise of veteran first-generation entrepreneur Khwaja Mohammad Khalil of the renowned Saifco Group",
+        "quote": "The Federation of Chambers of Industries Kashmir (FCIK) has expressed profound grief over the demise of veteran first-generation entrepreneur Khwaja Mohammad Khalil of the renowned Saifco Group, describing his passing as a major loss to Kashmir’s industrial fraternity and the end of an important chapter in the Valley’s entrepreneurial history."
+      },
+      {
+        "claim": "Saifco Group was founded and nurtured by two visionary brothers, Khwaja Saif-ud-Din and Khwaja Mohammad Khalil",
+        "quote": "In a statement, FCIK recalled the remarkable journey of the Saifco Group, founded and nurtured by two visionary brothers, Khwaja Saif-ud-Din and Khwaja Mohammad Khalil, who worked together to build one of Kashmir’s most diversified business groups."
+      },
+      {
+        "claim": "The brothers built businesses across manufacturing, hospitality, real estate and other sectors",
+        "quote": "Their ventures across manufacturing, hospitality, real estate and other sectors, ranging from cement manufacturing at Khunmoh to the prestigious Taj Vivanta overlooking Dal Lake, demonstrated the potential of indigenous enterprise to achieve national recognition."
+      },
+      {
+        "claim": "Despite more than three decades of turmoil, shutdowns, disrupted markets and financial uncertainty, the brothers persevered and continued to expand their enterprises",
+        "quote": "FCIK said their achievements were particularly remarkable given the circumstances in which they built and sustained their businesses. Despite more than three decades of turmoil, shutdowns, disrupted markets and financial uncertainty, the brothers persevered and continued to expand their enterprises."
+      },
+      {
+        "claim": "The founders' children and grandchildren carried forward and diversified the family businesses",
+        "quote": "FCIK also acknowledged the contributions of the founders’ children and grandchildren, who carried forward and diversified the family businesses."
+      },
+      {
+        "claim": "Sustaining and expanding such an enterprise across three generations was a remarkable achievement despite Kashmir’s challenging economic environment",
+        "quote": "Sustaining and expanding such an enterprise across three generations, despite Kashmir’s challenging economic environment, was itself a remarkable achievement, it added."
+      },
+      {
+        "claim": "Head of the FCIK Advisory Committee, Shahid Kamili, said the demise of Khwaja Mohammad Khalil marked the end of an important chapter in Kashmir’s entrepreneurial history",
+        "quote": "Head of the FCIK Advisory Committee, Shahid Kamili, said the demise of Khwaja Mohammad Khalil, following the passing of his brother Khwaja Saif-ud-Din some years ago, marked the end of an important chapter in Kashmir’s entrepreneurial history."
+      },
+      {
+        "claim": "Former FCIK presidents Shakeel Qalander, Meraj-ud-Din Qureshi, Zahoor Ahmad Bhat and Mohammad Ashraf Mir paid tributes to Khwaja Mohammad Khalil",
+        "quote": "Former FCIK presidents Shakeel Qalander, Meraj-ud-Din Qureshi, Zahoor Ahmad Bhat and Mohammad Ashraf Mir, along with presidents of various industrial estate- and district-based associations, also paid tributes to Khwaja Mohammad Khalil, acknowledging his contribution to industrial development, entrepreneurship and employment generation."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

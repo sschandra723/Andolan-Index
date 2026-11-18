@@ -1,0 +1,58 @@
+{
+  "id": "4ff025fdc7",
+  "url": "https://theshillongtimes.com/2026/11/14/stand-off-intensifies-as-street-protest-meets-online-support/",
+  "title": "Stand-off intensifies as street protest meets online support",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-14",
+  "collected": "2026-11-14",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2358,
+    "fetch_note": null,
+    "drafted": "2026-11-14",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "Meghalaya teachers in deficit schools and colleges oppose the state's Centralised Fund Scheme 2026, leading to a sit-in and marches near the Main Secretariat in Shillong as the government insists on proceeding with the Shillong Peak Ropeway project.",
+    "facts": [
+      {
+        "claim": "Meghalaya teachers in deficit schools and colleges oppose the state's Centralised Fund Scheme 2026",
+        "quote": "Staff of Meghalaya's deficit schools and colleges reject the state's Centralised Fund Scheme 2026."
+      },
+      {
+        "claim": "The government insists on proceeding with the Shillong Peak Ropeway project",
+        "quote": "the Meghalaya government has stood firm, declaring that the Rs 151-crore project—targeted for completion by 2028—will not be scrapped."
+      },
+      {
+        "claim": "The project is 3.15 km away from Shillong Peak",
+        "quote": "the government clarified that a distance of 3.15 km separates the project site from Shillong Peak itself."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Meghalaya teachers' strike over the Centralised Fund Scheme 2026 has intensified, with the government maintaining the Shillong Peak Ropeway project despite opposition from the Joint Action Committee.",
+    "confidence": 0.85,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Staff of Meghalaya's deficit schools and colleges reject the state's Centralised”",
+        "number 2026 in the summary does not appear in the article",
+        "name “Centralised Fund Scheme” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

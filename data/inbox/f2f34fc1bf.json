@@ -1,0 +1,64 @@
+{
+  "id": "f2f34fc1bf",
+  "url": "https://www.hindustantimes.com/cities/mumbai-news/amid-cong-protests-bmc-proposes-30-year-lease-of-charkop-school-land-to-pvt-trust-101794856678006.html",
+  "title": "Amid Cong protests, BMC proposes 30-year lease of Charkop school land to pvt trust",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5482,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "The BMC in Mumbai proposed leasing a 4,209.70-sq-m plot from Charkop Sector 2 school to St Mary's Educational Trust for 30 years, facing opposition from Congress corporators who argue the land should remain public.",
+    "facts": [
+      {
+        "claim": "BMC proposed leasing a 4,209.70-sq-m plot occupied by the Charkop Sector 2 municipal school in Kandivali to St Mary’s Educational Trust for 30 years",
+        "quote": "MUMBAI: The BMC has proposed leasing a 4,209.70-sq-m plot occupied by the Charkop Sector 2 municipal school in Kandivali to St Mary’s Educational Trust for 30 years to redevelop the school building."
+      },
+      {
+        "claim": "The proposal does not involve competitive bidding and has drawn strong opposition from Congress corporators",
+        "quote": "The proposal, which does not involve competitive bidding and has drawn strong opposition from Congress corporators, will be placed before the Improvements Committee on Wednesday."
+      },
+      {
+        "claim": "The trust has occupied all 19 classrooms in the building on a licence-and-lease basis since 1995",
+        "quote": "The trust has occupied all 19 classrooms in the building on a licence-and-lease basis since 1995, and the BMC proposal endorses it on the ground that it has paid the rent regularly, conducts only educational activities and has expressed interest in undertaking the redevelopment."
+      },
+      {
+        "claim": "The BMC has proposed a one-time premium of ₹4.09 crore, calculated at 25% above the reserve price of ₹3.27 crore",
+        "quote": "The BMC has proposed a one-time premium of ₹4.09 crore, calculated at 25% above the reserve price of ₹3.27 crore."
+      },
+      {
+        "claim": "Congress group leader Ashraf Azmi described it as an attempt to hand over valuable public land to a private trust without competitive bidding",
+        "quote": "Congress group leader Ashraf Azmi, in a November 15 letter to municipal commissioner Ashwini Bhide, described it as an attempt to hand over valuable public land to a private trust without competitive bidding."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The BMC proposal for leasing school land to a private trust has drawn opposition from Congress corporators, who argue it undermines public education and sets a precedent for selling municipal property.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Congress group leader Ashraf Azmi, in a November 15 letter to municipal commissi”"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

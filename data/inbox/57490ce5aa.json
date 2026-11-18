@@ -1,0 +1,59 @@
+{
+  "id": "57490ce5aa",
+  "url": "https://eastmojo.com/manipur/2026/11/17/statewide-shutdown-disrupts-life-in-manipur/",
+  "title": "Statewide shutdown disrupts life in Manipur",
+  "outlet": "EastMojo",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": "manipur-protests-2026",
+  "score": 2.0,
+  "matched": [
+    "Manipur",
+    "Imphal"
+  ],
+  "alternatives": [
+    "labour-codes-strike-2025"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2151,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "A 24-hour statewide general strike in Manipur, called by the Native People’s Committee, Manipur (NPCM), disrupted businesses and markets in protest against the New Heaven ambush that killed four Tangkhul Naga civilians.",
+    "facts": [
+      {
+        "claim": "A 24-hour statewide general strike",
+        "quote": "A 24-hour statewide general strike called by the Native People’s Committee, Manipur (NPCM)"
+      },
+      {
+        "claim": "disrupted businesses and markets",
+        "quote": "brought businesses, markets and vehicular movement to a near standstill"
+      },
+      {
+        "claim": "protest against the New Heaven ambush that killed four Tangkhul Naga civilians",
+        "quote": "in protest against the recent New Heaven ambush that killed four Tangkhul Naga civilians"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The strike was called in response to the New Heaven ambush that killed four Tangkhul Naga civilians, demanding immediate justice for the victims.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

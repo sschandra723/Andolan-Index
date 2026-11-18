@@ -1,0 +1,70 @@
+{
+  "id": "2063ff3dae",
+  "url": "https://www.thehindu.com/news/national/kerala/patriarch-walks-into-manarcad-amid-orthodox-protest/article71704880.ece",
+  "title": "Patriarch walks into Manarcad amid Orthodox protest",
+  "outlet": "The Hindu",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3748,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Patriarch of Antioch visited St. Mary's Cathedral in Manarcad despite opposition from the Malankara Orthodox faction, which argued the visit violated court orders and risked escalating tensions between the two Christian denominations in Kerala.",
+    "facts": [
+      {
+        "claim": "The Patriarch of Antioch visited St. Mary’s Cathedral at Manarcad",
+        "quote": "Defying strong opposition from the Malankara Orthodox faction, Ignatius Aphrem II, the Patriarch of Antioch, visited St. Mary’s Cathedral at Manarcad on Sunday, where thousands of Jacobite faithfuls accorded him a rousing reception."
+      },
+      {
+        "claim": "The Patriarch arrived at the cathedral around 9.15 a.m. to a sea of faithful waving palm leaves and raising slogans",
+        "quote": "The Patriarch arrived at the cathedral around 9.15 a.m. to a sea of faithful waving palm leaves and raising slogans."
+      },
+      {
+        "claim": "The Patriarch was accompanied by a delegation from Antioch, Catholicos Baselios Joseph, head of the Jacobite Syrian Christian Church, and other metropolitans of the Church",
+        "quote": "He was accompanied by a delegation from Antioch, Catholicos Baselios Joseph, head of the Jacobite Syrian Christian Church, and other metropolitans of the Church."
+      },
+      {
+        "claim": "The Orthodox faction had strongly objected to the Patriarch’s visit, arguing that it would violate court directives and further aggravate tensions between the two groups",
+        "quote": "The Orthodox faction had strongly objected to the Patriarch’s visit, arguing that it would violate court directives and further aggravate tensions between the two groups."
+      },
+      {
+        "claim": "The Kerala High Court had directed the State Police Chief to ensure that the Patriarch did not violate the decrees and Supreme Court judgments governing the dispute during his visit to Keralam as a State guest",
+        "quote": "The Kerala High Court had earlier directed the State Police Chief to ensure that the Patriarch did not violate the decrees and Supreme Court judgments governing the dispute during his visit to Keralam as a State guest."
+      },
+      {
+        "claim": "This was the Patriarch’s first visit to the cathedral since the Supreme Court’s 2017 verdict in the Malankara Church dispute",
+        "quote": "This was the Patriarch’s first visit to the cathedral since the Supreme Court’s 2017 verdict in the Malankara Church dispute."
+      },
+      {
+        "claim": "The Malankara Orthodox Syrian Church said the episode had dealt a blow to efforts to secure lasting peace between the two factions",
+        "quote": "The Malankara Orthodox Syrian Church has reacted sharply to the Patriarch’s visit to Manarcad church, saying the episode had dealt a blow to efforts to secure lasting peace between the two factions."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Patriarch’s visit to Manarcad cathedral, a disputed site between the Malankara Orthodox and Jacobite Syrian Christian Church factions, occurred despite court-ordered restrictions, escalating tensions in Kerala’s Christian community.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

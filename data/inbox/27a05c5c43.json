@@ -1,0 +1,49 @@
+{
+  "id": "27a05c5c43",
+  "url": "https://www.ndtv.com/india-news/dont-blame-punjab-farmers-for-pollution-says-union-agriculture-minister-12340366",
+  "title": "Don't Blame Punjab Farmers For Pollution, Says Union Agriculture Minister",
+  "outlet": "NDTV",
+  "published": "2026-11-17",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "The Union Agriculture Minister stated that Punjab farmers are not responsible for pollution, addressing concerns about sugarcane farmers' protests over low prices.",
+    "facts": [
+      {
+        "claim": "Punjab farmers are not responsible for pollution",
+        "quote": "Don't Blame Punjab Farmers For Pollution, Says Union Agriculture Minister"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

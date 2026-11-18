@@ -1,0 +1,61 @@
+{
+  "id": "b060f47a56",
+  "url": "https://scroll.in/article/1097091/they-wanted-to-break-me-scare-others-fighting-for-our-lands-assam-activist-pranab-doley",
+  "title": "‘They wanted to break me, scare others fighting for our lands’: Assam activist Pranab Doley",
+  "outlet": "Scroll.in",
+  "published": "2026-11-16",
+  "collected": "2026-11-16",
+  "suggested_movement": "kaziranga-hotel-protest-2026",
+  "score": 2.0,
+  "matched": [
+    "Kaziranga",
+    "Pranab Doley"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-16",
+    "is_protest_in_india": true,
+    "movement": "kaziranga-hotel-protest-2026",
+    "new_movement": null,
+    "summary": "Assam activist Pranab Doley was arrested under the National Security Act for protesting against a proposed luxury hotel near Kaziranga National Park, which displaced 45 Adivasi families. The Gauhati High Court quashed his detention after 117 days.",
+    "facts": [
+      {
+        "claim": "activist Pranab Doley was arrested under the National Security Act for protesting against a proposed luxury hotel near Kaziranga National Park",
+        "quote": "In July, activist Pranab Doley was arrested for joining a protest against a hotel near Assam’s Kaziranga National Park."
+      },
+      {
+        "claim": "45 Adivasi families were displaced by the hotel project",
+        "quote": "Of this, 9.9 acres have been earmarked for the project."
+      },
+      {
+        "claim": "Doley spent 117 days in detention",
+        "quote": "Doley spent 117 days in detention."
+      },
+      {
+        "claim": "The Gauhati High Court quashed the NSA order",
+        "quote": "On November 6, the Gauhati High Court quashed the NSA order, stating that the “detaining authority had not applied its mind” while arresting Doley."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Gauhati High Court quashed Doley's NSA detention, marking a legal victory for land rights activists in Assam.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

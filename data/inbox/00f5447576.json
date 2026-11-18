@@ -1,0 +1,88 @@
+{
+  "id": "00f5447576",
+  "url": "https://www.thehindu.com/news/national/tripura/congress-leaders-stage-protest-outside-tripura-state-election-commission-office-over-civic-polls/article71708578.ece",
+  "title": "Congress leaders stage protest outside Tripura State Election Commission office over civic polls",
+  "outlet": "The Hindu",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Election Commission"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1715,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Congress leaders staged a sit-in outside Tripura's State Election Commission office protesting alleged irregularities and BJP's use of muscle power in upcoming civic polls, with the State Election Commission requesting CAPF deployment for election security.",
+    "facts": [
+      {
+        "claim": "Congress leaders staged a sit-in outside the State Election Commissioner’s office at the old Secretariat complex in Agartala on Monday (November 16, 2026)",
+        "quote": "Senior Congress leaders staged a sit-in outside the State Election Commissioner’s office at the old Secretariat complex in Agartala on Monday (November 16, 2026)"
+      },
+      {
+        "claim": "Tripura Pradesh Congress Committee (TPCC) president Ashish Kumar Saha, along with MLAs Sudip Roy Barman and Gopal Chandra Roy, joined the protest",
+        "quote": "Tripura Pradesh Congress Committee (TPCC) president Ashish Kumar Saha, along with MLAs Sudip Roy Barman and Gopal Chandra Roy, joined the protest."
+      },
+      {
+        "claim": "Congress alleged that the State Election Commission has remained completely silent despite large-scale irregularities, targeted attacks, and threats",
+        "quote": "Congress alleged that the State Election Commission has remained completely silent despite large-scale irregularities, targeted attacks, and threats."
+      },
+      {
+        "claim": "Mr. Saha said the police remained mere spectators and took no legal action against the perpetrators from the ruling BJP",
+        "quote": "Mr. Saha said the police remained mere spectators and took no legal action against the perpetrators from the ruling BJP."
+      },
+      {
+        "claim": "Elections to 21 Urban Local Bodies (ULBs) comprising Nagar Panchayats and municipal bodies, including the Agartala Municipal Corporation (AMC), will be held on November 27",
+        "quote": "Elections to 21 Urban Local Bodies (ULBs) comprising Nagar Panchayats and municipal bodies, including the Agartala Municipal Corporation (AMC), will be held on November 27."
+      },
+      {
+        "claim": "The BJP has already won five civic bodies unopposed as the Opposition and independent candidates refrained from filing nominations",
+        "quote": "The BJP has already won five civic bodies unopposed as the Opposition and independent candidates refrained from filing nominations."
+      },
+      {
+        "claim": "As you are aware, the BJP won by using muscle power and government machinery in five councils. They have created anarchy to capture the rest of the ULBs through unethical means and violence",
+        "quote": "\"As you are aware, the BJP won by using muscle power and government machinery in five councils. They have created anarchy to capture the rest of the ULBs through unethical means and violence,\" Mr. Saha told reporters."
+      },
+      {
+        "claim": "State Election Commission officials failed to pacify the Congress leaders until senior police officers and the IGP arrived",
+        "quote": "State Election Commission officials failed to pacify the Congress leaders until senior police officers and the IGP arrived."
+      },
+      {
+        "claim": "IGP Monchak Ippar briefed Congress leaders on security deployment and the measures to hold a free and fair election",
+        "quote": "IGP Monchak Ippar briefed Congress leaders on security deployment and the measures to hold a free and fair election."
+      },
+      {
+        "claim": "The State Election Commission has requested 25 companies of Central Armed Police Forces (CAPF) for deployment during the elections through the State government",
+        "quote": "The State Election Commission has requested 25 companies of Central Armed Police Forces (CAPF) for deployment during the elections through the State government."
+      },
+      {
+        "claim": "The request has reportedly been forwarded to the Union Ministry of Home Affairs",
+        "quote": "The request has reportedly been forwarded to the Union Ministry of Home Affairs."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress leaders are protesting alleged irregularities and BJP's use of muscle power in upcoming civic polls in Tripura, with the State Election Commission requesting CAPF deployment for election security.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "11/11",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "b5a4138b30",
+  "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+  "title": "Kishtwar killings aftermath: Remarks by Congress’ Karra, BJP’s Parihar spark protests in J&K",
+  "outlet": "The Hindu",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2781,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Congress leader Karra and BJP legislator Parihar's remarks about SPO killings in Kishtwar sparked protests in J&K, with BJP members burning effigies and religious groups condemning mosque involvement claims.",
+    "facts": [
+      {
+        "claim": "two SPOs were killed reportedly by the Army in a mistaken identity case on November 11",
+        "quote": "two SPOs were killed reportedly by the Army in a mistaken identity case on November 11"
+      },
+      {
+        "claim": "The Congress is spreading misleading information to shift the blame from terrorists to our security forces",
+        "quote": "The Congress is spreading misleading information to shift the blame from terrorists to our security forces"
+      },
+      {
+        "claim": "The SPOs were on duty and travelling to an Army post at Dharna-Marwah to relieve the jawans posted there",
+        "quote": "The SPOs were on duty and travelling to an Army post at Dharna-Marwah to relieve the jawans posted there"
+      },
+      {
+        "claim": "BJYM leader Arun Prabhat said, 'It shows the hearts of Congress beat for Pakistan'",
+        "quote": "It shows the hearts of Congress beat for Pakistan"
+      },
+      {
+        "claim": "Ms. Parihar claimed 'announcements were made from the mosques in Kishtwar’s Dachhan area to identify the targets'",
+        "quote": "announcements were made from the mosques in Kishtwar’s Dachhan area to identify the targets"
+      },
+      {
+        "claim": "Ruling National Conference (NC) legislator Tanvir Sadiq said the BJP must be 'held accountable for its MLA’s deeply irresponsible and inflammatory allegations against a mosque in Jammu'",
+        "quote": "the BJP must be 'held accountable for its MLA’s deeply irresponsible and inflammatory allegations against a mosque in Jammu'"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress and BJP leaders made conflicting claims about the cause of two SPOs' deaths in Kishtwar, leading to protests and accusations of communal targeting.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “the BJP must be 'held accountable for its MLA’s deeply irresponsible and inflamm”"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

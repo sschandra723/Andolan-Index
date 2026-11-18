@@ -1,0 +1,58 @@
+{
+  "id": "9cb4daa588",
+  "url": "https://www.thehindu.com/news/national/madhya-pradesh/man-arrested-house-bulldozed-for-alleged-rape-of-minor-in-madhya-pradesh-amid-protests/article71709102.ece",
+  "title": "Man arrested, house bulldozed for alleged rape of minor in Madhya Pradesh amid protests",
+  "outlet": "The Hindu",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2978,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A man accused of raping a nine-year-old girl was arrested in Madhya Pradesh's Vidisha, with portions of his house demolished; right-wing groups and local BJP leaders protested for strict action.",
+    "facts": [
+      {
+        "claim": "A man accused of raping a nine-year-old girl has been arrested and portions of his house demolished with a bulldozer in Madhya Pradesh’s Vidisha",
+        "quote": "A man accused of raping a nine-year-old girl has been arrested and portions of his house demolished with a bulldozer in Madhya Pradesh’s Vidisha, officials said on Monday (November 16, 2026)."
+      },
+      {
+        "claim": "The incident took place on Saturday (November 14, 2026) morning in the Toppura area in Vidisha town when the child was going to school and the accused, identified as Chand Miyan, lured her with the pretext of giving her treats and allegedly sexually assaulted her",
+        "quote": "The incident took place on Saturday (November 14, 2026) morning in the Toppura area in Vidisha town when the child was going to school and the accused, identified as Chand Miyan, lured her with the pretext of giving her treats and allegedly sexually assaulted her, according to the police."
+      },
+      {
+        "claim": "Vidisha Superintendent of Police Rohit Kashwani told The Hindu that the accused had been detained on Sunday (November 15, 2026) and formally arrested on Monday under the Bharatiya Nyaya Sanhita (BNS) Section 123 and 64(1) along with relevant provisions of the Protection of Children from Sexual Offences (POCSO) Act",
+        "quote": "Vidisha Superintendent of Police Rohit Kashwani told The Hindu that the accused had been detained on Sunday (November 15, 2026) and formally arrested on Monday under the Bharatiya Nyaya Sanhita (BNS) Section 123 and 64(1) along with relevant provisions of the Protection of Children from Sexual Offences (POCSO) Act."
+      },
+      {
+        "claim": "Right-wing outfits, including Bajrang Dal and Vishwa Hindu Parishad, had staged protests in Vidisha to demand strict action against the accused in the case, while local BJP MLA Mukesh Tandon supported the victim’s family",
+        "quote": "Right-wing outfits, including Bajrang Dal and Vishwa Hindu Parishad, had staged protests in Vidisha to demand strict action against the accused in the case, while local BJP MLA Mukesh Tandon supported the victim’s family."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A man accused of raping a nine-year-old girl was arrested in Madhya Pradesh's Vidisha, with portions of his house demolished; right-wing groups and local BJP leaders protested for strict action.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

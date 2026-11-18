@@ -1,0 +1,54 @@
+{
+  "id": "4e69c62c1a",
+  "url": "https://www.hindustantimes.com/india-news/congress-mla-vandalises-stage-at-uttarakhand-event-denied-chance-to-speak-before-cm-dhami-101794705830312.html",
+  "title": "Congress MLA vandalises stage at Uttarakhand event: ‘Denied chance to speak before CM Dhami’",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3368,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Congress MLA Harish Dhami claimed he was denied the chance to speak before Uttarakhand CM Dhami at a border fair inauguration, leading to vandalism of the stage and protests by his supporters.",
+    "facts": [
+      {
+        "claim": "Congress MLA Harish Dhami alleged he was not permitted to speak in the presence of chief minister Pushkar Singh Dhami",
+        "quote": "I was not given a chance to speak and put the demands of the local people before the chief minister. The government is corrupt and afraid of the opposition, and the chief minister lacks the courage to hear the truth about the prevailing corruption in the state,"
+      },
+      {
+        "claim": "Congress workers staged a demonstration after the incident",
+        "quote": "Following the incident, Congress workers climbed onto the stage and staged a demonstration, also objecting to the alleged non-invitation of Pithoragarh MLA Mayukh Singh Mahar."
+      },
+      {
+        "claim": "Dharchula station house officer (SHO) AK Singh stated the incident occurred after the chief minister had left the venue",
+        "quote": "BJP workers have stated that they will submit a written complaint regarding the incident, though we have not received one yet,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress MLA Harish Dhami claimed he was denied the opportunity to address the chief minister at the Jauljibi Mela inauguration, leading to stage vandalism and protests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

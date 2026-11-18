@@ -1,0 +1,62 @@
+{
+  "id": "ea83636a2a",
+  "url": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-corporation-passes-twin-city-partnership-with-ahmedabad-amid-ldf-protest/article71709013.ece",
+  "title": "Thiruvananthapuram Corporation passes twin city partnership with Ahmedabad amid LDF protest",
+  "outlet": "The Hindu",
+  "published": "2026-11-16",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2606,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Thiruvananthapuram Corporation approved a twin-city partnership with Ahmedabad amid LDF protest, with LDF leader S.P.Deepak criticizing the agreement as unhelpful for Kerala's development needs.",
+    "facts": [
+      {
+        "claim": "Thiruvananthapuram Corporation approved a twin-city partnership with Ahmedabad",
+        "quote": "Amid protests and a walk out by the Opposition Left Democratic Front (LDF), a council meeting of the Thiruvananthapuram Corporation on Monday approved a twin-city partnership programme with the Ahmedabad Corporation."
+      },
+      {
+        "claim": "LDF leader S.P.Deepak criticized the agreement as unhelpful for Kerala's development needs",
+        "quote": "LDF Parliamentary party leader S.P.Deepak said that Thiruvananthapuram does not stand to gain any economic, infrastructural or technological benefits through this twin city agreement."
+      },
+      {
+        "claim": "Thiruvananthapuram ranked third in Sustainable Development Goals Urban Index",
+        "quote": "He cited the Niti Aayog’s figures in which Thiruvananthapuram was far ahead of Ahmedabad in several social and developmental indicators, including in Sustainable Development Goals Urban Index in which Thiruvananthapuram secured third, while Ahmedabad was at nine."
+      },
+      {
+        "claim": "LDF leader accused Congress-led government of granting immediate permission",
+        "quote": "Mr.Deepak also accused the Congress-led United Democratic Front government of granting immediate permission for the Corporation to sign an agreement with the Ahmedabad Corporation."
+      },
+      {
+        "claim": "UDF parliamentary party leader questioned Ahmedabad's selection",
+        "quote": "UDF parliamentary party leader K. S. Sabarinadhan also questioned the selection of Ahmedabad for the twin city project."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Thiruvananthapuram Corporation approved a twin-city partnership with Ahmedabad amid LDF protest, with LDF leader S.P.Deepak criticizing the agreement as unhelpful for Kerala's development needs.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "9bd2f93cd0",
+  "url": "https://www.greaterkashmir.com/opinion/trumps-board-of-peace-faces-its-biggest-test-over-gaza-12810394",
+  "title": "Trump's Board of Peace faces its biggest test over Gaza",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-15",
+  "collected": "2026-11-15",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "senate"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-15",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Board of Peace, a US-led initiative aiming to end the Gaza conflict, faces challenges in ensuring peace and humanitarian aid as violence continues and Palestinian casualties rise.",
+    "facts": [
+      {
+        "claim": "The Board of Peace, set up under US President Donald Trump's initiative, is approaching a crucial stage.",
+        "quote": "The Board of Peace, set up under US President Donald Trump's initiative, is approaching a crucial stage."
+      },
+      {
+        "claim": "The Board's May 2026 report to the Security Council referred to the establishment of a 28-member National Committee for the Administration of Gaza (NCAG) and reconstruction pledges amounting to $17 billion.",
+        "quote": "The Board's May 2026 report to the Security Council also referred to the establishment of an international organisation, a 28-member National Committee for the Administration of Gaza (NCAG), preparations for an International Stabilisation Force (ISF) and reconstruction pledges amounting to $17 billion."
+      },
+      {
+        "claim": "The recent Israeli strike on Nasser Hospital in Khan Younis on November 11 killed at least six people, including a doctor and a 13-year-old boy.",
+        "quote": "The recent Israeli strike on Nasser Hospital in Khan Younis on November 11, which killed at least six people, including a doctor and a 13-year-old boy, once again exposed the fragile situation."
+      },
+      {
+        "claim": "According to the UN's November 5 humanitarian situation report, 1,593 Palestinians had been reported killed and 5,748 injured since the ceasefire agreement.",
+        "quote": "According to the UN's November 5 humanitarian situation report, 1,593 Palestinians had been reported killed and 5,748 injured since the ceasefire agreement."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Board of Peace, a US-led initiative for Gaza peace, faces challenges in ensuring security and humanitarian aid as violence persists and Palestinian casualties rise.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

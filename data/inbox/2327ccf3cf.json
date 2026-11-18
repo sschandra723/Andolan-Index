@@ -1,0 +1,58 @@
+{
+  "id": "2327ccf3cf",
+  "url": "https://www.freepressjournal.in/india/single-most-powerful-effective-peoples-movement-since-2014-akhil-gogoi-accuses-congress-of-weakening-cjp-agitation-through-parallel-protests",
+  "title": "'Single Most Powerful & Effective People's Movement Since 2014': Akhil Gogoi Accuses Congress Of Weakening CJP Agitation Through Parallel Protests",
+  "outlet": "Free Press Journal",
+  "published": "2026-11-17",
+  "collected": "2026-11-17",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4616,
+    "fetch_note": null,
+    "drafted": "2026-11-17",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Akhil Gogoi, Assam's Raijor Dal MLA, accused Congress of weakening the CJP agitation through parallel protests, claiming it is the most powerful people's movement since 2014 capable of shaking the government.",
+    "facts": [
+      {
+        "claim": "Akhil Gogoi, Assam's Raijor Dal MLA, accused Congress of weakening the CJP agitation through parallel protests",
+        "quote": "Guwahati (Assam): Months after the Congress snapped ties with his party in Assam, Raijor Dal MLA Akhil Gogoi on Tuesday launched a sharp attack on Lok Sabha Leader of the Opposition Rahul Gandhi, accusing the Congress of weakening the CJP agitation through \"parallel protests\" and warning that the Opposition cannot unseat the government in 2029 without backing an independent mass movement."
+      },
+      {
+        "claim": "Gogoi described the CJP agitation as the single most powerful and effective people's movement capable of shaking this dictatorship since 2014",
+        "quote": "In a strongly worded two-page letter to Gandhi, Gogoi described the CJP agitation as \"the single most powerful and effective people’s movement capable of shaking this dictatorship\" since 2014, claiming it had awakened the youth within five months where traditional opposition politics had failed for 12 years."
+      },
+      {
+        "claim": "Gogoi wrote that Congress launched parallel protests instead of supporting the CJP movement",
+        "quote": "Since 2014, the CJP agitation has been the single most powerful and effective people’s movement capable of shaking this dictatorship. Within five months, it awakened the youth where traditional opposition politics had failed for twelve years. Yet, instead of standing solidly behind this organic uprising, the Indian National Congress launched parallel protests."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Akhil Gogoi, Assam's Raijor Dal MLA, accused Congress of weakening the CJP agitation through parallel protests, claiming it is the most powerful people's movement since 2014 capable of shaking the government.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

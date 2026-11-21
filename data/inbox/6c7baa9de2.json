@@ -1,0 +1,62 @@
+{
+  "id": "6c7baa9de2",
+  "url": "https://nenow.in/north-east-news/assam/assam-ajycp-protests-in-margherita-over-alleged-illegal-timber-and-mineral-extraction.html",
+  "title": "Assam: AJYCP protests in Margherita over alleged illegal timber and mineral extraction",
+  "outlet": "Northeast Now",
+  "published": "2026-11-20",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2227,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "AJYCP activists in Assam accused forest officials of failing to prevent illegal timber and mineral extraction in Margherita and Digboi, demanding an investigation and stricter action against illegal operators.",
+    "facts": [
+      {
+        "claim": "AJYCP accused the forest administration in Assam’s Margherita and Digboi of failing to prevent illegal extraction of timber and minerals",
+        "quote": "Digboi: The Margherita Regional Committee of the Asom Jatiyatabadi Yuba Chatra Parishad (AJYCP) on Friday accused the forest administration in Assam’s Margherita and Digboi of failing to prevent illegal extraction of timber and minerals in the region."
+      },
+      {
+        "claim": "AJYCP activists staged a protest near Margherita Bus Station on Friday and burnt an effigy of the Forest Minister",
+        "quote": "AJYCP activists staged a protest near Margherita Bus Station on Friday and burnt an effigy of the Forest Minister."
+      },
+      {
+        "claim": "AJYCP alleged that illegal extraction and transportation of timber, sand and stones were continuing in the Jagun, East Margherita and West Margherita forest ranges",
+        "quote": "The organisation alleged that illegal extraction and transportation of timber, sand and stones were continuing in the Jagun, East Margherita and West Margherita forest ranges."
+      },
+      {
+        "claim": "AJYCP demanded an impartial investigation into the alleged links between forest officials and illegal operators",
+        "quote": "The organisation demanded an impartial investigation into the alleged links between forest officials and illegal operators."
+      },
+      {
+        "claim": "AJYCP called for an Indian Forest Service (IFS) officer to head the Digboi Forest Division",
+        "quote": "The protest has also renewed the demand for an Indian Forest Service (IFS) officer to head the Digboi Forest Division."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "AJYCP is a local activist group in Assam that has been protesting forest and resource issues in the region for some time.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

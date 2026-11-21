@@ -1,0 +1,60 @@
+{
+  "id": "15373d9fee",
+  "url": "https://www.greaterkashmir.com/national/pm-says-india-has-shown-it-can-break-limits-unlock-possibilities-12828907",
+  "title": "PM says India has shown it can break limits, unlock possibilities",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5991,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Prime Minister Modi addressed IIT Kharagpur's platinum jubilee, stating India has broken barriers in thinking over 12 years to empower the poor and achieve 'Viksit Bharat' by 2047, citing poverty reduction and semiconductor/space sector growth as examples.",
+    "facts": [
+      {
+        "claim": "India has demonstrated over the past 12 years that breaking barriers in thinking can help the country realise its potential, create opportunities and empower the poor",
+        "quote": "Prime Minister Narendra Modi on Saturday said India has demonstrated over the past 12 years that breaking barriers in thinking can help the country realise its potential, create opportunities and empower the poor, asserting that the next two decades will be crucial for building a 'Viksit Bharat'."
+      },
+      {
+        "claim": "Over the past 12-13 years, around 50 crore people have moved out of poverty in India",
+        "quote": "Referring to a World Bank report, Modi claimed that around 50 crore people had moved out of poverty in India over the last 12-13 years, describing it as the outcome of a mindset that believed in breaking limitations."
+      },
+      {
+        "claim": "India has begun exporting chips",
+        "quote": "We went ahead and initiated the mission, and today, India has begun exporting chips"
+      },
+      {
+        "claim": "IIT Kharagpur has played an important role in India's transformation since its establishment soon after Independence",
+        "quote": "Referring to the institute's 75-year journey, Modi said IIT Kharagpur has played an important role in India's transformation since its establishment soon after Independence."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Prime Minister Modi addressed IIT Kharagpur's platinum jubilee, highlighting India's progress in poverty reduction and technological advancement as part of the 'Viksit Bharat' vision.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Prime Minister Modi” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

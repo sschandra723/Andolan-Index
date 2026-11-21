@@ -1,0 +1,98 @@
+{
+  "id": "53e0cc30ea",
+  "url": "https://theshillongtimes.com/2026/11/19/hindu-group-warns-of-protest-against-ramayana-2/",
+  "title": "Hindu group warns of protest against Ramayana 2",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Valmiki"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1977,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Hindu Janajagruti Samiti (HJS) warns of nationwide protests against potential distortions in the sequel to Ramayana: Rise of a Legend, claiming the film misrepresents Hindu religious figures and events from Valmiki's epic.",
+    "facts": [
+      {
+        "claim": "The Hindu Janajagruti Samiti (HJS) has raised objections to Nitesh Tiwari’s recently released film Ramayana: Rise of a Legend",
+        "quote": "The Hindu Janajagruti Samiti (HJS) has raised objections to Nitesh Tiwari’s recently released film Ramayana: Rise of a Legend, alleging that it distorts Maharshi Valmiki’s epic and hurts Hindu religious sentiments."
+      },
+      {
+        "claim": "HJS has appealed to Hindus to boycott the film and warned of nationwide protests if similar alleged distortions appear in its second part",
+        "quote": "The organisation has appealed to Hindus to boycott the film and warned of nationwide protests if similar alleged distortions appear in its second part."
+      },
+      {
+        "claim": "HJS Goa coordinator Manoj Solanki alleged that several scenes misrepresent the characters of Lord Ram, Sita, Lakshman and Ravana",
+        "quote": "In a statement issued on Tuesday, HJS Goa coordinator Manoj Solanki alleged that several scenes misrepresent the characters of Lord Ram, Sita, Lakshman and Ravana."
+      },
+      {
+        "claim": "The organisation particularly objected to Ravana’s portrayal as a ruler who protects the oppressed and women’s dignity, claiming it glorifies the demon king while overlooking his traditional depiction in the epic",
+        "quote": "The organisation particularly objected to Ravana’s portrayal as a ruler who protects the oppressed and women’s dignity, claiming it glorifies the demon king while overlooking his traditional depiction in the epic."
+      },
+      {
+        "claim": "It also criticised the Shurpanakha episode, alleging that the film introduces scenes in which Sita reprimands Lakshman for disfiguring a woman and Lord Ram apologises to demons Khara and Dushana",
+        "quote": "It also criticised the Shurpanakha episode, alleging that the film introduces scenes in which Sita reprimands Lakshman for disfiguring a woman and Lord Ram apologises to demons Khara and Dushana."
+      },
+      {
+        "claim": "HJS claimed these incidents contradict the original Valmiki Ramayana",
+        "quote": "HJS claimed these incidents contradict the original Valmiki Ramayana."
+      },
+      {
+        "claim": "The organisation further alleged that Lord Ram and Lakshman are shown retreating during battles, while Lakshman is portrayed as arrogant, short-tempered and disrespectful towards sages",
+        "quote": "The organisation further alleged that Lord Ram and Lakshman are shown retreating during battles, while Lakshman is portrayed as arrogant, short-tempered and disrespectful towards sages."
+      },
+      {
+        "claim": "It also questioned the film’s depiction of Sita’s response during Ravana’s abduction",
+        "quote": "It also questioned the film’s depiction of Sita’s response during Ravana’s abduction."
+      },
+      {
+        "claim": "HJS accused the Central Board of Film Certification (CBFC) of failing to adequately examine the religious aspects of the film",
+        "quote": "HJS accused the Central Board of Film Certification (CBFC) of failing to adequately examine the religious aspects of the film."
+      },
+      {
+        "claim": "It urged the board to consult religious scholars before approving movies based on sacred epics",
+        "quote": "It urged the board to consult religious scholars before approving movies based on sacred epics."
+      },
+      {
+        "claim": "Solanki appealed to the filmmakers to screen the second part before Hindu religious leaders, seers and Ramayana scholars ahead of its release",
+        "quote": "Solanki appealed to the filmmakers to screen the second part before Hindu religious leaders, seers and Ramayana scholars ahead of its release."
+      },
+      {
+        "claim": "He also urged the government to take note of the objections",
+        "quote": "He also urged the government to take note of the objections."
+      },
+      {
+        "claim": "Warning of further action, Solanki said the organisation would launch protests across the country if similar alleged distortions appear in the sequel",
+        "quote": "Warning of further action, Solanki said the organisation would launch protests across the country if similar alleged distortions appear in the sequel."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Hindu Janajagruti Samiti (HJS) has raised objections to Nitesh Tiwari’s recently released film Ramayana: Rise of a Legend, alleging that it distorts Maharshi Valmiki’s epic and hurts Hindu religious sentiments.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "12/13",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Warning of further action, Solanki said the organisation would launch protests a”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

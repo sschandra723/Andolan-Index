@@ -1,0 +1,60 @@
+{
+  "id": "b16e4013bf",
+  "url": "https://www.greaterkashmir.com/jammu/aimsa-gmc-jammu-pg-senior-resident-doctors-join-protest-stipend-agitation-gains-momentum-across-jk-12822193",
+  "title": "AIMSA GMC Jammu PG, senior resident doctors join protest; stipend agitation gains momentum across J&K",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Omar Abdullah"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2897,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Postgraduate and senior resident doctors in Jammu and Kashmir joined a protest demanding immediate stipend increases and parity with other states and union territories, with planned suspension of outpatient services if demands remain unaddressed.",
+    "facts": [
+      {
+        "claim": "Postgraduate and senior resident doctors in Jammu and Kashmir joined a protest",
+        "quote": "The agitation by postgraduate (PG) and Senior Resident doctors demanding an immediate stipend hike and parity with other States and Union Territories intensified on Wednesday, with resident doctors of Government Medical College (GMC) Jammu joining the peaceful protest."
+      },
+      {
+        "claim": "Planned suspension of outpatient services if demands remain unaddressed",
+        "quote": "Under the protest programme, doctors will wear black bands and hold peaceful demonstrations from November 19 to 22. If their demands remain unresolved, routine OPD services may be suspended from November 23, followed by further escalation as decided by the respective RDAs."
+      },
+      {
+        "claim": "Current stipend for PG residents in Jammu and Kashmir",
+        "quote": "PG residents in Jammu and Kashmir currently receive ₹64,000 during the first year and ₹67,000 in subsequent years, which it considers inadequate given their demanding clinical responsibilities, extended duty hours and contribution to patient care."
+      },
+      {
+        "claim": "Disparity in stipends compared with states and SKIMS",
+        "quote": "Association also highlighted the disparity in stipends compared with states such as Madhya Pradesh and Chhattisgarh and even with SKIMS Srinagar."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest involves medical professionals in Jammu and Kashmir demanding better stipends and parity with other states, following a meeting with the Health Secretary on November 17.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

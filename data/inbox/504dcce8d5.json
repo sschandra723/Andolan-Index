@@ -1,0 +1,47 @@
+{
+  "id": "504dcce8d5",
+  "url": "https://www.greaterkashmir.com/videos/gmc-srinagar-resident-doctors-launch-protest-over-stipend-hike-maternity-leave-12826291",
+  "title": "GMC Srinagar resident doctors launch protest over stipend hike, maternity leave",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Resident doctors in Srinagar launched a protest demanding higher stipends and maternity leave benefits.",
+    "facts": [
+      {
+        "claim": "Resident doctors in Srinagar launched a protest",
+        "quote": "GMC Srinagar resident doctors launch protest over stipend hike, maternity leave"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

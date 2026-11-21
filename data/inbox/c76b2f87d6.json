@@ -1,0 +1,70 @@
+{
+  "id": "c76b2f87d6",
+  "url": "https://www.thehindu.com/news/cities/Madurai/custodial-death-case-family-accepts-theni-truck-drivers-body-after-two-days-of-protest-in-madurai/article71716924.ece",
+  "title": "Custodial death case: Family accepts Theni truck driver’s body after two days of protest in Madurai",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1547,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Family accepted the body of Theni truck driver R. Balakrishnan after two days of protests demanding justice for his custodial death, which the family claims was caused by police assault while police said he died by suicide.",
+    "facts": [
+      {
+        "claim": "After two days of protests demanding “justice” for the custodial death of Theni truck driver, R. Balakrishnan, the family members on Wednesday accepted the body and took it to their native place in Theni district.",
+        "quote": "After two days of protests demanding “justice” for the custodial death of Theni truck driver, R. Balakrishnan, the family members on Wednesday accepted the body and took it to their native place in Theni district."
+      },
+      {
+        "claim": "Poignant scenes were witnessed as the family members and relatives wailed on looking at the body of Balakrishnan as it brought out from the mortuary at the Government Rajaji Hospital.",
+        "quote": "Poignant scenes were witnessed as the family members and relatives wailed on looking at the body of Balakrishnan as it brought out from the mortuary at the Government Rajaji Hospital."
+      },
+      {
+        "claim": "His wife kept crying stating that it was her fault for failing to accompany her husband to the Chekkanoorani police station on Friday as he was found dead on the police station in the early hours of Saturday following “questioning” throughout the night.",
+        "quote": "His wife kept crying stating that it was her fault for failing to accompany her husband to the Chekkanoorani police station on Friday as he was found dead on the police station in the early hours of Saturday following “questioning” throughout the night."
+      },
+      {
+        "claim": "Balakrishnan had been visiting the police station since Thursday with a complaint of the fire accident reported in the truck driven by him on November 3 near Valandur while transporting cardamom from Theni to Madurai.",
+        "quote": "Balakrishnan had been visiting the police station since Thursday with a complaint of the fire accident reported in the truck driven by him on November 3 near Valandur while transporting cardamom from Theni to Madurai."
+      },
+      {
+        "claim": "The family members complained that Balakrishnan’s death was caused due to “assault” by police in their custody, while the police claimed that he died by suicide in the restroom.",
+        "quote": "The family members complained that Balakrishnan’s death was caused due to “assault” by police in their custody, while the police claimed that he died by suicide in the restroom."
+      },
+      {
+        "claim": "Though the State police had transferred the case to CB-CID, the family insisted that the case be investigated by CBI. They also demanded that a murder case be registered against the erring police personnel as a pre-requisite to accepting the body.",
+        "quote": "Though the State police had transferred the case to CB-CID, the family insisted that the case be investigated by CBI. They also demanded that a murder case be registered against the erring police personnel as a pre-requisite to accepting the body."
+      },
+      {
+        "claim": "However, after the High Court instructed Madurai District Police to preserve the CCTV footages in connection with enquiry of Balakrishnan, the family climbed down from their demand and took the body to Theni.",
+        "quote": "However, after the High Court instructed Madurai District Police to preserve the CCTV footages in connection with enquiry of Balakrishnan, the family climbed down from their demand and took the body to Theni."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Family accepted the body of Theni truck driver R. Balakrishnan after two days of protests demanding justice for his custodial death, which the family claims was caused by police assault while police said he died by suicide.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

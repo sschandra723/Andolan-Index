@@ -1,0 +1,62 @@
+{
+  "id": "1da4333d6c",
+  "url": "https://kashmirlife.net/faa-aspirants-protest-in-jammu-demand-fresh-examination-after-cheating-racket-exposed-462018/",
+  "title": "FAA Aspirants Protest in Jammu, Demand Fresh Examination After Cheating Racket Exposed",
+  "outlet": "Kashmir Life",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1513,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Aspirants in Jammu protested demanding a fresh FAA exam after alleged cheating was exposed, claiming the recruitment process was compromised.",
+    "facts": [
+      {
+        "claim": "Aspirants staged a protest in Jammu, demanding that the Jammu and Kashmir Services Selection Board (JKSSB) reconduct the Finance Accounts Assistant (FAA) examination",
+        "quote": "Aspirants on Friday staged a protest in Jammu, demanding that the Jammu and Kashmir Services Selection Board (JKSSB) reconduct the Finance Accounts Assistant (FAA) examination, alleging that the attempted cheating racket exposed during the test had compromised the credibility of the recruitment process."
+      },
+      {
+        "claim": "The FAA examination was held on November 15, 2026, for around 600 advertised posts, with more than 1.61 lakh candidates appearing across the Union Territory",
+        "quote": "The FAA examination was held on November 15, 2026, for around 600 advertised posts, with more than 1.61 lakh candidates appearing across the Union Territory."
+      },
+      {
+        "claim": "The controversy emerged after Jammu Police uncovered an alleged organised electronic cheating network linked to the examination",
+        "quote": "The controversy emerged after Jammu Police uncovered an alleged organised electronic cheating network linked to the examination."
+      },
+      {
+        "claim": "The protesting candidates maintained that preventing the alleged cheating attempt was not sufficient to restore confidence in the examination",
+        "quote": "The protesting candidates maintained that preventing the alleged cheating attempt was not sufficient to restore confidence in the examination, arguing that the controversy had cast a shadow over the fairness of the entire recruitment exercise."
+      },
+      {
+        "claim": "They demanded a fresh examination, saying all candidates should be given an equal opportunity through a transparent selection process",
+        "quote": "They demanded a fresh examination, saying all candidates should be given an equal opportunity through a transparent selection process."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Aspirants in Jammu protested demanding a fresh FAA exam after alleged cheating was exposed, claiming the recruitment process was compromised.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

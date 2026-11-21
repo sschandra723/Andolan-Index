@@ -1,0 +1,100 @@
+{
+  "id": "f7c1f2efe2",
+  "url": "https://scroll.in/latest/1097151/cec-protests-delhi-police-says-sexual-assault-case-against-officers-by-women-journalists-closed",
+  "title": "CEC protests: Delhi Police says sexual assault case against officers by women journalists closed",
+  "outlet": "Scroll.in",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2683,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Delhi Police stated that sexual assault allegations against officers by three women journalists during protests against Chief Election Commissioner Gyanesh Kumar could not be corroborated, with two journalists not pursuing complaints and the third not joining police inquiry.",
+    "facts": [
+      {
+        "claim": "The Delhi Police has told the Supreme Court that allegations by three women journalists that police officers sexually assaulted them while they were reporting on protests against Chief Election Commissioner Gyanesh Kumar in New Delhi in October could not be corroborated",
+        "quote": "The Delhi Police has told the Supreme Court that allegations by three women journalists that police officers sexually assaulted them while they were reporting on protests against Chief Election Commissioner Gyanesh Kumar in New Delhi in October could not be corroborated"
+      },
+      {
+        "claim": "The police said that the three complaints had been closed",
+        "quote": "The police said that the three complaints had been closed"
+      },
+      {
+        "claim": "One of the journalists had alleged that Delhi Assistant Commissioner of Police Vivek Bhagat groped her while she was recording the detention of student leader Neha Bora during a demonstration at Jantar Mantar on October 3",
+        "quote": "One of the journalists had alleged that Delhi Assistant Commissioner of Police Vivek Bhagat groped her while she was recording the detention of student leader Neha Bora during a demonstration at Jantar Mantar on October 3"
+      },
+      {
+        "claim": "Bhagat, who belongs to a Scheduled Caste community, had subsequently filed an FIR accusing the journalist of making casteist remarks during the protest",
+        "quote": "Bhagat, who belongs to a Scheduled Caste community, had subsequently filed an FIR accusing the journalist of making casteist remarks during the protest"
+      },
+      {
+        "claim": "The protests, organised by Opposition parties, student groups and the Cockroach Janta Party political campaign, demanded Kumar’s resignation over alleged irregularities in the conduct of the special intensive revision of electoral rolls",
+        "quote": "The protests, organised by Opposition parties, student groups and the Cockroach Janta Party political campaign, demanded Kumar’s resignation over alleged irregularities in the conduct of the special intensive revision of electoral rolls"
+      },
+      {
+        "claim": "In its affidavit filed before the Supreme Court, the Delhi Police said that two of the three journalists did not wish to pursue their complaints, while the third did not join the police inquiry",
+        "quote": "In its affidavit filed before the Supreme Court, the Delhi Police said that two of the three journalists did not wish to pursue their complaints, while the third did not join the police inquiry"
+      },
+      {
+        "claim": "It added that an examination of CCTV footage had not detected any act of sexual assault",
+        "quote": "It added that an examination of CCTV footage had not detected any act of sexual assault"
+      },
+      {
+        "claim": "The Delhi Police also told the Supreme Court that there was no strict rule requiring only women police personnel to handle women during crowd-control operations",
+        "quote": "The Delhi Police also told the Supreme Court that there was no strict rule requiring only women police personnel to handle women during crowd-control operations"
+      },
+      {
+        "claim": "It added that the presence or involvement of male police personnel in crowd-control operations during the protest could not, by itself, be construed as misconduct",
+        "quote": "It added that the presence or involvement of male police personnel in crowd-control operations during the protest could not, by itself, be construed as misconduct"
+      },
+      {
+        "claim": "The affidavit also said that the Supreme Court’s October 11 direction to the Delhi Police not to “hinder” journalists, lawyers and other professionals in the discharge of their duties did not extend to “so-called reel-makers and social media influencers”",
+        "quote": "The affidavit also said that the Supreme Court’s October 11 direction to the Delhi Police not to “hinder” journalists, lawyers and other professionals in the discharge of their duties did not extend to “so-called reel-makers and social media influencers”"
+      },
+      {
+        "claim": "The Delhi Police said that it had not knowingly obstructed any journalist from carrying out their duties",
+        "quote": "The Delhi Police said that it had not knowingly obstructed any journalist from carrying out their duties"
+      },
+      {
+        "claim": "During the protests against Kumar in October, several journalists, including three from Scroll, were detained while reporting on demonstrations in Delhi and other parts of the country",
+        "quote": "During the protests against Kumar in October, several journalists, including three from Scroll, were detained while reporting on demonstrations in Delhi and other parts of the country"
+      },
+      {
+        "claim": "In the affidavit the Delhi Police submitted that the police action was directed towards “dispersing and removing the protestors from the illegal protest sites and restoring public order”",
+        "quote": "In the affidavit the Delhi Police submitted that the police action was directed towards “dispersing and removing the protestors from the illegal protest sites and restoring public order”"
+      },
+      {
+        "claim": "It was “neither intended nor directed towards detaining, restraining or obstructing any media personnel in the lawful discharge of their professional duties”, the police added",
+        "quote": "It was “neither intended nor directed towards detaining, restraining or obstructing any media personnel in the lawful discharge of their professional duties”, the police added"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Police closed sexual assault cases against officers by three women journalists during protests against Chief Election Commissioner Gyanesh Kumar over alleged irregularities in the special intensive revision of electoral rolls.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "14/14",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "5 outlets in the last 48 hours."
+  }
+}

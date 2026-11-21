@@ -1,0 +1,92 @@
+{
+  "id": "3231905ab0",
+  "url": "https://www.hindustantimes.com/india-news/abvp-sfi-clash-over-bookstall-in-kolkata-s-college-street-101795014604473.html",
+  "title": "ABVP, SFI clash over bookstall in Kolkata’s College Street",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2718,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "Students' Federation of India (SFI) and Akhil Bharatiya Vidyarthi Parishad (ABVP) clashed in Kolkata's College Street over bookstall permissions, with police reporting no critical injuries or arrests by evening.",
+    "facts": [
+      {
+        "claim": "SFI has been selling books in Kolkata since last month to protest vandalism at book stalls",
+        "quote": "The Students’ Federation of India has been selling books in Kolkata since last month to protest vandalism at book stalls"
+      },
+      {
+        "claim": "Stones, firecrackers, eggs and water bottles were hurled during the standoff",
+        "quote": "Stones, firecrackers, eggs and water bottles were hurled during the standoff"
+      },
+      {
+        "claim": "Police said no one sustained any critical injury, and no arrests were made until 7 pm",
+        "quote": "police said no one sustained any critical injury, and no arrests were made until 7 pm"
+      },
+      {
+        "claim": "The SFI was given permission to set up a temporary stall and elaborate security arrangements were made",
+        "quote": "The SFI was given permission to set up a temporary stall and elaborate security arrangements were made to maintain law and order"
+      },
+      {
+        "claim": "ABVP members arrived around noon and tried to break through the steel barricades set up by the police",
+        "quote": "The ABVP members arrived around noon and tried to break through the steel barricades set up by the police"
+      },
+      {
+        "claim": "Police permitted the ABVP to set up a similar stall on the other side of the barricade",
+        "quote": "We permitted the ABVP to set up a similar stall on the other side of the barricade"
+      },
+      {
+        "claim": "ABVP activists refused to believe that the SFI had permission to set up the stall",
+        "quote": "The ABVP activists refused to believe that the SFI had permission to set up the stall"
+      },
+      {
+        "claim": "Police said movement of vehicular traffic and pedestrians was suspended",
+        "quote": "Police said movement of vehicular traffic and pedestrians was suspended"
+      },
+      {
+        "claim": "SFI members alleged that stones, eggs and crackers were thrown at them",
+        "quote": "The SFI members alleged that stones, eggs and crackers were thrown at them"
+      },
+      {
+        "claim": "SFI left College Street by 7 pm; however, the ABVP members accused them of hurling similar objects",
+        "quote": "SFI left College Street by 7 pm; however, the ABVP members accused them of hurling similar objects"
+      },
+      {
+        "claim": "The SFI has been selling books in Kolkata since last month to protest vandalism at book stalls set up by the CPI(M), CPI and the CPI (Marxist-Leninist) Liberation during the Durga Puja festival by members of various Hindutva groups",
+        "quote": "The SFI has been selling books in Kolkata since last month to protest vandalism at book stalls set up by the CPI(M), CPI and the CPI (Marxist-Leninist) Liberation during the Durga Puja festival by members of various Hindutva groups"
+      },
+      {
+        "claim": "Bengal BJP president Samik Bhattacharya said, 'There is bound to be some trouble if these two organisations face each other. ABVP is not the BJP’s students’ front. The two organisations will settle the issue among themselves.'",
+        "quote": "Bengal BJP president Samik Bhattacharya said, 'There is bound to be some trouble if these two organisations face each other. ABVP is not the BJP’s students’ front. The two organisations will settle the issue among themselves.'"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "SFI has been selling books in Kolkata to protest vandalism at book stalls by Hindutva groups during Durga Puja festival.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "11/12",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Bengal BJP president Samik Bhattacharya said, 'There is bound to be some trouble”"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

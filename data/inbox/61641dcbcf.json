@@ -1,0 +1,62 @@
+{
+  "id": "61641dcbcf",
+  "url": "https://www.thehindu.com/news/national/kerala/udf-govt-smacks-of-corruption-and-nepotism-keralam-bjp-general-secretary/article71716171.ece",
+  "title": "UDF govt. smacks of corruption and nepotism: Keralam BJP general secretary",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3336,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "keralam-lpst-rankholders-2026",
+    "new_movement": null,
+    "summary": "The BJP accused Kerala's UDF government of corruption and nepotism after six months in office, claiming unfulfilled promises and internal disarray among coalition partners.",
+    "facts": [
+      {
+        "claim": "The BJP accused Kerala's UDF government of corruption and nepotism after six months in office",
+        "quote": "The BJP on Wednesday accused the V.D. Satheesan-led UDF government, which completed six months in office, of corruption, nepotism and betrayal of youth."
+      },
+      {
+        "claim": "The UDF government had unfulfilled promises including free bus travel for women, ₹25-lakh health insurance, welfare pension of ₹3,000 and interest-free loans of ₹5 lakh for the youth",
+        "quote": "He said free bus travel for women had been only partially implemented and that the promises of ₹25-lakh health insurance, welfare pension of ₹3,000 and interest-free loans of ₹5 lakh for the youth were conveniently forgotten"
+      },
+      {
+        "claim": "The UDF government was accused of forfeiting Central aid by opting out of PH SHRI scheme",
+        "quote": "He flayed the Government of forfeiting thousands of crores in Central aid by opting out of PH SHRI scheme, which would have gone into the infrastructure building of government schools"
+      },
+      {
+        "claim": "The UDF government was accused of taking decisions to appease IUML and Jamaat-e-Islami",
+        "quote": "He also criticised the withdrawal of approval for the Mayilpeeli scholarship on political grounds"
+      },
+      {
+        "claim": "The UDF government was accused of internal disarray with constituent parties in dissent",
+        "quote": "He alleged that the government was in total disarray, with its constituent parties in total dissent with the Chief Minister."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The UDF government in Kerala has faced criticism for unfulfilled promises and internal coalition issues after six months in office, with the BJP and CPI accusing it of corruption and disarray.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "0a9f339139",
+  "url": "https://www.hindustantimes.com/india-news/sc-issues-notice-to-cjp-congress-aap-aisa-on-traders-plea-against-delhi-protests-101795000731448.html",
+  "title": "SC issues notice to CJP, Congress, AAP, AISA on traders’ plea against Delhi protests",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4749,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court has issued notices to political parties and organisations regarding a petition by Delhi traders challenging the police designation of Ramlila Maidan as a protest venue, citing disruptions to business and livelihoods during festive season.",
+    "facts": [
+      {
+        "claim": "The Supreme Court issued notices to political parties and organisations on a petition by Delhi traders challenging the police designation of Ramlila Maidan as a protest venue",
+        "quote": "A bench headed by Chief Justice of India Surya Kant issued notices on a petition filed by the Kirana Committee of Delhi"
+      },
+      {
+        "claim": "The petition argues that demonstrations at Ramlila Maidan disrupt business, affect livelihoods, and deny access to roads leading to nearby residential areas",
+        "quote": "The traders have argued that demonstrations at the ground disrupt business, affect livelihoods and deny access to roads leading to nearby residential areas."
+      },
+      {
+        "claim": "The petition estimated that Delhi sees daily business of around ₹500 crore to ₹600 crore, with about ₹250 crore at risk each day during peak season between October 2026 and January 2027",
+        "quote": "It estimated that Delhi sees daily business of around ₹500 crore to ₹600 crore, of which about ₹250 crore was at risk each day during the peak season between October 2026 and January 2027."
+      },
+      {
+        "claim": "The petition said nearly one million establishments, 10 million livelihoods and around 500,000 outstation traders depended on this activity",
+        "quote": "The petition said nearly one million establishments, 10 million livelihoods and around 500,000 outstation traders depended on this activity."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The petition challenges Delhi Police's designation of Ramlila Maidan as a protest venue, citing disruptions to business and livelihoods during festive season, and seeks a framework for protests that considers the impact on residents and businesses.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "bc3f851b13",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/lic-pensioners-hold-protest-in-vellore/article71715940.ece",
+  "title": "LIC pensioners hold protest in Vellore",
+  "outlet": "The Hindu",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 920,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "LIC pensioners held a protest in Vellore demanding pension updates aligned with Central Civil Services Pension Rules, 1971, removal of dearness allowance for pre-1997 retirees, and other benefits.",
+    "facts": [
+      {
+        "claim": "LIC pensioners held a protest in Vellore",
+        "quote": "A joint protest by pensioners of LIC and the All India Insurance Pensioners’ Association was held at the divisional office of LIC in Vellore town on Wednesday."
+      },
+      {
+        "claim": "They demanded updation of pension in line with Central Civil Services Pension Rules, 1971",
+        "quote": "they demanded updation of pension in line with Central Civil Services Pension Rules, 1971 and on par with RBI Central Government Pensioner rules."
+      },
+      {
+        "claim": "They demanded complete neutralisation of dearness allowance for those who retired prior to 1997",
+        "quote": "Another demand was a complete neutralisation of dearness allowance for those who retired prior to 1997."
+      },
+      {
+        "claim": "The GST on health insurance policy premium for pensioners should also be withdrawn with immediate effect",
+        "quote": "The GST on health insurance policy premium for pensioners should also be withdrawn with immediate effect."
+      },
+      {
+        "claim": "Other demands include preventive health check-up for pensioners, cash medical benefits",
+        "quote": "Other demands include preventive health check-up for pensioners, cash medical benefits."
+      },
+      {
+        "claim": "The apprentice period should also be counted for calculating the pension for retired development officers",
+        "quote": "The apprentice period should also be counted for calculating the pension for retired development officers."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "aabfa9f911",
+  "url": "https://www.thehindu.com/news/national/telangana/youth-congress-workers-detained-over-protest-against-meta/article71727431.ece",
+  "title": "Youth Congress workers detained over protest against Meta for blocking social media accounts",
+  "outlet": "The Hindu",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1068,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Twenty-one Youth Congress workers were detained by police after protesting Meta's alleged blocking of their social media accounts and removal of posts, claiming it silenced opposition voices.",
+    "facts": [
+      {
+        "claim": "Twenty-one Youth Congress workers, including State president Siva Charan Reddy, were detained by Raidurgam police in Cyberabad on Friday (November 20, 2026) after they staged a protest against Meta over the alleged blocking of their social media accounts and removal of posts.",
+        "quote": "Twenty-one Youth Congress workers, including State president Siva Charan Reddy, were detained by Raidurgam police in Cyberabad on Friday (November 20, 2026) after they staged a protest against Meta over the alleged blocking of their social media accounts and removal of posts."
+      },
+      {
+        "claim": "The protesters alleged that the platform had restricted their accounts and removed several posts, claiming that it was an attempt to silence opposition voices.",
+        "quote": "The protesters alleged that the platform had restricted their accounts and removed several posts, claiming that it was an attempt to silence opposition voices."
+      },
+      {
+        "claim": "An officer from Raidurgam Police Station said the protesters had entered the Skyview building during the demonstration. A total of 21 workers were detained and released after about three hours.",
+        "quote": "An officer from Raidurgam Police Station said the protesters had entered the Skyview building during the demonstration. A total of 21 workers were detained and released after about three hours."
+      },
+      {
+        "claim": "The Indian Youth Congress later claimed that its president’s and other functionaries’ Instagram accounts were restored within 15 minutes of the protest.",
+        "quote": "The Indian Youth Congress later claimed that its president’s and other functionaries’ Instagram accounts were restored within 15 minutes of the protest."
+      },
+      {
+        "claim": "The organisation accused Meta of selectively restricting opposition voices and warned that it would continue its protests against what it described as censorship.",
+        "quote": "The organisation accused Meta of selectively restricting opposition voices and warned that it would continue its protests against what it described as censorship."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Youth Congress workers detained after protesting Meta's alleged social media restrictions, claiming it silenced opposition voices.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "3f73de73e1",
+  "url": "https://www.ndtv.com/india-news/youth-congress-protest-outside-hyderabad-meta-office-over-account-curbs-12356134",
+  "title": "Youth Congress Protest Outside Hyderabad Meta Office Over Account Curbs",
+  "outlet": "NDTV",
+  "published": "2026-11-20",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Youth Congress members protested outside Hyderabad Meta office over account curbs, with police claiming the site was not a permitted venue for such demonstrations.",
+    "facts": [
+      {
+        "claim": "Youth Congress members protested outside Hyderabad Meta office over account curbs",
+        "quote": "Youth Congress Protest Outside Hyderabad Meta Office Over Account Curbs"
+      },
+      {
+        "claim": "police claimed the site was not a permitted venue for such demonstrations",
+        "quote": "police said the site was not a permitted venue"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

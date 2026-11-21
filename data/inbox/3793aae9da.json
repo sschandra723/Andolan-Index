@@ -1,0 +1,60 @@
+{
+  "id": "3793aae9da",
+  "url": "https://www.hindustantimes.com/india-news/need-to-ascertain-if-reel-makers-can-be-called-journalists-delhi-police-to-supreme-court-101794973274144.html",
+  "title": "Need to ascertain if ‘reel makers’ can be called journalists: Delhi Police to Supreme Court",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Delhi Police filed a Supreme Court affidavit seeking clarification on whether 'reel makers' and content creators can be classified as journalists following alleged misconduct during anti-CEC protests.",
+    "facts": [
+      {
+        "claim": "Delhi Police filed a Supreme Court affidavit seeking clarification on whether 'reel makers' and content creators can be classified as journalists",
+        "quote": "The Delhi police have told the Supreme Court that in the evolving digital media era, there is a need to ascertain if “reel makers” and “content creators” can be elevated to the status of journalists."
+      },
+      {
+        "claim": "Police say they exercised utmost restraint and resorted to minimum force against journalists covering the protest",
+        "quote": "The police exercised utmost restraint and resorted to minimum force against journalists covering the protest."
+      },
+      {
+        "claim": "Police cited videos of 'media personnel' participating in protests, suggesting they were not journalists",
+        "quote": "The police cited videos circulated on social media in which certain individuals identifying as \"media personnel\" were seen participating in the protests, raising slogans alongside the protesters, clearly suggesting they were not journalists."
+      },
+      {
+        "claim": "Police denied using brute force against journalists and stated some journalists were mistakenly identified as protesters",
+        "quote": "Some journalists were mistakenly identified as protestors in the absence of conspicuously displayed identification/accreditation. However, the moment the journalistic credentials of any person were ascertained, such a person was immediately released."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Police filed a Supreme Court affidavit seeking clarification on whether 'reel makers' and content creators can be classified as journalists following alleged misconduct during anti-CEC protests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

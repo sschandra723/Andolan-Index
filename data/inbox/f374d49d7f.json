@@ -1,0 +1,78 @@
+{
+  "id": "f374d49d7f",
+  "url": "https://www.thehindu.com/news/national/kerala/pinarayi-flags-healthcare-crisis-in-attappady-seeks-5-lakh-for-each-infant-death/article71716428.ece",
+  "title": "Pinarayi flags healthcare crisis in Attappady, seeks ₹5 lakh for each infant death",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2975,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Opposition leader Pinarayi Vijayan accused Kerala's UDF government of collapsing Attappady's healthcare system, demanding ₹5 lakh compensation per infant death and urgent intervention for tribal communities.",
+    "facts": [
+      {
+        "claim": "healthcare system in Attappady has collapsed within just six months of UDF rule",
+        "quote": "Leader of the Opposition Pinarayi Vijayan has alleged that the healthcare system in Attappady has collapsed within just six months of United Democratic Front (UDF) rule."
+      },
+      {
+        "claim": "suspension of scanning services and shortage of doctors at the hospital",
+        "quote": "The suspension of scanning services and the shortage of doctors at the hospital have created a serious healthcare crisis, he said."
+      },
+      {
+        "claim": "healthcare workers with sickle cell anaemia were transferred in large numbers",
+        "quote": "healthcare workers who treated patients with sickle cell anaemia and other serious conditions were transferred in large numbers."
+      },
+      {
+        "claim": "National Health Mission mobile clinics discontinued",
+        "quote": "National Health Mission (NHM) mobile clinics, laboratories and medical units that once served remote tribal hamlets have been discontinued."
+      },
+      {
+        "claim": "ambulance clinic contracts not renewed due to lack of funds",
+        "quote": "The contracts for ambulance clinics have also not been renewed, with the authorities citing a lack of funds, he said."
+      },
+      {
+        "claim": "Janani Janma Raksha scheme financial aid unpaid for months",
+        "quote": "Financial assistance under the Janani Janma Raksha scheme for pregnant women has remained unpaid for months."
+      },
+      {
+        "claim": "₹2,000 monthly assistance to mothers stopped",
+        "quote": "Support for patients and their bystanders, along with the monthly assistance of ₹2,000 provided to mothers, has also been stopped, he said."
+      },
+      {
+        "claim": "Community kitchens attached to Anganwadis shut down",
+        "quote": "Community kitchens attached to Anganwadis have been shut down, while mentor teachers who supported tribal students in schools have been dismissed in large numbers, he said."
+      },
+      {
+        "claim": "demanding ₹5 lakh compensation per infant death",
+        "quote": "Mr. Vijayan called for ₹5 lakh in compensation for each family that had lost an infant and urged the government to intervene immediately."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Opposition leader Pinarayi Vijayan highlighted healthcare failures in Kerala's tribal region Attappady, demanding compensation for infant deaths and government intervention.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

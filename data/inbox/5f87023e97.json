@@ -1,0 +1,46 @@
+{
+  "id": "5f87023e97",
+  "url": "https://theshillongtimes.com/2026/11/21/government-medical-college-gmc-postgraduates-and-resident-doctors-stage-an-indefinite-strike-demanding-immediate-stipend-hike-and-parity-with-other-states-and-union-territories-in-srinagar-jammu/",
+  "title": "Government Medical College (GMC) postgraduates and resident doctors stage an indefinite strike demanding immediate stipend hike and parity with other states and union territories, in Srinagar, Jammu and Kashmir, on Friday. (PTI)",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 229,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Government Medical College postgraduates and resident doctors in Srinagar, Jammu and Kashmir began an indefinite strike demanding immediate stipend increases and parity with other states and union territories.",
+    "facts": [
+      {
+        "claim": "Government Medical College (GMC) postgraduates and resident doctors stage an indefinite strike",
+        "quote": "Government Medical College (GMC) postgraduates and resident doctors stage an indefinite strike demanding immediate stipend hike and parity with other states  and union territories, in Srinagar, Jammu and Kashmir, on Friday."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "1/1",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

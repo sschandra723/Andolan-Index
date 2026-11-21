@@ -1,0 +1,50 @@
+{
+  "id": "30e4470311",
+  "url": "https://theshillongtimes.com/2026/11/18/cpi-m-congress-joined-hands-after-losing-public-support-alleges-tripura-cm/",
+  "title": "CPI-M, Congress joined hands after losing public support, alleges Tripura CM",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3691,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Tripura Chief Minister Manik Saha accused CPI-M and Congress of joining hands after losing public support to stage sit-in demonstrations and political theatrics, claiming the previous Left Front government caused violence and deaths.",
+    "facts": [
+      {
+        "claim": "CPI-M and Congress joined hands after losing public support",
+        "quote": "CPI-M and Congress, having lost public support, had joined hands for political survival and were now resorting to sit-in demonstrations and political theatrics."
+      },
+      {
+        "claim": "Previous Left Front government caused violence and deaths",
+        "quote": "We all know what happened during their (CPI-M government’s) so-called golden era. Many people were killed in Khowai town during that period. As many as 69 people were killed in South Tripura district alone,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Tripura Chief Minister Manik Saha accused CPI-M and Congress of joining hands after losing public support to stage sit-in demonstrations and political theatrics, claiming the previous Left Front government caused violence and deaths.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

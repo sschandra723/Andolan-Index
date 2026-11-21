@@ -1,0 +1,54 @@
+{
+  "id": "dbf73ba81e",
+  "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-issues-order-renaming-mental-health-centres-despite-protests-by-psychiatrists-doctors/article71716660.ece",
+  "title": "Keralam govt. issues order renaming mental health centres despite protests by psychiatrists, doctors",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4268,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "keralam-lpst-rankholders-2026",
+    "new_movement": null,
+    "summary": "Kerala government renamed mental health centres as 'Regional Institutes of Happiness and Wellness' despite medical professionals warning it undermines clinical identity and could confuse patients' legal status under the Mental Healthcare Act.",
+    "facts": [
+      {
+        "claim": "Kerala government renamed mental health centres as 'Regional Institutes of Happiness and Wellness'",
+        "quote": "The Keralam government has gone ahead with its decision to rename the Mental Health Centres (MHCs) in the State as “Regional Institutes of Happiness and Wellness”"
+      },
+      {
+        "claim": "Medical professionals warned the change undermines clinical identity and could confuse patients' legal status",
+        "quote": "the Indian Psychiatric Society’s (IPS) Keralam branch and other medical bodies, including the Indian Medical Association (IMA) and the Kerala Government Medical Officers’ Association, have renewed their warning that the change in nomenclature could undermine the clinical, academic and legal identity of the State’s MHCs."
+      },
+      {
+        "claim": "The change could create confusion over clinical and legal status under the Mental Healthcare Act",
+        "quote": "The IPS said that a name that does not clearly identify an institution as a psychiatric treatment facility could create confusion over its clinical and legal status."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala government renamed mental health centres to 'Regional Institutes of Happiness and Wellness' despite medical professionals' objections, raising concerns about clinical identity and legal status under the Mental Healthcare Act.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

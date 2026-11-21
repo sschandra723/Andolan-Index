@@ -1,0 +1,74 @@
+{
+  "id": "be0c1fdda1",
+  "url": "https://theprint.in/india/up-minister-demands-sc-reservation-for-nishad-community-holds-protest-on-highway/3102590/",
+  "title": "UP minister demands SC reservation for Nishad community, holds protest on highway",
+  "outlet": "ThePrint",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Uttar Pradesh"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1352,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Uttar Pradesh Cabinet Minister Sanjay Nishad held a protest on the Gorakhpur-Sonauli National Highway demanding SC reservation for the Nishad fishing community, which disrupted traffic for nearly two hours before being called off after talks with BJP state president.",
+    "facts": [
+      {
+        "claim": "Uttar Pradesh Cabinet Minister and Nishad Party president Sanjay Nishad held a protest along the Gorakhpur-Sonauli National Highway",
+        "quote": "Maharajganj (UP), Nov 18 (PTI) Uttar Pradesh Cabinet Minister and Nishad Party president Sanjay Nishad held a protest along the Gorakhpur-Sonauli National Highway here on Wednesday, demanding reservation for the fishing community under the SC category."
+      },
+      {
+        "claim": "The protest disrupted traffic on both sides of the highway for nearly two hours as party workers blocked the road",
+        "quote": "The protest, which began around 4.30 pm, disrupted traffic on both sides of the highway for nearly two hours as party workers blocked the road."
+      },
+      {
+        "claim": "The minister said he would not call off the protest until the government accepted the Nishad community’s demand for Scheduled Caste (SC) reservation",
+        "quote": "The minister said he would not call off the protest until the government accepted the Nishad community’s demand for Scheduled Caste (SC) reservation."
+      },
+      {
+        "claim": "Earlier, a conference and march were also organised at Abhinav Vidya Mandir Inter College in Uditpur village under the Pharenda tehsil to press for the constitutional rights of the fishing community",
+        "quote": "Earlier, a conference and march were also organised at Abhinav Vidya Mandir Inter College in Uditpur village under the Pharenda tehsil to press for the constitutional rights of the fishing community."
+      },
+      {
+        "claim": "Nishad said the community had been fighting for its constitutional rights and reservation for a long time. He claimed that the fishing community was entitled to SC reservation and said the struggle for its rights would continue",
+        "quote": "Addressing the gathering, Nishad said the community had been fighting for its constitutional rights and reservation for a long time. He claimed that the fishing community was entitled to SC reservation and said the struggle for its rights would continue."
+      },
+      {
+        "claim": "After the conference, Nishad and his supporters reached the national highway and staged a sit-in",
+        "quote": "After the conference, Nishad and his supporters reached the national highway and staged a sit-in."
+      },
+      {
+        "claim": "Following a conversation with BJP state president Pankaj Chaudhary, Nishad decided to call off the protest along with his supporters",
+        "quote": "Following a conversation with BJP state president Pankaj Chaudhary, Nishad decided to call off the protest along with his supporters."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Nishad community, a fishing community in Uttar Pradesh, has been seeking SC reservation for decades, with the current protest being part of ongoing efforts to secure constitutional rights and social recognition.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": [
+        "name “Uttar Pradesh Cabinet Minister Sanjay Nishad” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

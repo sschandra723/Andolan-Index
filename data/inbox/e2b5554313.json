@@ -1,0 +1,78 @@
+{
+  "id": "e2b5554313",
+  "url": "https://www.greaterkashmir.com/opinion/beyond-neurons-12825038",
+  "title": "Beyond Neurons",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5403,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The article discusses the interplay between the brain and heart in Islamic thought and modern neuroscience, emphasizing that moral awareness requires more than intellectual knowledge. It highlights how spiritual purification and scientific understanding complement each other in shaping ethical behavior.",
+    "facts": [
+      {
+        "claim": "A person can know full well that dishonesty is wrong, articulate its harm to society, and still choose to lie for personal gain",
+        "quote": "A person can know full well that dishonesty is wrong, articulate its harm to society, and still choose to lie for personal gain."
+      },
+      {
+        "claim": "The Qur’an speaks of understanding, reflection, and moral discernment by pointing to the heart (Qalb)",
+        "quote": "Yet when the Qur’an speaks of understanding, reflection, and moral discernment, it repeatedly points to the heart (Qalb)."
+      },
+      {
+        "claim": "The Qur’an asks: 'Have they not travelled through the land, so that they may have hearts with which to understand and ears with which to hear?' (22:46)",
+        "quote": "The Qur’an asks: “Have they not travelled through the land, so that they may have hearts with which to understand and ears with which to hear?” (22:46)."
+      },
+      {
+        "claim": "Classical Islamic thinkers explored the interplay between Aql (intellect) and Qalb (heart) with remarkable nuance",
+        "quote": "Classical Islamic thinkers explored this interplay with remarkable nuance."
+      },
+      {
+        "claim": "The human inner world operates through an interconnected ecosystem: Aql provides reasoning, Nafs represents the ego and its competing desires, Ruh denotes the animating spirit, and Qalb serves as the moral compass",
+        "quote": "In Islamic thought, the human inner world operates through an interconnected ecosystem: Aql provides reasoning, Nafs represents the ego and its competing desires, Ruh denotes the animating spirit, and Qalb serves as the moral compass."
+      },
+      {
+        "claim": "Prophet Muhammad (peace be upon him) observed that within the body lies a morsel of flesh: when it is sound, the entire body is sound; when it is corrupted, the entire body is corrupted, and that morsel is the heart",
+        "quote": "Prophet Muhammad (peace be upon him) observed that within the body lies a morsel of flesh: when it is sound, the entire body is sound; when it is corrupted, the entire body is corrupted, and that morsel is the heart."
+      },
+      {
+        "claim": "Modern neuro-cardiology has uncovered a fascinating biological dialogue between the two organs",
+        "quote": "Modern neuro-cardiology has uncovered a fascinating biological dialogue between the two organs."
+      },
+      {
+        "claim": "The heart contains an intrinsic nervous system, a complex network of neurons sometimes informally called the heart’s 'little brain'",
+        "quote": "The heart contains an intrinsic nervous system, a complex network of neurons sometimes informally called the heart’s \"little brain\""
+      },
+      {
+        "claim": "Research on cardiac interoception shows that heartbeat signals subtly influence how the brain processes emotion and stress",
+        "quote": "Research on cardiac interoception also shows that heartbeat signals subtly influence how the brain processes emotion and stress (Coll et al. 2021; Valenza et al. 2025; Scheitz et al. 2026)."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

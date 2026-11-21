@@ -1,0 +1,49 @@
+{
+  "id": "8cae64c725",
+  "url": "https://www.thecitizen.in/in-depth/global-response-to-indias-gen-z-protest-1394921",
+  "title": "Global Response to India’s Gen Z Protest",
+  "outlet": "The Citizen",
+  "published": "2026-11-20",
+  "collected": "2026-11-21",
+  "suggested_movement": "neet-jantar-mantar-2026",
+  "score": 2.0,
+  "matched": [
+    "Cockroach movement"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Global media and governments are responding to India's Gen Z-led protests, but specific details on the protests themselves are not provided in the article.",
+    "facts": [
+      {
+        "claim": "Global media and governments are responding to India's Gen Z-led protests",
+        "quote": "Global Response to India’s Gen Z Protest"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.7,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

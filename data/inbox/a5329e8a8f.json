@@ -1,0 +1,74 @@
+{
+  "id": "a5329e8a8f",
+  "url": "https://www.thehindu.com/news/cities/Madurai/sanitary-workers-indefinite-strike-enters-second-day-in-dindigul/article71721092.ece",
+  "title": "Sanitary workers’ indefinite strike enters second day in Dindigul",
+  "outlet": "The Hindu",
+  "published": "2026-11-19",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1613,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Sanitary workers in Dindigul entered their second day of indefinite strike demanding the Dindigul Corporation fulfill their 10-point charter of demands, including ending the contract system and increasing staff to reduce workload.",
+    "facts": [
+      {
+        "claim": "The indefinite strike of sanitary workers demanding that Dindigul Corporation fulfil their 10-point charter of demands entered its second day on Thursday.",
+        "quote": "The indefinite strike of sanitary workers demanding that Dindigul Corporation fulfil their 10-point charter of demands entered its second day on Thursday."
+      },
+      {
+        "claim": "The workers began their indefinite strike and sit-in protest on the Corporation office premises on Wednesday demanding the authorities to fulfil their charter of demands which also included the abolition of the contract system.",
+        "quote": "The workers began their indefinite strike and sit-in protest on the Corporation office premises on Wednesday demanding the authorities to fulfil their charter of demands which also included the abolition of the contract system."
+      },
+      {
+        "claim": "The workers also demanded that the number of sanitary workers should be increased in the Corporation in order to reduce the workload on the existing workers.",
+        "quote": "The workers also demanded that the number of sanitary workers should be increased in the Corporation in order to reduce the workload on the existing workers."
+      },
+      {
+        "claim": "The existing number was not sufficient, the workers said, adding that they were overburdened with work.",
+        "quote": "The existing number was not sufficient, the workers said, adding that they were overburdened with work."
+      },
+      {
+        "claim": "The workers, representing various unions, said the sit-in protest and the indefinite strike would continue on the Corporation premises till their demands were met.",
+        "quote": "The workers, representing various unions, said the sit-in protest and the indefinite strike would continue on the Corporation premises till their demands were met."
+      },
+      {
+        "claim": "The workers, in their petition, urged the authorities to drop the plans for outsourcing the work.",
+        "quote": "The workers, in their petition, urged the authorities to drop the plans for outsourcing the work."
+      },
+      {
+        "claim": "They demanded that the authorities end contract system and recruit workers on a permanent basis through direct recruitment.",
+        "quote": "They demanded that the authorities end contract system and recruit workers on a permanent basis through direct recruitment."
+      },
+      {
+        "claim": "They also urged the authorities to restructure the work shifts. The eight-hour workday should be restructured into a single, continuous shift rather than being split into two separate shifts.",
+        "quote": "They also urged the authorities to restructure the work shifts. The eight-hour workday should be restructured into a single, continuous shift rather than being split into two separate shifts."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Sanitary workers in Dindigul have been striking since at least Wednesday for their 10-point charter of demands, including ending the contract system and increasing staff to reduce workload.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

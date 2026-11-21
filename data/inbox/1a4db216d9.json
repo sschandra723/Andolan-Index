@@ -1,0 +1,80 @@
+{
+  "id": "1a4db216d9",
+  "url": "https://kashmirobserver.net/2026/11/21/ruhullah-joins-students-protest-calls-recruitment-corruption-worse-than-murder/",
+  "title": "Ruhullah Joins Students’ Protest, Calls Recruitment Corruption ‘Worse Than Murder’",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1832,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Former MP Agha Syed Ruhullah Mehdi joined Kashmiri students protesting recruitment corruption, calling it 'worse than murder' and demanding accountability for irregularities that ruin youth careers.",
+    "facts": [
+      {
+        "claim": "Former MP Agha Syed Ruhullah Mehdi joined protesting students at Sher-e-Kashmir Park in Srinagar",
+        "quote": "Srinagar- Former Member of Parliament Agha Syed Ruhullah Mehdi on Saturday joined protesting students at Sher-e-Kashmir Park in Srinagar, describing recruitment corruption as “worse than murder” and demanding strict action against those responsible for alleged irregularities."
+      },
+      {
+        "claim": "He described recruitment corruption as 'worse than murder'",
+        "quote": "describing recruitment corruption as “worse than murder”"
+      },
+      {
+        "claim": "He demanded strict action against those responsible for alleged irregularities",
+        "quote": "demanding strict action against those responsible for alleged irregularities."
+      },
+      {
+        "claim": "He said the students are not joining with him, he is joining with the students",
+        "quote": "The students are not joining with me. I am joining with the students. I am not leading this,"
+      },
+      {
+        "claim": "He accused both governments of shifting responsibility onto each other",
+        "quote": "Both the administrations have confused us. They have made our children’s careers a football. They play football with each other,"
+      },
+      {
+        "claim": "He described recruitment irregularities as a grave injustice to deserving candidates",
+        "quote": "Describing recruitment irregularities as a grave injustice to deserving candidates,"
+      },
+      {
+        "claim": "He said the denial of merit-based opportunities was ruining careers",
+        "quote": "the denial of merit-based opportunities was ruining the careers of young people and undermining years of hard work."
+      },
+      {
+        "claim": "He demanded accountability and stringent action against those involved",
+        "quote": "Those who are responsible for this, heads should roll,” he said, demanding accountability and stringent action against those involved."
+      },
+      {
+        "claim": "He alleged a network developed over five to eight years to facilitate compromises",
+        "quote": "He further alleged that a network had developed over the past five to eight years to facilitate compromises and benefit certain individuals, claiming that the irregularities were deliberate rather than accidental."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Former MP Agha Syed Ruhullah Mehdi joined Kashmiri students protesting recruitment corruption, calling it 'worse than murder' and demanding accountability for irregularities that ruin youth careers.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "8/9",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “He further alleged that a network had developed over the past five to eight year”"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

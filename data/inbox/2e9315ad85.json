@@ -1,0 +1,50 @@
+{
+  "id": "2e9315ad85",
+  "url": "https://scroll.in/article/1097168/why-young-protesters-are-boycotting-frances-equivalent-of-fox-news",
+  "title": "Why young protesters are boycotting ‘France’s equivalent of Fox news’",
+  "outlet": "Scroll.in",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "French student protesters are boycotting CNews, a French media outlet, after it criticized their education movement, leading to a petition with over a million signatures demanding its shutdown.",
+    "facts": [
+      {
+        "claim": "protesters boycotting CNews",
+        "quote": "On November 5, as secondary school students gathered in Paris for another day of demonstrations, a journalist associated with French media outlet CNews met an unusually hostile reception. Protesters shouted for him to leave, and police officers reportedly asked the journalist to stop heckling the crowd."
+      },
+      {
+        "claim": "petition with over a million signatures",
+        "quote": "A petition calling for CNews to be taken off air has gathered more than a million signatures."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "French student protests against education policies have led to media backlash, with protesters targeting CNews for its coverage and a petition demanding its shutdown.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

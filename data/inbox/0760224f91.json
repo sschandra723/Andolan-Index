@@ -1,0 +1,58 @@
+{
+  "id": "0760224f91",
+  "url": "https://www.greaterkashmir.com/world/china-showcases-humanoid-robots-high-tech-ambitions-at-global-summit-in-shenzhen-12821915",
+  "title": "China showcases humanoid robots, high-tech ambitions at global summit in Shenzhen",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1415,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "China showcased humanoid robots at a global summit in Shenzhen to demonstrate technological advancements and AI leadership, with robots performing dances and serving refreshments for delegates.",
+    "facts": [
+      {
+        "claim": "China showcased humanoid robots at a global summit in Shenzhen",
+        "quote": "New Delhi, Nov 18: Alongside high-level diplomatic engagements with world leaders, China is using the international summit in Shenzhen to showcase its growing technological capabilities, with humanoid robots emerging as a major attraction at the event."
+      },
+      {
+        "claim": "Humanoid robots performed coordinated dances, welcoming visiting delegates and serving refreshments",
+        "quote": "Humanoid robots have been performing coordinated dances, welcoming visiting delegates and serving refreshments at various venues, offering a glimpse of China’s advances in artificial intelligence and robotics."
+      },
+      {
+        "claim": "The display aims to demonstrate Beijing’s growing leadership in physical AI and ambition to dominate the global robotics market",
+        "quote": "The display goes beyond providing entertainment to visiting dignitaries. It is also aimed at demonstrating Beijing’s growing leadership in physical artificial intelligence (AI) and its ambition to become a dominant force in the global robotics market."
+      },
+      {
+        "claim": "Shenzhen, a major technology and manufacturing hub, provides a fitting setting for the showcase",
+        "quote": "Shenzhen, a major technology and manufacturing hub, provides a fitting setting for the showcase."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

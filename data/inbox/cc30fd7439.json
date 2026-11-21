@@ -1,0 +1,56 @@
+{
+  "id": "cc30fd7439",
+  "url": "https://www.greaterkashmir.com/jammu/census-2027-phase-ii-cpco-amit-sharma-leads-directorates-capacity-building-push-12827798",
+  "title": "Census 2027 Phase II: CPCO Amit Sharma leads Directorate’s capacity-building push",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Ladakh"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4095,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Directorate of Census Operations in Jammu and Kashmir completed a four-day training program for master trainers to prepare for Census 2027 phase II, with field trainers set to train enumerators by December 10, 2026, to ensure accurate data collection from January 25 to February 28, 2027.",
+    "facts": [
+      {
+        "claim": "The Directorate of Census Operations, Jammu and Kashmir, under CPCO Amit Sharma, completed a four-day training program for master trainers from November 17 to 20, 2026.",
+        "quote": "The Directorate of Census Operations, Jammu and Kashmir, under the leadership of Chief Principal Census Officer (CPCO) and Director Census Operations, Jammu & Kashmir and Ladakh Amit Sharma, has intensified its preparations for the second phase of Census 2027 with the successful conclusion of a four-day training programme for master trainers, held from November 17 to 20, 2026, at Jammu."
+      },
+      {
+        "claim": "Master trainers will train field trainers from November 25, 2026 to December 10, 2026, to prepare them for data collection in January 2027.",
+        "quote": "CPCO Amit Sharma shared that the master trainers would further impart the trainings to the field trainers in their respective districts from November 25, 2026 to December 10, 2026."
+      },
+      {
+        "claim": "Field trainers will train enumerators and supervisors by January 10, 2027, to prepare for actual data collection from January 25 to February 28, 2027.",
+        "quote": "The field trainers will then train the enumerators and supervisors till January 10, 2027 to prepare them in advance for actual data collection in the field during the prescribed timeline for population enumeration phase scheduled from January 25, 2027 to February 28, 2027."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The training program aims to ensure comprehensive preparation for Census 2027 data collection across Jammu and Kashmir, with a focus on practical enumeration methods and data privacy.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

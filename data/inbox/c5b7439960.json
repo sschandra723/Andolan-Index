@@ -1,0 +1,64 @@
+{
+  "id": "c5b7439960",
+  "url": "https://www.greaterkashmir.com/opinion/aawaaz-2026-beyond-a-convention-12821483",
+  "title": "AAWAAZ 2026: Beyond a Convention",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5108,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "AAAWAAZ 2026 was a cultural convention in Jammu and Kashmir that aimed to foster dialogue on artistic identity and cultural heritage without being a protest event.",
+    "facts": [
+      {
+        "claim": "AAAWAAZ 2026 was born out of a conviction to bring together artists for meaningful dialogue on cultural identity",
+        "quote": "AAAWAAZ 2026 was born out of precisely such a conviction."
+      },
+      {
+        "claim": "The convention was held on 14 November 2026",
+        "quote": "Organising the first-ever AAWAAZ Artist Convention on 14 November 2026 was no small undertaking."
+      },
+      {
+        "claim": "The event was organized without corporate funding or major agency support",
+        "quote": "What made this achievement particularly meaningful was that it was accomplished without the backing of any major corporate house or funding agency."
+      },
+      {
+        "claim": "The convention focused on language, identity, cultural heritage, and sustainable creative industries",
+        "quote": "The deliberations focused on some fundamental questions concerning our language, identity and cultural heritage, alongside the need to develop our creative potential and build sustainable creative industries that can connect Kashmir with the wider world."
+      },
+      {
+        "claim": "AAAWAAZ was not a protest event but a positive, constructive initiative",
+        "quote": "It is important to clarify that AAWAAZ was neither."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "AAAWAAZ 2026 was a cultural convention in Jammu and Kashmir that aimed to foster dialogue on artistic identity and cultural heritage without being a protest event.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “AAAWAAZ 2026 was born out of precisely such a conviction.”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

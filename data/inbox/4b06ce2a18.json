@@ -1,0 +1,66 @@
+{
+  "id": "4b06ce2a18",
+  "url": "https://www.hindustantimes.com/india-news/western-railway-halts-demolition-in-mumbais-prabhadevi-amid-protest-101795167833868.html",
+  "title": "Western Railway halts demolition in Mumbai's Prabhadevi amid protest",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5457,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Western Railway temporarily halted demolition of 102 unauthorized structures in Mumbai's Prabhadevi after residents protested for alternative accommodation, citing decades-long habitation and lack of rehabilitation.",
+    "facts": [
+      {
+        "claim": "Western Railway temporarily halted demolition of 102 unauthorized structures in Mumbai's Prabhadevi",
+        "quote": "Western Railway halts demolition in Mumbai's Prabhadevi amid protest"
+      },
+      {
+        "claim": "The demolition of encroachments has been temporarily postponed and that a comprehensive policy will be formulated",
+        "quote": "the demolition of encroachments has been temporarily postponed and that a comprehensive policy will be formulated"
+      },
+      {
+        "claim": "Residents staged a protest by sitting and lying in front of the JCB machinery, forcing officials to stop the operation",
+        "quote": "Residents staged a protest by sitting and lying in front of the JCB machinery, forcing officials to stop the operation"
+      },
+      {
+        "claim": "The demolition drive aimed to clear two chawls and several ground-floor and one-floor rooms to make way for residential quarters for railway employees",
+        "quote": "The demolition drive aimed to clear two chawls and several ground-floor and one-floor rooms to make way for residential quarters for railway employees"
+      },
+      {
+        "claim": "Residents, many of whom claim to have lived in the area for nearly five decades, have demanded alternative accommodation before being asked to vacate their homes",
+        "quote": "Residents, many of whom claim to have lived in the area for nearly five decades, have demanded alternative accommodation before being asked to vacate their homes"
+      },
+      {
+        "claim": "Residents have appealed to the authorities to take an early decision on rehabilitation and ensure that families who have lived in the area for decades are not displaced without alternative housing",
+        "quote": "They have appealed to the authorities to take an early decision on rehabilitation and ensure that families who have lived in the area for decades are not displaced without alternative housing"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Residents in Mumbai's Prabhadevi have been living in the area for nearly 50 years and demand alternative accommodation before being displaced by railway land reclamation efforts.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

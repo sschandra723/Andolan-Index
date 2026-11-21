@@ -1,0 +1,64 @@
+{
+  "id": "e763078db5",
+  "url": "https://nenow.in/north-east-news/assam/assam-digboi-refinery-sees-fresh-labour-protest-over-unified-attendance-system.html",
+  "title": "Assam: Digboi Refinery sees fresh labour protest over Unified Attendance System",
+  "outlet": "Northeast Now",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=INTUC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3397,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Employees at Indian Oil Corporation's Digboi Refinery staged a protest demanding withdrawal of the Unified Attendance System (UAS), which they argue centralizes administrative control and hinders local problem resolution.",
+    "facts": [
+      {
+        "claim": "Employees and office-bearers of the INTUC-affiliated Assam Oil Company Labour Union (AOCLU) staged a fresh demonstration at Indian Oil Corporation Limited’s Digboi Refinery",
+        "quote": "Employees and office-bearers of the INTUC-affiliated Assam Oil Company Labour Union (AOCLU) staged a fresh demonstration at Indian Oil Corporation Limited’s Digboi Refinery"
+      },
+      {
+        "claim": "The latest protest comes amid recurring labour disputes at the Digboi refinery",
+        "quote": "The latest protest comes amid recurring labour disputes at the Digboi refinery"
+      },
+      {
+        "claim": "Employees have also expressed reservations about the proposed change in administrative control",
+        "quote": "Employees have also expressed reservations about the proposed change in administrative control"
+      },
+      {
+        "claim": "The employee said this centralisation could make it more difficult for local workers to resolve attendance-related problems",
+        "quote": "The employee said this centralisation could make it more difficult for local workers to resolve attendance-related problems"
+      },
+      {
+        "claim": "The refinery management, however, has defended the new system, describing it as an upgraded and user-friendly mechanism to modernise attendance registration",
+        "quote": "The refinery management, however, has defended the new system, describing it as an upgraded and user-friendly mechanism to modernise attendance registration"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Digboi Refinery is a key industrial site in Assam, and the UAS implementation has sparked ongoing labor tensions, with the union and management at odds over administrative control and worker grievances.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

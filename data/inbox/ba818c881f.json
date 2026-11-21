@@ -1,0 +1,58 @@
+{
+  "id": "ba818c881f",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/haryana-farmers-kick-off-hisar-delhi-march-101795112950664.html",
+  "title": "Haryana: Farmers kick off Hisar-Delhi march",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1906,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Haryana farmers began a march toward Delhi demanding land for a memorial to honor 750 farmers who died during the 2020-21 agitation, with plans to hold a rally in Bahadurgarh on November 26.",
+    "facts": [
+      {
+        "claim": "Haryana farmers began a march toward Delhi",
+        "quote": "A group of farmers on Thursday began a march from Hisar towards Delhi"
+      },
+      {
+        "claim": "demanding land for a memorial to honor 750 farmers who died during the 2020-21 agitation",
+        "quote": "Farmers seek memorial for all 750 farmers who died during the 2020-21 stir"
+      },
+      {
+        "claim": "with plans to hold a rally in Bahadurgarh on November 26",
+        "quote": "They have announced a rally in Bahadurgarh on November 26 to mark the anniversary of the farmers’ agitation"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Haryana farmers are demanding land for a memorial to honor 750 farmers who died during the 2020-21 agitation, with plans to hold a rally in Bahadurgarh on November 26.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “They have announced a rally in Bahadurgarh on November 26 to mark the anniversar”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

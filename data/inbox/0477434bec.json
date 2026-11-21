@@ -1,0 +1,74 @@
+{
+  "id": "0477434bec",
+  "url": "https://scroll.in/article/1097163/why-a-ropeway-project-has-set-off-alarm-bells-in-shillong",
+  "title": "Why a ropeway project has set off alarm bells in Shillong",
+  "outlet": "Scroll.in",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "ropeway"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "shillong-ropeway-2026",
+    "new_movement": null,
+    "summary": "Elderly women have been camping near Shillong's state secretariat for 12 days demanding the cancellation of a ropeway project that threatens water sources in Lum Shyllong, a sacred forested hill.",
+    "facts": [
+      {
+        "claim": "For 12 days now, elderly women have been camping day and night near the Meghalaya state secretariat in Shillong to demand the scrapping of a ropeway project in the city.",
+        "quote": "For 12 days now, elderly women have been camping day and night near the Meghalaya state secretariat in Shillong to demand the scrapping of a ropeway project in the city."
+      },
+      {
+        "claim": "The Meghalaya government has claimed the project would generate at least Rs 10 crore in revenue every year, creating jobs and business for local residents.",
+        "quote": "The Meghalaya government has claimed the project would generate at least Rs 10 crore in revenue every year, creating jobs and business for local residents."
+      },
+      {
+        "claim": "The Joint Action Committee Against the Shillong Ropeway Project, a platform formed by the residents of the Laban Pyllun area, however, say that the project will endanger streams and water sources in Lum Shyllong, a sacred forested hill from which Shillong gets its name.",
+        "quote": "The Joint Action Committee Against the Shillong Ropeway Project, a platform formed by the residents of the Laban Pyllun area, however, say that the project will endanger streams and water sources in Lum Shyllong, a sacred forested hill from which Shillong gets its name."
+      },
+      {
+        "claim": "All the drinking water that is supplied to the whole city of Shillong comes from that Lum Shyllong area.",
+        "quote": "All the drinking water that is supplied to the whole city of Shillong comes from that Lum Shyllong area,"
+      },
+      {
+        "claim": "The government has denied that the Rs 175 crore project would put water sources at risk. Deputy Chief Minister Prestone Tynsong said that the state government will not scrap or relocate the project on the basis of 'unfounded fears'.",
+        "quote": "The government has denied that the Rs 175 crore project would put water sources at risk. Deputy Chief Minister Prestone Tynsong said that the state government will not scrap or relocate the project on the basis of 'unfounded fears'."
+      },
+      {
+        "claim": "The felling of over 544 mature trees for the project is already affecting the water supply.",
+        "quote": "The felling of over 544 mature trees for the project is already affecting the water supply,"
+      },
+      {
+        "claim": "At least 2,000 more trees are expected to be cut for the project.",
+        "quote": "At least 2,000 more trees are expected to be cut for the project."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Shillong ropeway project has sparked opposition from the Khasi Hills Autonomous District Council over lack of trading licenses for the construction company, leading to the council locking the construction site gates.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/7",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The government has denied that the Rs 175 crore project would put water sources ”"
+      ]
+    },
+    "importance": 5,
+    "importance_reason": "Coverage up from 2 to 3 reports this week."
+  }
+}

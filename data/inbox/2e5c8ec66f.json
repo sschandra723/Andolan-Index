@@ -1,0 +1,66 @@
+{
+  "id": "2e5c8ec66f",
+  "url": "https://www.greaterkashmir.com/opinion/democracy-in-the-age-of-decay-12827741",
+  "title": "Democracy in the Age of Decay",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": "anti-sir-2026",
+  "score": 5.0,
+  "matched": [
+    "Special Intensive Revision",
+    "=SIR",
+    "voter list",
+    "electoral roll",
+    "Election Commission"
+  ],
+  "alternatives": [
+    "blo-sir-workload-2025"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "The article discusses concerns over the Election Commission of India's Special Intensive Revision (SIR) of electoral rolls, highlighting how contested procedures and shifting timelines may undermine public trust in the electoral process and democratic legitimacy.",
+    "facts": [
+      {
+        "claim": "The ECI states the exercise ensures voter lists remain accurate and free of duplicates",
+        "quote": "The ECI states the exercise ensures voter lists remain accurate and free of duplicates, under the principle that no eligible voter be excluded nor any ineligible person included."
+      },
+      {
+        "claim": "The SIR exercise began in Bihar in 2025 and expanded across other states and Union Territories",
+        "quote": "The SIR exercise, which began in Bihar in 2025 and expanded across other states and Union Territories, has seen contested procedures, shifting timelines, large-scale deletions, and documentation disputes."
+      },
+      {
+        "claim": "Voters may be asked to establish links to older rolls or produce documents that poor, migrant, elderly, homeless, or marginalised citizens rarely possess",
+        "quote": "Voters may be asked to establish links to older rolls or produce documents that poor, migrant, elderly, homeless, or marginalised citizens rarely possess."
+      },
+      {
+        "claim": "The ECI maintains its SIR orders are unanimous and lawful, noting no name can be deleted without prior notice and a speaking order, with appeals to the District Magistrate and Chief Electoral Officer",
+        "quote": "The ECI maintains its SIR orders are unanimous and lawful, noting no name can be deleted without prior notice and a speaking order, with appeals to the District Magistrate and Chief Electoral Officer."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The article emphasizes that the SIR process, while intended to ensure accurate voter rolls, has raised concerns about public trust and democratic legitimacy due to contested procedures and shifting timelines.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

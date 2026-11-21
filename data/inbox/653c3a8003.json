@@ -1,0 +1,60 @@
+{
+  "id": "653c3a8003",
+  "url": "https://www.hindustantimes.com/cities/noida-news/evm-demo-centres-launched-in-gautam-budh-nagar-ahead-of-u-p-assembly-polls-101795198111744.html",
+  "title": "EVM demo centres launched in Gautam Budh Nagar ahead of U.P. assembly polls",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Noida"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3161,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "noida-workers-2026",
+    "new_movement": null,
+    "summary": "Over 250 people visited EVM demonstration centres in Gautam Budh Nagar ahead of 2027 U.P. assembly polls, with the district administration setting up four centres to familiarise voters with electronic voting machines and voter-verifiable paper audit trails.",
+    "facts": [
+      {
+        "claim": "Over 250 people visited electronic voting machine (EVM) demonstration centres across three tehsils of Gautam Budh Nagar",
+        "quote": "GREATER NOIDA: Over 250 people visited electronic voting machine (EVM) demonstration centres across three tehsils of Gautam Budh Nagar, as a voter awareness exercise was launched in the district on Friday ahead of the 2027 U"
+      },
+      {
+        "claim": "The centres recorded over 150 visitors at Dadri tehsil, around 100 at Sadar tehsil and 27 at Jewar tehsil",
+        "quote": "The centres, set up to familiarise voters with the EVM and voter-verifiable paper audit trail (VVPAT) system, recorded over 150 visitors at Dadri tehsil, around 100 at Sadar tehsil and 27 at Jewar tehsil, they said."
+      },
+      {
+        "claim": "The administration has established four centres across the district, including one at the Collectorate in Greater Noida and three at the tehsil offices",
+        "quote": "The administration has established four centres across the district, including one at the Collectorate in Greater Noida and three at the tehsil offices covering the Noida, Dadri and Jewar assembly constituencies."
+      },
+      {
+        "claim": "The exercise is being undertaken in accordance with the Election Commission of India’s directions to familiarise voters with the functioning of EVMs and VVPATs ahead of the assembly elections",
+        "quote": "The exercise is being undertaken in accordance with the Election Commission of India’s directions to familiarise voters with the functioning of EVMs and VVPATs ahead of the assembly elections,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "EVM demonstration centres launched in Gautam Budh Nagar ahead of 2027 U.P. assembly polls to familiarise voters with electronic voting machines and voter-verifiable paper audit trails.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "2e4b5c8beb",
+  "url": "https://kashmirlife.net/pg-doctors-senior-residents-intensify-strike-over-stipend-parity-in-jammu-kashmir-462171/",
+  "title": "PG Doctors, Senior Residents Intensify Strike Over Stipend Parity in Jammu Kashmir",
+  "outlet": "Kashmir Life",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1402,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Postgraduate and senior resident doctors in Jammu and Kashmir intensified their strike demanding stipend parity with other states and maternity leave benefits, with protests ongoing at two government medical colleges and plans to expand to district hospitals.",
+    "facts": [
+      {
+        "claim": "Postgraduate and senior resident doctors across Jammu and Kashmir intensified their agitation on Saturday, boycotting routine hospital duties, outpatient departments (OPDs) and elective surgeries at Government Medical College (GMC) Srinagar and GMC Jammu over demands for stipend parity and maternity leave benefits.",
+        "quote": "SRINAGAR: Postgraduate and senior resident doctors across Jammu and Kashmir intensified their agitation on Saturday, boycotting routine hospital duties, outpatient departments (OPDs) and elective surgeries at Government Medical College (GMC) Srinagar and GMC Jammu over demands for stipend parity and maternity leave benefits."
+      },
+      {
+        "claim": "The protest entered its second day at GMC Srinagar and its third day at GMC Jammu, with the doctors demanding stipends at par with those provided to their counterparts in other states and Union Territories.",
+        "quote": "The protest entered its second day at GMC Srinagar and its third day at GMC Jammu, with the doctors demanding stipends at par with those provided to their counterparts in other states and Union Territories."
+      },
+      {
+        "claim": "The protesting doctors are also seeking the implementation of maternity leave benefits in accordance with the directions of the High Court.",
+        "quote": "The protesting doctors are also seeking the implementation of maternity leave benefits in accordance with the directions of the High Court."
+      },
+      {
+        "claim": "All India Medical Students Association (AIMSA) president Dr Mohammad Momin Khan cautioned the authorities against taking retaliatory action or intimidating doctors participating in the agitation.",
+        "quote": "All India Medical Students Association (AIMSA) president Dr Mohammad Momin Khan cautioned the authorities against taking retaliatory action or intimidating doctors participating in the agitation."
+      },
+      {
+        "claim": "AIMSA has appealed to the Jammu and Kashmir Government, the Health and Medical Education Department and Lieutenant Governor Manoj Sinha to intervene and initiate meaningful dialogue with the protesting doctors to resolve their demands within a defined timeframe.",
+        "quote": "AIMSA has appealed to the Jammu and Kashmir Government, the Health and Medical Education Department and Lieutenant Governor Manoj Sinha to intervene and initiate meaningful dialogue with the protesting doctors to resolve their demands within a defined timeframe."
+      },
+      {
+        "claim": "Khan urged the Lieutenant Governor and the Health Department to hold immediate talks with the protesting doctors and address their grievances.",
+        "quote": "Khan urged the Lieutenant Governor and the Health Department to hold immediate talks with the protesting doctors and address their grievances."
+      },
+      {
+        "claim": "The agitation is likely to widen, with doctors at district hospitals scheduled to join the strike from November 23.",
+        "quote": "The agitation is likely to widen, with doctors at district hospitals scheduled to join the strike from November 23."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Doctors in Jammu and Kashmir are striking for stipend parity with other states and Union Territories and maternity leave benefits as per High Court directions, with the strike expanding to district hospitals starting November 23.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "4fbd1ce041",
+  "url": "https://www.hindustantimes.com/cities/patna-news/bihar-to-dissolve-panel-probe-land-donated-under-bhoodan-andolan-of-vinoba-bhave-101795007210342.html",
+  "title": "Bihar to dissolve panel, probe land donated under Bhoodan Andolan of Vinoba Bhave",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3272,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Bihar government plans to dissolve the Bihar Bhoodan Yagya Committee and investigate land donations from Vinoba Bhave's movement, suspecting irregularities in distribution to genuine beneficiaries or public use.",
+    "facts": [
+      {
+        "claim": "Bihar government plans to dissolve the Bihar Bhoodan Yagya Committee and investigate land donations from Vinoba Bhave's movement",
+        "quote": "Revenue and land reforms minister Dilip Kumar Jaiswal announced the decision at a press conference here on Wednesday, expressing strong apprehension that “there could be major irregularities” in the way the donated land was distributed over the decades."
+      },
+      {
+        "claim": "suspecting irregularities in distribution to genuine beneficiaries or public use",
+        "quote": "The government suspects that in many cases the land may not have gone to genuine beneficiaries or for the intended public use."
+      },
+      {
+        "claim": "committee confirmed 3.46 lakh acres from 6.48 lakh acres donated",
+        "quote": "the committee, which once received nearly 6.48 lakh acres from zamindars and former rulers on Vinoba Bhave’s call, had confirmed only about 3.46 lakh acres."
+      },
+      {
+        "claim": "2.42 lakh acres distributed to landless and needy families and government purposes",
+        "quote": "Of this, roughly 2.42 lakh acres were distributed through its district branches to landless and needy families as well as for government purposes."
+      },
+      {
+        "claim": "6,235 acres remain available for immediate distribution",
+        "quote": "About 6,235 acres remain available for immediate distribution."
+      },
+      {
+        "claim": "requisitions for 3,310 posts sent to recruitment agency",
+        "quote": "requisitions for 3,310 posts — 96 assistant settlement officers, 414 kanungos, 2,609 ameens and 191 clerks — have already been sent to the concerned recruitment agency."
+      },
+      {
+        "claim": "another 2,000 vacancies likely to be added, total recruitment closer to 5,000",
+        "quote": "The minister indicated that another 2,000 vacancies are likely to be added, taking the total recruitment closer to 5,000."
+      },
+      {
+        "claim": "government wants survey completed by January to resolve land disputes",
+        "quote": "The department hopes to have the newly recruited staff join by January so that fieldwork can pick up pace."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Bihar government is dissolving the committee overseeing land donations from Vinoba Bhave's movement and conducting an inquiry into land distribution, suspecting irregularities in allocation to genuine beneficiaries or public use.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

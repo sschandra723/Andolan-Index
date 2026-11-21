@@ -1,0 +1,59 @@
+{
+  "id": "dfadc23e95",
+  "url": "https://www.thehindu.com/news/national/kerala/kerala-pradesh-mahila-congress-stages-kerala-jantar-mantar-protest-outside-lok-bhavan-demanding-resignation-of-cec-gyanesh-kumar/article71727723.ece",
+  "title": "Kerala Pradesh Mahila Congress stages ‘Kerala Jantar Mantar’ protest outside Lok Bhavan demanding resignation of CEC Gyanesh Kumar",
+  "outlet": "The Hindu",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "Gyanesh Kumar",
+    "=CEC"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2089,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "Kerala Pradesh Mahila Congress staged a protest outside Lok Bhavan demanding CEC Gyanesh Kumar's resignation over the Special Intensive Revision voter list recheck, calling it a second freedom struggle.",
+    "facts": [
+      {
+        "claim": "Kerala Pradesh Mahila Congress staged a protest outside Lok Bhavan",
+        "quote": "The Kerala Pradesh Mahila Congress, the women’s wing of the Congress party in Keralam, on Saturday put an effigy of Chief Election Commissioner (CEC) Gyanesh Kumar on public trial outside the Keralam Lok Bhavan, demanding Mr. Kumar’s resignation in connection with the contentious Special Intensive Revision (SIR) of the electoral roll."
+      },
+      {
+        "claim": "demanding CEC Gyanesh Kumar's resignation over the Special Intensive Revision voter list recheck",
+        "quote": "demanding Mr. Kumar’s resignation in connection with the contentious Special Intensive Revision (SIR) of the electoral roll."
+      },
+      {
+        "claim": "calling it a second freedom struggle",
+        "quote": "Mahila Congress State president Jebi Mather described the fight against SIR as \"a second freedom struggle\" led by Mr. Gandhi and Congress president Mallikarjun Kharge."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest is part of the ongoing opposition to the Special Intensive Revision (SIR) voter list recheck, which the Congress party claims is undermining electoral democracy.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "8b176990f9",
+  "url": "https://timesofindia.indiatimes.com/india/not-under-any-house-arrest-leh-police-withdraw-security-arrangements-outside-sonam-wangchuks-home/articleshow/136044987.cms",
+  "title": "'Not under any house arrest': Leh Police withdraw security arrangements outside Sonam Wangchuk's home",
+  "outlet": "Times of India",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": "ladakh-statehood",
+  "score": 3.0,
+  "matched": [
+    "Ladakh",
+    "Sonam Wangchuk",
+    "Leh"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2136,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Leh police withdrew security arrangements around climate activist Sonam Wangchuk's home, clarifying he was not under house arrest despite claims he was confined after being taken from a protest site.",
+    "facts": [
+      {
+        "claim": "Leh police withdrew security arrangements",
+        "quote": "Leh Police on Friday night removed security arrangements put in place to ensure compliance with a prohibitory order imposed on climate activist Sonam Wangchuk in Leh, officials said."
+      },
+      {
+        "claim": "Wangchuk was not under house arrest",
+        "quote": "The police further stated that the prohibitory order had been issued by the Additional District Magistrate (ADM) of Leh and denied claims that Wangchuk was under house arrest."
+      },
+      {
+        "claim": "Wangchuk alleged he was confined after being taken from a protest site",
+        "quote": "The activist alleged that he was confined to his residence after being taken away from a protest site and escorted home on November 11."
+      },
+      {
+        "claim": "Wangchuk claimed security personnel restricted his movement",
+        "quote": "Earlier, Wangchuk, a prominent member of the Leh apex body (LAB), alleged that around 20-25 police and paramilitary personnel had been stationed outside his residence, restricting his movement."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Climate activist Sonam Wangchuk, a key figure in the Ladakh statehood movement, is involved in protests related to the upcoming elections to the Autonomous Hill Development Councils scheduled for December 4.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

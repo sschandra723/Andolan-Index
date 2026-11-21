@@ -1,0 +1,70 @@
+{
+  "id": "39f5b15377",
+  "url": "https://www.greaterkashmir.com/national/pm-narendra-modi-urges-industry-to-put-india-first-in-long-term-investment-decisions-12825120",
+  "title": "PM Narendra Modi urges industry to put India First in long-term investment decisions",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Prime Minister Narendra Modi urged Indian industry to prioritize national interests in long-term investments during a FICCI centenary event, highlighting economic progress and the need to reduce import dependence in key sectors.",
+    "facts": [
+      {
+        "claim": "Prime Minister Narendra Modi urged Indian industry to put India First at the centre of its long-term investment decisions",
+        "quote": "Prime Minister Narendra Modi on Thursday urged Indian industry to put India First at the centre of its long-term investment decisions"
+      },
+      {
+        "claim": "The next 20 years would be crucial for the country’s journey towards becoming a developed and self-reliant nation",
+        "quote": "saying the next 20 years would be crucial for the country’s journey towards becoming a developed and self-reliant nation"
+      },
+      {
+        "claim": "India is today the world’s fastest-growing major economy",
+        "quote": "PM Modi said India was today the world’s fastest-growing major economy"
+      },
+      {
+        "claim": "Merchandise exports touched nearly $50 billion in October, the highest monthly figure ever",
+        "quote": "he said merchandise exports touched nearly $50 billion in October, the highest monthly figure ever"
+      },
+      {
+        "claim": "The basic corporate tax rate had been reduced from 30 per cent to 22 per cent",
+        "quote": "he said the basic corporate tax rate had been reduced from 30 per cent to 22 per cent"
+      },
+      {
+        "claim": "India exported iron ore but imported finished steel",
+        "quote": "he pointed out that India exported iron ore but imported finished steel"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "PM Modi emphasized economic reforms and reduced import dependence in critical sectors during a FICCI centenary address.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “he said merchandise exports touched nearly $50 billion in October, the highest m”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

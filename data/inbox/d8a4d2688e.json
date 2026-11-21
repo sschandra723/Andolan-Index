@@ -1,0 +1,54 @@
+{
+  "id": "d8a4d2688e",
+  "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-meta-controversy-youth-congress-protests-meta-offices-leaders-instagram-account-suspension-censorship-allegations-3043624-2026-11-21",
+  "title": "Do business, not politics: Akhilesh Yadav's message to Meta amid Congress protests",
+  "outlet": "India Today",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4284,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Akhilesh Yadav urged foreign companies to avoid politics in India, as Youth Congress workers protested outside Meta offices in Mumbai and Hyderabad over alleged selective suspension of opposition social media accounts.",
+    "facts": [
+      {
+        "claim": "Akhilesh Yadav urged foreign companies to avoid politics in India",
+        "quote": "Samajwadi Party chief Akhilesh Yadav on Friday appeared to take a swipe at the controversy surrounding Meta, saying foreign companies operating in India should focus on business rather than politics and should treat everyone equally."
+      },
+      {
+        "claim": "Youth Congress workers protested outside Meta offices in Mumbai and Hyderabad",
+        "quote": "The Mumbai Youth Congress staged a protest outside Meta's office at World One in Bandra-Kurla Complex (BKC)"
+      },
+      {
+        "claim": "Alleged selective suspension of opposition social media accounts",
+        "quote": "alleging that the suspension of social media accounts belonging to Indian Youth Congress leaders was aimed at suppressing voices critical of the BJP and the RSS."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Youth Congress workers in Mumbai and Hyderabad protested against Meta's alleged selective suspension of opposition social media accounts, with demands for immediate restoration of restricted accounts and an end to what they described as censorship.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "12395b105c",
+  "url": "https://theshillongtimes.com/2026/11/19/shillong-ropeway-protest-meghalaya-needs-more-politics-not-less/",
+  "title": "Shillong Ropeway Protest: Meghalaya Needs More Politics, Not Less",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "ropeway"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "shillong-ropeway-2026",
+    "new_movement": null,
+    "summary": "The Shillong Ropeway protest in Meghalaya involves political tensions, with local leaders alleging the movement is politically motivated to discredit opponents, though participants include candidates who lost to Sanbor Shullai in recent elections.",
+    "facts": [
+      {
+        "claim": "The Shillong Ropeway protest in Meghalaya involves political tensions",
+        "quote": "There are allegations from some quarters that the agitation against the Shillong Ropeway project is politically tainted."
+      },
+      {
+        "claim": "local leaders alleging the movement is politically motivated to discredit opponents",
+        "quote": "Shanbor Shullai, the MLA from South Shillong where the project is being implemented, made this allegation after a meeting with the demonstrators."
+      },
+      {
+        "claim": "participants include candidates who lost to Sanbor Shullai in recent elections",
+        "quote": "All of them lost their respective elections, and they all either contested directly against Sanbor Shullai or his nephew, Ricky Shullai."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest targets the Shillong Ropeway project, with participants including political candidates who lost to Sanbor Shullai in Meghalaya elections, highlighting political stakes in the movement.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "1 outlet in the last 48 hours; coverage up from 2 to 3 reports this week."
+  }
+}

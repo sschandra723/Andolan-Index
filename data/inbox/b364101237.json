@@ -1,0 +1,58 @@
+{
+  "id": "b364101237",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/patients-suffer-as-government-doctors-hold-two-hour-protest-in-sonepat-101795112833024.html",
+  "title": "Patients suffer as government doctors hold two-hour protest in Sonepat",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3523,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Government doctors in Sonepat held a two-hour symbolic strike to protest proposed disciplinary action against 13 doctors, including a former chief medical officer, following an internal inspection that found serious deficiencies in healthcare services.",
+    "facts": [
+      {
+        "claim": "Government doctors in Sonepat held a two-hour symbolic strike",
+        "quote": "Government healthcare services were affected across Sonepat district on Thursday as medical officers and dental surgeons observed a two-hour symbolic strike to protest against the proposed disciplinary action against 13 government doctors, including a former chief medical officer (CMO)."
+      },
+      {
+        "claim": "protest was against proposed disciplinary action against 13 doctors",
+        "quote": "The protest was called against the proposed issuance of chargesheets under Rule 8 of the Haryana Civil Services (Punishment and Appeal) Rules, 2016, to 13 doctors, including the then CMO of Sonepat."
+      },
+      {
+        "claim": "the strike disrupted outpatient services",
+        "quote": "The doctors stayed away from work between 9 am and 11 am, disrupting outpatient department (OPD) services at the district civil hospital, sub-divisional hospitals, community health centres (CHCs) and primary health centres (PHCs)."
+      },
+      {
+        "claim": "the strike followed an internal inspection that found deficiencies",
+        "quote": "The action was initiated following an inspection of various health centres in Sonepat district between October 29 to October 31 last year. During the inspection, several serious deficiencies were found in the functioning of hospitals and health centres, administrative arrangements and healthcare services."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Government doctors in Sonepat held a two-hour symbolic strike to protest proposed disciplinary action against 13 doctors, including a former chief medical officer, following an internal inspection that found serious deficiencies in healthcare services.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

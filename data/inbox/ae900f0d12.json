@@ -1,0 +1,82 @@
+{
+  "id": "ae900f0d12",
+  "url": "https://www.thehindu.com/news/national/karnataka/protest-in-nr-pura-over-elephant-attack/article71720839.ece",
+  "title": "Protest in N.R. Pura over elephant attack",
+  "outlet": "The Hindu",
+  "published": "2026-11-19",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1609,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Farmers in N.R. Pura town staged a protest demanding a permanent solution to human-elephant conflict after a farmer died in an elephant attack.",
+    "facts": [
+      {
+        "claim": "Farmers’ organisations in N.R. Pura taluk of Chikkamagaluru district observed a bandh in N.R. Pura town on Thursday to condemn the death of a farmer in an elephant attack.",
+        "quote": "Farmers’ organisations in N.R. Pura taluk of Chikkamagaluru district observed a bandh in N.R. Pura town on Thursday to condemn the death of a farmer in an elephant attack."
+      },
+      {
+        "claim": "Residents of the taluk also staged a protest, demanding a permanent solution to the human-elephant conflict.",
+        "quote": "Residents of the taluk also staged a protest, demanding a permanent solution to the human-elephant conflict."
+      },
+      {
+        "claim": "Krishnamurthi, 53, a farmer from Hennangi village, was attacked by a wild elephant on Wednesday evening while searching for his cattle in the forest area.",
+        "quote": "Krishnamurthi, 53, a farmer from Hennangi village, was attacked by a wild elephant on Wednesday evening while searching for his cattle in the forest area."
+      },
+      {
+        "claim": "The bandh call drew a good response, with many business establishments remaining closed during the morning hours in support of the protest.",
+        "quote": "The bandh call drew a good response, with many business establishments remaining closed during the morning hours in support of the protest."
+      },
+      {
+        "claim": "The farmers demanded the construction of a railway barricade to prevent wild elephants from entering human habitations.",
+        "quote": "The farmers demanded the construction of a railway barricade to prevent wild elephants from entering human habitations."
+      },
+      {
+        "claim": "They also objected to Excise Minister K.M. Shivalinge Gowda’s statement that problem elephants in Hassan district would be driven to the Bhadra Wildlife Sanctuary.",
+        "quote": "They also objected to Excise Minister K.M. Shivalinge Gowda’s statement that problem elephants in Hassan district would be driven to the Bhadra Wildlife Sanctuary."
+      },
+      {
+        "claim": "Urging the State government to withdraw the decision, they said the conflict must be addressed within Chikkamagaluru district itself, in the interest of its people.",
+        "quote": "Urging the State government to withdraw the decision, they said the conflict must be addressed within Chikkamagaluru district itself, in the interest of its people."
+      },
+      {
+        "claim": "MLA T.D. Raje Gowda, Deputy Commissioner Bhanwar Singh Meena, Superintendent of Police Jitendra Kumar Dayama and others met the protesters.",
+        "quote": "MLA T.D. Raje Gowda, Deputy Commissioner Bhanwar Singh Meena, Superintendent of Police Jitendra Kumar Dayama and others met the protesters."
+      },
+      {
+        "claim": "Mr. Raje Gowda said he had met Forest Minister Ramalinga Reddy and urged him not to drive wild elephants to the Bhadra Wildlife Sanctuary, as the sanctuary already has a high elephant population.",
+        "quote": "Mr. Raje Gowda said he had met Forest Minister Ramalinga Reddy and urged him not to drive wild elephants to the Bhadra Wildlife Sanctuary, as the sanctuary already has a high elephant population."
+      },
+      {
+        "claim": "Mr. Meena said he would convene meetings on forest-related issues regularly and address them in a timely manner. He added that the Forest Minister had convened a meeting to discuss human-elephant conflict.",
+        "quote": "Mr. Meena said he would convene meetings on forest-related issues regularly and address them in a timely manner. He added that the Forest Minister had convened a meeting to discuss human-elephant conflict."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers in N.R. Pura taluk of Chikkamagaluru district staged a protest after a farmer died in an elephant attack, demanding a railway barricade to prevent wild elephants from entering human habitations and urging the state government to address the human-elephant conflict within Chikkamagaluru district.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "10/10",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

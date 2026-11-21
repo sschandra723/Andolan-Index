@@ -1,0 +1,71 @@
+{
+  "id": "34473a3c3d",
+  "url": "https://www.hindustantimes.com/india-news/sc-seeks-responses-from-parties-on-traders-plea-against-ramlila-maidan-as-protest-venue-101795026056965.html",
+  "title": "SC seeks responses from parties on traders’ plea against Ramlila Maidan as protest venue",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "Cockroach Janata Party",
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4971,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court asked political parties and groups to respond to a petition by Delhi traders' associations challenging the use of Ramlila Maidan as a protest venue, citing disruptions to business and livelihoods.",
+    "facts": [
+      {
+        "claim": "The Supreme Court sought responses from political parties, including the Congress and the Aam Aadmi Party (AAP), and organisations such as the Cockroach Janata Party (CJP) and the All India Students Union (AISA), on a petition by market traders’ associations challenging the designation of Ramlila Maidan as a protest venue",
+        "quote": "The Supreme Court on Wednesday sought responses from political parties, including the Congress and the Aam Aadmi Party (AAP), and organisations such as the Cockroach Janata Party (CJP) and the All India Students Union (AISA), on a petition by market traders’ associations challenging the designation of Ramlila Maidan as a protest venue"
+      },
+      {
+        "claim": "The traders have argued that demonstrations at the ground disrupt business, affect livelihoods and deny access to roads leading to nearby residential areas",
+        "quote": "The traders have argued that demonstrations at the ground disrupt business, affect livelihoods and deny access to roads leading to nearby residential areas."
+      },
+      {
+        "claim": "A bench headed by Chief Justice of India Surya Kant issued notices on a petition filed by the Kirana Committee of Delhi and the Delhi Iron and Hardware Merchants Association of Chawri Bazar on October 16, ahead of a proposed “Lehra Do Tiranga” march organised by the CJP at Connaught Place, with participation by AISA, on the same day",
+        "quote": "A bench headed by Chief Justice of India Surya Kant issued notices on a petition filed by the Kirana Committee of Delhi and the Delhi Iron and Hardware Merchants Association of Chawri Bazar on October 16, ahead of a proposed “Lehra Do Tiranga” march organised by the CJP at Connaught Place, with participation by AISA, on the same day."
+      },
+      {
+        "claim": "The petition seeks quashing of the October 11 order issued by Delhi Police designating Ramlila Maidan as a protest site, and a fresh, reasoned assessment after considering the surrounding areas and the interests of those affected",
+        "quote": "The petition seeks quashing of the October 11 order issued by Delhi Police designating Ramlila Maidan as a protest site, and a fresh, reasoned assessment after considering the surrounding areas and the interests of those affected."
+      },
+      {
+        "claim": "The traders estimated that Delhi sees daily business of around ₹500 crore to ₹600 crore, of which about ₹250 crore was at risk each day during the peak season between October 2026 and January 2027",
+        "quote": "It estimated that Delhi sees daily business of around ₹500 crore to ₹600 crore, of which about ₹250 crore was at risk each day during the peak season between October 2026 and January 2027."
+      },
+      {
+        "claim": "The petition said nearly one million establishments, 10 million livelihoods and around 500,000 outstation traders depended on this activity",
+        "quote": "The petition said nearly one million establishments, 10 million livelihoods and around 500,000 outstation traders depended on this activity."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court is hearing a petition by Delhi traders' associations challenging the use of Ramlila Maidan as a protest venue, citing disruptions to business and livelihoods.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

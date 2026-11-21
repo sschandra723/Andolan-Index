@@ -1,0 +1,62 @@
+{
+  "id": "ff719dc3c6",
+  "url": "https://www.thehindu.com/news/cities/chennai/at-asian-college-of-journalism-pamphlets-turn-into-powerful-tools-of-protest/article71711062.ece",
+  "title": "At Asian College of Journalism, pamphlets turn into powerful tools of protest",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3839,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "An exhibition at Asian College of Journalism showcases pamphlets used in protest movements, highlighting themes like labor rights, farmers' protests, and Delhi's air pollution. The event, organized by SAHMAT, emphasizes the role of art and literature in social movements and resistance.",
+    "facts": [
+      {
+        "claim": "An exhibition by SAHMAT (Safdar Hashmi Memorial Trust) at the Asian College of Journalism opens conversations on dissent, solidarity, and social justice through pamphlets.",
+        "quote": "Parcha: Voicing the political, an ongoing exhibition by SAHMAT (Safdar Hashmi Memorial Trust) at the Asian College of Journalism, opens up conversations surrounding ideas of dissent, solidarity and social justice — all triggered by a humble pamphlet."
+      },
+      {
+        "claim": "The exhibition displays works by around 100 artists covering topics such as dilution of labour codes, farmers’ protests, and Delhi's air pollution.",
+        "quote": "Inaugurated by artist Trotsky Marudu on November 11, the exhibition displays the works of around 100 artists, each touching upon subjects ranging from dilution of labour codes, and farmers’ protests, to the state of air pollution in Delhi, among others."
+      },
+      {
+        "claim": "A student of Asian College of Journalism describes a pamphlet by artist Girish Behera depicting the pandemic's impact on migrant laborers.",
+        "quote": "There is one artwork of a man carrying another man, wrapped in white, on the back, portraying the COVID-19 pandemic. Despite the media’s coverage of the pandemic, it is evident that COVID-19 in this neo liberal India, engineered a mass exodus of migrant labourers,"
+      },
+      {
+        "claim": "Artist Ita Mehrotra's work on the Shaheen Bagh uprising portrays it as a democratic movement led by subaltern Muslim women.",
+        "quote": "Another artwork, titled Women of Shaheen Bagh by artist Ita Mehrotra, also seems to have caught his eye. \"The Shaheen Bagh uprising was portrayed as an anti-national conspiracy involving Indian Muslims. But the painting presented it as a democratic uprising, with subaltern Muslim women at its forefront, capturing the intersectional nature of the protest,\""
+      },
+      {
+        "claim": "SAHMAT was formed in response to Safdar Hashmi's 1989 assassination to defend freedom of expression.",
+        "quote": "SAHMAT was formed as a response from the creative community to the attack and assassination of Safdar Hashmi in 1989. Conceived as a platform to defend freedom of expression, it has, over the past 37 years, upheld the right of artists to express themselves through their work and engage with issues concerning the country and the world."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The exhibition highlights the historical role of pamphlets in Indian protest movements, emphasizing their use in labor rights, environmental issues, and social justice campaigns.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

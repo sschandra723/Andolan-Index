@@ -1,0 +1,58 @@
+{
+  "id": "85731aa440",
+  "url": "https://kashmirobserver.net/2026/11/18/pg-doctors-threaten-opd-shutdown-from-nov-23/",
+  "title": "PG Doctors Threaten OPD Shutdown From Nov 23",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4568,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Postgraduate doctors in Jammu and Kashmir are threatening to shut outpatient services from November 23 if their stipend increases and parity with other states are not addressed by then, with support from multiple medical colleges and district hospitals.",
+    "facts": [
+      {
+        "claim": "Postgraduate doctors in Jammu and Kashmir are threatening to shut outpatient services from November 23 if their stipend increases and parity with other states are not addressed by then",
+        "quote": "The association has further announced that routine Outpatient Department (OPD) services will be suspended from November 23 if the government fails to address their demands by then."
+      },
+      {
+        "claim": "Support from multiple medical colleges and district hospitals",
+        "quote": "The announcement has initially gained momentum at Government Medical College (GMC) Jammu and has now received support from resident doctors at GMC Anantnag, besides several district-level healthcare institutions, signalling a wider mobilisation over what the protesting doctors describe as long-pending financial and service-related concerns."
+      },
+      {
+        "claim": "Demands include stipend revision and parity with other states",
+        "quote": "The protesting doctors are primarily seeking an immediate revision of stipends for all PG resident doctors, including those pursuing Diplomate of National Board (DNB) courses, besides ensuring parity with the stipends being provided to resident doctors in other states and Union Territories."
+      },
+      {
+        "claim": "Maternity leave benefits are also a demand",
+        "quote": "Another major demand relates to the implementation of maternity leave benefits for eligible resident doctors in accordance with the applicable directions of the High Court, with the association seeking an end to the delay in extending these benefits."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Postgraduate doctors in Jammu and Kashmir are threatening to shut outpatient services from November 23 if their stipend increases and parity with other states are not addressed by then, with support from multiple medical colleges and district hospitals.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

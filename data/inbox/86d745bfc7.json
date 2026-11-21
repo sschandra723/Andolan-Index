@@ -1,0 +1,54 @@
+{
+  "id": "86d745bfc7",
+  "url": "https://www.hindustantimes.com/cities/pune-news/bjp-turns-on-its-own-civic-rule-over-encroachments-pmc-admits-decade-long-failure-101794958260603.html",
+  "title": "BJP turns on its own civic rule over encroachments; PMC admits decade-long failure",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4784,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Pune municipal commissioner admitted encroachments on FC Road had remained largely unchanged for nearly 10 years despite BJP corporators protesting the civic body's failure to clear them.",
+    "facts": [
+      {
+        "claim": "encroachments on FC Road had remained largely unchanged for nearly 10 years",
+        "quote": "encroachments on FC Road had remained largely unchanged for nearly 10 years"
+      },
+      {
+        "claim": "BJP corporators staged a protest against the civic body’s failure to clear them",
+        "quote": "the ruling party corporators staged a protest against the civic body’s failure to clear them"
+      },
+      {
+        "claim": "the administration has ordered the suspension of six anti-encroachment officials responsible for the FC Road area",
+        "quote": "the administration has also ordered the suspension of six anti-encroachment officials responsible for the FC Road area"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Pune municipal commissioner admitted encroachments on FC Road had remained largely unchanged for nearly 10 years despite BJP corporators protesting the civic body's failure to clear them.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

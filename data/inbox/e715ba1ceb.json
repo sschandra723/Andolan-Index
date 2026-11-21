@@ -1,0 +1,77 @@
+{
+  "id": "e715ba1ceb",
+  "url": "https://eastmojo.com/manipur/2026/11/18/manipur-indigenous-groups-hold-joint-protest-over-attacks-on-civilians/",
+  "title": "Manipur: Indigenous groups hold joint protest over attacks on civilians",
+  "outlet": "EastMojo",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": "manipur-protests-2026",
+  "score": 2.0,
+  "matched": [
+    "Manipur",
+    "Imphal"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3401,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "Indigenous groups in Manipur held a joint protest at Mao Market in Imphal, expressing concern over civilian attacks and demanding peace, security and justice after recent killings by suspected Kuki militants.",
+    "facts": [
+      {
+        "claim": "Hundreds of people from various indigenous groups of Manipur gathered at Mao Market in Imphal on Wednesday",
+        "quote": "Hundreds of people from various indigenous groups of Manipur gathered at Mao Market in Imphal on Wednesday"
+      },
+      {
+        "claim": "The gathering was organised by the Native People’s Committee Manipur (NPCM) in coordination with various indigenous civil society organisations (CSOs)",
+        "quote": "The gathering was organised by the Native People’s Committee Manipur (NPCM) in coordination with various indigenous civil society organisations (CSOs)"
+      },
+      {
+        "claim": "Amana Thaimai, co-convenor of the Naga Humanitarian Aid Committee Manipur (NHACM), said indigenous communities had been deeply affected by the prolonged crisis, which has claimed numerous lives",
+        "quote": "Amana Thaimai, co-convenor of the Naga Humanitarian Aid Committee Manipur (NHACM), said indigenous communities had been deeply affected by the prolonged crisis, which has claimed numerous lives."
+      },
+      {
+        "claim": "Referring to recent incidents, Thaimai condemned the November 13 ambush along the Imphal-Ukhrul highway near New Heaven, in which four civilians were killed in an attack allegedly carried out by suspected Kuki militants",
+        "quote": "Referring to recent incidents, Thaimai condemned the November 13 ambush along the Imphal-Ukhrul highway near New Heaven, in which four civilians were killed in an attack allegedly carried out by suspected Kuki militants."
+      },
+      {
+        "claim": "He said the latest incident was the fourth such attack reported at the same location",
+        "quote": "He said the latest incident was the fourth such attack reported at the same location."
+      },
+      {
+        "claim": "Thaimai urged the government to take effective steps to address the situation",
+        "quote": "Thaimai urged the government to take effective steps to address the situation, stating that the continued violence and concerns over civilian safety had prompted indigenous communities to come together and discuss ways forward."
+      },
+      {
+        "claim": "Vaomichon RS, wife of Kapangkhui RS, one of the four civilians killed on November 13 in Ukhrul district, thanked members of the indigenous communities for extending their support to the bereaved families",
+        "quote": "Vaomichon RS, wife of Kapangkhui RS, one of the four civilians killed on November 13 in Ukhrul district, thanked members of the indigenous communities for extending their support to the bereaved families."
+      },
+      {
+        "claim": "Kapangkhui RS and Haoleila RS, a mother and son from Shangshak Khullen village, and siblings Tychicus Ngalung and Tanmila Keishing from Tashar village were killed in an alleged ambush by suspected Kuki militants along the Imphal-Ukhrul highway on November 13, 2026",
+        "quote": "Kapangkhui RS and Haoleila RS, a mother and son from Shangshak Khullen village, and siblings Tychicus Ngalung and Tanmila Keishing from Tashar village were killed in an alleged ambush by suspected Kuki militants along the Imphal-Ukhrul highway on November 13, 2026."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Indigenous groups in Manipur held a joint protest at Mao Market in Imphal, expressing concern over civilian attacks and demanding peace, security and justice after recent killings by suspected Kuki militants.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "2 outlets in the last 48 hours; coverage up from 1 to 7 reports this week."
+  }
+}

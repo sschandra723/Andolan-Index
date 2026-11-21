@@ -1,0 +1,92 @@
+{
+  "id": "8c2c1d7b05",
+  "url": "https://www.greaterkashmir.com/kashmir/2-day-nature-exploration-event-concludes-at-manasbal-12827820",
+  "title": "2-day nature exploration event concludes at Manasbal",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3190,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A two-day nature exploration event organized by WMDA and Government Degree College concluded at Manasbal Lake with activities promoting environmental conservation and drug awareness, including a painting competition on nature conservation and drug abuse themes.",
+    "facts": [
+      {
+        "claim": "A two-day Nature Exploration event organised by the Wullar Manasbal Development Authority (WMDA) in collaboration with Government Degree College (GDC), Ganderbal, concluded at Manasbal on Thursday",
+        "quote": "Srinagar, Nov 20: A two-day Nature Exploration event organised by the Wullar Manasbal Development Authority (WMDA) in collaboration with Government Degree College (GDC), Ganderbal, concluded at Manasbal on Thursday, witnessing enthusiastic participation from students, nature enthusiasts, visitors and local stakeholders."
+      },
+      {
+        "claim": "The event featured activities aimed at promoting environmental conservation, public awareness and community participation in protecting the region's natural heritage",
+        "quote": "The event featured a range of activities aimed at promoting environmental conservation, public awareness and community participation in protecting the region's natural heritage."
+      },
+      {
+        "claim": "On the concluding day, a painting competition was organised on the themes of nature conservation and drug abuse",
+        "quote": "On the concluding day, a painting competition was organised on the themes of nature conservation and drug abuse."
+      },
+      {
+        "claim": "Students showcased their creativity through paintings reflecting the importance of preserving the environment and raising awareness against substance abuse",
+        "quote": "Students showcased their creativity through paintings reflecting the importance of preserving the environment and raising awareness against substance abuse."
+      },
+      {
+        "claim": "Renowned visual artist and calligrapher Saiqa Rashid served as the expert judge for the competition",
+        "quote": "Renowned visual artist and calligrapher Saiqa Rashid served as the expert judge for the competition, evaluating the artworks presented by the participants."
+      },
+      {
+        "claim": "The programme concluded with the distribution of prizes and certificates of appreciation among participating students and volunteers",
+        "quote": "The programme concluded with the distribution of prizes and certificates of appreciation among participating students and volunteers."
+      },
+      {
+        "claim": "Chief Executive Officer, WMDA, Dr Ahsanul Haq Chishti, and Head of the Central Silk Board, Manasbal, Dr Rajesh Kumar, presented the awards",
+        "quote": "Chief Executive Officer, WMDA, Dr Ahsanul Haq Chishti, and Head of the Central Silk Board, Manasbal, Dr Rajesh Kumar, presented the awards."
+      },
+      {
+        "claim": "Dr Chishti said WMDA would continue to provide platforms for creative initiatives and artistic activities to strengthen people's connection with nature and reinforce collective efforts towards environmental conservation and combating drug abuse",
+        "quote": "Addressing the gathering, Dr Chishti said WMD and A would continue to provide platforms for creative initiatives and artistic activities to strengthen people's connection with nature and reinforce collective efforts towards environmental conservation and combating drug abuse."
+      },
+      {
+        "claim": "Dr Rajesh Kumar emphasised the need for collaborative efforts to protect the environment and address the growing challenge of substance abuse",
+        "quote": "Dr Rajesh Kumar emphasised the need for collaborative efforts to protect the environment and address the growing challenge of substance abuse."
+      },
+      {
+        "claim": "Programme Coordinator of GDC Ganderbal, Dr Jamsheeda Akhter, highlighted the role and activities of the college's National Service Scheme (NSS) unit in spreading awareness about nature conservation and drug abuse",
+        "quote": "Programme Coordinator of GDC Ganderbal, Dr Jamsheeda Akhter, highlighted the role and activities of the college's National Service Scheme (NSS) unit in spreading awareness about nature conservation and drug abuse."
+      },
+      {
+        "claim": "Earlier, on the first day of the event, NSS volunteers from GDC Ganderbal, accompanied by sanitation field staff and WMDA officials, conducted an extensive cleanliness drive along the banks of Manasbal Lake",
+        "quote": "Earlier, on the first day of the event, NSS volunteers from GDC Ganderbal, accompanied by sanitation field staff and WMDA officials, conducted an extensive cleanliness drive along the banks of Manasbal Lake, covering Kondabal, Jarokabal, Baghwan Mohalla and adjoining areas."
+      },
+      {
+        "claim": "The cleanliness drive aimed at promoting environmental responsibility, improving sanitation and sensitising people about the harmful consequences of improper waste disposal and environmental pollution",
+        "quote": "The cleanliness drive aimed at promoting environmental responsibility, improving sanitation and sensitising people about the harmful consequences of improper waste disposal and environmental pollution."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "11/12",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Addressing the gathering, Dr Chishti said WMD and A would continue to provide pl”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

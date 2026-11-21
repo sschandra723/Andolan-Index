@@ -1,0 +1,62 @@
+{
+  "id": "9f1d97c7f1",
+  "url": "https://www.hindustantimes.com/india-news/ysrcp-brs-upset-over-omissions-in-sonia-gandhi-s-belonging-a-journey-of-love-101794980485897.html",
+  "title": "YSRCP, BRS upset over omissions in Sonia Gandhi’s ‘Belonging: A Journey of Love’",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3193,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "YSRCP and BRS criticized Sonia Gandhi's autobiography for omitting key Telangana leaders and the state's history, claiming the Congress leadership showed no respect for Telangana.",
+    "facts": [
+      {
+        "claim": "YSRCP and BRS criticized Sonia Gandhi's autobiography for omitting key Telangana leaders and the state's history",
+        "quote": "The YSR Congress Party (YSRCP) and Bharat Rashtra Samithi (BRS) have voiced disappointment that their key leaders or parties have found no mention in Congress parliamentary party chairperson Sonia Gandhi’s autobiography, \"Belonging: A Journey of Love\"."
+      },
+      {
+        "claim": "YSRCP alleged there was not a single mention of former Andhra Pradesh chief minister late Y S Rajasekhara Reddy",
+        "quote": "The YSRCP alleged there was not a single mention of former Andhra Pradesh chief minister late Y S Rajasekhara Reddy, who once breathed life into the Congress, in the book."
+      },
+      {
+        "claim": "BRS alleged the Congress leadership never demonstrated genuine affection or respect for Telangana",
+        "quote": "The BRS alleged the Congress leadership never demonstrated genuine affection or respect for Telangana."
+      },
+      {
+        "claim": "BRS working president and Telangana former minister K T Rama Rao (KTR) also launched a sharp attack on Gandhi",
+        "quote": "BRS working president and Telangana former minister K T Rama Rao (KTR) also launched a sharp attack on Gandhi"
+      },
+      {
+        "claim": "There was no reference to the separate Telangana movement that gained momentum after 2009",
+        "quote": "He said there was no reference to the separate Telangana movement that gained momentum after 2009, in which scores of activists lost their lives."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "YSRCP and BRS are political parties in Telangana that have criticized Sonia Gandhi's autobiography for omitting their key leaders and the state's history, claiming the Congress leadership showed no respect for Telangana.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

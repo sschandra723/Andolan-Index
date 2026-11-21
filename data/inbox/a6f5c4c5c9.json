@@ -1,0 +1,70 @@
+{
+  "id": "a6f5c4c5c9",
+  "url": "https://www.thehindu.com/news/cities/Visakhapatnam/unions-oppose-privatisation-of-visakhapatnam-port-hospital-plan-protest-on-november-20/article71719555.ece",
+  "title": "Unions oppose privatisation of Visakhapatnam Port Hospital, plan protest on November 20",
+  "outlet": "The Hindu",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2841,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Unions in Visakhapatnam oppose privatizing the port hospital, demanding cancellation of tenders and a protest on November 20, 2026, citing healthcare risks for 40,000 workers and families.",
+    "facts": [
+      {
+        "claim": "Unions oppose privatizing the Visakhapatnam Port Hospital",
+        "quote": "All-party trade unions representing workers at the Visakhapatnam Port have strongly opposed the port management’s proposal to privatise the Visakhapatnam Port Hospital."
+      },
+      {
+        "claim": "Unions demand cancellation of tenders scheduled for November 21",
+        "quote": "Demanding the immediate withdrawal of the move and the cancellation of tenders scheduled to be opened on November 21, the unions announced a one-hour protest at the start of duty hours on Friday (November 20, 2026)."
+      },
+      {
+        "claim": "Privatization threatens healthcare for 40,000 workers and families",
+        "quote": "Addressing a press conference at the Jagadamba office in Visakhapatnam on Thursday, leaders of the Port All-Party Trade Unions termed the decision to hand over the hospital to private entities an \"extremely irresponsible act\" that jeopardises the healthcare security of nearly 40,000 port workers, employees, pensioners and their family members."
+      },
+      {
+        "claim": "Port has assets worth thousands of crores but is privatizing hospital",
+        "quote": "The union leaders questioned the rationale behind privatising the facility when the Visakhapatnam Port possesses assets worth thousands of crores of rupees, valuable land, its own buildings and substantial reserve funds, while generating annual profits running into hundreds of crores."
+      },
+      {
+        "claim": "Prime land near highway valued at ₹350 crore offered for ₹9 crore",
+        "quote": "Raising serious allegations over the terms of the proposal, the unions expressed concern that prime land abutting the National Highway—estimated to be worth around ₹350 crore—is being proposed for handover to a private firm for a mere ₹9 crore."
+      },
+      {
+        "claim": "Port could spend ₹50 crore to upgrade hospital",
+        "quote": "They questioned why the port, despite earning hundreds of crores in annual revenue, could not spend roughly ₹50 crore of its own funds to equip the hospital with modern medical facilities."
+      },
+      {
+        "claim": "Privatization would make medical care expensive",
+        "quote": "Warning that private operators work for profit rather than public service, the leaders said that privatisation would make medical care expensive and impose a severe financial burden on serving employees, retired staff and their dependents."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Unions in Visakhapatnam oppose privatizing the port hospital, demanding cancellation of tenders and a protest on November 20, 2026, citing healthcare risks for 40,000 workers and families.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

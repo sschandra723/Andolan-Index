@@ -1,0 +1,94 @@
+{
+  "id": "c0e455f14a",
+  "url": "https://www.thehindu.com/news/national/kerala/over-50-students-of-keralam-school-hospitalised-after-suspected-pollution-from-tar-mixing-unit/article71715220.ece",
+  "title": "About 62 students of Keralam school hospitalised after suspected pollution from tar-mixing unit",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2300,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "keralam-lpst-rankholders-2026",
+    "new_movement": null,
+    "summary": "62 students hospitalized after suspected pollution from a nearby tar-mixing unit, triggering protests by parents and residents demanding permanent closure of the plant.",
+    "facts": [
+      {
+        "claim": "62 students of Auxilium ISC School at Kottiyam in Kollam district of Keralam were hospitalised on Wednesday (November 18, 2026) after complaining of nausea, breathing difficulties, and uneasiness, allegedly due to pollution from a nearby tar-mixing unit",
+        "quote": "As many as 62 students of Auxilium ISC School at Kottiyam in Kollam district of Keralam were hospitalised on Wednesday (November 18, 2026) after complaining of nausea, breathing difficulties, and uneasiness, allegedly due to pollution from a nearby tar-mixing unit, police said."
+      },
+      {
+        "claim": "The students, who were studying in classes up to Plus Two, were taken to a nearby hospital following the complaints, a senior police official said",
+        "quote": "The students, who were studying in classes up to Plus Two, were taken to a nearby hospital following the complaints, a senior police official said."
+      },
+      {
+        "claim": "Many children complained of nausea and breathing difficulties. None of them have any major health issues. All the children are stable as of now",
+        "quote": "Many children complained of nausea and breathing difficulties. None of them have any major health issues. All the children are stable as of now,"
+      },
+      {
+        "claim": "Around eight ambulances were deployed to transport the students to the hospital, local authorities said",
+        "quote": "Around eight ambulances were deployed to transport the students to the hospital, local authorities said."
+      },
+      {
+        "claim": "The incident triggered protests by parents and local residents, who demanded the permanent closure of the plant, alleging violations of environmental norms",
+        "quote": "The incident triggered protests by parents and local residents, who demanded the permanent closure of the plant, alleging violations of environmental norms."
+      },
+      {
+        "claim": "The tar-mixing unit, located close to the school, had earlier been shut down following complaints of pollution from residents. However, it resumed operations after the High Court vacated a stay on its functioning following a plea by the plant management, the police official said",
+        "quote": "The tar-mixing unit, located close to the school, had earlier been shut down following complaints of pollution from residents. However, it resumed operations after the High Court vacated a stay on its functioning following a plea by the plant management, the police official said."
+      },
+      {
+        "claim": "The unit was shut down again following Wednesday’s (November 18, 2026) incident, he added",
+        "quote": "The unit was shut down again following Wednesday’s (November 18, 2026) incident, he added."
+      },
+      {
+        "claim": "The panchayat authorities had earlier issued a stop memo against the plant, but it resumed operations after obtaining permission from the Court, local residents claimed",
+        "quote": "The panchayat authorities had earlier issued a stop memo against the plant, but it resumed operations after obtaining permission from the Court, local residents claimed."
+      },
+      {
+        "claim": "They alleged that students began experiencing health problems after the unit resumed operations",
+        "quote": "They alleged that students began experiencing health problems after the unit resumed operations"
+      },
+      {
+        "claim": "Activists of the Democratic Youth Federation of India (DYFI), the youth wing of the ruling CPI(M), laid siege to a service road in Kottiyam, protesting the alleged failure of the District Collector or any other senior official to visit the site",
+        "quote": "Activists of the Democratic Youth Federation of India (DYFI), the youth wing of the ruling CPI(M), laid siege to a service road in Kottiyam, protesting the alleged failure of the District Collector or any other senior official to visit the site."
+      },
+      {
+        "claim": "Later in the day, the Keralam State Human Rights Commission registered a case on its own over the incident and ordered an inquiry into allegations that school students had fallen ill after inhaling smoke from the tar-mixing plant",
+        "quote": "Later in the day, the Keralam State Human Rights Commission registered a case on its own over the incident and ordered an inquiry into allegations that school students had fallen ill after inhaling smoke from the tar-mixing plant."
+      },
+      {
+        "claim": "Commission member V. Geetha directed the District Collector, the Pollution Control Board’s environmental engineer and the panchayat secretary to investigate the incident and submit a report within 15 days",
+        "quote": "Commission member V. Geetha directed the District Collector, the Pollution Control Board’s environmental engineer and the panchayat secretary to investigate the incident and submit a report within 15 days."
+      },
+      {
+        "claim": "The commission initiated the proceedings based on media reports, according to a statement",
+        "quote": "The commission initiated the proceedings based on media reports, according to a statement."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students hospitalized after suspected pollution from a nearby tar-mixing unit, leading to protests and a state human rights commission inquiry.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "13/13",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

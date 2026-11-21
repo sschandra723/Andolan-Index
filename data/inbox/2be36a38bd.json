@@ -1,0 +1,56 @@
+{
+  "id": "2be36a38bd",
+  "url": "https://www.livemint.com/news/india/meta-offices-in-gurugram-hyderabad-mumbai-see-protests-from-congresss-youth-wing-heres-why-11795254533372.html",
+  "title": "Meta offices in Gurugram, Hyderabad, Mumbai see protests from Congress's youth wing: Here's why",
+  "outlet": "Mint",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5748,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "gig-workers-strike-2025",
+    "new_movement": null,
+    "summary": "The Indian Youth Congress staged protests outside Meta offices in Gurugram, Hyderabad, and Mumbai after Meta allegedly removed Instagram accounts of its members, escalating the party's confrontation with the company in India.",
+    "facts": [
+      {
+        "claim": "The Indian Youth Congress staged protests outside Meta offices in Gurugram, Hyderabad and Mumbai after the social media giant allegedly removed Instagram accounts belonging to some of its members",
+        "quote": "The Indian Youth Congress (IYC) staged protests outside Meta offices in Gurugram, Hyderabad and Mumbai after the social media giant allegedly removed Instagram accounts belonging to some of its members, escalating the party's confrontation with the company in India, its largest market by users."
+      },
+      {
+        "claim": "Congress has alleged that social media platforms are restricting its leaders' accounts and suppressing political dissent",
+        "quote": "The party has alleged that social media platforms are restricting dissenting voices and allegedly favouring Prime Minister Narendra Modi's government."
+      },
+      {
+        "claim": "Two of the accounts were reinstated following Friday's demonstrations",
+        "quote": "Two of the accounts were reinstated following Friday's demonstrations."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protests are part of a broader political backlash over online censorship and freedom of expression in India, with the government directing social media platforms to remove content within three hours of receiving notifications.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The party has alleged that social media platforms are restricting dissenting voi”"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

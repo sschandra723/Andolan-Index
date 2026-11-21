@@ -1,0 +1,55 @@
+{
+  "id": "58d48beb59",
+  "url": "https://timesofindia.indiatimes.com/india/will-find-way-forward-through-dialogue-amit-shah-assures-arunachal-locals-amid-siang-dam-protests/articleshow/136049894.cms",
+  "title": "'Will find way forward through dialogue': Amit Shah assures Arunachal locals amid Siang dam protests",
+  "outlet": "Times of India",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": "siang-dam-protests",
+  "score": 3.0,
+  "matched": [
+    "Siang dam protest",
+    "Siang"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3192,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "Union home minister Amit Shah visited Arunachal Pradesh to address concerns over the proposed 11,200-MW Siang Upper Multipurpose Project, assuring locals that the government would protect their traditions, culture and religious beliefs through dialogue.",
+    "facts": [
+      {
+        "claim": "Union home minister Amit Shah visited Arunachal Pradesh to address concerns over the proposed 11,200-MW Siang Upper Multipurpose Project",
+        "quote": "Union home minister Amit Shah, who is visiting Arunachal Pradesh amid protests against the proposed 11,200-MW Siang Upper Multipurpose Project (SUMP), assured locals on Saturday that the Centre would protect their traditions, culture and religious beliefs."
+      },
+      {
+        "claim": "Amit Shah assured locals that the government would protect their traditions, culture and religious beliefs through dialogue",
+        "quote": "I want to assure my brothers and sisters from Siang that we will find a way forward through positive dialogue ... You need not worry about it. The government and I have the same respect you have for the local culture. We will move forward without compromising the traditions, culture and religion of this place,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Siang Upper Multipurpose Project (SUMP) is a proposed 11,200-MW dam on the Siang River in Arunachal Pradesh, which indigenous groups oppose due to concerns over ancestral lands, environment, and cultural impact.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "1/2",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Union home minister Amit Shah, who is visiting Arunachal Pradesh amid protests a”"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

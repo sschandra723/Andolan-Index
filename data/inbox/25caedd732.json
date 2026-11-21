@@ -1,0 +1,80 @@
+{
+  "id": "25caedd732",
+  "url": "https://www.ibtimes.co.in/leh-apex-bodys-dharna-enters-day-7-protesters-demand-centre-resume-talks-ladakh-issues-908489",
+  "title": "Leh Apex Body's dharna enters day 7; protesters demand centre resume talks on Ladakh issues",
+  "outlet": "IBTimes India",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": "ladakh-statehood",
+  "score": 3.0,
+  "matched": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Leh"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5015,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "ladakh-statehood",
+    "new_movement": null,
+    "summary": "The Leh Apex Body's dharna entered its seventh day demanding the Centre resume talks on Ladakh issues, including holding elections for Ladakh Autonomous Hill Development Councils separately from Panchayat and Municipal elections, revoking the LAHDC Amendment Regulation, and other demands.",
+    "facts": [
+      {
+        "claim": "The ongoing dharna by the Leh Apex Body against the delay allegedly adopted by the Union Government in convening the next round of talks entered its seventh day today, with people continuing to reach the protest venue despite severe cold.",
+        "quote": "The ongoing dharna by the Leh Apex Body against the delay allegedly adopted by the Union Government in convening the next round of talks entered its seventh day today, with people continuing to reach the protest venue despite severe cold."
+      },
+      {
+        "claim": "Addressing the gathering, Leh Apex Body Chairman Chering Dorjay Lakrook explained the reasons behind the ongoing protest and expressed concern over the Government of India's failure to hold further talks on Ladakh's long-pending demands.",
+        "quote": "Addressing the gathering, Leh Apex Body Chairman Chering Dorjay Lakrook explained the reasons behind the ongoing protest and expressed concern over the Government of India's failure to hold further talks on Ladakh's long-pending demands."
+      },
+      {
+        "claim": "Lakrook also narrated how climate activist Sonam Wangchuk was picked up by Ladakh Police from the dharna site a day before the protest began while he was having snacks.",
+        "quote": "Lakrook also narrated how climate activist Sonam Wangchuk was picked up by Ladakh Police from the dharna site a day before the protest began while he was having snacks."
+      },
+      {
+        "claim": "The Apex Body has been staging the dharna to press the Government of India to address six major demands concerning Ladakh.",
+        "quote": "The Apex Body has been staging the dharna to press the Government of India to address six major demands concerning Ladakh."
+      },
+      {
+        "claim": "These include holding elections to the Ladakh Autonomous Hill Development Councils (LAHDCs) separately from Panchayat and Municipal elections, with a gap of six months, and revoking the LAHDC Amendment Regulation, 2026.",
+        "quote": "These include holding elections to the Ladakh Autonomous Hill Development Councils (LAHDCs) separately from Panchayat and Municipal elections, with a gap of six months, and revoking the LAHDC Amendment Regulation, 2026."
+      },
+      {
+        "claim": "The Apex Body has also demanded that the MHA Sub-Committee meeting be convened without further delay and that the consensus reached on July 3, 2026, be honoured.",
+        "quote": "The Apex Body has also demanded that the MHA Sub-Committee meeting be convened without further delay and that the consensus reached on July 3, 2026, be honoured."
+      },
+      {
+        "claim": "Other demands include the immediate release of the Judicial Enquiry Commission report on the September 24, 2025, incident; justice and dignified compensation for the families of those killed and the seriously injured; and the unconditional withdrawal, in one go, of all cases registered under FIR No. 144, as agreed upon on July 3, 2026.",
+        "quote": "Other demands include the immediate release of the Judicial Enquiry Commission report on the September 24, 2025, incident; justice and dignified compensation for the families of those killed and the seriously injured; and the unconditional withdrawal, in one go, of all cases registered under FIR No. 144, as agreed upon on July 3, 2026."
+      },
+      {
+        "claim": "It has also called for a complete rollback of the new liquor policy in view of concerns raised by women's organisations and the people of Ladakh.",
+        "quote": "It has also called for a complete rollback of the new liquor policy in view of concerns raised by women's organisations and the people of Ladakh."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Leh Apex Body has been demanding the Centre honor the July 3, 2026 consensus on Ladakh issues, including holding elections for LAHDCs separately from Panchayat and Municipal elections, revoking the LAHDC Amendment Regulation, and other demands.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The Apex Body has been staging the dharna to press the Government of India to ad”"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

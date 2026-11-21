@@ -1,0 +1,76 @@
+{
+  "id": "d130e13431",
+  "url": "https://www.thehindu.com/news/national/karnataka/protest-in-belagavi-today-against-book-on-basavanna/article71720380.ece",
+  "title": "Protest in Belagavi today against book on Basavanna",
+  "outlet": "The Hindu",
+  "published": "2026-11-19",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1638,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Lingayat Mahasabha organised a protest in Belagavi against a Kannada book allegedly insulting Basavanna, demanding legal action against the author and publisher.",
+    "facts": [
+      {
+        "claim": "Jagatika Lingayat Mahasabha will organise a protest in Belagavi on Friday against what it says insults to Basavanna and other Sharanas in a Kannada book, Basava Mantapa, written by Ravi Hanj.",
+        "quote": "Jagatika Lingayat Mahasabha will organise a protest in Belagavi on Friday against what it says insults to Basavanna and other Sharanas in a Kannada book, Basava Mantapa, written by Ravi Hanj."
+      },
+      {
+        "claim": "Mahasabha members and some other organizations will take part in the protest in the city demanding appropriate legal action against writer Ravi Hanj, also known as Ravi Hanjagimath, the publisher of the book and the editor of Vishwavani TV channel.",
+        "quote": "Mahasabha members and some other organizations will take part in the protest in the city demanding appropriate legal action against writer Ravi Hanj, also known as Ravi Hanjagimath, the publisher of the book and the editor of Vishwavani TV channel."
+      },
+      {
+        "claim": "Activists will submit a memorandum to Chief Minister D.K. Shivakumar through the Deputy Commissioner’s office.",
+        "quote": "Activists will submit a memorandum to Chief Minister D.K. Shiva Kumar through the Deputy Commissioner’s office."
+      },
+      {
+        "claim": "Members of all Veerashaiva and Lingayat organisations from across the district will join the protest.",
+        "quote": "Members of all Veerashaiva and Lingayat organisations from across the district will join the protest."
+      },
+      {
+        "claim": "Similar protests will be held in various districts, mahasabha convenor Basavaraja Rotti told reporters in Belagavi on Thursday.",
+        "quote": "Similar protests will be held in various districts, mahasabha convenor Basavaraja Rotti told reporters in Belagavi on Thursday."
+      },
+      {
+        "claim": "Mahasabha members also filed a complaint with the Market Police against Mr. Hanj and an unnamed publisher of the book and the editor of the TV channel.",
+        "quote": "Mahasabha members also filed a complaint with the Market Police against Mr. Hanj and an unnamed publisher of the book and the editor of the TV channel."
+      },
+      {
+        "claim": "The complaint seeks action against the writer and the publisher for using derogatory terms against Basavanna and other Sharanas.",
+        "quote": "The complaint seeks action against the writer and the publisher for using derogatory terms against Basavanna and other Sharanas."
+      },
+      {
+        "claim": "The State government has declared Basavanna as the cultural leader of Karnataka. Insulting such a leader is an insult to the whole State. Basavanna is a world leader who showed the path of enlightenment to the whole world. We will not tolerate any insults to such a leader and his followers,” Mr. Rotti said.",
+        "quote": "The State government has declared Basavanna as the cultural leader of Karnataka. Insulting such a leader is an insult to the whole State. Basavanna is a world leader who showed the path of enlightenment to the whole world. We will not tolerate any insults to such a leader and his followers,” Mr. Rotti said."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Lingayat Mahasabha is a religious group that follows the teachings of Basavanna, a 12th-century Hindu reformer. The protest is against a Kannada book that they claim insults Basavanna and other Sharanas (followers of Basavanna).",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Activists will submit a memorandum to Chief Minister D.K. Shiva Kumar through th”"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

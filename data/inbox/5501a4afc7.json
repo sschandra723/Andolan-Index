@@ -1,0 +1,64 @@
+{
+  "id": "5501a4afc7",
+  "url": "https://kashmirlife.net/heads-should-roll-ruhullah-mehdi-slams-govt-over-jkssb-scam-462156/",
+  "title": "‘Heads Should Roll’: Ruhullah Mehdi Slams Govt Over JKSSB Scam",
+  "outlet": "Kashmir Life",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3327,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Former MP Ruhullah Mehdi joined student protesters in Kashmir demanding accountability for alleged irregularities in the JKSSB Finance Accounts Assistant exam, calling recruitment corruption 'worse than murder' and urging heads to roll for those responsible.",
+    "facts": [
+      {
+        "claim": "Ruhullah Mehdi joined protesting aspirants at Sher-e-Kashmir Park in Srinagar",
+        "quote": "Ruhullah joined protesting aspirants at Sher-e-Kashmir Park in Srinagar, where he said compromising the recruitment process denied deserving candidates their rightful opportunities and jeopardised the future of generations."
+      },
+      {
+        "claim": "Ruhullah Mehdi called recruitment-related corruption 'worse than murder'",
+        "quote": "Ruhullah said compromising the recruitment process denied deserving candidates their rightful opportunities and jeopardised the future of generations."
+      },
+      {
+        "claim": "Ruhullah Mehdi said he was not leading the demonstration",
+        "quote": "The students are not joining with me. I am joining with the students. I am not leading this,"
+      },
+      {
+        "claim": "Jammu Police have apprehended 14 persons in connection with the alleged racket",
+        "quote": "Jammu Police have apprehended 14 persons in connection with the alleged racket."
+      },
+      {
+        "claim": "The JKSSB has maintained that the examination was conducted successfully across all 20 districts",
+        "quote": "The JKSSB, meanwhile, has maintained that the examination was conducted successfully across all 20 districts and that isolated attempts to use unfair means did not compromise the overall examination process."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Alleged electronic cheating in JKSSB Finance Accounts Assistant exam on November 15, 2026 led to student protests and police arrests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Ruhullah said compromising the recruitment process denied deserving candidates t”"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

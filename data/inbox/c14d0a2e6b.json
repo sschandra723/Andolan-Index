@@ -1,0 +1,60 @@
+{
+  "id": "c14d0a2e6b",
+  "url": "https://www.sentinelassam.com/breakingnews/shillong-ropeway-protest-enters-day-14-as-conrad-sangma-offers-dialogue",
+  "title": "Shillong Ropeway Protest Enters Day 14 as Conrad Sangma Offers Dialogue",
+  "outlet": "The Sentinel",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "ropeway"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1633,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "shillong-ropeway-2026",
+    "new_movement": null,
+    "summary": "Women's groups in Meghalaya have joined an indefinite sit-in protest against the Shillong Peak ropeway project for 14 days, demanding its scrapping or relocation.",
+    "facts": [
+      {
+        "claim": "indefinite sit-in protest entered its 14th day",
+        "quote": "an indefinite sit-in protest entered its 14th day on Thursday"
+      },
+      {
+        "claim": "protest led by Joint Action Committee Against the Shillong Ropeway Project",
+        "quote": "The Joint Action Committee Against the Shillong Ropeway Project has been leading an indefinite sit-in against the proposed development."
+      },
+      {
+        "claim": "women's organisations from Ri-Bhoi, West Khasi Hills and Eastern West Khasi Hills joined",
+        "quote": "The protest has drawn support from women's organisations across Ri-Bhoi, West Khasi Hills and Eastern West Khasi Hills."
+      },
+      {
+        "claim": "women from Jaiaw, Mawlai and other localities in Shillong have also joined",
+        "quote": "Women from Jaiaw, Mawlai and other localities in Shillong have also joined the demonstration."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Shillong ropeway project faces opposition from women's groups in Meghalaya, with the protest now in its 14th day as the government offers dialogue.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 25,
+    "importance_reason": "2 outlets in the last 48 hours; coverage up from 2 to 3 reports this week."
+  }
+}

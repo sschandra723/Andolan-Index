@@ -1,0 +1,54 @@
+{
+  "id": "9b879a02a8",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/punjab-govt-employees-to-march-towards-cm-bhagwant-mann-s-sangrur-residence-today-101795029774648.html",
+  "title": "Punjab govt employees to march towards CM Bhagwant Mann’s Sangrur residence today",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1112,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "pu-bachao-morcha-2025",
+    "new_movement": null,
+    "summary": "Punjab government employees and pensioners are marching towards Chief Minister Bhagwant Mann's Sangrur residence to protest the AAP government's failure to address their pending demands, including restoring the old pension scheme and releasing DA arrears.",
+    "facts": [
+      {
+        "claim": "The employees and pensioners, who are holding a month-long agitation against the AAP government, will subsequently organise a 'Mulazam Di Jago' rally at Sangrur Market in the evening",
+        "quote": "The employees and pensioners, who are holding a month-long agitation against the AAP government, will subsequently organise a 'Mulazam Di Jago' rally at Sangrur Market in the evening"
+      },
+      {
+        "claim": "The Sanjha Mulazam Manch and the Coordination Committee of Employees and Pensioners Sanjha Front will hold a march to chief minister Bhagwant Mann’s residence in Sangrur on Thursday, protesting against the state government’s failure to address their pending demands.",
+        "quote": "The Sanjha Mulazam Manch and the Coordination Committee of Employees and Pensioners Sanjha Front will hold a march to chief minister Bhagwant Mann’s residence in Sangrur on Thursday, protesting against the state government’s failure to address their pending demands."
+      },
+      {
+        "claim": "The employees’ organisations are demanding the restoration of the old pension scheme (OPS), release of the remaining 10% dearness allowance (DA), payment of DA arrears and restoration of 37 discontinued allowances. They have also rejected the 3 percentage-point DA hike announced by chief minister Bhagwant Mann on November 4.",
+        "quote": "The employees’ organisations are demanding the restoration of the old pension scheme (OPS), release of the remaining 10% dearness allowance (DA), payment of DA arrears and restoration of 37 discontinued allowances. They have also rejected the 3 percentage-point DA hike announced by chief minister Bhagwant Mann on November 4."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Punjab government employees and pensioners have been engaged in a month-long agitation against the AAP government, demanding restoration of the old pension scheme and other benefits.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

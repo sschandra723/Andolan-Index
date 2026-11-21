@@ -1,0 +1,64 @@
+{
+  "id": "07c5da388d",
+  "url": "https://www.hindustantimes.com/cities/delhi-news/sc-grants-one-week-to-petitioner-to-file-rejoinder-in-jantar-mantar-protest-site-case-101795169248807.html",
+  "title": "SC grants one week to petitioner to file rejoinder in Jantar Mantar protest site case",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Jantar Mantar"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3737,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "neet-jantar-mantar-2026",
+    "new_movement": null,
+    "summary": "The Supreme Court granted a week for a petitioner to file a rejoinder challenging Delhi Police's de-notification of Jantar Mantar as a protest site, shifting demonstrations to three alternative locations in Delhi.",
+    "facts": [
+      {
+        "claim": "The Supreme Court granted a week for a petitioner to file a rejoinder in her plea challenging Delhi Police's decision to de-notify Jantar Mantar as a designated protest site and shift demonstrations to three alternative locations in the national capital.",
+        "quote": "SC grants one week to petitioner to file rejoinder in Jantar Mantar protest site case"
+      },
+      {
+        "claim": "On October 15, a bench comprising Chief Justice Surya Kant and justices Joymalya Bagchi and V Mohana had sought responses of the Centre and Delhi Police on the petition filed by Swaty Singh challenging the October 11 order de-notifying Jantar Mantar as designated protest site.",
+        "quote": "On October 15, a bench comprising Chief Justice Surya Kant and justices Joymalya Bagchi and V Mohana had sought responses of the Centre and Delhi Police on the petition filed by Swaty Singh challenging the October 11 order de-notifying Jantar Mantar as designated protest site."
+      },
+      {
+        "claim": "Delhi Police Commissioner Anurag Kumar's standing order dated October 11 de-notified Jantar Mantar and designated the Ramlila Ground, Burari Ground and the CBD Ground in east Delhi as the new venues for protests and demonstrations.",
+        "quote": "Delhi Police Commissioner Anurag Kumar's standing order dated October 11 de-notified Jantar Mantar and designated the Ramlila Ground, Burari Ground and the CBD Ground in east Delhi as the new venues for protests and demonstrations."
+      },
+      {
+        "claim": "The plea said that shifting protests to distant and outlying areas could render the fundamental rights to peaceful assembly and freedom of expression ineffective.",
+        "quote": "The plea said that shifting protests to distant and outlying areas could render the fundamental rights to peaceful assembly and freedom of expression ineffective."
+      },
+      {
+        "claim": "The location of a protest is, therefore, not an inconsequential administrative consideration.",
+        "quote": "The location of a protest is, therefore, not an inconsequential administrative consideration,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court is examining whether Delhi Police's de-notification of Jantar Mantar as a protest site and designation of alternative locations is procedurally sound and effective for protest rights.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 5,
+    "importance_reason": "Coverage up from 0 to 1 reports this week."
+  }
+}

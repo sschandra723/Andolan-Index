@@ -1,0 +1,65 @@
+{
+  "id": "4dd53685e3",
+  "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-protest-neha-bora-to-explain-rejection-of-peace-bond-by-dec-10-101795197331037.html",
+  "title": "Delhi protest: Neha Bora to explain rejection of peace bond by Dec 10",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "Gyanesh Kumar",
+    "chief election commissioner",
+    "Election Commission"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 841,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "Delhi residents protested at India Gate in November 2025 demanding lasting action on toxic air, but police said the site was not a permitted venue and a second protest ended in over 20 arrests and serious charges.",
+    "facts": [
+      {
+        "claim": "Delhi residents protested at India Gate in November 2025",
+        "quote": "Residents went to India Gate in November 2025 to demand lasting action on Delhi's toxic air."
+      },
+      {
+        "claim": "Police said the site was not a permitted venue",
+        "quote": "Police said the site was not a permitted venue"
+      },
+      {
+        "claim": "A second protest ended in over 20 arrests and serious charges",
+        "quote": "a second protest ended in more than 20 arrests and serious charges"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi clean-air protests began in November 2025 at India Gate, where residents demanded lasting action on Delhi's toxic air. Police initially stated the site was not a permitted venue, leading to a second protest that resulted in over 20 arrests and serious charges.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Residents went to India Gate in November 2025 to demand lasting action on Delhi'”",
+        "quote not in article: “Police said the site was not a permitted venue”",
+        "quote not in article: “a second protest ended in more than 20 arrests and serious charges”",
+        "number 20 in the summary does not appear in the article",
+        "number 2025 in the summary does not appear in the article",
+        "name “India Gate” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

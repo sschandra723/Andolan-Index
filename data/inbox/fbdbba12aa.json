@@ -1,0 +1,73 @@
+{
+  "id": "fbdbba12aa",
+  "url": "https://www.greaterkashmir.com/world/nepal-prime-minister-shah-to-undertake-two-day-visit-to-india-from-nov-22-12826373",
+  "title": "Nepal Prime Minister Shah to undertake two-day visit to India from Nov 22",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2686,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Nepal's Prime Minister Balendra Shah will visit India for two days starting November 22, 2026, as part of diplomatic engagement with Prime Minister Modi.",
+    "facts": [
+      {
+        "claim": "Nepal Prime Minister Balendra Shah will leave for New Delhi on November 22",
+        "quote": "Kathmandu, Nov 20: Nepal Prime Minister Balendra Shah will leave for New Delhi on November 22 on a two-day official visit at the invitation of Prime Minister Narendra Modi, the Ministry of Foreign Affairs announced on Friday."
+      },
+      {
+        "claim": "This would be Shah’s first official bilateral foreign visit after taking office on March 27",
+        "quote": "This would be Shah’s first official bilateral foreign visit after taking office on March 27."
+      },
+      {
+        "claim": "Shah, 36, will lead a 34-member delegation that also includes Finance Minister Swarnim Wagle and Minister for Foreign Affairs Shisir Khanal",
+        "quote": "Shah, 36, will lead a 34-member delegation that also includes Finance Minister Swarnim Wagle and Minister for Foreign Affairs Shisir Khanal"
+      },
+      {
+        "claim": "Shah will call on President Droupadi Murmu and hold delegation-level talks with Modi during the visit",
+        "quote": "Shah will call on President Droupadi Murmu and hold delegation-level talks with Modi during the visit."
+      },
+      {
+        "claim": "The high-level discussion will feature matters relating to the expansion of economic cooperation in areas such as trade, transit, energy, investment, besides connectivity network and infrastructure development",
+        "quote": "The high-level discussion will feature matters relating to the expansion of economic cooperation in areas such as trade, transit, energy, investment, besides connectivity network and infrastructure development"
+      },
+      {
+        "claim": "This will help further expand mutual collaboration in areas of priority between the two countries",
+        "quote": "This will help further expand mutual collaboration in areas of priority between the two countries"
+      },
+      {
+        "claim": "Shah had received an invitation from Modi to visit India when the government led by the Rastriya Swatantra Party leader was formed in March",
+        "quote": "Shah had received an invitation from Modi to visit India when the government led by the Rastriya Swatantra Party leader was formed in March"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": [
+        "number 2026 in the summary does not appear in the article",
+        "name “Prime Minister Modi” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

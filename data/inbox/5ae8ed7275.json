@@ -1,0 +1,66 @@
+{
+  "id": "5ae8ed7275",
+  "url": "https://www.greaterkashmir.com/jammu-kashmir/heads-should-roll-ruhullah-slams-govt-over-jkssb-scam-12828812",
+  "title": "'Heads should roll': Ruhullah slams govt over JKSSB scam",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "National Conference"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2625,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Former MP Aga Ruhullah Mehdi criticized both Jammu and Kashmir administrations for alleged JKSSB exam scam, demanding accountability and punishment for those responsible to prevent student injustice.",
+    "facts": [
+      {
+        "claim": "Former MP and National Conference leader Aga Ruhullah Mehdi launched a scathing attack on both administrations over the alleged JKSSB paper leak and cheating scam",
+        "quote": "Srinagar, Nov 21: Former MP and National Conference leader Aga Ruhullah Mehdi on Saturday launched a scathing attack on both the administrations over the alleged JKSSB paper leak and cheating scam, saying the system has been compromised and injustice is being done to generations of students."
+      },
+      {
+        "claim": "Ruhullah said technology is being used in cheating and instead of providing a level playing field, the system is working against the students",
+        "quote": "Speaking to reporters during the students’ protest, Ruhullah said technology is being used in cheating and instead of providing a level playing field, the system is working against the students."
+      },
+      {
+        "claim": "Students have repeatedly spoken about this. For three-four years continuously, a scam has been surfacing in one form or another. One year in one form, the next year in another form. No serious effort is being made anywhere to stop it",
+        "quote": "Students have repeatedly spoken about this. For three-four years continuously, a scam has been surfacing in one form or another. One year in one form, the next year in another form. No serious effort is being made anywhere to stop it,"
+      },
+      {
+        "claim": "Ruhullah demanded fixing of responsibility and punishment for those accountable",
+        "quote": "He demanded fixing of responsibility and punishment for those accountable."
+      },
+      {
+        "claim": "Ruhullah said both administrations are responsible — the unelected administration has built the system since 2019 as a result of which these scams are happening again and again, and the elected administration was voted in 2024 to bring reforms and make corrections",
+        "quote": "Ruhullah said both administrations are responsible — the unelected administration has built the system since 2019 as a result of which these scams are happening again and again, and the elected administration was voted in 2024 to bring reforms and make corrections."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The JKSSB (Jammu and Kashmir State Service Board) exam scam allegations have been a recurring issue in Jammu and Kashmir, with students protesting for years over alleged cheating and irregularities in the examination system.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

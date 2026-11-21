@@ -1,0 +1,54 @@
+{
+  "id": "d54d8cbf49",
+  "url": "https://www.outlookindia.com/national/indian-flag-tearing-khalistani-protesters-rahul-gandhi-us-visit",
+  "title": "Slogans, Indian Flag-Tearing: Khalistani Protesters Target Rahul Gandhi's Convoy During US Visit",
+  "outlet": "Outlook India",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2733,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Pro-Khalistan demonstrators reportedly tried to block Rahul Gandhi's convoy during his US visit, raising slogans in support of Khalistan and allegedly tearing the Indian national flag.",
+    "facts": [
+      {
+        "claim": "Pro-Khalistan demonstrators reportedly tried to block Rahul Gandhi’s convoy during his US visit",
+        "quote": "Pro-Khalistan demonstrators reportedly tried to block Rahul Gandhi’s convoy during his US visit, raising slogans in support of Khalistan and allegedly tearing the Indian national flag."
+      },
+      {
+        "claim": "raising slogans in support of Khalistan",
+        "quote": "raising slogans in support of Khalistan"
+      },
+      {
+        "claim": "allegedly tearing the Indian national flag",
+        "quote": "allegedly tearing the Indian national flag"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Pro-Khalistan protests have been ongoing in India, with similar demonstrations targeting Indian public figures abroad in recent years.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

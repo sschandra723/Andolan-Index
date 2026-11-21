@@ -1,0 +1,70 @@
+{
+  "id": "48d21dc267",
+  "url": "https://www.hindustantimes.com/cities/kolkata-news/junior-docs-stage-protest-at-kolkata-medical-college-demand-withdrawal-of-show-cause-notices-101795027912077.html",
+  "title": "Junior docs stage protest at Kolkata Medical College, demand withdrawal of show-cause notices",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3173,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "Junior doctors at Kolkata Medical College staged protests demanding withdrawal of show-cause notices for eight interns, who criticized shifting critically injured stampede victims to private hospitals instead of government facilities.",
+    "facts": [
+      {
+        "claim": "Junior doctors staged demonstrations at Kolkata Medical College",
+        "quote": "Junior docs stage protest at Kolkata Medical College, demand withdrawal of show-cause notices"
+      },
+      {
+        "claim": "Eight interns received show-cause notices for criticizing government's decision to shift stampede victims to private hospitals",
+        "quote": "The eight junior doctors were served show-cause notices on Tuesday for criticising the government's decision to shift people injured in the stampede at the Chorbagan Durga Puja pandal to a private hospital."
+      },
+      {
+        "claim": "At least 19 people died in the stampede at Chorbagan Durga Puja pandal on October 17",
+        "quote": "At least 19 people died, and 25 others were injured in the stampede at the Chorbagan Durga Puja pandal in north Kolkata on October 17, following a crowd surge amid rain."
+      },
+      {
+        "claim": "Doctors questioned why critically injured patients were moved to private hospitals when government facilities could provide free care",
+        "quote": "The junior doctors, in a press conference, had questioned why these critically injured patients requiring advanced, life-saving treatment had to be moved to a private hospital when government medical colleges were equipped to provide such care free of cost."
+      },
+      {
+        "claim": "Protesters gheraoed the principal for several hours",
+        "quote": "Principal Indranil Biswas was also reportedly gheraoed by the protesters for several hours."
+      },
+      {
+        "claim": "ABVP supporters allegedly entered campus amid demonstrations",
+        "quote": "The protesters also clashed with alleged ABVP supporters, who entered the campus amid the demonstrations, officials said."
+      },
+      {
+        "claim": "Health Minister Shardwat Mukherjee said protests should not take the form of a gherao",
+        "quote": "Meanwhile, West Bengal Health Minister Shardwat Mukherjee said protests should not take the form of a gherao."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Junior doctors protested over show-cause notices for interns who criticized shifting stampede victims to private hospitals, highlighting healthcare access issues after a fatal crowd incident.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

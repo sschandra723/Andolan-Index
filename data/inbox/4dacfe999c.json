@@ -1,0 +1,68 @@
+{
+  "id": "4dacfe999c",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/advocates-traders-protest-in-vaniyambadi-for-additional-district-court/article71720306.ece",
+  "title": "Advocates, traders protest in Vaniyambadi for additional district court",
+  "outlet": "The Hindu",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1920,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Advocates and traders in Vaniyambadi staged a protest demanding an additional district court and permanent building for the existing court complex due to monsoon risks and poor court infrastructure.",
+    "facts": [
+      {
+        "claim": "Advocates and traders staged a protest near a bus terminus in Vaniyambadi town on Thursday",
+        "quote": "Advocates, traders and residents staged a protest near a bus terminus in Vaniyambadi town on Thursday, demanding an additional district court and a permanent building for the court complex."
+      },
+      {
+        "claim": "The protest was held in the wake of the onset of the Northeast monsoon",
+        "quote": "The protest was held in the wake of the onset of the Northeast monsoon, when it could be risky to conduct court proceedings at the dilapidated Judicial Magistrate court."
+      },
+      {
+        "claim": "A.C. Devakumar, president of Bar Association (Vaniyambadi), said work to build a permanent court complex should be expedited and an additional district court should be set up",
+        "quote": "‘Work to build a permanent court complex should be expedited. An additional district court should also be set up in the court complex’, said A.C. Devakumar, president, Bar Association (Vaniyambadi)."
+      },
+      {
+        "claim": "Vaniyambadi has three lower courts located in different areas, each at least 1.5 km apart",
+        "quote": "At present, Vaniyambadi has three lower courts that are located in different areas in the town. Each court, on an average, is located at least 1.5 km away from the other court."
+      },
+      {
+        "claim": "Each court handles over 100 cases daily with 1,500-2,000 pending cases",
+        "quote": "On an average, over 100 cases come up at each court every day. Currently, 1,500 - 2,000 cases are pending before each of these three courts."
+      },
+      {
+        "claim": "Case bundles and court records get damaged during monsoon due to flooding",
+        "quote": "Case bundles and court records get damaged during monsoon as the building is inundated."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Vaniyambadi town in Tamil Nadu has three lower courts with poor infrastructure, leading to monsoon-related risks and long wait times for litigants.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘Work to build a permanent court complex should be expedited. An additional dist”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6c0a29ffb3",
+  "url": "https://www.greaterkashmir.com/pir-panjal/healthcare-services-hit-patients-suffer-12825001",
+  "title": "Healthcare services hit, patients suffer",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1874,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Non-gazetted cadre employees of five new Government Medical Colleges in Jammu and Kashmir have struck for four consecutive days, severely disrupting healthcare services at GMC Rajouri with OPDs reportedly operating without doctors.",
+    "facts": [
+      {
+        "claim": "Non-gazetted cadre employees of five new Government Medical Colleges in Jammu and Kashmir have struck for four consecutive days",
+        "quote": "The ongoing strike by non-gazetted cadre employees of five new Government Medical Colleges (GMCs) in Jammu and Kashmir has severely affected healthcare services, with the situation particularly concerning at GMC Associated Hospital Rajouri."
+      },
+      {
+        "claim": "severely disrupted healthcare services at GMC Rajouri with OPDs reportedly operating without doctors",
+        "quote": "The strike entered its fourth consecutive day on Thursday, with non-gazetted cadre employees abstaining from duties, except those engaged in emergency services. However, the impact on patient care at GMC Rajouri raised serious concerns as several OPDs were allegedly functioning without the presence of doctors."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The strike by non-gazetted cadre employees of five new Government Medical Colleges in Jammu and Kashmir has disrupted healthcare services for four consecutive days, with OPDs reportedly operating without doctors at GMC Rajouri.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

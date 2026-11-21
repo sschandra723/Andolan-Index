@@ -1,0 +1,65 @@
+{
+  "id": "66176b9832",
+  "url": "https://www.greaterkashmir.com/security/igp-kashmir-pushes-for-grassroots-policing-stronger-public-outreach-12828081",
+  "title": "IGP Kashmir pushes for grassroots policing, stronger public outreach",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4734,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "IGP of Kashmir Zone Sujit Kumar directed police stations to improve grassroots policing through updated beat books, effective nakas, and increased public interaction as part of SMART Policing framework.",
+    "facts": [
+      {
+        "claim": "IGP of Kashmir Zone Sujit Kumar chaired a two-hour high-level interaction with first-time Munshis of Police Stations and Police Posts across the Kashmir Zone",
+        "quote": "Srinagar, Nov 20: Inspector General of Police, Kashmir Zone, Sujit Kumar on Friday chaired a two-hour-long high-level interaction with first-time Munshis of Police Stations and Police Posts across the Kashmir Zone, along with SSPs, ASPs, DySPs and SHOs, issuing clear directives on strengthening grassroots policing through updated beat books, more effective Nakas, and intensified people-to-people contact."
+      },
+      {
+        "claim": "The meeting focused on building the capacity of newly posted Munshis — the key record-keepers and operational pivots at police stations and posts",
+        "quote": "The meeting, held through virtual mode, focused on building the capacity of newly posted Munshis — the key record-keepers and operational pivots at police stations and posts, while aligning field leadership on preventive, intelligence-driven and citizen-centric policing."
+      },
+      {
+        "claim": "IGP Sujit Kumar directed that updated and properly maintained Beat Books should move beyond routine entries and become living documents that capture local developments, recurring issues and actionable intelligence for supervisors",
+        "quote": "\"Updated and properly maintained Beat Books . They are the foundation of preventive policing. Every beat officer must know his area intimately — the people, the patterns, the vulnerabilities — and the records must reflect that knowledge accurately and in real time,\" IGP Sujit Kumar directed as per officials"
+      },
+      {
+        "claim": "On Nakas, the IGP called for their tightening and professionalisation, stating they must be intelligence-driven, dynamic and purposeful, not routine hindrances for the public",
+        "quote": "\"Nakas must be intelligence-driven, dynamic and purposeful. They should not become routine hindrances for the public. The focus has to be on quality checks that yield results against crime and anti-social elements, while ensuring minimum inconvenience to ordinary citizens,\" he directed."
+      },
+      {
+        "claim": "IGP Sujit Kumar instructed that police personnel at every level must step out of stations and posts regularly, interact with residents, address grievances promptly and build trust",
+        "quote": "\"Help people in every situation. Whether it is a personal difficulty, a community concern or a security-related issue, the police must be seen as a reliable first responder. This is how we strengthen the social fabric and improve the flow of information from the ground,\" he was quoted as saying ."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "IGP Sujit Kumar's initiative to institutionalise SMART and Digital Beat Policing principles across Kashmir Zone Police aims to transform traditional beat policing into a proactive, technology-enabled and citizen-oriented system.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The meeting, held through virtual mode, focused on building the capacity of newl”",
+        "name “Kashmir Zone Sujit Kumar” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "a1cf98522d",
+  "url": "https://www.greaterkashmir.com/ladakh/ladakh-votes-in-panchayat-and-municipal-polls-amid-bitter-chill-after-eight-year-gap-12828341",
+  "title": "Ladakh votes in panchayat and municipal polls amid bitter chill after eight-year gap",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": "ladakh-statehood",
+  "score": 5.0,
+  "matched": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Leh",
+    "Kargil",
+    "=LAB"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2601,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Voters in Ladakh began casting ballots for panchayat and municipal elections after an eight-year gap since Ladakh became a Union Territory in 2019, with the first local body polls held in the high-altitude region amid freezing temperatures.",
+    "facts": [
+      {
+        "claim": "voters in Ladakh began casting their ballots for the much-awaited panchayat and municipal elections",
+        "quote": "Kargil, Nov 21: Braving biting winter temperatures across the high-altitude Himalayan desert, voters in Ladakh began casting their ballots on Saturday morning for the much-awaited panchayat and municipal elections."
+      },
+      {
+        "claim": "Held after an eight-year hiatus",
+        "quote": "Held after an eight-year hiatus, the exercise marks the first grassroots local body polls in the region since Ladakh was carved out as a separate Union Territory in August 2019."
+      },
+      {
+        "claim": "the first grassroots local body polls in the region since Ladakh was carved out as a separate Union Territory in August 2019",
+        "quote": "the exercise marks the first grassroots local body polls in the region since Ladakh was carved out as a separate Union Territory in August 2019."
+      },
+      {
+        "claim": "Polling commenced at 8:00 AM and will continue until 5:00 PM across all eight administrative districts",
+        "quote": "Polling commenced at 8:00 AM and will continue until 5:00 PM across all eight administrative districts—Leh, Kargil, Sham, Changthang, Drass, Nubra, Zanskar, and Sankoo."
+      },
+      {
+        "claim": "To facilitate maximum voter participation in the freezing weather, the Ladakh administration declared a public holiday across the Union Territory and equipped polling stations with heating facilities alongside tight security arrangements",
+        "quote": "To facilitate maximum voter participation in the freezing weather, the Ladakh administration declared a public holiday across the Union Territory and equipped polling stations with heating facilities alongside tight security arrangements."
+      },
+      {
+        "claim": "In urban areas, polling is underway in all 21 wards of the Leh Municipal Committee",
+        "quote": "In urban areas, polling is underway in all 21 wards of the Leh Municipal Committee."
+      },
+      {
+        "claim": "In the Kargil Municipal Committee, voters are casting ballots for 13 out of 17 wards, as four councillors were already elected unopposed",
+        "quote": "In the Kargil Municipal Committee, voters are casting ballots for 13 out of 17 wards, as four councillors were already elected unopposed."
+      },
+      {
+        "claim": "Out of the 192 panchayats in Ladakh, 55 sarpanches have been elected unopposed, leaving 137 seats up for grabs today",
+        "quote": "Out of the 192 panchayats in Ladakh, 55 sarpanches have been elected unopposed, leaving 137 seats up for grabs today."
+      },
+      {
+        "claim": "Similarly, for the 1,428 panch seats, 1,186 candidates won unopposed, with elections currently taking place for the remaining 242 constituencies",
+        "quote": "Similarly, for the 1,428 panch seats, 1,186 candidates won unopposed, with elections currently taking place for the remaining 242 constituencies."
+      },
+      {
+        "claim": "Conducting polls in late November posed steep logistical challenges, with polling parties, security personnel, and Electronic Voting Machines (EVMs) dispatched on Friday to remote, high-altitude locations—including polling booths situated as high as 15,000 feet",
+        "quote": "Conducting polls in late November posed steep logistical challenges, with polling parties, security personnel, and Electronic Voting Machines (EVMs) dispatched on Friday to remote, high-altitude locations—including polling booths situated as high as 15,000 feet."
+      },
+      {
+        "claim": "The last municipal and panchayat elections in the region were held in September and November 2018, respectively",
+        "quote": "The last municipal and panchayat elections in the region were held in September and November 2018, respectively."
+      },
+      {
+        "claim": "Saturday’s voting unfolds amid ongoing political discourse in the region, with the Leh Apex Body (LAB) having staged protests demanding the postponement of the upcoming Hill Council polls until 2027",
+        "quote": "Saturday’s voting unfolds amid ongoing political discourse in the region, with the Leh Apex Body (LAB) having staged protests demanding the postponement of the upcoming Hill Council polls until 2027."
+      },
+      {
+        "claim": "Counting of votes for Saturday's panchayat and municipal elections is scheduled for December 4",
+        "quote": "Counting of votes for Saturday's panchayat and municipal elections is scheduled for December 4."
+      },
+      {
+        "claim": "On the same day, Ladakh will also go to the polls for the 100 constituencies of its eight Ladakh Autonomous Hill Development Councils (LAHDCs)",
+        "quote": "On the same day, Ladakh will also go to the polls for the 100 constituencies of its eight Ladakh Autonomous Hill Development Councils (LAHDCs)"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh became a Union Territory in August 2019 after being split from Jammu and Kashmir. The Leh Apex Body (LAB) has previously protested for the postponement of Hill Council polls until 2027.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "14/14",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "fd53519d3a",
+  "url": "https://www.hindustantimes.com/cities/pune-news/traders-protest-forces-pmc-to-halt-encroachment-drive-101795200992190.html",
+  "title": "Traders’ protest forces PMC to halt encroachment drive",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3984,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Pune Municipal Corporation halted its anti-encroachment drive on Laxmi Road after traders protested against removal of shop signboards, claiming they were legally permitted and costly. The operation was stopped within 30 minutes following traders' objections, with some corporators receiving calls from traders seeking intervention.",
+    "facts": [
+      {
+        "claim": "Pune Municipal Corporation halted its anti-encroachment drive on Laxmi Road after traders protested against removal of shop signboards",
+        "quote": "The Pune Municipal Corporation (PMC) on Friday scaled down its anti-encroachment drive on Laxmi Road, halting the operation within 30 minutes after traders protested against the removal of shop name boards and signboards."
+      },
+      {
+        "claim": "Traders claimed their signboards were legally permitted and costly",
+        "quote": "Traders pay taxes. Some also have permissions from the PMC sky-sign department. Why should action be taken against them without checking the legality of their signboards?"
+      },
+      {
+        "claim": "The operation was stopped within 30 minutes following traders' objections",
+        "quote": "The anti-encroachment team reached Ganpati Chowk around 2.30pm and began removing signboards outside shops. However, following protests by traders, the operation was stopped by the time the team reached Nagarkar Talim Chowk, reportedly on the instructions of a senior civic official."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Pune Municipal Corporation scaled back anti-encroachment efforts after traders objected to removal of shop signboards, with the operation halted within 30 minutes on Laxmi Road.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

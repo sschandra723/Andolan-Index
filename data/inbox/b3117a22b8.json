@@ -1,0 +1,70 @@
+{
+  "id": "b3117a22b8",
+  "url": "https://www.hindustantimes.com/cities/pune-news/shetti-suspends-sugarcane-stir-after-admin-agrees-to-stop-harvesting-till-nov-19-101794946183755.html",
+  "title": "Shetti suspends sugarcane stir after admin agrees to stop harvesting till Nov 19",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "sugarcane"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2608,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "SSS founder Raju Shetti temporarily suspended a sugarcane farmers' sit-in protest in Solapur after district administration agreed to stop harvesting until November 19 and hold a meeting with sugar mill owners to discuss ₹3,500 per tonne payment.",
+    "facts": [
+      {
+        "claim": "SSS founder and former MP Raju Shetti temporarily suspended the sit-in protest in Solapur after the district administration agreed to stop sugarcane harvesting till November 19",
+        "quote": "SSS founder and former MP Raju Shetti on Tuesday temporarily suspended the sit-in protest started by him in Solapur after the district administration agreed to stop sugarcane harvesting across the district till November 19"
+      },
+      {
+        "claim": "The protest was called off after midnight on Monday following intervention by senior district officials and a written communication from collector S Karthikeyan who visited the protest site and handed over the letter to Shetti",
+        "quote": "The protest was called off after midnight on Monday following intervention by senior district officials and a written communication from collector S Karthikeyan who visited the protest site and handed over the letter to Shetti"
+      },
+      {
+        "claim": "Hundreds of farmers, led by Shetti, had begun a sit-in protest outside the new collector’s office at Sat Rasta on Monday. The protesters demanded that sugarcane harvesting be stopped across the district till such time a final decision is taken on the purchase price",
+        "quote": "Hundreds of farmers, led by Shetti, had begun a sit-in protest outside the new collector’s office at Sat Rasta on Monday. The protesters demanded that sugarcane harvesting be stopped across the district till such time a final decision is taken on the purchase price"
+      },
+      {
+        "claim": "The agitation had begun with a march from the Hutatma Smarak area, in which farmers from across Solapur district participated",
+        "quote": "The agitation had begun with a march from the Hutatma Smarak area, in which farmers from across Solapur district participated"
+      },
+      {
+        "claim": "Following the intervention, Shetti said that the agitation has been temporarily suspended after the administration gave a written assurance about suspending sugarcane harvesting and about calling a meeting of chairpersons of all sugar factories in the district at 11 am on November 19 at the collector’s office",
+        "quote": "Following the intervention, Shetti said that the agitation has been temporarily suspended after the administration gave a written assurance about suspending sugarcane harvesting and about calling a meeting of chairpersons of all sugar factories in the district at 11 am on November 19 at the collector’s office"
+      },
+      {
+        "claim": "If a positive decision is not taken at the November 19 meeting regarding our demand for a first payment of ₹3,500 per tonne, we will launch an even more intense agitation",
+        "quote": "If a positive decision is not taken at the November 19 meeting regarding our demand for a first payment of ₹3,500 per tonne, we will launch an even more intense agitation"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "SSS farmers in Solapur district demanded ₹3,500 per tonne for sugarcane after transport costs, but state offered ₹3,300.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “SSS founder and former MP Raju Shetti on Tuesday temporarily suspended the sit-i”"
+      ]
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

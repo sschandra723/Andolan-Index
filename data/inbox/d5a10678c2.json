@@ -1,0 +1,57 @@
+{
+  "id": "d5a10678c2",
+  "url": "https://www.hindustantimes.com/india-news/amit-shah-reaches-out-to-sian-dam-protesters-says-concerns-will-be-resolved-through-dialogue-101795247160838.html",
+  "title": "Amit Shah reaches out to Siang dam protesters in Arunachal, says concerns will be resolved through dialogue",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": "siang-dam-protests",
+  "score": 3.0,
+  "matched": [
+    "Siang dam protest",
+    "Siang"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3109,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "Union home minister Amit Shah visited Arunachal Pradesh to address concerns over the proposed Siang dam project, promising dialogue and safeguards for local communities' cultural identity and traditions.",
+    "facts": [
+      {
+        "claim": "Amit Shah visited Arunachal Pradesh to address concerns over the proposed Siang dam project",
+        "quote": "Union home minister Amit Shah on Saturday said that the concerns over a proposed mega dam in the Siang Valley of Arunachal Pradesh will be resolved through dialogue, assuring that the cultural identity and traditions of the region’s communities will be safeguarded."
+      },
+      {
+        "claim": "Shah promised dialogue and safeguards for local communities' cultural identity and traditions",
+        "quote": "I want to make it clear to my brothers and sisters of Siang that the government will hold discussions with the people. We will take you into confidence, and only through dialogue will the road ahead be paved. There is no need to worry,"
+      },
+      {
+        "claim": "The project is considered a strategic safeguard against China’s hydropower development upstream in Tibet",
+        "quote": "The central and state governments, however, consider the project a strategic safeguard against China’s massive hydropower development upstream in Tibet."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Siang dam project has faced protests from local communities over displacement, ecosystem damage, and submergence of ancestral lands, with recent violence in October 2026 leading to injuries and detentions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

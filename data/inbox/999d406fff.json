@@ -1,0 +1,58 @@
+{
+  "id": "999d406fff",
+  "url": "https://www.freepressjournal.in/pune/video-pune-station-masters-protest-demand-vacancies-be-filled",
+  "title": "VIDEO: Pune Station Masters Protest, Demand Vacancies Be Filled",
+  "outlet": "Free Press Journal",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2213,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Station masters in Pune's railway division protested demanding recruitment for vacancies, an end to arbitrary transfers, and reinstatement of a station master after accusing the railway administration of dictatorial practices and staff shortages.",
+    "facts": [
+      {
+        "claim": "vacancies in the Pune Division had reached 28 to 30 per cent",
+        "quote": "vacancies in the Pune Division had reached 28 to 30 per cent"
+      },
+      {
+        "claim": "a single station master to handle responsibilities that were earlier shared by two employees",
+        "quote": "forcing a single station master to handle responsibilities that were earlier shared by two employees"
+      },
+      {
+        "claim": "the mounting workload was affecting employees’ health and compromising operational safety",
+        "quote": "the mounting workload was affecting employees’ health and compromising operational safety"
+      },
+      {
+        "claim": "the railway administration of adopting dictatorial practices and putting employees under undue pressure",
+        "quote": "accused the railway administration of adopting dictatorial practices and putting employees under undue pressure"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Station masters in Pune's railway division have been protesting for recruitment and better conditions after accusing the railway administration of dictatorial practices and staff shortages.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

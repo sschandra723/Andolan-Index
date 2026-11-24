@@ -1,0 +1,58 @@
+{
+  "id": "d1a12fbbb2",
+  "url": "https://www.greaterkashmir.com/kashmir/j-k-resident-doctors-at-government-medical-college-go-on-indefinite-strike-12826296",
+  "title": "J-K: Resident doctors at Government Medical College go on indefinite strike",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1074,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Postgraduate and senior resident doctors at Government Medical College in Srinagar began an indefinite strike demanding higher stipends and parity with other states and Union Territories.",
+    "facts": [
+      {
+        "claim": "Postgraduate and senior resident doctors at the Government Medical College here began an indefinite strike on Friday",
+        "quote": "Postgraduate and senior resident doctors at the Government Medical College here began an indefinite strike on Friday,"
+      },
+      {
+        "claim": "The protesting doctors urged the government to address their demands immediately",
+        "quote": "The protesting doctors urged the government to address their demands immediately."
+      },
+      {
+        "claim": "AIMSA's key demands include immediate stipend enhancement and parity for postgraduate, senior resident, DNB and MDS doctors across Jammu and Kashmir",
+        "quote": "AIMSA's key demands include immediate stipend enhancement and parity for postgraduate, senior resident, DNB and MDS doctors across Jammu and Kashmir,"
+      },
+      {
+        "claim": "They also urged the principal of GMC Srinagar to facilitate the formation of a recognised Resident Doctors' Association (RDA) to ensure proper representation of resident doctors",
+        "quote": "They also urged the principal of GMC Srinagar to facilitate the formation of a recognised Resident Doctors' Association (RDA) to ensure proper representation of resident doctors."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Doctors in Jammu and Kashmir are striking for higher stipends and parity with other states and Union Territories, following long-standing grievances.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

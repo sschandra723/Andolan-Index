@@ -1,0 +1,70 @@
+{
+  "id": "6684aad5e9",
+  "url": "https://www.etvbharat.com/en/bharat/farmers-to-hold-nationwide-agitation-over-proposed-indo-us-trade-deal-and-other-issues-enn26112303673",
+  "title": "Farmers To Hold Nationwide Agitation Over Proposed Indo-US Trade Deal And Other Issues",
+  "outlet": "ETV Bharat",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4620,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "farmers-india-us-trade-2026",
+    "new_movement": null,
+    "summary": "Farmers under Samyukta Kisan Morcha plan nationwide protests on November 26 over the proposed India-US trade deal, warning it would harm Indian farmers by flooding markets with imported goods and undermining local agricultural systems.",
+    "facts": [
+      {
+        "claim": "Farmers under Samyukta Kisan Morcha will hold a protest in Delhi (from Mandir Marg to Jantar Mantar) and around 100 places across the country on November 26",
+        "quote": "New Delhi: Farmers, under the aegis of Samyukta Kisan Morcha, will hold a protest in Delhi (from Mandir Marg to Jantar Mantar) and around 100 places across the country on November 26 over issues like the proposed India-US trade deal and others."
+      },
+      {
+        "claim": "The US Agriculture Secretary had declared from Washington that trade worth USD 500 billion would take place with India over the next five years",
+        "quote": "The US Agriculture Secretary had declared from Washington that trade worth USD 500 billion would take place with India over the next five years."
+      },
+      {
+        "claim": "In India, around 85 per cent of farmers have landholdings of less than one hectare",
+        "quote": "In India, around 85 per cent of farmers have landholdings of less than one hectare."
+      },
+      {
+        "claim": "Large American corporations will sell their agricultural produce to big Indian corporate houses. Companies will import these products at cheaper rates and sell them to Indian consumers at higher prices",
+        "quote": "Large American corporations will sell their agricultural produce to big Indian corporate houses. Companies will import these products at cheaper rates and sell them to Indian consumers at higher prices."
+      },
+      {
+        "claim": "Farmers have been warning the government of India against proceeding with this agreement. It must withdraw from the proposed deal",
+        "quote": "Satywan said the farmers have been warning the government of India against proceeding with this agreement. \"It must withdraw from the proposed deal. Otherwise, the farmers and all participating organisations will jointly launch a fresh nationwide agitation.\""
+      },
+      {
+        "claim": "We demand the government to immediately address issues like severe drought, flood and ecological crisis due to El Nino impact and climate change - with a comprehensive disaster management system to compensate loss of crops, livestock, housing and livelihood",
+        "quote": "Vijoo Krishnan, general secretary of All India Kisan Sabha highlighted need for an effective disaster management system. \"We demand the government to immediately address issues like severe drought, flood and ecological crisis due to El Nino impact and climate change - with a comprehensive disaster management system to compensate loss of crops, livestock, housing and livelihood.\""
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers under Samyukta Kisan Morcha plan nationwide protests on November 26 over the proposed India-US trade deal, warning it would harm Indian farmers by flooding markets with imported goods and undermining local agricultural systems.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Satywan said the farmers have been warning the government of India against proce”"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

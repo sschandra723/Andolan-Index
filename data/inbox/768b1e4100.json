@@ -1,0 +1,58 @@
+{
+  "id": "768b1e4100",
+  "url": "https://www.greaterkashmir.com/kashmir/recruitment-mafia-thrives-in-jk-cm-omar-must-answer-iltija-mufti-12827829",
+  "title": "Recruitment mafia thrives in J&K, CM Omar must answer: Iltija Mufti",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Omar Abdullah"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Iltija Mufti accused J&K's recruitment system of being vulnerable to a mafia network, citing repeated controversies since 2019 that have undermined confidence in government exams, with allegations of paper leaks and examination irregularities.",
+    "facts": [
+      {
+        "claim": "recruitment mafia",
+        "quote": "Allegations of organised malpractice in government recruitment have triggered a fresh political confrontation in Jammu and Kashmir, with Peoples Democratic Party (PDP) leader Iltija Mufti on Friday accusing the recruitment system of being vulnerable to an organised network involving government employees and demanding an independent investigation into the alleged cheating racket unearthed during the Finance Accounts Assistant (FAA) examination."
+      },
+      {
+        "claim": "repeated controversies since 2019",
+        "quote": "Questioning the Jammu and Kashmir Services Selection Board’s (JKSSB) description of the incident as an isolated attempt to use unfair means, Iltija said repeated controversies surrounding competitive examinations since 2019 had severely undermined the confidence of educated youth in the government recruitment mechanism."
+      },
+      {
+        "claim": "paper leaks and examination irregularities",
+        "quote": "Addressing a press conference in Srinagar, she alleged that a recruitment mafia was operating in the Union Territory and exploiting thousands of unemployed aspirants who spend years preparing for competitive examinations, only to face allegations of paper leaks, examination irregularities and cancellations."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Iltija Mufti accused J&K's recruitment system of being vulnerable to a mafia network, citing repeated controversies since 2019 that have undermined confidence in government exams, with allegations of paper leaks and examination irregularities.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "12c82d8094",
+  "url": "https://theprint.in/india/uttarakhand-prantiya-rakshak-dal-prd-workers-protest-over-da-hike-job-security-intensifies/3103734/",
+  "title": "Uttarakhand: Prantiya Rakshak Dal (PRD) workers’ protest over DA hike, job security intensifies",
+  "outlet": "ThePrint",
+  "published": "2026-11-20",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1633,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "PRD workers in Uttarakhand intensified protests over demands for 365-day employment and DA matching Home Guards after inconclusive talks with the Sports and Youth Welfare minister.",
+    "facts": [
+      {
+        "claim": "PRD workers locked the gate of the Directorate of Youth Welfare in protest",
+        "quote": "Prantiya Rakshak Dal (PRD) workers on Thursday locked the gate of the Directorate of Youth Welfare in protest after a meeting with Minister Rekha Arya over their demand for 365 days of employment and Dearness Allowance (DA) at par with Home Guards."
+      },
+      {
+        "claim": "They were summoned to meet the minister to discuss demands",
+        "quote": "The PRD personnel said that they had been summoned to the secretariat to meet Arya, the Sports and Youth Welfare minister, to discuss their demands."
+      },
+      {
+        "claim": "The minister said the department is empathetic and will review demands",
+        "quote": "Arya said the department is empathetic toward the PRD personnel and said they are a major strength of the department, acknowledging their services during the Char Dham Yatra."
+      },
+      {
+        "claim": "The minister urged patience and promised a proposal",
+        "quote": "She urged the PRD personnel to be patient and said the department will prepare a proposal that aligns with their sentiments."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "PRD workers in Uttarakhand have been protesting for 365-day employment and DA matching Home Guards since at least November 19, 2026.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

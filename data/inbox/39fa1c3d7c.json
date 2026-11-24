@@ -1,0 +1,54 @@
+{
+  "id": "39fa1c3d7c",
+  "url": "https://theprint.in/india/over-27-weddings-12000-guests-traffic-curbs-expected-on-key-roads-in-south-delhi/3104846/",
+  "title": "Over 27 weddings, 12,000 guests: Traffic curbs expected on key roads in South Delhi",
+  "outlet": "ThePrint",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1255,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Police in New Delhi warned of traffic congestion on key roads due to over 27 weddings attracting 12,000 guests and 5,000 additional vehicles.",
+    "facts": [
+      {
+        "claim": "more than 27 marriage functions",
+        "quote": "more than 27 marriage functions scheduled across the area"
+      },
+      {
+        "claim": "over 12,000 guests",
+        "quote": "drawing over 12,000 guests"
+      },
+      {
+        "claim": "estimated 5,000 additional vehicles",
+        "quote": "an estimated 5,000 additional vehicles"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

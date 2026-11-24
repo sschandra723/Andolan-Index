@@ -1,0 +1,74 @@
+{
+  "id": "4cd42b88bd",
+  "url": "https://www.greaterkashmir.com/pir-panjal/employees-strike-in-5-new-jk-gmcs-enters-day-4-12824999",
+  "title": "Employees’ strike in 5 new J&K GMCs enters day 4",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1974,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Non-gazetted cadre employees of five new Government Medical Colleges in Jammu and Kashmir have struck for four days, demanding recruitment rules that have not been notified despite seven years of waiting.",
+    "facts": [
+      {
+        "claim": "The strike by non-gazetted cadre employees of five new Government Medical Colleges (GMCs) in Jammu and Kashmir entered its fourth consecutive day",
+        "quote": "The strike by non-gazetted cadre employees of five new Government Medical Colleges (GMCs) in Jammu and Kashmir entered its fourth consecutive day on Thursday"
+      },
+      {
+        "claim": "The protesting employees ... are abstaining from their duties and staging sit-in protests outside their respective institutions, demanding immediate notification of recruitment rules that have reportedly been awaited for the past seven years",
+        "quote": "The protesting employees of these new five GMCs at Rajouri, Kathua, Udhampur, Anantnag and Handwara are abstaining from their duties and staging sit-in protests outside their respective institutions, demanding immediate notification of recruitment rules that have reportedly been awaited for the past seven years."
+      },
+      {
+        "claim": "Established during 2015-16, these five medical colleges started functioning normally during 2018-19",
+        "quote": "Established during 2015-16, these five medical colleges started functioning normally during 2018-19."
+      },
+      {
+        "claim": "The employees said that despite repeated assurances, the recruitment rules governing their service matters have not been notified so far",
+        "quote": "the employees said that despite repeated assurances, the recruitment rules governing their service matters have not been notified so far."
+      },
+      {
+        "claim": "This is the third time this year that the non-gazetted cadre employees have resorted to a strike against the Jammu and Kashmir government and the Health and Medical Education Department over the long-pending demand",
+        "quote": "This is the third time this year that the non-gazetted cadre employees have resorted to a strike against the Jammu and Kashmir government and the Health and Medical Education Department over the long-pending demand."
+      },
+      {
+        "claim": "The employees said they would continue their agitation until the government fulfilled its commitment and formally notified the recruitment rules",
+        "quote": "The employees said they would continue their agitation until the government fulfilled its commitment and formally notified the recruitment rules."
+      },
+      {
+        "claim": "They recalled that during July and August, the government, through the Health Minister, had assured that the rules would be notified by September 30. However, the deadline passed without any notification, prompting the employees to resume their protest",
+        "quote": "They recalled that during July and August, the government, through the Health Minister, had assured that the rules would be notified by September 30. However, the deadline passed without any notification, prompting the employees to resume their protest."
+      },
+      {
+        "claim": "We will continue our protest and so far, only non-emergency services are hit but day is not far when emergency services would also be hit as Government of J&K seems to be least bothered about our issue",
+        "quote": "\"We will continue our protest and so far, only non-emergency services are hit but day is not far when emergency services would also be hit as Government of J&K seems to be least bothered about our issue,\" alleged protesting employees."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The strike involves non-gazetted cadre employees of five new Government Medical Colleges in Jammu and Kashmir, who have been demanding recruitment rules for seven years.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "4e1ffc678c",
+  "url": "https://www.freepressjournal.in/india/sc-issues-notices-to-congress-aap-cjp-aisa-over-protests-against-cec",
+  "title": "SC Issues Notices To Congress, AAP, CJP, AISA Over Protests Against CEC",
+  "outlet": "Free Press Journal",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": "anti-sir-2026",
+  "score": 6.0,
+  "matched": [
+    "Gyanesh Kumar",
+    "chief election commissioner",
+    "=CEC",
+    "Cockroach Janata Party",
+    "=CJP",
+    "Election Commission"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1881,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court issued notices to protest organisers including CJP, INC, AAP, and AISA over disruptions to businesses at Jantar Mantar and Ramlila Maidan.",
+    "facts": [
+      {
+        "claim": "The Supreme Court issued notices to organisations involved in protests against Chief Election Commissioner Gyanesh Kumar",
+        "quote": "The Supreme Court on Wednesday issued notices to organisations involved in protests against Chief Election Commissioner Gyanesh Kumar last month, including the Cockroach Janata Party (CJP), Indian National Congress (INC), Aam Aadmi Party (AAP) and All India Students Association (AISA)."
+      },
+      {
+        "claim": "The Court directed notices to protest organisers after petitioners impleaded them",
+        "quote": "Court issues notices to protest organisers\nEarlier, the Court had asked the petitioners to implead the protest organisers as respondents in their petition. The amended petition was taken on record, following which the Court directed that notices be issued to the protest organisers."
+      },
+      {
+        "claim": "Protests at Jantar Mantar disrupted business activities in Central Delhi",
+        "quote": "Senior Advocate Mukul Rohatgi, appearing for the petitioners, argued that protests at Jantar Mantar disrupted business activities in Central Delhi."
+      },
+      {
+        "claim": "Ramlila Maidan was objected to as a protest site due to surrounding wholesale markets",
+        "quote": "\"Ramlila Ground is in the heart of the city. Protests should not be allowed there when wholesale markets are situated all around Ramlila Ground,\" he submitted."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court is addressing business disruptions caused by protests against the Chief Election Commissioner, which have been organised by political groups and student organisations.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

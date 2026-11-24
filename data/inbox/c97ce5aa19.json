@@ -1,0 +1,66 @@
+{
+  "id": "c97ce5aa19",
+  "url": "https://www.greaterkashmir.com/opinion/jk-needs-private-colleges-12830537",
+  "title": "J&K needs private colleges",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Chandigarh"
+  ],
+  "alternatives": [
+    "pu-bachao-morcha-2025"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Jammu and Kashmir needs private colleges to address student outflow, but government regulation of private education has hindered development. The article argues that private investment can complement public education without compromising standards, citing historical examples from Karnataka and Maharashtra.",
+    "facts": [
+      {
+        "claim": "Jammu and Kashmir needs private colleges to address student outflow",
+        "quote": "Regulation protects standards; it cannot build institutions. If Jammu and Kashmir want seats, skills and opportunities for its young people, it must start treating genuine private investors in education as partners to be developed — not suspects to be policed."
+      },
+      {
+        "claim": "Government regulation of private education has hindered development",
+        "quote": "Every year, families across Jammu and Kashmir pack their children off to colleges in Bengaluru, Dehradun, Chandigarh and Pune, spending lakhs on tuition, hostels and travel. This quiet outflow of students, money and talent is not a natural condition of our region. It is the outcome of a choice we have made: to regulate private education rather than to build it."
+      },
+      {
+        "claim": "Private investment can complement public education without compromising standards",
+        "quote": "Private investment is not a threat to public education in J&K — it is the only realistic bridge between what our students want and what the government can provide."
+      },
+      {
+        "claim": "Historical examples from Karnataka and Maharashtra show successful public-private partnerships",
+        "quote": "Karnataka offers the classic example. Kasturba Medical College, established in 1953, grew through cooperation with public institutions: its students initially received clinical training in government hospitals, including Wenlock and Lady Goschen in Mangalore, while the college developed facilities of its own. The state did not lower a single standard to make this possible."
+      },
+      {
+        "claim": "The Sempora medical college proposal highlights the urgency of the issue",
+        "quote": "The current experience of Kashmir Medical College at Sempora, Srinagar, makes the question urgent rather than theoretical. The institution, promoted by Milli Trust, has sought permission to establish a medical college with an annual intake of 150 MBBS students."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Jammu and Kashmir has been seeking statehood since 2019, but the current article focuses on education policy rather than statehood. The movement's background should note that the article discusses private education as a potential solution to student outflow, which is part of the broader context of J&K's development challenges.",
+    "confidence": 0.85,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

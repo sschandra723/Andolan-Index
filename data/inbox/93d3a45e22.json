@@ -1,0 +1,77 @@
+{
+  "id": "93d3a45e22",
+  "url": "https://www.thehindu.com/news/national/kerala/cpim-hails-kerala-high-court-relief-to-protesting-sanskrit-university-students-as-a-slap-in-the-face-to-the-vc-and-udf-government/article71734120.ece",
+  "title": "CPI(M) hails Kerala High Court relief to protesting Sanskrit University students as a slap in the face to the VC and UDF government",
+  "outlet": "The Hindu",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2175,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "keralam-lpst-rankholders-2026",
+    "new_movement": null,
+    "summary": "CPI(M) called Kerala High Court's order lifting suspension of 16 Sanskrit University students a 'resounding slap' for the education minister and vice-chancellor, accusing them of siding with Sangh Parivar.",
+    "facts": [
+      {
+        "claim": "Kerala High Court quashed suspension of 16 students of Sree Sankaracharya University of Sanskrit",
+        "quote": "the Kerala High Court’s order quashing the suspension of 16 students of Sree Sankaracharya University of Sanskrit in Kalady"
+      },
+      {
+        "claim": "CPI(M) accused education minister Roji M. John of aiding the vice-chancellor",
+        "quote": "Mr. John had actively aided the vice-chancellor, whom he portrayed as a Sangh Parivar enabler"
+      },
+      {
+        "claim": "CPI(M) said the students were Student Federation of India activists",
+        "quote": "all Student Federation of India (SFI) activists"
+      },
+      {
+        "claim": "CPI(M) accused minister of demanding students apologize to vice-chancellor",
+        "quote": "Mr. John had revealed his true political colours. He demanded the students apologise to the vice-chancellor or forfeit their future"
+      },
+      {
+        "claim": "CPI(M) compared minister's demand to RSS leaders apologizing to colonial rulers",
+        "quote": "His demand was a hark back to the tradition of Rashtriya Swayamsevak Sangh (RSS) leaders to apologise to colonial rulers"
+      },
+      {
+        "claim": "CPI(M) said High Court ordered special exams for students",
+        "quote": "the High Court directive to conduct special examinations for the striking students"
+      },
+      {
+        "claim": "CPI(M) said students were from working-class families",
+        "quote": "all hailing from working-class families"
+      },
+      {
+        "claim": "CPI(M) said students were punished for demanding campus infrastructure",
+        "quote": "He said the students had been punished for demanding basic campus infrastructure, including the lack of lecturers and delay in awarding fellowships"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala High Court lifted suspension of 16 Sanskrit University students who were Student Federation of India activists, after the education minister and vice-chancellor demanded they apologize for alleged misconduct.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “He said the students had been punished for demanding basic campus infrastructure”",
+        "name “Sanskrit University” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

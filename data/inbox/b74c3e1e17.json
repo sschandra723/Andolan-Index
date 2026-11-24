@@ -1,0 +1,56 @@
+{
+  "id": "b74c3e1e17",
+  "url": "https://www.greaterkashmir.com/politics/ruhullah-blames-govt-12830507",
+  "title": "Ruhullah blames Govt",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Omar Abdullah"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3549,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Former Lok Sabha member Aga Syed Ruhullah accused both the Lieutenant Governor’s administration and the elected government of Kashmir of failing to address recruitment irregularities in JKSSB exams, leaving students uncertain about their future.",
+    "facts": [
+      {
+        "claim": "Former Lok Sabha member Aga Syed Ruhullah accused both the Lieutenant Governor’s administration and the elected government of Kashmir of failing to address recruitment irregularities in JKSSB exams",
+        "quote": "Srinagar, Nov 21: Former Lok Sabha member Aga Syed Ruhullah on Saturday accused both the Lieutenant Governor’s administration and the elected government led by Chief Minister Omar Abdullah of failing to address recruitment-related irregularities, alleging that the jurisdictional tussle between the two has left job aspirants facing uncertainty over their future."
+      },
+      {
+        "claim": "Ruhullah joined students protesting against alleged malpractice in Jammu and Kashmir Services Selection Board (JKSSB) examinations",
+        "quote": "Joining students protesting against alleged malpractice in Jammu and Kashmir Services Selection Board (JKSSB) examinations at Sher-e-Kashmir Park here, Ruhullah said the two administrations could not continue shifting responsibility while young people paid the price for a recruitment system repeatedly facing allegations of irregularities."
+      },
+      {
+        "claim": "The JKSSB conducted the Finance Accounts Assistant examination on November 15 with 1,61,946 candidates scheduled to appear for 600 posts",
+        "quote": "In a statement issued on November 19, the board said the test was conducted across all 20 districts at 493 centres, with 1,61,946 candidates scheduled to appear for 600 posts."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest involves students and former politicians accusing both the Lieutenant Governor’s administration and the elected government of Kashmir of jurisdictional disputes over recruitment irregularities in JKSSB exams, which have led to allegations of cheating and unfair practices.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

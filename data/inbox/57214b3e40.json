@@ -1,0 +1,75 @@
+{
+  "id": "57214b3e40",
+  "url": "https://nagalandpost.com/democracy-under-threat/",
+  "title": "Democracy under threat",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": "anti-sir-2026",
+  "score": 6.0,
+  "matched": [
+    "Special Intensive Revision",
+    "=SIR",
+    "voter list",
+    "electoral roll",
+    "Cockroach Janata Party",
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3724,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "The article discusses opposition to the Special Intensive Revision (SIR) of electoral rolls, highlighting concerns over millions of voter deletions and demands for transparent data to ensure citizens' rights. Critics argue that the scale of deletions requires independent scrutiny to prevent vote theft.",
+    "facts": [
+      {
+        "claim": "more than 13 crore deletions across states",
+        "quote": "Critics cite more than 13 crore deletions across states"
+      },
+      {
+        "claim": "Bihar had 65 lakh names excluded in draft roll, final roll contained 7.42 crore electors (47 lakh fewer)",
+        "quote": "Bihar was the first major test of the SIR. The draft roll excluded nearly 65 lakh names; after subsequent additions and deletions, the final roll contained about 7.42 crore electors-roughly 47 lakh fewer than at the start."
+      },
+      {
+        "claim": "In 174 constituencies, exclusions exceeded winning margin",
+        "quote": "Critics say that 69.1 lakh names were left off the draft roll or deleted later, and that in 174 constituencies the number of exclusions exceeded the winning margin."
+      },
+      {
+        "claim": "West Bengal reported draft-roll removals of 58 lakh and final revised-roll removals of 90–91 lakh",
+        "quote": "In West Bengal, reports put draft-roll removals at about 58 lakh and final revised-roll removals at roughly 90–91 lakh."
+      },
+      {
+        "claim": "The NDA won 202 of 243 seats in the 2025 Assembly election",
+        "quote": "The NDA won 202 of 243 seats in the 2025 Assembly election."
+      },
+      {
+        "claim": "Maharashtra reported net increase of 40.81 lakh voters between May and November 2024 elections",
+        "quote": "Maharashtra raises a related, but distinct, concern. The reported net increase of 40.81 lakh voters between the May and November 2024 elections is not part of the 2026 SIR."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Opposition parties and civic groups, including the Cockroach Janata Party (CJP), are demanding independent scrutiny of the SIR process to prevent voter exclusions and potential vote theft.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

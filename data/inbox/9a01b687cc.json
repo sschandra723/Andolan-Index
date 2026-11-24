@@ -1,0 +1,66 @@
+{
+  "id": "9a01b687cc",
+  "url": "https://telanganatoday.com/supreme-court-seeks-cjp-response-on-plea-to-denotify-ramlila-maidan-as-protest-site",
+  "title": "Supreme Court seeks CJP response on plea to denotify Ramlila Maidan as protest site",
+  "outlet": "Telangana Today",
+  "published": "2026-11-17",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1997,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court asked political parties, the Centre, Delhi government and police to respond to traders' plea to remove Ramlila Maidan as a protest site, citing business disruptions during festival season.",
+    "facts": [
+      {
+        "claim": "traders' plea to denotify Ramlila Maidan as a protest site",
+        "quote": "The Supreme Court sought responses from political parties, the Centre, Delhi government and police on traders’ plea to denotify Ramlila Maidan as a protest site, citing business disruptions."
+      },
+      {
+        "claim": "court will hear the matter on November 27",
+        "quote": "The court will hear the matter on November 27"
+      },
+      {
+        "claim": "traders argued designated protest sites could not be occupied for all times to come",
+        "quote": "During the festival season, the traders’ bodies had sought a halt to protests at Ramlila Maidan in central Delhi, arguing that designated protest sites could not be occupied “for all times to come”."
+      },
+      {
+        "claim": "bench issued notices to Centre, Delhi government and Delhi Police Commissioner",
+        "quote": "The bench also issued notices to the Centre, the Delhi government and the Delhi Police Commissioner."
+      },
+      {
+        "claim": "court said competing fundamental rights must be balanced",
+        "quote": "It also said that competing fundamental rights — the right to protest and the right to conduct business — must be balanced."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court is balancing the right to protest and business rights amid festival season disruptions at Ramlila Maidan in Delhi.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9ea32f4e6c",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/himachal-bjp-to-hold-protest-over-pending-women-s-aid-101794941560888.html",
+  "title": "Himachal BJP to hold protest over pending women’s aid",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1287,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Himachal Pradesh BJP plans a statewide protest from December 1-25 demanding ₹72,000 for women instead of ₹1,500 monthly aid promised by the Congress government.",
+    "facts": [
+      {
+        "claim": "Himachal Pradesh BJP chief Rajeev Bindal said the party will launch a statewide Seva Doot Abhiyan from December 1 to December 25, covering all 68 assembly constituencies of the state.",
+        "quote": "Himachal Pradesh BJP chief Rajeev Bindal said the party will launch a statewide Seva Doot Abhiyan from December 1 to December 25, covering all 68 assembly constituencies of the state."
+      },
+      {
+        "claim": "Himachal Pradesh BJP chief Rajeev Bindal on Tuesday said a women-led protest will be held against the state government on November 19 in Dharamshala over the failure to fulfil its promise of ₹1,500 monthly assistance to women.",
+        "quote": "Himachal Pradesh BJP chief Rajeev Bindal on Tuesday said a women-led protest will be held against the state government on November 19 in Dharamshala over the failure to fulfil its promise of ₹1,500 monthly assistance to women."
+      },
+      {
+        "claim": "The BJP will seek release of ₹72,000, not just ₹1,500 and demand that the benefit be extended to all 28 lakh women in the state.",
+        "quote": "The BJP will seek release of ₹72,000, not just ₹1,500 and demand that the benefit be extended to all 28 lakh women in the state."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The BJP is demanding higher women's aid funds than the promised ₹1,500 monthly assistance, targeting all 28 lakh women in Himachal Pradesh.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The BJP will seek release of ₹72,000, not just ₹1,500 and demand that the benefi”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

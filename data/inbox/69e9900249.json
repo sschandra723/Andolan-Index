@@ -1,0 +1,79 @@
+{
+  "id": "69e9900249",
+  "url": "https://www.greaterkashmir.com/opinion/a-heating-mission-12825021",
+  "title": "A Heating Mission",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Ladakh",
+    "Leh"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The article discusses the need for winter preparedness in Kashmir, highlighting infrastructure challenges and the potential for a government-led heating mission to improve safety and public services during cold seasons.",
+    "facts": [
+      {
+        "claim": "Winter in Kashmir is beautiful. Snow nourishes the landscape and sustains the valley’s water systems.",
+        "quote": "Winter in Kashmir is beautiful. Snow nourishes the landscape and sustains the valley’s water systems."
+      },
+      {
+        "claim": "The kangri remains a familiar source of warmth; bukharis heat many rooms; and the traditional hamam, found in some homes and institutions, offers comfort to those who can afford it.",
+        "quote": "The kangri remains a familiar source of warmth; bukharis heat many rooms; and the traditional hamam, found in some homes and institutions, offers comfort to those who can afford it."
+      },
+      {
+        "claim": "These methods are part of our social history. Yet many traditional systems depend on solid fuels, require storage and constant attention, and can expose people to smoke or dangerous gases when poorly designed or ventilated.",
+        "quote": "These methods are part of our social history. Yet many traditional systems depend on solid fuels, require storage and constant attention, and can expose people to smoke or dangerous gases when poorly designed or ventilated."
+      },
+      {
+        "claim": "A comprehensive heating mission could make life safer, improve education and healthcare, create year-round work for local youth and reduce pressure on forests.",
+        "quote": "A comprehensive heating mission could make life safer, improve education and healthcare, create year-round work for local youth and reduce pressure on forests."
+      },
+      {
+        "claim": "Government cannot deliver this transformation alone, but it must provide the direction, standards and confidence that allow communities and businesses to invest.",
+        "quote": "Government cannot deliver this transformation alone, but it must provide the direction, standards and confidence that allow communities and businesses to invest."
+      },
+      {
+        "claim": "Countries with cold climates, including Canada, Russia and Scandinavian nations, show that severe winter need not bring ordinary life to a halt.",
+        "quote": "Countries with cold climates, including Canada, Russia and Scandinavian nations, show that this severe winter need not bring ordinary life to a halt."
+      },
+      {
+        "claim": "Children in many cold regions attend school through winter because buildings, transport, heating and maintenance are designed for it.",
+        "quote": "Children in many cold regions attend school through winter because buildings, transport, heating and maintenance are designed for it."
+      },
+      {
+        "claim": "The first step should be a government-led audit of public buildings: offices dealing with citizens, schools, colleges, hospitals, banks in public premises, police stations and defence establishments.",
+        "quote": "The first step should be a government-led audit of public buildings: offices dealing with citizens, schools, colleges, hospitals, banks in public premises, police stations and defence establishments."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The article calls for a government-led heating mission in Kashmir to address winter infrastructure challenges, emphasizing safety, education, healthcare, and economic benefits.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Countries with cold climates, including Canada, Russia and Scandinavian nations,”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

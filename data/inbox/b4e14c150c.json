@@ -1,0 +1,51 @@
+{
+  "id": "b4e14c150c",
+  "url": "https://www.newsbytesapp.com/news/india/indian-youth-congress-protests-at-meta-gurugram-over-account-blocking/tldr",
+  "title": "Indian Youth Congress protests at Meta Gurugram over account blocking",
+  "outlet": "NewsBytes",
+  "published": "2026-11-23",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Indian Youth Congress protested at Meta Gurugram over account blocking, with police claiming the site was not a permitted venue.",
+    "facts": [
+      {
+        "claim": "Indian Youth Congress protested at Meta Gurugram over account blocking",
+        "quote": "Indian Youth Congress protests at Meta Gurugram over account blocking"
+      },
+      {
+        "claim": "police claimed the site was not a permitted venue",
+        "quote": "police said the site was not a permitted venue"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

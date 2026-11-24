@@ -1,0 +1,72 @@
+{
+  "id": "b9902e2f92",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/employees-protest-outside-mann-s-sangrur-residence-101795112950342.html",
+  "title": "Employees protest outside Mann’s Sangrur residence",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1465,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "pu-bachao-morcha-2025",
+    "new_movement": null,
+    "summary": "Employees and pensioners protested outside Punjab Chief Minister Bhagwant Mann's residence in Sangrur, demanding restoration of the old pension scheme, release of DA instalments, a coefficient of 2.59 for pensioners, regularisation of contractual workers, and payment of Sixth Pay Commission arrears in one instalment.",
+    "facts": [
+      {
+        "claim": "They are demanding the restoration of the old pension scheme, release of remaining DA instalments, a coefficient of 2.59 for pensioners, regularisation of contractual workers, and payment of the Sixth Pay Commission arrears in one instalment",
+        "quote": "They are demanding the restoration of the old pension scheme, release of remaining DA instalments, a coefficient of 2.59 for pensioners, regularisation of contractual workers, and payment of the Sixth Pay Commission arrears in one instalment"
+      },
+      {
+        "claim": "Protesters associated with the ‘Sanjhi Talmel Committee’ marched towards chief minister Bhagwant Mann’s residence in Sangrur on the seventh day of their stir on Thursday",
+        "quote": "Protesters associated with the ‘Sanjhi Talmel Committee’ marched towards chief minister Bhagwant Mann’s residence in Sangrur on the seventh day of their stir on Thursday."
+      },
+      {
+        "claim": "Thousands of employees, pensioners and honorarium workers participated in the rally on Thursday. They gathered near Verka Milk Plant and later marched towards the CM’s residence in Sangrur. They had been protesting in front of the district administrative complex gate for six days.",
+        "quote": "Thousands of employees, pensioners and honorarium workers participated in the rally on Thursday. They gathered near Verka Milk Plant and later marched towards the CM’s residence in Sangrur. They had been protesting in front of the district administrative complex gate for six days."
+      },
+      {
+        "claim": "They have also urged the government to bring mid-day meal workers, ASHA workers, Anganwadi and sanitation workers under the ambit of minimum wages, and restore the services of 253 terminated teachers.",
+        "quote": "They have also urged the government to bring mid-day meal workers, ASHA workers, Anganwadi and sanitation workers under the ambit of minimum wages, and restore the services of 253 terminated teachers."
+      },
+      {
+        "claim": "The protesters alleged that the Punjab government had become a puppet of the Delhi government.",
+        "quote": "The protesters alleged that the Punjab government had become a puppet of the Delhi government."
+      },
+      {
+        "claim": "They further claimed that employees, pensioners, farmers, workers and students were being beaten up.",
+        "quote": "They further claimed that employees, pensioners, farmers, workers and students were being beaten up."
+      },
+      {
+        "claim": "They warned the government that it would face fiercer struggles if Mann did not resolve their issues in the meeting on November 25.",
+        "quote": "They warned the government that it would face fiercer struggles if Mann did not resolve their issues in the meeting on November 25."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Employees and pensioners in Punjab are protesting for restoration of the old pension scheme, release of DA instalments, a coefficient of 2.59 for pensioners, regularisation of contractual workers, and payment of Sixth Pay Commission arrears in one instalment.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": [
+        "name “Punjab Chief Minister Bhagwant Mann” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

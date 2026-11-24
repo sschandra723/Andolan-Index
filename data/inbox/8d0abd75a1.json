@@ -1,0 +1,54 @@
+{
+  "id": "8d0abd75a1",
+  "url": "https://timesofindia.indiatimes.com/india/when-you-promote-rakshasas-bjp-mp-nishikant-dubey-takes-swipe-at-meta-amid-youth-congress-protests/articleshow/136056344.cms",
+  "title": "'When you promote rakshasas': BJP MP Nishikant Dubey takes swipe at Meta amid youth Congress protests",
+  "outlet": "Times of India",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1862,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "BJP MP Nishikant Dubey criticized Meta for allegedly promoting Congress leaders' accounts, claiming its algorithms favor the opposition party. The Indian Youth Congress demanded Meta restore restricted accounts within seven days amid allegations of censorship.",
+    "facts": [
+      {
+        "claim": "BJP MP Nishikant Dubey criticized Meta for allegedly promoting Congress leaders' accounts",
+        "quote": "BJP MP Nishikant Dubey on Saturday took a swipe at Meta, saying the social media giant should now realise the consequences of promoting \"demons and monsters\"."
+      },
+      {
+        "claim": "The Indian Youth Congress demanded Meta restore restricted accounts within seven days",
+        "quote": "The IYC issued a seven-day \"ultimatum\" to Meta, demanding that it restore restricted accounts and posts within the deadline."
+      },
+      {
+        "claim": "Meta suspended or restricted accounts of key party functionaries",
+        "quote": "The IYC's warning came amid allegations that Meta, which owns Instagram, had suspended or restricted accounts and removed posts belonging to key party functionaries, including national president Uday Bhanu Chib and national in-charge Manish Sharma."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Indian Youth Congress (IYC) is the youth wing of the Indian National Congress and has accused Meta of suspending accounts of opposition leaders, leading to protests and demands for account restoration within seven days.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "376a5df6c0",
+  "url": "https://www.thehindu.com/news/national/kerala/ex-servicemen-families-stage-protest-in-keralams-kannur-demanding-better-echs-facilities/article71720907.ece",
+  "title": "Ex-servicemen, families stage protest in Keralam’s Kannur demanding better ECHS facilities",
+  "outlet": "The Hindu",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1212,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "keralam-lpst-rankholders-2026",
+    "new_movement": null,
+    "summary": "Ex-servicemen and families in Kannur staged a protest demanding better ECHS medical facilities and urgent government intervention for healthcare access.",
+    "facts": [
+      {
+        "claim": "Ex-servicemen and their family members staged a protest march and dharna in Kannur on Thursday",
+        "quote": "Several ex-servicemen and their family members staged a protest march and dharna in Kannur on Thursday demanding better medical facilities under the Ex-Servicemen Contributory Health Scheme (ECHS) and the urgent intervention of the Central government to address the healthcare crisis faced by former defence personnel and their dependents."
+      },
+      {
+        "claim": "The protest was organised by the Kannur district committee of the Kerala State Ex-Servicemen’s League",
+        "quote": "The protest was organised by the Kannur district committee of the Kerala State Ex-Servicemen’s League, highlighting the shortage of ECHS empanelled super-specialty hospitals in the district."
+      },
+      {
+        "claim": "Thousands of ex-servicemen and their family members were facing serious difficulties in accessing quality medical treatment due to the inadequate number of empanelled hospitals",
+        "quote": "The organisation said thousands of ex-servicemen and their family members were facing serious difficulties in accessing quality medical treatment due to the inadequate number of empanelled hospitals."
+      },
+      {
+        "claim": "The protest march began at 10 a.m. from the DSC Record office circle",
+        "quote": "The protest march began at 10 a.m. from the DSC Record office circle and was flagged off by league president Col. Jayadevan."
+      },
+      {
+        "claim": "The subsequent dharna in front of the Kannur head post office was inaugurated by T.O. Mohan, MLA",
+        "quote": "The subsequent dharna in front of the Kannur head post office was inaugurated by T.O. Mohan, MLA."
+      },
+      {
+        "claim": "The committee’s demands included ensuring prompt disbursement of medical treatment bills to empanelled hospitals",
+        "quote": "The committee’s demands included ensuring prompt disbursement of medical treatment bills to empanelled hospitals."
+      },
+      {
+        "claim": "The organisation also sought to establish an ECHS polyclinic at Alakode, Taliparamba, and Thalassery",
+        "quote": "The organisation also sought to establish an ECHS polyclinic at Alakode, Taliparamba, and Thalassery."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest is part of the ongoing ECHS healthcare crisis for ex-servicemen in Kerala, with the Kerala State Ex-Servicemen’s League demanding improved medical infrastructure and government intervention.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

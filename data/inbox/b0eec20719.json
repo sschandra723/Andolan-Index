@@ -1,0 +1,54 @@
+{
+  "id": "b0eec20719",
+  "url": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad?source=newscura",
+  "title": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
+  "outlet": "The Guardian",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3403,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Indian Youth Congress warned of more protests against Meta after police clashes in Hyderabad, demanding restoration of its leaders' Instagram accounts. Meta has restricted thousands of accounts critical of the government, with the government claiming it removes content only for breaches of law, public safety, or national security.",
+    "facts": [
+      {
+        "claim": "The Indian Youth Congress warned of more protests against Meta after police clashes in Hyderabad",
+        "quote": "The youth wing of India’s main opposition Congress party warned of more protests against Meta’s removal of some of its members’ accounts, a day after clashing with police outside the tech firm’s locals offices."
+      },
+      {
+        "claim": "Meta has restricted thousands of accounts critical of the government",
+        "quote": "Two such accounts were restored after Friday’s protests, but thousands of accounts of journalists, creators and influencers critical of the government remain restricted"
+      },
+      {
+        "claim": "The government claims it removes content only for breaches of law, public safety, or national security",
+        "quote": "Modi’s government says it orders content to be taken down only if it breaches local laws, can harm public safety or national security."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Indian Youth Congress has been protesting Meta's removal of accounts critical of the government, with recent clashes in Hyderabad and demands for restoration of leaders' Instagram accounts.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

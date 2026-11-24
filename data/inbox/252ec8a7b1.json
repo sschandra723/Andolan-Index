@@ -1,0 +1,50 @@
+{
+  "id": "252ec8a7b1",
+  "url": "https://www.ndtv.com/india-news/manithaneya-makkal-katchi-protests-in-chennai-seeks-release-of-22-muslim-convicts-12342950",
+  "title": "Manithaneya Makkal Katchi Protests In Chennai, Seeks Release Of 22 Muslim Convicts",
+  "outlet": "NDTV",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": "tn-hospital-workers-2026",
+  "score": 2.0,
+  "matched": [
+    "Tamil Nadu",
+    "Chennai"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Manithaneya Makkal Katchi protesters in Chennai demand the release of 22 Muslim convicts held in a recent case.",
+    "facts": [
+      {
+        "claim": "Manithaneya Makkal Katchi protesters in Chennai demand the release of 22 Muslim convicts held in a recent case.",
+        "quote": "Manithaneya Makkal Katchi Protests In Chennai, Seeks Release Of 22 Muslim Convicts"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

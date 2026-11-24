@@ -1,0 +1,91 @@
+{
+  "id": "2005259d7c",
+  "url": "https://www.greaterkashmir.com/pir-panjal/kotranka-youth-continue-protest-for-2nd-day-12832737",
+  "title": "Kotranka youth continue protest for 2nd day",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "National Conference"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2543,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Youth in Rajouri district continued protesting for the second day demanding the operationalisation of a newly constructed Community Health Centre Kandi building, which they claim has been kept closed for political motives.",
+    "facts": [
+      {
+        "claim": "Youth from Kotranka subdivision of Rajouri district continued their protest for the second consecutive day on Sunday, demanding the opening of the newly constructed building of Community Health Centre (CHC) Kandi.",
+        "quote": "Youth from Kotranka subdivision of Rajouri district continued their protest for the second consecutive day on Sunday, demanding the opening of the newly constructed building of Community Health Centre (CHC) Kandi."
+      },
+      {
+        "claim": "The protest continued at Kotranka subdivision headquarters, with demonstrators seeking immediate operationalisation of the building, which is nearing completion.",
+        "quote": "The protest continued at Kotranka subdivision headquarters, with demonstrators seeking immediate operationalisation of the building, which is nearing completion."
+      },
+      {
+        "claim": "Youth protesters have alleged that the building has been kept closed and under lock just to find a feasible date for its inauguration merely for political motives.",
+        "quote": "Youth protesters have alleged that the building has been kept closed and under lock just to find a feasible date for its inauguration merely for political motives."
+      },
+      {
+        "claim": "The National Conference unit, led by MLA Budhal Javed Iqbal Choudhary, issued a statement defending its role in the project and tracing its construction history.",
+        "quote": "The National Conference unit, led by MLA Budhal Javed Iqbal Choudhary, issued a statement defending its role in the project and tracing its construction history."
+      },
+      {
+        "claim": "The party said the work was initiated in 2018 without adequate budgetary provision and alleged that the project was initially launched to mislead the public.",
+        "quote": "The party said the work was initiated in 2018 without adequate budgetary provision and alleged that the project was initially launched to mislead the public."
+      },
+      {
+        "claim": "Nearly 95 per cent of the construction was subsequently completed, with water and electricity connections remaining pending.",
+        "quote": "Nearly 95 per cent of the construction was subsequently completed, with water and electricity connections remaining pending."
+      },
+      {
+        "claim": "The MLA later pursued the release of funds with the government. Acting on his DO letter, the Executive Engineer, R&B Division Kotranka, submitted a demand on October 15, 2026, following which the Finance Department released the required funds under the SASCI scheme.",
+        "quote": "The MLA later pursued the release of funds with the government. Acting on his DO letter, the Executive Engineer, R&B Division Kotranka, submitted a demand on October 15, 2026, following which the Finance Department released the required funds under the SASCI scheme."
+      },
+      {
+        "claim": "The building is expected to be inaugurated by the Health Minister shortly.",
+        "quote": "The building is expected to be inaugurated by the Health Minister shortly."
+      },
+      {
+        "claim": "The NC unit also accused some protest leaders, including the one, who was recently expelled from the party over alleged anti-party activities, of attempting to gain political mileage through protests and what it termed \"misleading narratives.\"",
+        "quote": "The NC unit also accused some protest leaders, including the one, who was recently expelled from the party over alleged anti-party activities, of attempting to gain political mileage through protests and what it termed \"misleading narratives.\""
+      },
+      {
+        "claim": "Highlighting healthcare improvements in the constituency, the statement said nine new doctors had recently been posted across health blocks of Budhal constituency following the MLA's efforts.",
+        "quote": "Highlighting healthcare improvements in the constituency, the statement said nine new doctors had recently been posted across health blocks of Budhal constituency following the MLA's efforts."
+      },
+      {
+        "claim": "It claimed that several Primary Health Centres, which had remained closed or non-functional for nearly two decades due to staff shortages, had now been made functional.",
+        "quote": "It claimed that several Primary Health Centres, which had remained closed or non-functional for nearly two decades due to staff shortages, had now been made functional."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Youth in Rajouri district are protesting for the operationalisation of a newly constructed Community Health Centre Kandi building, which they claim has been kept closed for political motives.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "10/11",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The building is expected to be inaugurated by the Health Minister shortly.”",
+        "name “Community Health Centre Kandi” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

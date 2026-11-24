@@ -1,0 +1,72 @@
+{
+  "id": "9e7682b53d",
+  "url": "https://www.thehindu.com/news/national/karnataka/residents-stage-protest-opposing-merger-of-village-school-with-karnataka-public-school-in-hassan/article71731648.ece",
+  "title": "Residents stage protest opposing merger of village school with Karnataka Public School in Hassan",
+  "outlet": "The Hindu",
+  "published": "2026-11-22",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1978,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Residents in Hassan, Karnataka staged a protest against merging their village school with a Karnataka Public School, arguing it would disrupt rural children's access to education and force them into vocational training.",
+    "facts": [
+      {
+        "claim": "Residents staged a protest opposing the State government’s decision to merge the government lower primary school in the village with the Karnataka Public School at Kuruvanka village",
+        "quote": "The residents of K. Gollarahatti in Arasikere taluk on Sunday (November 22) staged a protest opposing the State government’s decision to merge the government lower primary school in the village with the Karnataka Public School at Kuruvanka village."
+      },
+      {
+        "claim": "They urged the government to withdraw the decision and ensure rural children get quality education in their village",
+        "quote": "They urged the government to withdraw the decision and ensure rural children get quality education in their village."
+      },
+      {
+        "claim": "The present school was the result of the villagers’ collective struggle, and they would never agree to its merger",
+        "quote": "The present school, he said, was the result of the villagers’ collective struggle, and they would never agree to its merger."
+      },
+      {
+        "claim": "Our village is a remote hamlet without proper transport facilities. Children have to cross the lake bund to reach the neighbouring village. In such circumstances, closing our village school and forcing children to travel elsewhere is simply unacceptable",
+        "quote": "Our village is a remote hamlet without proper transport facilities. Children have to cross the lake bund to reach the neighbouring village. In such circumstances, closing our village school and forcing children to travel elsewhere is simply unacceptable"
+      },
+      {
+        "claim": "The state government, in the name of skill-based education, was introducing vocational training",
+        "quote": "AIDSO Hassan district secretary D.S. Sushma said that the state government, in the name of skill-based education, was introducing vocational training."
+      },
+      {
+        "claim": "The government is pushing children towards narrow vocational training at an early age",
+        "quote": "Instead of providing adequate facilities, teachers, and opportunities for higher education, the government is pushing children towards narrow vocational training at an early age,"
+      },
+      {
+        "claim": "Poor and rural children could be channelled into low-paid labour",
+        "quote": "the government is pushing children towards narrow vocational training at an early age, and warned that poor and rural children could be channelled into low-paid labour."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Residents in Hassan, Karnataka protested against merging their village school with a Karnataka Public School, citing disrupted education access and concerns about early vocational training for rural children.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/7",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “the government is pushing children towards narrow vocational training at an earl”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

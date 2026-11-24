@@ -1,0 +1,70 @@
+{
+  "id": "45d39a7661",
+  "url": "https://kashmirobserver.net/2026/11/21/recruitment-row-escalates-ruhullah-begins-indefinite-sit-in/",
+  "title": "Recruitment Row Escalates, Ruhullah Begins Indefinite Sit-In",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Former Lok Sabha MP Agha Syed Ruhullah Mehdi joined students protesting alleged irregularities in Jammu and Kashmir Services Selection Board (JKSSB) recruitment exams, demanding suspension of upcoming exams until cheating and irregularities are investigated.",
+    "facts": [
+      {
+        "claim": "Former Lok Sabha MP Agha Syed Ruhullah Mehdi began an indefinite sit-in with students protesting alleged irregularities in recruitment examinations conducted by the Jammu and Kashmir Services Selection Board (JKSSB)",
+        "quote": "Srinagar- Former Lok Sabha MP Agha Syed Ruhullah Mehdi on Saturday began an indefinite sit-in with students protesting alleged irregularities in recruitment examinations conducted by the Jammu and Kashmir Services Selection Board (JKSSB), escalating pressure on the government amid growing calls for accountability and a transparent probe."
+      },
+      {
+        "claim": "Mehdi demanded suspension of upcoming JKSSB examinations until allegations of cheating and irregularities were investigated",
+        "quote": "Mehdi demanded suspension of upcoming JKSSB examinations until allegations of cheating and irregularities were investigated, questioning the board’s claim that a recent examination had been conducted smoothly despite police action against an alleged cheating network."
+      },
+      {
+        "claim": "Mehdi alleged that technology was being used to facilitate cheating and that repeated recruitment controversies over the past three to four years had undermined confidence in the system",
+        "quote": "He alleged that technology was being used to facilitate cheating and that repeated recruitment controversies over the past three to four years had undermined confidence in the system."
+      },
+      {
+        "claim": "PDP president Mehbooba Mufti criticised the National Conference-led government over alleged examination irregularities, saying repeated controversies were jeopardising students’ futures",
+        "quote": "PDP president Mehbooba Mufti criticised the National Conference-led government over alleged examination irregularities, saying repeated controversies were jeopardising students’ futures."
+      },
+      {
+        "claim": "Mirwaiz Umar Farooq expressed concern over recurring allegations of irregularities in recruitment examinations, saying such incidents were playing with the future of thousands of educated youth",
+        "quote": "Mirwaiz Umar Farooq also expressed concern over recurring allegations of irregularities in recruitment examinations, saying such incidents were playing with the future of thousands of educated youth."
+      },
+      {
+        "claim": "Chief Minister Omar Abdullah’s advisor Nasir Aslam Wani defended the government, saying authorities had taken cognisance wherever wrongdoing was reported and proceedings were underway",
+        "quote": "Chief Minister Omar Abdullah’s advisor Nasir Aslam Wani defended the government, saying authorities had taken cognisance wherever wrongdoing was reported and proceedings were underway."
+      },
+      {
+        "claim": "Education Minister Shameema Firdous said strict action would follow if irregularities were established in the JKSSB Finance Accounts Assistant examination, asserting that an inquiry had already been ordered",
+        "quote": "Education Minister Shameema Firdous said strict action would follow if irregularities were established in the JKSSB Finance Accounts Assistant examination, asserting that an inquiry had already been ordered."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Jammu and Kashmir Services Selection Board (JKSSB) has faced repeated allegations of irregularities in recruitment exams, with students and former politicians demanding accountability and transparency.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

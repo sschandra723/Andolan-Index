@@ -1,0 +1,94 @@
+{
+  "id": "64e0a37d1f",
+  "url": "https://www.thehindu.com/news/cities/Madurai/ramanathapuram-councillor-resorts-to-dramatic-protest-over-broken-road-sewage-woes/article71716393.ece",
+  "title": "Ramanathapuram councillor resorts to dramatic protest over broken road, sewage woes",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2882,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A Ramanathapuram municipal councillor prostrated himself on the floor to protest unrepaired roads and sewage issues that have persisted for over two years, highlighting infrastructure failures and public health concerns.",
+    "facts": [
+      {
+        "claim": "A municipal council meeting in Ramanathapuram witnessed drama when a ward councillor prostrated himself on the floor before the chairperson and senior officials to protest a road that has remained unrepaired for two and a half years.",
+        "quote": "A municipal council meeting in Ramanathapuram witnessed drama when a ward councillor prostrated himself on the floor before the chairperson and senior officials to protest a road that has remained unrepaired for two and a half years."
+      },
+      {
+        "claim": "Nagarajan, the councillor representing Ward 9, raised the issue of Maduraiyar Street’s main road, which has been severely damaged and obstructed by stagnating underground drainage sewage for over 30 months.",
+        "quote": "Nagarajan, the councillor representing Ward 9, raised the issue of Maduraiyar Street’s main road, which has been severely damaged and obstructed by stagnating underground drainage sewage for over 30 months."
+      },
+      {
+        "claim": "Despite repeated appeals raised during council meetings and directly to officials, no corrective action had been taken.",
+        "quote": "Despite repeated appeals raised during council meetings and directly to officials, no corrective action had been taken."
+      },
+      {
+        "claim": "Expressing frustration, Mr. Nagarajan suddenly dropped to the floor and prostrated before the council, pleading for immediate restoration of the road.",
+        "quote": "Expressing frustration, Mr. Nagarajan suddenly dropped to the floor and prostrated before the council, pleading for immediate restoration of the road."
+      },
+      {
+        "claim": "Other councillors echoed his grievances regarding collapsing urban infrastructure.",
+        "quote": "Other councillors echoed his grievances regarding collapsing urban infrastructure."
+      },
+      {
+        "claim": "Kalidas, another councillor, pointed out that streetlights across the town were non-functional and roads were in a state of disrepair, with officials consistently turning a blind eye to complaints.",
+        "quote": "Kalidas, another councillor, pointed out that streetlights across the town were non-functional and roads were in a state of disrepair, with officials consistently turning a blind eye to complaints."
+      },
+      {
+        "claim": "Councillor Rajaram Pandian Gopal brought up severe environmental and public health concerns, alleging that underground sewage was being directly piped into local water bodies—such as Mugaivai, Semmankundu, and Allikanmai uranis—turning them into breeding grounds for hazards.",
+        "quote": "Councillor Rajaram Pandian Gopal brought up severe environmental and public health concerns, alleging that underground sewage was being directly piped into local water bodies—such as Mugaivai, Semmankundu, and Allikanmai uranis—turning them into breeding grounds for hazards."
+      },
+      {
+        "claim": "He questioned the current status of contracts issued to desilt and interconnect the town’s water bodies and demanded answers regarding a surge in fever cases that had reportedly claimed the life of a child.",
+        "quote": "He questioned the current status of contracts issued to desilt and interconnect the town’s water bodies and demanded answers regarding a surge in fever cases that had reportedly claimed the life of a child."
+      },
+      {
+        "claim": "Municipal Executive Engineer Sekaran stated that out of 25 water bodies in the municipality, Kidavetti Urani had been cleared under a separate scheme, while three others, including Nochivayal and Koorisatta Aiyanar Koil uranis, had been desilted.",
+        "quote": "Municipal Executive Engineer Sekaran stated that out of 25 water bodies in the municipality, Kidavetti Urani had been cleared under a separate scheme, while three others, including Nochivayal and Koorisatta Aiyanar Koil uranis, had been desilted."
+      },
+      {
+        "claim": "Desilting and interconnecting work for eight more water bodies is underway, whereas the remaining 13 lack proper feeder and drainage channels, a matter that will be resolved in consultation with ward councillors.",
+        "quote": "Desilting and interconnecting work for eight more water bodies is underway, whereas the remaining 13 lack proper feeder and drainage channels, a matter that will be resolved in consultation with ward councillors."
+      },
+      {
+        "claim": "City Health Officer Rethina Kumar maintained that anti-dengue operations were ongoing across the town, adding that his department had yet to receive official case data from the Deputy Director of Health Services.",
+        "quote": "City Health Officer Rethina Kumar maintained that anti-dengue operations were ongoing across the town, adding that his department had yet to receive official case data from the Deputy Director of Health Services."
+      },
+      {
+        "claim": "Meanwhile, other members highlighted civic failures, including raw sewage overflowing onto roads near the Government Medical College entrance, and flagged a proposed Anganwadi building site in Ward 6 as a traffic hazard dangerous to children.",
+        "quote": "Meanwhile, other members highlighted civic failures, including raw sewage overflowing onto roads near the Government Medical College entrance, and flagged a proposed Anganwadi building site in Ward 6 as a traffic hazard dangerous to children."
+      },
+      {
+        "claim": "Conceding to the mounting pressure from the elected representatives, Chairman Karmegam instructed municipal officials to ensure proper coordination by informing ward councillors before undertaking inspections or field works, and directed them to act promptly on all pending grievances.",
+        "quote": "Conceding to the mounting pressure from the elected representatives, Chairman Karmegam instructed municipal officials to ensure proper coordination by informing ward councillors before undertaking inspections or field works, and directed them to act promptly on all pending grievances."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A municipal councillor in Ramanathapuram prostrated himself to protest unrepaired roads and sewage issues that have persisted for over two years, highlighting infrastructure failures and public health concerns.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "13/13",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

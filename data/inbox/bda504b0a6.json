@@ -1,0 +1,70 @@
+{
+  "id": "bda504b0a6",
+  "url": "https://kashmirobserver.net/2026/11/20/pg-senior-resident-doctors-at-gmc-srinagar-begin-stipend-protest/",
+  "title": "PG, Senior Resident Doctors at GMC Srinagar Begin Stipend Protest",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2206,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "PG and senior resident doctors at GMC Srinagar began a peaceful protest demanding higher stipends and parity with doctors in other states and Union Territories, with AIMSA supporting their demands for immediate resolution.",
+    "facts": [
+      {
+        "claim": "PG and senior resident doctors at Government Medical College (GMC) Srinagar have launched a peaceful protest demanding an enhancement in their stipends and parity with their counterparts in other states and Union Territories.",
+        "quote": "Srinagar- Postgraduate (PG) and senior resident doctors at Government Medical College (GMC) Srinagar have launched a peaceful protest demanding an enhancement in their stipends and parity with their counterparts in other states and Union Territories."
+      },
+      {
+        "claim": "The protesting doctors said their stipend-related grievances had remained unresolved for a long time and urged the Jammu and Kashmir administration to intervene and address their demands.",
+        "quote": "The protesting doctors said their stipend-related grievances had remained unresolved for a long time and urged the Jammu and Kashmir administration to intervene and address their demands."
+      },
+      {
+        "claim": "AIMSA extended support to the protesting doctors, with its Vice President Dr Mohit Choudhary, a PG resident at GMC Srinagar, urging the government to take immediate steps to resolve the issue.",
+        "quote": "The All India Medical Students Association (AIMSA) extended support to the protesting doctors, with its Vice President Dr Mohit Choudhary, a PG resident at GMC Srinagar, urging the government to take immediate steps to resolve the issue."
+      },
+      {
+        "claim": "AIMSA Chief Advisors Dr Mayeen Afsan Ahmed and Dr Sushant Dhabade also sought the personal intervention of Lieutenant Governor Manoj Sinha to ensure an early resolution of the demands.",
+        "quote": "AIMSA Chief Advisors Dr Mayeen Afsan Ahmed and Dr Sushant Dhabade also sought the personal intervention of Lieutenant Governor Manoj Sinha to ensure an early resolution of the demands."
+      },
+      {
+        "claim": "Dr Ahmed also urged the college principal to facilitate the formation of a recognised Resident Doctors’ Association (RDA), saying it would provide an institutional platform for addressing the concerns and ensuring proper representation of resident doctors.",
+        "quote": "Dr Ahmed also urged the college principal to facilitate the formation of a recognised Resident Doctors’ Association (RDA), saying it would provide an institutional platform for addressing the concerns and ensuring proper representation of resident doctors."
+      },
+      {
+        "claim": "The key demands include an immediate enhancement of stipends and parity for PG, Senior Resident, Diplomate of National Board (DNB) and Master of Dental Surgery (MDS) doctors across Jammu and Kashmir.",
+        "quote": "The key demands include an immediate enhancement of stipends and parity for PG, Senior Resident, Diplomate of National Board (DNB) and Master of Dental Surgery (MDS) doctors across Jammu and Kashmir."
+      },
+      {
+        "claim": "The doctors have also sought the implementation of maternity leave benefits in accordance with applicable High Court directions.",
+        "quote": "The doctors have also sought the implementation of maternity leave benefits in accordance with applicable High Court directions."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "PG and senior resident doctors at GMC Srinagar began a protest demanding higher stipends and parity with doctors in other states and Union Territories, with AIMSA supporting their demands for immediate resolution.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

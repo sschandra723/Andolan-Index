@@ -1,0 +1,78 @@
+{
+  "id": "3678d26931",
+  "url": "https://timesofindia.indiatimes.com/city/kochi/poonithura-residents-to-stage-dharna-at-kwa-office-over-acute-water-shortage/articleshow/136106693.cms",
+  "title": "Poonithura residents to stage dharna at KWA office over acute water shortage",
+  "outlet": "The Times of India",
+  "published": "2026-11-23",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2249,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Residents of Poonithura in Kerala plan a dharna at KWA office over severe drinking water shortage affecting nearly 70 households since October 2024, with authorities citing infrastructure issues and a proposed plant as long-term solutions.",
+    "facts": [
+      {
+        "claim": "Residents of Poonithura will stage a dharna at Kerala Water Authority (KWA) executive engineer’s office on Thursday, protesting the severe drinking water shortage in the region.",
+        "quote": "Residents of Poonithura will stage a dharna at Kerala Water Authority (KWA) executive engineer’s office on Thursday, protesting the severe drinking water shortage in the region."
+      },
+      {
+        "claim": "Nearly 70 households on the southern side of Mukkottil Temple Road have been without a regular water supply since Oct 2024.",
+        "quote": "Nearly 70 households on the southern side of Mukkottil Temple Road have been without a regular water supply since Oct 2024."
+      },
+      {
+        "claim": "The crisis has worsened over the past two months, cutting off water even to the remaining homes that previously had access.",
+        "quote": "The crisis has worsened over the past two months, cutting off water even to the remaining homes that previously had access."
+      },
+      {
+        "claim": "The water shortage has extended to new areas like Thykoodam.",
+        "quote": "The water shortage has extended to new areas like Thykoodam."
+      },
+      {
+        "claim": "KWA authorities cite a proposed 190 MLD plant at Aluva as a long-term solution.",
+        "quote": "KWA authorities, though, cite a proposed 190 MLD plant at Aluva as a long-term solution."
+      },
+      {
+        "claim": "The water supply shortages in Poonithura and nearby localities stem from its tail-end position in the KWA distribution network, ageing pipelines, low pumping pressure, and infrastructure disruptions such as the partial collapse of the Thammanam water storage tank last year.",
+        "quote": "The water supply shortages in Poonithura and nearby localities stem from its tail-end position in the KWA distribution network, ageing pipelines, low pumping pressure, and infrastructure disruptions such as the partial collapse of the Thammanam water storage tank last year."
+      },
+      {
+        "claim": "The only practical solution is the setting up of a new water tank at Vytilla to store the water and then supply to the affected areas.",
+        "quote": "The only practical solution is the setting up of a new water tank at Vytilla to store the water and then supply to the affected areas."
+      },
+      {
+        "claim": "Despite repeated appeals, KWA has failed to take any concrete steps to restore the water supply, leaving the residents with no choice but to protest.",
+        "quote": "Despite repeated appeals, KWA has failed to take any concrete steps to restore the water supply, leaving the residents with no choice but to protest."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Residents of Poonithura in Kerala are protesting severe drinking water shortages affecting nearly 70 households since October 2024, with KWA citing infrastructure issues and a proposed plant as long-term solutions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The water shortage has extended to new areas like Thykoodam.”",
+        "quote not in article: “The only practical solution is the setting up of a new water tank at Vytilla to ”",
+        "quote not in article: “Despite repeated appeals, KWA has failed to take any concrete steps to restore t”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

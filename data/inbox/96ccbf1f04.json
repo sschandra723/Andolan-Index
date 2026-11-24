@@ -1,0 +1,82 @@
+{
+  "id": "96ccbf1f04",
+  "url": "https://www.greaterkashmir.com/pir-panjal/day-5-gmc-employees-strike-continues-12827800",
+  "title": "Day 5: GMC employees’ strike continues",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1127,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Non-gazetted cadre employees of five new Government Medical Colleges in Jammu and Kashmir have struck for five consecutive days, demanding the Health and Medical Education Department notify recruitment rules for their cadre.",
+    "facts": [
+      {
+        "claim": "non-gazetted cadre employees of five new Government Medical Colleges in Jammu and Kashmir",
+        "quote": "non-gazetted cadre employees of five new Government Medical Colleges (GMCs) in Jammu and Kashmir"
+      },
+      {
+        "claim": "entered its fifth consecutive day",
+        "quote": "entered its fifth consecutive day"
+      },
+      {
+        "claim": "protests continuing across the institutions",
+        "quote": "protests continuing across the institutions"
+      },
+      {
+        "claim": "took out a rally from the Government Medical College's Associated Hospital campus",
+        "quote": "protesting employees took out a rally from the Government Medical College's Associated Hospital campus"
+      },
+      {
+        "claim": "raised slogans in support of their demands",
+        "quote": "raised slogans in support of their demands"
+      },
+      {
+        "claim": "called upon the Health and Medical Education Department to immediately notify the recruitment rules for the cadre",
+        "quote": "called upon the Health and Medical Education Department to immediately notify the recruitment rules for the cadre"
+      },
+      {
+        "claim": "accused the government of having failed to address their long-pending demand",
+        "quote": "accused the government of having failed to address their long-pending demand"
+      },
+      {
+        "claim": "alleging that despite repeated representations and protests, no concrete action was taken so far",
+        "quote": "alleging that despite repeated representations and protests, no concrete action was taken so far"
+      },
+      {
+        "claim": "urged the government to intervene without further delay",
+        "quote": "urged the government to intervene without further delay"
+      },
+      {
+        "claim": "stating that notification of recruitment rules was essential to resolve their service-related issues and address their grievances",
+        "quote": "stating that notification of recruitment rules was essential to resolve their service-related issues and address their grievances"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The strike involves non-gazetted cadre employees of five new Government Medical Colleges in Jammu and Kashmir, who have been demanding recruitment rules notification for their positions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "10/10",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

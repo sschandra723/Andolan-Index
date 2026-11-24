@@ -1,0 +1,56 @@
+{
+  "id": "b20623384d",
+  "url": "https://www.thehindu.com/news/national/karnataka/areca-growers-stage-protest-in-shivamogga-alleging-injustice-in-awarding-compensation-under-weather-based-crop-insurance-scheme/article71719781.ece",
+  "title": "Areca growers stage protest in Shivamogga, allege injustice in awarding compensation under weather-based crop insurance scheme",
+  "outlet": "The Hindu",
+  "published": "2026-11-19",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2642,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Areca growers in Shivamogga staged a protest, alleging unfair compensation under weather-based crop insurance scheme with insurance companies saving over ₹50 crore from premiums paid by farmers.",
+    "facts": [
+      {
+        "claim": "Farmers from Tirthahalli, Sagar and Hosanagara taluks staged a protest in front of the Deputy Commissioner’s office in Shivamogga on Thursday",
+        "quote": "Farmers from Tirthahalli, Sagar and Hosanagara taluks staged a protest in front of the Deputy Commissioner’s office in Shivamogga on Thursday, alleging that areca growers have been denied their due under the weather-based crop insurance scheme."
+      },
+      {
+        "claim": "Insurance companies saved more than ₹30 crore from the total premium collected",
+        "quote": "Insurance companies have saved more than ₹30 crore from the total premium collected, including the contributions of the State and Central governments,"
+      },
+      {
+        "claim": "The insurance companies saved about ₹20 crore last year and another ₹30 crore this year",
+        "quote": "The insurance companies saved about ₹20 crore last year and another ₹30 crore this year. This is money paid by farmers as premium."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Areca growers in Karnataka's Shivamogga district are protesting over weather-based crop insurance scheme where insurance companies allegedly saved over ₹50 crore from farmer premiums.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "number 50 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

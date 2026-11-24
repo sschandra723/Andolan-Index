@@ -1,0 +1,94 @@
+{
+  "id": "b99f0884cc",
+  "url": "https://www.greaterkashmir.com/srinagar/pm-shri-bhss-rawalpora-celebrates-annual-day-cum-autumn-carnival-12824962",
+  "title": "PM SHRI BHSS Rawalpora celebrates annual day-cum-autumn carnival",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "NEET"
+  ],
+  "alternatives": [
+    "tn-hospital-workers-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1918,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "PM SHRI Boys Higher Secondary School in Rawalpora celebrated its Annual Day-cum-Autumn Carnival, showcasing Kashmir's cultural heritage and student achievements with various exhibitions and awards.",
+    "facts": [
+      {
+        "claim": "Srinagar, Nov 19: PM SHRI Boys Higher Secondary School (BHSS), Rawalpora, celebrated its Annual Day-cum-Autumn Carnival with enthusiasm, showcasing Kashmir’s cultural heritage, scientific innovation and student achievements.",
+        "quote": "Srinagar, Nov 19: PM SHRI Boys Higher Secondary School (BHSS), Rawalpora, celebrated its Annual Day-cum-Autumn Carnival with enthusiasm, showcasing Kashmir’s cultural heritage, scientific innovation and student achievements."
+      },
+      {
+        "claim": "Director School Education Kashmir, Naseer Ahmad Wani, was the chief guest at the event.",
+        "quote": "Director School Education Kashmir, Naseer Ahmad Wani, was the chief guest at the event."
+      },
+      {
+        "claim": "A major highlight of the celebration was the release of the school’s official Tarana by the Director School Education, marking an important milestone in strengthening the institution’s identity and collective spirit.",
+        "quote": "A major highlight of the celebration was the release of the school’s official Tarana by the Director School Education, marking an important milestone in strengthening the institution’s identity and collective spirit."
+      },
+      {
+        "claim": "The event featured exhibitions organised by the Heritage Club, Science and Innovation Club and Ek Bharat Shreshtha Bharat (EBSB) initiative.",
+        "quote": "The event featured exhibitions organised by the Heritage Club, Science and Innovation Club and Ek Bharat Shreshtha Bharat (EBSB) initiative."
+      },
+      {
+        "claim": "The Heritage Club displayed traditional Kashmiri artefacts, cookware and other objects reflecting the Valley’s cultural legacy, while the EBSB exhibition showcased the traditions and cultural heritage of Tamil Nadu, the school’s paired state.",
+        "quote": "The Heritage Club displayed traditional Kashmiri artefacts, cookware and other objects reflecting the Valley’s cultural legacy, while the EBSB exhibition showcased the traditions and cultural heritage of Tamil Nadu, the school’s paired state."
+      },
+      {
+        "claim": "Students also presented innovative scientific models and practical demonstrations.",
+        "quote": "Students also presented innovative scientific models and practical demonstrations."
+      },
+      {
+        "claim": "Addressing the gathering, the Director and CEO Srinagar appreciated the school’s efforts to promote experiential, skill-based and holistic education.",
+        "quote": "Addressing the gathering, the Director and CEO Srinagar appreciated the school’s efforts to promote experiential, skill-based and holistic education."
+      },
+      {
+        "claim": "They also lauded Principal Shafiqa Ahmad for her leadership and efforts towards students’ overall development.",
+        "quote": "They also lauded Principal Shafiqa Ahmad for her leadership and efforts towards students’ overall development."
+      },
+      {
+        "claim": "Outstanding students, including NEET qualifiers, Class 12 board examination toppers and a state gold medal-winning swimmer, were felicitated.",
+        "quote": "Outstanding students, including NEET qualifiers, Class 12 board examination toppers and a state gold medal-winning swimmer, were felicitated."
+      },
+      {
+        "claim": "Holistic Progress Card achievement awards were also presented to middle-section students.",
+        "quote": "Holistic Progress Card achievement awards were also presented to middle-section students."
+      },
+      {
+        "claim": "The Autumn Carnival featured stalls offering food, clothing, jewellery, dry fruits and mehendi designs, providing students an opportunity to showcase creativity, teamwork and entrepreneurial skills.",
+        "quote": "The Autumn Carnival featured stalls offering food, clothing, jewellery, dry fruits and mehendi designs, providing students an opportunity to showcase creativity, teamwork and entrepreneurial skills."
+      },
+      {
+        "claim": "The celebration reflected the school’s commitment to combining academic excellence, cultural preservation and holistic learning.",
+        "quote": "The celebration reflected the school’s commitment to combining academic excellence, cultural preservation and holistic learning."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "12/12",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

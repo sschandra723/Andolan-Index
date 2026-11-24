@@ -1,0 +1,56 @@
+{
+  "id": "688d4ee365",
+  "url": "https://www.greaterkashmir.com/opinion/getting-the-wrong-end-of-the-stick-12821877",
+  "title": "Getting the wrong end of the stick",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "The Jammu and Kashmir elected government has failed to address public grievances and deliver promised statehood, leading to widespread dissatisfaction with its governance.",
+    "facts": [
+      {
+        "claim": "lack of statehood and LG’s overriding powers have disabled the elected UT government from performing to its potential",
+        "quote": "There is no doubt that lack of statehood and LG’s overriding powers have disabled the elected UT government from performing to its potential,"
+      },
+      {
+        "claim": "the government has generally disappointed the public at large due to its lackadaisical attitude and unwillingness to grapple with real problems on ground",
+        "quote": "but then it is also true that the government has generally disappointed the public at large due to its lackadaisical attitude and unwillingness to grapple with real problems on ground."
+      },
+      {
+        "claim": "common people expected the new government to provide them easy access to the administration for redressal of grievances",
+        "quote": "They expected the elected government to assert its authority over the administration to provide much better governance through people friendly policies and measures."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Jammu and Kashmir elected government has failed to address public grievances and deliver promised statehood, leading to widespread dissatisfaction with its governance.",
+    "confidence": 0.85,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "name “The Jammu” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

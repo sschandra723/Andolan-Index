@@ -1,0 +1,58 @@
+{
+  "id": "06cd1ceeb7",
+  "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bjp-president-samik-bhattacharya-calls-for-protest-over-attacks-on-hindus-in-bangladesh/article71732075.ece",
+  "title": "West Bengal BJP president Samik Bhattacharya calls for protest over attacks on Hindus in Bangladesh",
+  "outlet": "The Hindu",
+  "published": "2026-11-22",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1896,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "West Bengal BJP president Samik Bhattacharya called for protests against alleged Hindu persecution in Bangladesh, claiming Partition was based on religion rather than language and criticizing leaders for failing to protect minorities.",
+    "facts": [
+      {
+        "claim": "West Bengal BJP president Samik Bhattacharya called for a protest against the alleged persecution of Hindus in Bangladesh",
+        "quote": "West Bengal Bharatiya Janata Party (BJP) president Samik Bhattacharya on Sunday (November 22, 2026) called for a protest against the alleged persecution of Hindus in Bangladesh."
+      },
+      {
+        "claim": "Bhattacharya claimed Bangladesh was created on the basis of religion, not on the basis of the Bengali language",
+        "quote": "Noting that India had played a crucial role in the creation of Bangladesh, the BJP Rajya Sabha MP expressed his opinion that Bangladesh was created on the basis of religion, not on the basis of the Bengali language."
+      },
+      {
+        "claim": "Bhattacharya said that Bengali-speaking Hindus in Bangladesh would not be dying like this today if Bangladesh had been created for language",
+        "quote": "Bangladesh was not created for the sake of language. If it had been, Bengali-speaking Hindus in Bangladesh would not be dying like this today,"
+      },
+      {
+        "claim": "Bhattacharya blamed Partition on Jawaharlal Nehru and Mahatma Gandhi",
+        "quote": "Claiming that the wounds of Partition continued to haunt the subcontinent, the BJP leader said that it was religious minorities, particularly Hindus in Bangladesh, who were bearing the consequences. Blaming Partition on Jawaharlal Nehru and Mahatma Gandhi, Mr. Bhattacharya claimed that had Netaji Subhas Chandra Bose become independent India’s first Prime Minister, he would never have accepted the two-nation theory or allowed the subcontinent to be divided into India, Pakistan, and Bangladesh."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "BJP leader Samik Bhattacharya called for protests against alleged Hindu persecution in Bangladesh, claiming Partition was based on religion rather than language and criticizing leaders for failing to protect minorities.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

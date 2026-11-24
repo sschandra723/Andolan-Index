@@ -1,0 +1,57 @@
+{
+  "id": "dce4e90915",
+  "url": "https://www.deccanherald.com/india/karnataka/bengaluru/asha-workers-indefinite-strike-enters-sixth-day-demanding-rs-15k-honorarium-4227326",
+  "title": "Bengaluru: ASHA workers' indefinite strike enters sixth day demanding Rs 15k honorarium",
+  "outlet": "Deccan Herald",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 381,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "ASHA workers in Bengaluru have been striking for six days demanding a 15,000 rupee honorarium, after waiting over 18 months for government discussion.",
+    "facts": [
+      {
+        "claim": "ASHA workers' indefinite strike enters sixth day",
+        "quote": "ASHA workers' indefinite strike enters sixth day demanding Rs 15k honorarium"
+      },
+      {
+        "claim": "waiting for one-and-a-half years",
+        "quote": "Reacting to CM's remarks seeking more time to consider the demand, the ASHA workers said they had waited for one-and-a-half years and exhausted all avenues of discussion with the govt."
+      },
+      {
+        "claim": "exhausted all avenues of discussion with the govt",
+        "quote": "Reacting to CM's remarks seeking more time to consider the demand, the ASHA workers said they had waited for one-and-a-half years and exhausted all avenues of discussion with the govt."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "number 15000 in the summary does not appear in the article",
+        "number 18 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "9cc5dad1c3",
+  "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/sribhumi-nh-37-protest-mla-demands-urgent-restoration-of-14-km-stretch",
+  "title": "Sribhumi NH-37 Protest: MLA Demands Urgent Restoration of 14-Km Stretch",
+  "outlet": "The Sentinel",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3109,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Residents of Fakirabazar in Assam's Sribhumi district protested on NH-37 demanding urgent repairs due to deteriorating road conditions and waterlogging, with South Karimganj MLA Aminul Rashid Choudhury urging comprehensive restoration of the 14-km stretch.",
+    "facts": [
+      {
+        "claim": "Residents of Fakirabazar in Assam's Sribhumi district staged a protest on National Highway 37",
+        "quote": "Sribhumi: Residents of Fakirabazar in Assam's Sribhumi district staged a protest on National Highway 37 on Friday, demanding urgent repairs over deteriorating road conditions and severe waterlogging."
+      },
+      {
+        "claim": "The affected road section covers approximately 14 kilometres",
+        "quote": "The affected road section covers approximately 14 kilometres, connecting Sribhumi town with the Sutarkandi border."
+      },
+      {
+        "claim": "South Karimganj MLA Aminul Rashid Choudhury urged the district administration to ensure comprehensive restoration of the affected highway",
+        "quote": "South Karimganj MLA Aminul Rashid Choudhury joined the protest and urged the district administration to ensure comprehensive restoration of the affected highway."
+      },
+      {
+        "claim": "The highway's condition was unacceptable given the traffic it carries",
+        "quote": "Choudhury stated that \"the highway's condition was unacceptable given the traffic it carries.\""
+      },
+      {
+        "claim": "Temporary repairs would not solve the problem",
+        "quote": "Choudhury also warned that \"temporary repairs would not solve the problem,\" calling instead for a comprehensive restoration plan addressing the road's deteriorating condition."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Residents of Fakirabazar in Assam's Sribhumi district are protesting deteriorating road conditions on NH-37, which connects Sribhumi town with the Sutarkandi border, demanding urgent repairs and comprehensive restoration of the 14-km stretch.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Choudhury also warned that \"temporary repairs would not solve the problem,\" call”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

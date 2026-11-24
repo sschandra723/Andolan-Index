@@ -1,0 +1,47 @@
+{
+  "id": "58834091ec",
+  "url": "https://www.newsbytesapp.com/news/india/telangana-youth-congress-protests-at-meta-hyderabad-over-instagram-suspensions/tldr",
+  "title": "Telangana Youth Congress protests at Meta Hyderabad over Instagram suspensions",
+  "outlet": "NewsBytes",
+  "published": "2026-11-20",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Telangana Youth Congress protested at Meta Hyderabad over Instagram suspensions, demanding the platform restore accounts of their members.",
+    "facts": [
+      {
+        "claim": "Telangana Youth Congress protested at Meta Hyderabad",
+        "quote": "Telangana Youth Congress protests at Meta Hyderabad over Instagram suspensions"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "b6e6a3e6e5",
+  "url": "https://www.indiatoday.in/india/video/rashtriya-janata-dal-protests-at-nitish-setu-unveiling-in-bihar-ytvd-3044426-2026-11-22",
+  "title": "Rashtriya Janata Dal protests repeat unveiling of Nitish Setu in Bihar",
+  "outlet": "India Today",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1145,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Rashtriya Janata Dal workers protested the repeated unveiling of Nitish Setu bridge in Bihar, claiming it was already inaugurated in 2025 without central funds and opposing its naming after Nitish Kumar.",
+    "facts": [
+      {
+        "claim": "Rashtriya Janata Dal workers protested the newly unveiled six-lane Nitish Setu in Bihar after Prime Minister Narendra Modi's inauguration",
+        "quote": "Rashtriya Janata Dal workers protested the newly unveiled six-lane Nitish Setu in Bihar after Prime Minister Narendra Modi's inauguration."
+      },
+      {
+        "claim": "They challenged the repeated inauguration, claiming the bridge was already inaugurated in 2025 without central funds",
+        "quote": "They challenged the repeated inauguration, claiming the bridge was already inaugurated in 2025 without central funds."
+      },
+      {
+        "claim": "Party leaders also opposed naming the bridge after former Chief Minister Nitish Kumar, suggesting it should be named after Guru Gobind Singh or a local freedom fighter",
+        "quote": "Party leaders also opposed naming the bridge after former Chief Minister Nitish Kumar, suggesting it should be named after Guru Gobind Singh or a local freedom fighter."
+      },
+      {
+        "claim": "Police dispersed the ongoing demonstration on the bridge",
+        "quote": "Police dispersed the ongoing demonstration on the bridge."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Rashtriya Janata Dal workers protested the repeated unveiling of Nitish Setu bridge in Bihar, claiming it was already inaugurated in 2025 without central funds and opposing its naming after Nitish Kumar.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

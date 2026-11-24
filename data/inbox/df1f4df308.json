@@ -1,0 +1,81 @@
+{
+  "id": "df1f4df308",
+  "url": "https://theshillongtimes.com/2026/11/24/college-teachers-to-hold-silent-march-tomorrow/",
+  "title": "College teachers to hold silent march tomorrow",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": "meghalaya-deficit-teachers-2026",
+  "score": 2.0,
+  "matched": [
+    "deficit school",
+    "=MCTA"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3636,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "Meghalaya College Teachers’ Association plans a silent march on November 25 to support deficit school teachers' strike, warning that continued funding cuts threaten public education access and quality.",
+    "facts": [
+      {
+        "claim": "Meghalaya College Teachers’ Association (MCTA) has decided to take out a peaceful silent protest march on November 25",
+        "quote": "The Meghalaya College Teachers’ Association (MCTA) has decided to take out a peaceful silent protest march on November 25 in support of the striking deficit school teachers."
+      },
+      {
+        "claim": "The march will start from Don Bosco Square at 10.30 am and pass through Jacob’s Ladder, St. Anthony’s College, Lok Bhavan, the Deputy Commissioner’s Office, Central Secretariat, All Saints Church and Barik Point before ending at Malki Ground",
+        "quote": "The march will start from Don Bosco Square at 10.30 am and pass through Jacob’s Ladder, St. Anthony’s College, Lok Bhavan, the Deputy Commissioner’s Office, Central Secretariat, All Saints Church and Barik Point before ending at Malki Ground."
+      },
+      {
+        "claim": "MCTA general secretary Longnam W. Kharpuri said the indefinite agitation by the Khasi Jaintia Deficit School Teachers’ Association (KJDSTA) is not just about salaries or money",
+        "quote": "In an open letter issued on Monday, MCTA general secretary Longnam W. Kharpuri said the indefinite agitation by the Khasi Jaintia Deficit School Teachers’ Association (KJDSTA) is not just about salaries or money."
+      },
+      {
+        "claim": "The association warned that if the Deficit Grant-in-Aid System continues to weaken, it could affect access to affordable education",
+        "quote": "The association warned that if the Deficit Grant-in-Aid System continues to weaken, it could affect access to affordable education, especially for families that depend on these schools."
+      },
+      {
+        "claim": "The MCTA noted that examinations and academic work have been disrupted and that students and parents are worried",
+        "quote": "The MCTA noted that examinations and academic work have been disrupted and that students and parents are worried."
+      },
+      {
+        "claim": "The association has invited parents, students, civil society organisations, community leaders and concerned citizens to join the march as a peaceful way of showing concern for the future of education",
+        "quote": "The association has invited parents, students, civil society organisations, community leaders and concerned citizens to join the march as a peaceful way of showing concern for the future of education."
+      },
+      {
+        "claim": "Voice of the People’s Party (VPP) president Ardent Miller Basaiawmoit accused the MDA Government of trying to divide the teaching community by creating jealousy among different categories of teachers",
+        "quote": "Meanwhile, Voice of the People’s Party (VPP) president Ardent Miller Basaiawmoit on Monday accused the MDA Government of trying to divide the teaching community by creating jealousy among different categories of teachers instead of meeting their demand for fair pay."
+      },
+      {
+        "claim": "He said the government was diverting attention from the real issue by highlighting pay differences among teachers",
+        "quote": "He said the government was diverting attention from the real issue by highlighting pay differences among teachers."
+      },
+      {
+        "claim": "He said the matter is not about how much one group of teachers earns compared to another, but about the right of all teachers to receive decent and adequate remuneration",
+        "quote": "He said the matter is not about how much one group of teachers earns compared to another, but about the right of all teachers to receive decent and adequate remuneration."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Meghalaya deficit school teachers have been striking since May 2026 over delayed payments and the Deficit Grant-in-Aid System, which funds their schools. The state government has not resolved their grievances despite repeated appeals.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

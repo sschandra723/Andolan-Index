@@ -1,0 +1,56 @@
+{
+  "id": "6bc86e6f67",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/police-curbs-withdrawn-after-court-intervention-wangchuk-101795288309642.html",
+  "title": "Police curbs withdrawn after court intervention: Wangchuk",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=LAB"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3386,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Climate activist Sonam Wangchuk joined the Leh Apex Body-led protest in Leh, claiming he was kept under effective house arrest since November 11, but police withdrew security deployment after court intervention.",
+    "facts": [
+      {
+        "claim": "Police curbs withdrawn after court intervention",
+        "quote": "Police on Friday night withdrew arrangements made to ensure compliance with a prohibitory order imposed against Wangchuk in Leh and said Wangchuk had not been placed under house arrest."
+      },
+      {
+        "claim": "Wangchuk claimed he was kept under effective house arrest since November 11",
+        "quote": "Wangchuk said he was forcibly picked up while preparations were underway for the indefinite protest to press for resumption of dialogue with the centre and seek deferment of Hill Council polls scheduled for December 4."
+      },
+      {
+        "claim": "Police withdrew security deployment after court hearing",
+        "quote": "Taking advantage of this time, the authorities withdrew all the personnel deployed outside my residence on Friday night"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Climate activist Sonam Wangchuk joined the Leh Apex Body-led protest in Leh, alleging effective house arrest since November 11, but police withdrew security deployment after court intervention.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

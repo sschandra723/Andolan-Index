@@ -1,0 +1,74 @@
+{
+  "id": "f4b919e24d",
+  "url": "https://www.thehindu.com/news/cities/Madurai/sanitary-workers-stage-sit-in-protest-in-dindigul/article71717144.ece",
+  "title": "Sanitary workers stage sit-in protest in Dindigul",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1367,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Sanitary workers in Dindigul staged an indefinite sit-in protest demanding direct permanent recruitment and an end to the contract system, with the strike continuing until their 10-point demands were met.",
+    "facts": [
+      {
+        "claim": "Sanitary workers in Dindigul on Wednesday launched an indefinite strike demanding the authorities to fulfil their 10-point charter of demands, which included the abolition of the contract system.",
+        "quote": "Sanitary workers in Dindigul on Wednesday launched an indefinite strike demanding the authorities to fulfil their 10-point charter of demands, which included the abolition of the contract system."
+      },
+      {
+        "claim": "They said the workers should be recruited through direct recruitment on a permanent basis.",
+        "quote": "They said the workers should be recruited through direct recruitment on a permanent basis."
+      },
+      {
+        "claim": "The sanitary workers staged a sit-in protest on the Corporation premises and demanded the Corporation recruit the workers directly.",
+        "quote": "The sanitary workers staged a sit-in protest on the Corporation premises and demanded the Corporation recruit the workers directly."
+      },
+      {
+        "claim": "The number of sanitary workers should be increased to reduce the workload on the existing workers, they said.",
+        "quote": "The number of sanitary workers should be increased to reduce the workload on the existing workers, they said."
+      },
+      {
+        "claim": "The workers, representing various unions, said the sit-in protest and the indefinite strike would continue on the Corporation premises till their demands were met.",
+        "quote": "The workers, representing various unions, said the sit-in protest and the indefinite strike would continue on the Corporation premises till their demands were met."
+      },
+      {
+        "claim": "On Tuesday, the sanitary workers had submitted a representation to Dindigul Corporation urging the officials to fulfil their demands.",
+        "quote": "On Tuesday, the sanitary workers had submitted a representation to Dindigul Corporation urging the officials to fulfil their demands."
+      },
+      {
+        "claim": "They demanded that the authorities end the contract system and recruit sanitary workers on a permanent basis through direct recruitment.",
+        "quote": "They demanded that the authorities end the contract system and recruit sanitary workers on a permanent basis through direct recruitment."
+      },
+      {
+        "claim": "They said the eight-hour workday should be restructured into a single, continuous shift rather than being split into two separate shifts. It would reduce their workload, they said.",
+        "quote": "They said the eight-hour workday should be restructured into a single, continuous shift rather than being split into two separate shifts. It would reduce their workload, they said."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Sanitary workers in Dindigul have been protesting for the abolition of the contract system and direct permanent recruitment since at least Tuesday, with the strike continuing until their demands are met.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

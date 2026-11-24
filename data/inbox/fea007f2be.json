@@ -1,0 +1,58 @@
+{
+  "id": "fea007f2be",
+  "url": "https://www.sentinelassam.com/breakingnews/acta-launches-second-phase-of-statewide-agitation-in-assam-over-ugc-guidelines",
+  "title": "ACTA Launches Second Phase of Statewide Agitation Over UGC Guidelines",
+  "outlet": "The Sentinel",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=UGC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2333,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Assam College Teachers' Association launched a second phase of statewide agitation on 23 November demanding implementation of UGC guidelines and resolution of long-pending issues affecting college teachers.",
+    "facts": [
+      {
+        "claim": "ACTA launched the second phase of its statewide agitation on 23rd November",
+        "quote": "The Assam College Teachers’ Association (ACTA) launched the second phase of its statewide agitation on 23rd November, demanding the implementation of University Grants Commission (UGC) guidelines and resolution of long-pending issues affecting college teachers."
+      },
+      {
+        "claim": "ACTA demands implementation of UGC guidelines",
+        "quote": "ACTA's principal demand is the implementation of University Grants Commission guidelines in Assam."
+      },
+      {
+        "claim": "ACTA seeks resolution of long-pending issues affecting college teachers",
+        "quote": "ACTA is also seeking solutions to longstanding administrative and financial grievances, along with issues concerning teachers' working conditions and academic environment."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "ACTA's agitation is part of a broader movement against government handling of teachers' concerns in Assam, following previous phases of protests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “ACTA is also seeking solutions to longstanding administrative and financial grie”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "47aa8714e8",
+  "url": "https://www.greaterkashmir.com/jammu-kashmir/jkssb-defends-exam-integrity-after-cheating-bid-announces-additional-safeguards-12831537",
+  "title": "JKSSB defends exam integrity after cheating bid, announces additional safeguards",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Omar Abdullah"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3409,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "The Jammu and Kashmir Services Selection Board defended exam integrity after alleged cheating attempts, announcing additional security measures for upcoming recruitment tests while claiming the November 15 examination was unaffected.",
+    "facts": [
+      {
+        "claim": "The Jammu and Kashmir Services Selection Board defended exam integrity after alleged cheating attempts",
+        "quote": "Jammu and Kashmir Services Selection Board has announced additional security measures for the upcoming recruitment tests, while maintaining that the November 15 examination remained unaffected."
+      },
+      {
+        "claim": "The Jammu and Kashmir Services Selection Board announced additional security measures for upcoming recruitment tests",
+        "quote": "the Jammu and Kashmir Services Selection Board (JKSSB) said the alleged attempt to manipulate the exam was foiled before it could compromise the interests of candidates, claiming that timely intervention by police and the security arrangements put in place ensured its smooth conduct across all 20 districts of the Union territory."
+      },
+      {
+        "claim": "The Jammu and Kashmir Services Selection Board claimed the November 15 examination was unaffected",
+        "quote": "The JKSSB maintained that the \"isolated attempt\" to use unfair means did not compromise the exam process, and warned that anyone found undermining the integrity of recruitment exams would face strict legal action."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Jammu and Kashmir Services Selection Board defended exam integrity after alleged cheating attempts, announcing additional security measures for upcoming recruitment tests while claiming the November 15 examination was unaffected.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “the Jammu and Kashmir Services Selection Board (JKSSB) said the alleged attempt ”"
+      ]
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

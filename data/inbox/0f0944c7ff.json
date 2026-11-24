@@ -1,0 +1,72 @@
+{
+  "id": "0f0944c7ff",
+  "url": "https://nagalandpost.com/over-60-farmers-trained-on-ginger-turmeric-cultivation/",
+  "title": "Over 60 farmers trained on ginger, turmeric cultivation",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2013,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Nagaland University's AICRP on Spices conducted training for over 60 farmers on pest and disease management in ginger and turmeric cultivation, with practical demonstrations and distribution of tools.",
+    "facts": [
+      {
+        "claim": "More than 60 progressive spice farmers participated in the outreach programme",
+        "quote": "More than 60 progressive spice farmers participated in the outreach programme, which was held at Chümoukedima village, Kuxho village and Luzheto village in Niuland district."
+      },
+      {
+        "claim": "The programmes were inaugurated by assistant professor, Dr. Graceli Yepthomi",
+        "quote": "The programmes were inaugurated by assistant professor, Dr. Graceli Yepthomi, who highlighted the importance of healthy planting materials and scientific crop management practices for successful ginger and turmeric cultivation."
+      },
+      {
+        "claim": "Farmers were trained to identify major insect pests and diseases affecting ginger and turmeric",
+        "quote": "Farmers were trained to identify major insect pests and diseases affecting ginger and turmeric and were introduced to integrated pest and disease management strategies."
+      },
+      {
+        "claim": "The sessions covered rhizome treatment using Trichoderma, hot water treatment and recommended fungicide applications",
+        "quote": "The sessions covered rhizome treatment using Trichoderma, hot water treatment and recommended fungicide applications."
+      },
+      {
+        "claim": "Farmers were also trained in cultural practices such as field sanitation, proper drainage, safe disposal of infected plant materials, intercropping, crop rotation and timely harvesting",
+        "quote": "Farmers were also trained in cultural practices such as field sanitation, proper drainage, safe disposal of infected plant materials, intercropping, crop rotation and timely harvesting."
+      },
+      {
+        "claim": "Practical demonstrations on the use of eco-friendly agricultural inputs were conducted",
+        "quote": "In addition, practical demonstrations on the use of eco-friendly agricultural inputs were conducted to promote sustainable farming practices."
+      },
+      {
+        "claim": "Minor farm tools and plant protection inputs were distributed to all participants",
+        "quote": "To encourage the adoption of improved cultivation practices, minor farm tools and plant protection inputs were distributed to all participants."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

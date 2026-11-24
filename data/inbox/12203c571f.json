@@ -1,0 +1,66 @@
+{
+  "id": "12203c571f",
+  "url": "https://www.thehindu.com/news/national/karnataka/artists-vijay-siddaramappa-hagaragundagi-and-kashinath-v-kale-among-four-chosen-for-dv-halbhavi-national-awards-demonstrations-by-award-winners-on-november-28/article71724957.ece",
+  "title": "Artists Vijay Siddaramappa Hagaragundagi and Kashinath V. Kale among four chosen for D.V. Halbhavi National Awards; demonstrations by award winners on November 28",
+  "outlet": "The Hindu",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3390,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Four artists from Karnataka and Tamil Nadu were selected for the D.V. Halbhavi National Awards for 2026, with demonstrations planned by award winners on November 28.",
+    "facts": [
+      {
+        "claim": "Four artists from Karnataka and Tamil Nadu have been selected for the D.V. Halbhavi National Awards for 2026",
+        "quote": "Four artists from Karnataka and Tamil Nadu have been selected for the D.V. Halbhavi National Awards for 2026, instituted by the D.V. Halbhavi National Memorial Trust, Dharwad, in recognition of their contributions to the field of visual arts."
+      },
+      {
+        "claim": "The awards will be presented at a function on November 29",
+        "quote": "The awards will be presented at a function to be held at Karnataka Kulpurohita Alur Venkat Rao Samskrutika Bhavana in Dharwad on November 29 at 5.30 p.m., marking the birth anniversary of artist D.V. Halbhavi, a release said."
+      },
+      {
+        "claim": "Vijay Siddaramappa Hagaragundagi of Bengaluru has been chosen for the Kunchakala Tapasvi National Award for Lifetime Achievement",
+        "quote": "Vijay Siddaramappa Hagaragundagi of Bengaluru has been chosen for the Kunchakala Tapasvi National Award for Lifetime Achievement"
+      },
+      {
+        "claim": "Kashinath V. Kale of Sandur will receive the Kunchakala Shree National Award",
+        "quote": "Kashinath V. Kale of Sandur will receive the Kunchakala Shree National Award"
+      },
+      {
+        "claim": "Young artists Kiran Sherkhane of Hubballi and Sudha Rajendran of Chennai have been selected for the Yuva Kunchakala Shree National Award",
+        "quote": "Young artists Kiran Sherkhane of Hubballi and Sudha Rajendran of Chennai have been selected for the Yuva Kunchakala Shree National Award"
+      },
+      {
+        "claim": "Demonstrations and a slide show by the award-winning artists will be held at the Art Gallery of the Government College of Fine Arts in Dharwad on November 28",
+        "quote": "As part of the celebrations, demonstrations and a slide show by the award-winning artists will be held at the Art Gallery of the Government College of Fine Arts in Dharwad on November 28 at 11 a.m."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Award winners planned demonstrations on November 28, indicating a potential protest action by the artists.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

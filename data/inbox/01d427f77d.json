@@ -1,0 +1,70 @@
+{
+  "id": "01d427f77d",
+  "url": "https://www.sentinelassam.com/more-news/national-news/supreme-court-seeks-response-traders-plea-against-delhi-protests",
+  "title": "Supreme Court seeks response traders’ plea against Delhi protests",
+  "outlet": "The Sentinel",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2154,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court asked the Centre, Delhi government, and political parties to respond to a plea by Delhi traders' associations seeking a ban on protests in busy areas, claiming demonstrations disrupt business and cause financial losses.",
+    "facts": [
+      {
+        "claim": "The Supreme Court sought responses from the Centre, Delhi government, the Cockroach Janta Party (CJP), the Indian National Congress (INC), the Aam Aadmi Party (AAP), and the All India Students’ Association (AISA) on a plea by Delhi traders’ associations seeking an absolute ban on protests in busy areas of the national capital, alleging that demonstrations disrupt business and cause financial losses.",
+        "quote": "The Supreme Court on Wednesday sought responses from the Centre, Delhi government, the Cockroach Janta Party (CJP), the Indian National Congress (INC), the Aam Aadmi Party (AAP), and the All India Students’ Association (AISA) on a plea by Delhi traders’ associations seeking an absolute ban on protests in busy areas of the national capital, alleging that demonstrations disrupt business and cause financial losses."
+      },
+      {
+        "claim": "A bench led by Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V Mohana issued notice to the aforesaid respondents on the plea filed by Kirana Committee, an association of shop vendors and businesspersons, and Delhi Iron and Hardware Merchants’ Association.",
+        "quote": "A bench led by Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V Mohana issued notice to the aforesaid respondents on the plea filed by Kirana Committee, an association of shop vendors and businesspersons, and Delhi Iron and Hardware Merchants’ Association."
+      },
+      {
+        "claim": "Senior advocate Mukul Rohatgi, appearing for the petitioners, argued that recent protests in congested commercial areas have affected the business and livelihood of traders and shopkeepers, who also have a fundamental right to carry on their business.",
+        "quote": "Senior advocate Mukul Rohatgi, appearing for the petitioners, argued that recent protests in congested commercial areas have affected the business and livelihood of traders and shopkeepers, who also have a fundamental right to carry on their business."
+      },
+      {
+        "claim": "The petitioners have sought to stop all kinds of protests being carried out by any group in busy parts of Delhi, contending that demonstrations disrupt normal commercial activity and cause losses to businesses.",
+        "quote": "The petitioners have sought to stop all kinds of protests being carried out by any group in busy parts of Delhi, contending that demonstrations disrupt normal commercial activity and cause losses to businesses."
+      },
+      {
+        "claim": "Rohatgi also questioned the Delhi Police’s decision to designate Ram Leela Maidan as a protest site, arguing that the ground is located in the heart of the city and surrounded by wholesale markets.",
+        "quote": "Rohatgi also questioned the Delhi Police’s decision to designate Ram Leela Maidan as a protest site, arguing that the ground is located in the heart of the city and surrounded by wholesale markets."
+      },
+      {
+        "claim": "The plea seeks its denotification as a designated protest venue.",
+        "quote": "The plea seeks its denotification as a designated protest venue."
+      },
+      {
+        "claim": "The matter had come up before the Supreme Court earlier as well. The Court had then declined to issue notice after noting that the organisations and political parties against whom relief was being sought had not been impleaded. It had asked the petitioners to add the relevant parties in their plea before it could seek their responses.",
+        "quote": "The matter had come up before the Supreme Court earlier as well. The Court had then declined to issue notice after noting that the organisations and political parties against whom relief was being sought had not been impleaded. It had asked the petitioners to add the relevant parties in their plea before it could seek their responses."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court is hearing multiple petitions related to protest restrictions in Delhi, including challenges to police actions against demonstrators and gathering restrictions in parts of the national capital.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

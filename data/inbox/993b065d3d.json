@@ -1,0 +1,90 @@
+{
+  "id": "993b065d3d",
+  "url": "https://www.greaterkashmir.com/ladakh/sonam-wangchuk-joins-hunger-strike-questions-winter-polls-12830552",
+  "title": "Sonam Wangchuk joins hunger strike, questions winter polls",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": "ladakh-statehood",
+  "score": 9.0,
+  "matched": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Kargil Democratic Alliance",
+    "Sixth Schedule",
+    "Sonam Wangchuk",
+    "Leh",
+    "Kargil",
+    "=LAB",
+    "=KDA"
+  ],
+  "alternatives": [
+    "anti-sir-2026",
+    "neet-jantar-mantar-2026",
+    "tn-hospital-workers-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5060,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "ladakh-statehood",
+    "new_movement": null,
+    "summary": "Climate activist Sonam Wangchuk joined a hunger strike questioning Ladakh's winter election schedule, citing voter deletions and potential disenfranchisement due to seasonal migration. The Leh Apex Body and Kargil Democratic Alliance protest the timing of LAHDC elections amid demands for a legislature and constitutional safeguards.",
+    "facts": [
+      {
+        "claim": "Climate activist Sonam Wangchuk joined the ongoing hunger strike led by the Leh Apex Body (LAB) on Saturday, coinciding with municipal and panchayat elections across the Union Territory, after being released from house detention.",
+        "quote": "Kargil, Nov 21: Climate activist Sonam Wangchuk joined the ongoing hunger strike led by the Leh Apex Body (LAB) on Saturday, coinciding with municipal and panchayat elections across the Union Territory, after being released from house detention."
+      },
+      {
+        "claim": "LAB chairman Chering Dorje Lakruk questioned the rationale behind conducting elections during Ladakh’s harsh winter and alleged large-scale voter deletions from the electoral rolls.",
+        "quote": "Addressing a press conference in Leh alongside Wangchuk, LAB chairman Chering Dorje Lakruk strongly questioned the rationale behind conducting elections during Ladakh’s harsh winter and alleged large-scale voter deletions from the electoral rolls."
+      },
+      {
+        "claim": "The demonstrations are part of a broader, intensifying agitation by the Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA).",
+        "quote": "The demonstrations are part of a broader, intensifying agitation by the Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA)."
+      },
+      {
+        "claim": "Local leaders have been protesting the administration's decision to hold the Ladakh Autonomous Hill Development Council (LAHDC) elections on December 4, alongside raking up long-standing demands for a legislature, constitutional safeguards under the Sixth Schedule, and the release of a pending judicial inquiry report into the September 2025 Leh clashes.",
+        "quote": "Local leaders have been protesting the administration's decision to hold the Ladakh Autonomous Hill Development Council (LAHDC) elections on December 4, alongside raking up long-standing demands for a legislature, constitutional safeguards under the Sixth Schedule, and the release of a pending judicial inquiry report into the September 2025 Leh clashes."
+      },
+      {
+        "claim": "LAB chairman Chering Dorje Lakruk asserted that widespread irregularities compromised the electoral process.",
+        "quote": "Speaking to reporters in Leh, LAB chairman Chering Dorje Lakruk asserted that widespread irregularities compromised the electoral process."
+      },
+      {
+        "claim": "Wangchuk urged Prime Minister Narendra Modi and Defence Minister Rajnath Singh to intervene directly in the crisis.",
+        "quote": "Joining the hunger strike after the recent withdrawal of Police restrictions that had confined him to his residence, Sonam Wangchuk urged Prime Minister Narendra Modi and Defence Minister Rajnath Singh to intervene directly in the crisis."
+      },
+      {
+        "claim": "Social activist and Kargil Democratic Alliance (KDA) leader Sajad Kargili has raised serious allegations of voter fraud after flagging 'multiple duplicate entries on the electoral roll at the Government Primary School Ibex polling booth in Kargil.'",
+        "quote": "Meanwhile, social activist and Kargil Democratic Alliance (KDA) leader Sajad Kargili has raised serious allegations of voter fraud after flagging 'multiple duplicate entries on the electoral roll at the Government Primary School Ibex polling booth in Kargil.'"
+      },
+      {
+        "claim": "According to Kargili, an examination of the voter list for the polling station revealed that five consecutive serial numbers—728, 729, 730, 731, and 732—were registered under the exact same name.",
+        "quote": "According to Kargili, an examination of the voter list for the polling station revealed that five consecutive serial numbers—728, 729, 730, 731, and 732—were registered under the exact same name."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Ladakh Autonomous Hill Development Council elections are scheduled for December 4, 2026, amid protests over voter deletions, winter election timing, and demands for a legislature and constitutional safeguards under the Sixth Schedule.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Meanwhile, social activist and Kargil Democratic Alliance (KDA) leader Sajad Kar”"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

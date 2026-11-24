@@ -1,0 +1,57 @@
+{
+  "id": "22f849b6eb",
+  "url": "https://eastmojo.com/manipur/2026/11/23/manipur-over-35000-tribal-students-await-pending-scholarships/",
+  "title": "Manipur: Over 35,000 tribal students await pending scholarships",
+  "outlet": "EastMojo",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": "manipur-protests-2026",
+  "score": 2.0,
+  "matched": [
+    "Manipur",
+    "Imphal"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1717,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "Over 35,000 tribal students in Manipur staged a protest demanding release of pending scholarships for the 2025-26 academic year after the government failed to disburse funds despite sanctions in April 2026.",
+    "facts": [
+      {
+        "claim": "Over 35,000 tribal students staged a protest",
+        "quote": "More than 35,000 tribal students remain deprived of the scholarship"
+      },
+      {
+        "claim": "Scholarships were sanctioned in April 2026",
+        "quote": "the ST scholarship was sanctioned in April this year"
+      },
+      {
+        "claim": "Students demanded release by November 15, 2026",
+        "quote": "the student union had written to the Director of the Tribal Affairs and Hills Department, demanding the release of the pending scholarship amount by November 15, 2026."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Tribal students in Manipur have repeatedly staged protests for scholarship disbursement, with delays becoming a routine issue.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

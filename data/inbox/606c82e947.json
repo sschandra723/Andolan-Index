@@ -1,0 +1,72 @@
+{
+  "id": "606c82e947",
+  "url": "https://www.thehindu.com/news/national/karnataka/panchamasali-community-to-revive-agitation-for-2a-reservation/article71716553.ece",
+  "title": "Panchamasali community to revive agitation for 2A reservation",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "hunger strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1855,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Lingayat Panchamasali community plans to restart its agitation for 2A reservation after a police lathi-charge in December 2024, with a hunger strike scheduled for December 10 in Belagavi.",
+    "facts": [
+      {
+        "claim": "The Lingayat Panchamasali community will revive an agitation demanding its inclusion in the 2A reservation category",
+        "quote": "The Lingayat Panchamasali community will revive an agitation demanding its inclusion in the 2A reservation category, following a prolonged wait for a response from the State government, said the former seer of Kudalasangam Sri Basava Jaya Mrutyunjay Swami."
+      },
+      {
+        "claim": "The community suspended its agitation following a police lathi-charge on Panchamasali Lingayat protesters in Belagavi on December 10, 2024",
+        "quote": "Addressing a press conference in Kalaburagi on Wednesday, the seer said that the community suspended its agitation following a police lathi-charge on Panchamasali Lingayat protesters in Belagavi on December 10, 2024, during a protest march demanding inclusion in the 2A reservation category."
+      },
+      {
+        "claim": "The agitation took place during Chief Minister Siddaramaiah’s tenure",
+        "quote": "The agitation took place during Chief Minister Siddaramaiah’s tenure. At the time, we announced that the community will resume its struggle only after a change in Chief Ministership."
+      },
+      {
+        "claim": "The community has decided to revive its movement to press for its long-pending reservation demand",
+        "quote": "Following the subsequent change in political leadership, the community has decided to revive its movement to press for its long-pending reservation demand"
+      },
+      {
+        "claim": "A State-level hunger strike will be organised in front of the Suvarna Soudha in Belagavi on December 10",
+        "quote": "As part of the renewed agitation, a State-level hunger strike will be organised in front of the Suvarna Soudha in Belagavi on December 10."
+      },
+      {
+        "claim": "The community approached Chief Minister D.K. Shivakumar seeking a resolution to its reservation demand within two months of his assuming office, he had sought more time",
+        "quote": "The seer said that when the community approached Chief Minister D.K. Shivakumar seeking a resolution to its reservation demand within two months of his assuming office, he had sought more time."
+      },
+      {
+        "claim": "With no tangible progress so far, the community has decided to organise the hunger strike to remind the State government of its commitment",
+        "quote": "However, with no tangible progress so far, the community has decided to organise the hunger strike to remind the State government of its commitment and draw attention to its long-pending demand for 2A reservation."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Lingayat Panchamasali community has been advocating for 2A reservation since at least 2024, with a previous agitation suspended after police action in December 2024.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

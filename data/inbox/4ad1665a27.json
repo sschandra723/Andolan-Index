@@ -1,0 +1,76 @@
+{
+  "id": "4ad1665a27",
+  "url": "https://www.greaterkashmir.com/pir-panjal/non-gazetted-cadre-employees-chain-hunger-strike-begins-at-gmc-rajouri-12836450",
+  "title": "Non gazetted cadre employees’ chain hunger strike begins at GMC Rajouri",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "hunger strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1452,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Non-gazetted cadre employees at five new Jammu and Kashmir government medical colleges began an eighth-day chain hunger strike demanding notification of their cadre-specific recruitment rules, which they say has left their career progression uncertain.",
+    "facts": [
+      {
+        "claim": "non-gazetted cadre employees of Government Medical College (GMC) Rajouri launched a chain hunger strike alongside their ongoing agitation",
+        "quote": "The non-gazetted cadre employees of Government Medical College (GMC) Rajouri launched a chain hunger strike alongside their ongoing agitation, which entered its eighth consecutive day on Monday, November 23, 2026."
+      },
+      {
+        "claim": "agitation entered its eighth consecutive day on Monday, November 23, 2026",
+        "quote": "The non-gazetted cadre employees of Government Medical College (GMC) Rajouri launched a chain hunger strike alongside their ongoing agitation, which entered its eighth consecutive day on Monday, November 23, 2026."
+      },
+      {
+        "claim": "agitation is being held across all five newly established Government Medical Colleges of Jammu and Kashmir",
+        "quote": "The agitation is being held across all five newly established Government Medical Colleges of Jammu and Kashmir, where employees are demanding notification of their cadre-specific recruitment rules."
+      },
+      {
+        "claim": "employees are demanding notification of their cadre-specific recruitment rules",
+        "quote": "The agitation is being held across all five newly established Government Medical Colleges of Jammu and Kashmir, where employees are demanding notification of their cadre-specific recruitment rules."
+      },
+      {
+        "claim": "despite these medical colleges having been functional for the past seven to eight years, their recruitment rules were not notified",
+        "quote": "The protesting employees said that despite these medical colleges having been functional for the past seven to eight years, their recruitment rules were not notified."
+      },
+      {
+        "claim": "the absence of these rules left employees without clear avenues for career progression and promotion",
+        "quote": "They alleged that the absence of these rules left employees without clear avenues for career progression and promotion."
+      },
+      {
+        "claim": "employees are pressing the Jammu and Kashmir government to notify the recruitment rules",
+        "quote": "The employees are pressing the Jammu and Kashmir government to notify the recruitment rules, stating that their professional future remains uncertain in the absence of a proper framework."
+      },
+      {
+        "claim": "the hunger strike would continue alongside the ongoing agitation until the government notified their recruitment rules",
+        "quote": "At GMC Rajouri, two employees sat on a chain hunger strike on Monday as part of the intensified protest. The employees said the hunger strike would continue alongside the ongoing agitation until the government notified their recruitment rules."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Non-gazetted cadre employees at five new Jammu and Kashmir government medical colleges began an eighth-day chain hunger strike demanding notification of their cadre-specific recruitment rules, which they say has left their career progression uncertain.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

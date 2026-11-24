@@ -1,0 +1,62 @@
+{
+  "id": "130cc56f54",
+  "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+  "title": "India’s opposition stages protests against Meta over account removals",
+  "outlet": "Al Jazeera",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3129,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Indian Youth Congress staged protests in Hyderabad, Mumbai, and Gurugram demanding Meta restore blocked Instagram accounts, leading to clashes with police and a seven-day ultimatum for the company to lift restrictions on opposition voices.",
+    "facts": [
+      {
+        "claim": "The Indian Youth Congress staged protests in Hyderabad, Mumbai, and Gurugram",
+        "quote": "The youth wing of India’s main opposition Congress party has staged protests outside Meta offices in three cities, demanding that the United States technology company restore the Instagram accounts of its leaders."
+      },
+      {
+        "claim": "The protests led to clashes with police and security guards",
+        "quote": "The protests took place in Hyderabad, Mumbai and Gurugram, near New Delhi, on Friday and led to clashes with police and security guards, according to footage released by the Indian Youth Congress on Saturday."
+      },
+      {
+        "claim": "The Congress youth wing alleged Meta illegally withheld Instagram accounts on orders from the ruling BJP",
+        "quote": "The party has alleged that on November 19, Meta illegally withheld the Instagram accounts of the youth wing’s president and the party official overseeing the wing on orders from the ruling Bharatiya Janata Party (BJP)."
+      },
+      {
+        "claim": "Two accounts were restored after Friday’s protests",
+        "quote": "Manu Jain, who runs the group’s social media, told the Reuters news agency on Saturday that two accounts were restored after Friday’s protests, but thousands of other accounts of journalists, creators and influencers critical of the government are still restricted."
+      },
+      {
+        "claim": "The youth wing issued a seven-day ultimatum to Meta",
+        "quote": "The youth wing issued a seven-day “ultimatum” to the technology giant, urging it to lift all “restrictions on opposition voices, journalists and creators”."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Indian Youth Congress, a faction of the opposition Congress party, has been protesting Meta's account removals in India, which the party claims are done under government orders from the ruling BJP.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

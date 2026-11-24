@@ -1,0 +1,56 @@
+{
+  "id": "e21a6a7919",
+  "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-firm-booked-for-holding-jln-stadium-marathon-without-permission-during-sir-protests-101795435877486.html",
+  "title": "Delhi: Firm booked for holding JLN Stadium marathon ‘without permission’ during SIR protests",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=SIR"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3991,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Delhi police booked a marketing company for holding a marathon at JLN Stadium without permission during SIR protests, claiming participants obstructed traffic amid electoral roll revisions.",
+    "facts": [
+      {
+        "claim": "Delhi Police booked a marketing company for holding a marathon at JLN Stadium without permission during SIR protests",
+        "quote": "The Delhi Police have registered an FIR against a marketing company for allegedly organising a marathon at Jawaharlal Nehru (JLN) Stadium in south Delhi without police permission in October, claiming that participants obstructed traffic on key roads while prohibitory orders were in force across the national capital amid protests against the Special Intensive Revision (SIR) of electoral rolls."
+      },
+      {
+        "claim": "The marathon was held on October 11 with around 2,000 participants despite Delhi Police rejecting the organisers’ application a day earlier",
+        "quote": "The marathon was scheduled for October 11, from 4.30 am to 10.30 am, with an expected participation of 1,500 people."
+      },
+      {
+        "claim": "Police said participants obstructed traffic in a high-security area",
+        "quote": "Police said the participants not only ran within the JLN Stadium premises but also took to key roads, obstructing vehicular movement in a high-security area."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The SIR (Special Intensive Revision) is the Election Commission's house-to-house recheck of India's voter lists, which has sparked nationwide protests since September 2025.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "65e1b8a821",
+  "url": "https://www.greaterkashmir.com/kashmir/toxic-traces-in-groundwater-scientific-reports-12836411",
+  "title": "Toxic traces in groundwater: Scientific Reports",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5019,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A scientific study found arsenic, chromium and other trace elements exceeding drinking-water guidelines in some Kashmir groundwater samples, urging targeted monitoring of vulnerable water sources.",
+    "facts": [
+      {
+        "claim": "A new scientific study has found arsenic, chromium and other trace elements above drinking-water guideline values in some groundwater samples collected from Kashmir",
+        "quote": "A new scientific study has found arsenic, chromium and other trace elements above drinking-water guideline values in some groundwater samples collected from Kashmir"
+      },
+      {
+        "claim": "The study analysed 234 groundwater and spring-water samples collected from the Upper Jhelum River Basin between 2019 and 2021",
+        "quote": "The study analysed 234 groundwater and spring-water samples collected from the Upper Jhelum River Basin between 2019 and 2021"
+      },
+      {
+        "claim": "Arsenic concentrations exceeded the drinking-water guideline adopted in the study in 22.5 percent of shallow-groundwater samples, 15.2 percent of deep-groundwater samples and 11.1 percent of spring samples",
+        "quote": "Arsenic concentrations exceeded the drinking-water guideline adopted in the study in 22.5 percent of shallow-groundwater samples, 15.2 percent of deep-groundwater samples and 11.1 percent of spring samples"
+      },
+      {
+        "claim": "The maximum arsenic concentration reached 77 micrograms per litre in shallow groundwater and 147 micrograms per litre in deep groundwater, while the highest reading in springs was 30 micrograms per litre",
+        "quote": "The maximum arsenic concentration reached 77 micrograms per litre in shallow groundwater and 147 micrograms per litre in deep groundwater, while the highest reading in springs was 30 micrograms per litre"
+      },
+      {
+        "claim": "Chromium concentrations reached 2970 micrograms per litre in shallow groundwater and 4334 micrograms per litre in deep groundwater",
+        "quote": "Chromium concentrations reached 2970 micrograms per litre in shallow groundwater and 4334 micrograms per litre in deep groundwater"
+      },
+      {
+        "claim": "The study's practical recommendation is clear: 'The practical implication is not panic, but better targeting.'",
+        "quote": "The study's practical recommendation is clear: 'The practical implication is not panic, but better targeting.'"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A scientific study found arsenic, chromium and other trace elements exceeding drinking-water guidelines in some Kashmir groundwater samples, urging targeted monitoring of vulnerable water sources.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The study's practical recommendation is clear: 'The practical implication is not”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

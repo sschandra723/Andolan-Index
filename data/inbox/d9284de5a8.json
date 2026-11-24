@@ -1,0 +1,70 @@
+{
+  "id": "d9284de5a8",
+  "url": "https://www.thehindu.com/news/national/karnataka/members-of-various-lingayat-organisations-take-out-protests-against-author-ravi-hanjagimath/article71725515.ece",
+  "title": "Members of various Lingayat organisations take out protests against author Ravi Hanjagimath",
+  "outlet": "The Hindu",
+  "published": "2026-11-20",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3302,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Lingayat organisations protested against author Ravi Hanjagimath for allegedly insulting Basavanna and other Sharanas, demanding legal action and a ban on the book Basava Mantapa.",
+    "facts": [
+      {
+        "claim": "Lingayat organisations took out protests against author Ravi Hanjagimath",
+        "quote": "Members of various Lingayat organisations took out protests against author Ravi Hanjagimath, for allegedly insulting Basavanna and other Sharanas, in Belagavi and Vijayapura on Friday."
+      },
+      {
+        "claim": "Protesters demanded action against the author and Vishwavani TV channel",
+        "quote": "Protesters demanded action against the author and the Vishwavani TV channel for broadcasting the controversial interview."
+      },
+      {
+        "claim": "Protesters staged a dharna at Deputy Commissioner's office in Belagavi",
+        "quote": "Protesters gathered at the office of the Deputy Commissioner in Belagavi and staged a dharna."
+      },
+      {
+        "claim": "Protesters sought legal action and a permanent ban on the book Basava Mantapa",
+        "quote": "They sought legal action against them. They sought a permanent ban on the sale of the book Basava Mantapa, written by Mr. Hanjagimath and published by Mr. Bhat."
+      },
+      {
+        "claim": "Allamaprabhu Swami stated that undermining Basavanna's character was unacceptable",
+        "quote": "Allamaprabhu Swami stated that any attempt to undermine the character and ideals of Basavanna was not acceptable."
+      },
+      {
+        "claim": "Allamaprabhu Swami warned of intensified agitations if accused were not punished",
+        "quote": "He warned of intensified agitations if the accused were not punished immediately."
+      },
+      {
+        "claim": "Sri Channabasava Swami demanded the author be arrested even if abroad",
+        "quote": "The author must be arrested even if he is settled abroad,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Lingayat organisations, a major religious group in Karnataka, protested against author Ravi Hanjagimath for allegedly insulting Basavanna, a 12th-century religious reformer, and other Sharanas (followers of Lingayatism).",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

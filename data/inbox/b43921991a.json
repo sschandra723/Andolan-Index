@@ -1,0 +1,57 @@
+{
+  "id": "b43921991a",
+  "url": "https://www.newindianexpress.com/india/2026/Nov/18/jharkhand-student-agitation-gains-momentum-over-jpsc-jssc-exam-irregularities-protestors-detained",
+  "title": "Jharkhand student agitation gains momentum over JPSC-JSSC exam irregularities; protestors detained",
+  "outlet": "The New Indian Express",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": "jharkhand-exam-protests-2026",
+  "score": 4.0,
+  "matched": [
+    "=JPSC",
+    "=JSSC",
+    "Jharkhand Public Service Commission",
+    "Ranchi"
+  ],
+  "alternatives": [
+    "jharkhand-108-ambulance-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3252,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "jharkhand-exam-protests-2026",
+    "new_movement": null,
+    "summary": "Jharkhand students continue protests over alleged irregularities in state public service and staff selection exams, demanding transparency after the government canceled 22 exams and failed to investigate properly.",
+    "facts": [
+      {
+        "claim": "Jharkhand students continue protests over alleged irregularities in state public service and staff selection exams",
+        "quote": "Student protests in Jharkhand are once again gaining momentum over alleged irregularities in Jharkhand Public Service Commission (JPSC) and Jharkhand Staff Selection Commission (JSSC) examinations, delays in recruitment and demands for greater transparency in the selection process."
+      },
+      {
+        "claim": "demanding transparency after the government canceled 22 exams and failed to investigate properly",
+        "quote": "Notably, the Jharkhand government in August decided to cancel 22 recruitment examinations held since 2014, including the JSSC-CGL-2023 examination conducted on September 21 and 22, 2024, and ordered probes into 23 others to quell a protest by job aspirants against alleged examination irregularities."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Jharkhand government canceled 22 exams in August 2026 after student protests over alleged irregularities, but the High Court stayed the decision for some exams.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

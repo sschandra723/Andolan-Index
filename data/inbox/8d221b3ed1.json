@@ -1,0 +1,73 @@
+{
+  "id": "8d221b3ed1",
+  "url": "https://www.siasat.com/cjp-protest-how-to-tell-reel-makers-from-journalists-delhi-police-asks-sc-3580303/",
+  "title": "CJP protest: How to tell reel-makers from journalists? Delhi Police asks SC",
+  "outlet": "The Siasat Daily",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5175,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "Delhi Police clarified that no law requires women protesters to be handled by women officers, and distinguished journalists from social media influencers who create reels during protests.",
+    "facts": [
+      {
+        "claim": "no mandate requires that women protesters be handled by women officers only",
+        "quote": "The Delhi Police told the Supreme Court that no mandate requires that women protesters be handled by women officers only"
+      },
+      {
+        "claim": "journalists constitute a distinct category",
+        "quote": "the police argued that the influencers cannot claim the same protections guaranteed to the press while covering protests"
+      },
+      {
+        "claim": "reel-makers and social media influencers are not journalists",
+        "quote": "It remains undetermined whether individuals who make reels and upload them while exploiting the content they create can be elevated to the status of journalists or reporters"
+      },
+      {
+        "claim": "police did not obstruct journalists",
+        "quote": "At no point was there any deliberate or concerted action on the part of the Delhi Police to obstruct, restrict or interfere with journalists who were lawfully discharging their professional duties"
+      },
+      {
+        "claim": "police released mistaken apprehensions",
+        "quote": "Police said any individual apprehended mistakenly was \"immediately released upon verification and ascertainment of their actual identity\""
+      },
+      {
+        "claim": "many falsely claimed to be journalists",
+        "quote": "It reiterated that there were several people in the \"illegal protests\" who were not journalists \"but were using a camera and a microphone, falsely claiming to be journalists\""
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Police clarified distinctions between journalists and social media influencers during protests, addressing allegations of excessive force against reporters at anti-Chief Election Commissioner protests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Police said any individual apprehended mistakenly was \"immediately released upon”",
+        "quote not in article: “It reiterated that there were several people in the \"illegal protests\" who were ”"
+      ]
+    },
+    "importance": 55,
+    "importance_reason": "4 outlets in the last 48 hours; coverage up from 3 to 6 reports this week."
+  }
+}

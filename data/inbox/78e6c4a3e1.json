@@ -1,0 +1,68 @@
+{
+  "id": "78e6c4a3e1",
+  "url": "https://www.thehindu.com/news/national/kerala/thousands-of-govt-staff-teachers-lay-siege-to-keralam-secretariat-demanding-service-benefits-pay-revision/article71727680.ece",
+  "title": "Thousands of govt staff, teachers lay siege to Keralam Secretariat demanding service benefits, pay revision",
+  "outlet": "The Hindu",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2395,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "keralam-lpst-rankholders-2026",
+    "new_movement": null,
+    "summary": "Thousands of Kerala government employees and teachers affiliated with Left-backed service organisations laid siege to the Secretariat demanding immediate pay revision, withdrawal of the contributory pension scheme and restoration of service benefits.",
+    "facts": [
+      {
+        "claim": "Thousands of State government employees and teachers affiliated with Left-backed service organisations laid siege to the Secretariat here on Saturday",
+        "quote": "Thousands of State government employees and teachers affiliated with Left-backed service organisations laid siege to the Secretariat here on Saturday"
+      },
+      {
+        "claim": "The protest, organised by the Action Council of State Employees and Teachers, saw participants assembling around the Secretariat premises.",
+        "quote": "The protest, organised by the Action Council of State Employees and Teachers, saw participants assembling around the Secretariat premises."
+      },
+      {
+        "claim": "Opposition Leader Pinarayi Vijayan said the Secretariat siege was a stern warning to the State government against \"denying employees their legitimate rights.\"",
+        "quote": "Opposition Leader Pinarayi Vijayan said the Secretariat siege was a stern warning to the State government against \"denying employees their legitimate rights.\""
+      },
+      {
+        "claim": "The United Democratic Front (UDF) government is an example of how an administration should not function",
+        "quote": "The United Democratic Front (UDF) government is an example of how an administration should not function"
+      },
+      {
+        "claim": "Slew of demands",
+        "quote": "The agitation was organised to press for a slew of demands, including immediate pay revision and interim relief, withdrawal of the contributory pension scheme, disbursement of pending dearness allowance (DA) arrears, cancellation of arbitrary transfers and conduct of general transfers in accordance with established norms."
+      },
+      {
+        "claim": "Home Minister Ramesh Chennithala criticised the protest, pointing out the \"irony of a former Chief Minister\" inaugurating an agitation for pay revision despite failing to implement it during his 10-year tenure.",
+        "quote": "Home Minister Ramesh Chennithala criticised the protest, pointing out the \"irony of a former Chief Minister\" inaugurating an agitation for pay revision despite failing to implement it during his 10-year tenure."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala government employees and teachers affiliated with Left-backed service organisations have demanded immediate pay revision, withdrawal of the contributory pension scheme, and restoration of service benefits.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": [
+        "name “Thousands of Kerala” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

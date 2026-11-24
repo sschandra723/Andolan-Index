@@ -1,0 +1,61 @@
+{
+  "id": "e4b1462680",
+  "url": "https://kashmirobserver.net/2026/11/22/ladakh-cs-urges-high-turnout-amid-poll-deferment-demand/",
+  "title": "Ladakh CS Urges High Turnout Amid Poll Deferment Demand",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-22",
+  "collected": "2026-11-23",
+  "suggested_movement": "ladakh-statehood",
+  "score": 4.0,
+  "matched": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Leh",
+    "=LAB"
+  ],
+  "alternatives": [
+    "tn-hospital-workers-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4865,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh Chief Secretary Ashish Kundra urged high voter turnout for December 4 LAHDC elections amid ongoing sit-in and hunger strike by Leh Apex Body demanding election deferment due to population migration.",
+    "facts": [
+      {
+        "claim": "Ladakh Chief Secretary Ashish Kundra urged high voter turnout for December 4 LAHDC elections",
+        "quote": "Ladakh Chief Secretary Ashish Kundra on Sunday appealed to voters across all eight districts to participate in the polls in large numbers and exercise their franchise."
+      },
+      {
+        "claim": "Ongoing sit-in and hunger strike by Leh Apex Body demanding election deferment",
+        "quote": "Amid the Leh Apex Body’s (LAB) ongoing sit-in and hunger strike in Leh, seeking dialogue with the Centre and deferment of the December 4 LAHDC elections"
+      },
+      {
+        "claim": "Population migration due to harsh winter conditions",
+        "quote": "citing the migration of 30 to 50 per cent of the population outside Ladakh due to harsh winter conditions"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh, a union territory without a legislature since 2019, has been seeking statehood through protests against the Centre's election process for the Ladakh Autonomous Hill Development Councils.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

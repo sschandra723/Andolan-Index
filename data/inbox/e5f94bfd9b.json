@@ -1,0 +1,62 @@
+{
+  "id": "e5f94bfd9b",
+  "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-nalbari-parents-protest-closure-of-six-schools-for-raax-mahotsav-arrangements",
+  "title": "Assam: Nalbari Parents Protest Closure of Six Schools for Raax Mahotsav Arrangements",
+  "outlet": "The Sentinel",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1638,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Parents in Nalbari, Assam protest closure of six schools for police accommodation during Raax Mahotsav festival, fearing academic disruption before unit exams.",
+    "facts": [
+      {
+        "claim": "The decision to close six schools in Nalbari town and use their premises as temporary accommodation for police personnel during the 13-day historic Nalbari Raax Mahotsav",
+        "quote": "The decision to close six schools in Nalbari town and use their premises as temporary accommodation for police personnel during the 13-day historic Nalbari Raax Mahotsav has triggered strong resentment among a section of parents and concerned citizens."
+      },
+      {
+        "claim": "Parents have questioned the decision to suspend regular academic activities and use government school buildings for purposes unrelated to education",
+        "quote": "While acknowledging the importance of security arrangements for the grand cultural and religious festival, parents have questioned the decision to suspend regular academic activities and use government school buildings for purposes unrelated to education."
+      },
+      {
+        "claim": "Accommodating police personnel in school buildings does not directly benefit or harm students, but shutting down educational institutions inevitably affects the academic progress of children",
+        "quote": "They argue that schools should primarily remain dedicated to imparting education and should not be repeatedly converted into temporary accommodation facilities for festivals and other public events."
+      },
+      {
+        "claim": "Unit examinations in the schools are scheduled to begin immediately after the Raax Mahotsav",
+        "quote": "The matter has become particularly concerning as unit examinations in the schools are scheduled to begin immediately after the Raax Mahotsav."
+      },
+      {
+        "claim": "Another phase of school closures may be required after December 2 to accommodate theatre artistes and performers",
+        "quote": "Adding to their concerns, another phase of school closures may be required after December 2 to accommodate theatre artistes and performers participating in the festival-related programmes."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Parents in Nalbari, Assam are protesting the closure of six schools for police accommodation during the Raax Mahotsav festival, which they fear will disrupt academic progress before unit exams.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

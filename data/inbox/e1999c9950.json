@@ -1,0 +1,54 @@
+{
+  "id": "e1999c9950",
+  "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-chakka-bandh-from-november-20-48-hour-statewide-transport-strike-announced",
+  "title": "Assam Chakka Bandh From November 20: 48-Hour Statewide Transport Strike Announced",
+  "outlet": "The Sentinel",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3191,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Assam transport unions announced a 48-hour statewide strike from November 20-22, 2026, demanding a 70% fare hike and social security measures due to rising costs and unaddressed grievances.",
+    "facts": [
+      {
+        "claim": "48-hour statewide chakka bandh",
+        "quote": "Guwahati: Assam's transport owners' and workers' associations have announced a 48-hour statewide chakka bandh from November 20 to November 22, 2026, protesting against rising operating costs and unresolved demands."
+      },
+      {
+        "claim": "70% fare increase",
+        "quote": "Their principal financial demand is a 70% increase in fares. The associations argue that the last fare revision took place in 2019, while fuel and spare-part costs have continued to rise."
+      },
+      {
+        "claim": "Unresolved demands since 2019",
+        "quote": "The associations have raised concerns about the financial conditions of transport owners and workers and are seeking action from the Assam Transport Department."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Assam transport unions announced a 48-hour statewide strike from November 20-22, 2026, demanding a 70% fare hike and social security measures due to rising costs and unaddressed grievances.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

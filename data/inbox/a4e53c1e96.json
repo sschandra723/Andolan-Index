@@ -1,0 +1,47 @@
+{
+  "id": "a4e53c1e96",
+  "url": "https://www.ndtv.com/india-news/at-protest-against-sonia-gandhis-book-shiv-senas-shaina-nc-tears-balasaheb-photo-triggers-row-12343827",
+  "title": "Protesting Sonia Gandhi's Book, Sena Leader Tears Bal Thackeray's Photo, Triggers Row",
+  "outlet": "NDTV",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A political row erupted after a Sena leader tore Bal Thackeray's photo in protest against Sonia Gandhi's book, sparking controversy.",
+    "facts": [
+      {
+        "claim": "A political row erupted after a Sena leader tore Bal Thackeray's photo in protest against Sonia Gandhi's book",
+        "quote": "Protesting Sonia Gandhi's Book, Sena Leader Tears Bal Thackeray's Photo, Triggers Row"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The incident occurred during a political dispute involving the Sena party, a major political group in Maharashtra, and Sonia Gandhi, a prominent leader of the Indian National Congress.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

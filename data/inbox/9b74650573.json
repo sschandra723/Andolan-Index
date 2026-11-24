@@ -1,0 +1,70 @@
+{
+  "id": "9b74650573",
+  "url": "https://theprint.in/india/maharashtra-subordinate-court-employees-end-strike-after-meeting-hc-judges/3102420/",
+  "title": "Maharashtra subordinate court employees end strike after meeting HC judges",
+  "outlet": "ThePrint",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2357,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Maharashtra subordinate court employees ended their indefinite strike after meeting four Bombay High Court judges, who assured them their pay demands would be considered. The staff had been striking since September demanding pay parity with HC staff due to delayed revisions.",
+    "facts": [
+      {
+        "claim": "Employees of Maharashtra district and sessions courts called off their indefinite strike",
+        "quote": "Employees of Maharashtra district and sessions courts on Wednesday called off their indefinite strike, which began a day ago demanding pay parity with Bombay High Court staff, pursuant to a meeting with four HC judges."
+      },
+      {
+        "claim": "The strike began on Tuesday (November 17)",
+        "quote": "Thousands of subordinate court employees went on an indefinite strike on Tuesday (November 17), demanding a revised pay scale on par with HC staff, affecting judicial work in lower courts across the state."
+      },
+      {
+        "claim": "The employees met with four HC judges",
+        "quote": "As per a note issued by the judicial employees’ unions, their representatives had an online meeting with four HC judges — Justices A S Gadkari, G S Kulkarni, B P Colabawalla and Suman Shyam — to break the impasse."
+      },
+      {
+        "claim": "The judges assured the staff their demands would be considered",
+        "quote": "During the meeting, the judges highlighted the inconvenience caused due to the strike and assured that the agitating staff’s demands would be considered by the authorities concerned."
+      },
+      {
+        "claim": "The strike had been ongoing since September",
+        "quote": "The subordinate court staff have been agitating since September claiming that the state government has failed to act on representatives sent repeatedly seeking pay parity with HC employees."
+      },
+      {
+        "claim": "The staff demanded pay parity with HC staff",
+        "quote": "Employees of Maharashtra district and sessions courts on Wednesday called off their indefinite strike, which began a day ago demanding pay parity with Bombay High Court staff"
+      },
+      {
+        "claim": "The staff had been waiting for pay revisions since 2006",
+        "quote": "As per the staff, the high court employees have been receiving revised pay scales since 2006, but their counterparts in the subordinate courts are still awaiting a similar revision."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Maharashtra subordinate court employees have been striking since September demanding pay parity with Bombay High Court staff, citing delayed revisions despite HC staff receiving pay updates since 2006.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

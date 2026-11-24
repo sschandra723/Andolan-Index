@@ -1,0 +1,78 @@
+{
+  "id": "83ed92d361",
+  "url": "https://www.hindustantimes.com/india-news/auto-taxi-drivers-to-protest-at-delhis-ramlila-maidan-today-over-fare-revision-ev-policy-and-bike-taxi-services-101795062077623.html",
+  "title": "Auto, taxi drivers to protest at Delhi's Ramlila Maidan today over fare revision, EV policy, bike-taxi services",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3422,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "gig-workers-strike-2025",
+    "new_movement": null,
+    "summary": "Auto and taxi drivers in Delhi plan to protest at Ramlila Maidan today over fare revision, EV policy, and bike-taxi services, organised by the Bharatiya Private Transport Mazdoor Mahasangh.",
+    "facts": [
+      {
+        "claim": "Auto, taxi drivers to protest at Delhi's Ramlila Maidan today over fare revision, EV policy, bike-taxi services",
+        "quote": "Auto, taxi drivers to protest at Delhi's Ramlila Maidan today over fare revision, EV policy, bike-taxi services"
+      },
+      {
+        "claim": "The demonstration, organised by the Bharatiya Private Transport Mazdoor Mahasangh, which is affiliated with the Bharatiya Mazdoor Sangh, will begin at 11 am",
+        "quote": "The demonstration, organised by the Bharatiya Private Transport Mazdoor Mahasangh, which is affiliated with the Bharatiya Mazdoor Sangh, will begin at 11 am"
+      },
+      {
+        "claim": "Transport workers from across India are set to gather at Delhi's Ramlila Maidan on November 19, to protest against government policies and seek action on their long-pending demands",
+        "quote": "Transport workers from across India are set to gather at Delhi's Ramlila Maidan on November 19, to protest against government policies and seek action on their long-pending demands"
+      },
+      {
+        "claim": "The protest will bring together drivers of autos, taxis, buses, trucks, ambulances and e-rickshaws",
+        "quote": "The protest will bring together drivers of autos, taxis, buses, trucks, ambulances and e-rickshaws"
+      },
+      {
+        "claim": "The union said hundreds of workers were expected to participate and raise issues they believe have not been addressed by the central government, state governments and the Delhi government",
+        "quote": "The union said hundreds of workers were expected to participate and raise issues they believe have not been addressed by the central government, state governments and the Delhi government"
+      },
+      {
+        "claim": "The organisation has described the policies of these governments as “wrong policies”",
+        "quote": "The organisation has described the policies of these governments as “wrong policies”"
+      },
+      {
+        "claim": "Yogesh Sharma, national president of the Bharatiya Private Transport Mazdoor Mahasangh, and former general secretary Rajendra Soni alleged that governments had failed to deliver on commitments made to transport workers after assuming office",
+        "quote": "Yogesh Sharma, national president of the Bharatiya Private Transport Mazdoor Mahasangh, and former general secretary Rajendra Soni alleged that governments had failed to deliver on commitments made to transport workers after assuming office"
+      },
+      {
+        "claim": "They said the BJP government had been in power in Delhi for over a year and a half but had yet to fulfil any of the promises made to auto and taxi drivers",
+        "quote": "They said the BJP government had been in power in Delhi for over a year and a half but had yet to fulfil any of the promises made to auto and taxi drivers"
+      },
+      {
+        "claim": "They also alleged that fresh rules introduced by the central, state and Delhi governments were making working conditions more difficult for transport workers",
+        "quote": "They also alleged that fresh rules introduced by the central, state and Delhi governments were making working conditions more difficult for transport workers"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest is part of ongoing transport workers' demands for fare revision, EV policy changes, and closure of bike-taxi apps, organised by the Bharatiya Private Transport Mazdoor Mahasangh.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

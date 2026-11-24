@@ -1,0 +1,82 @@
+{
+  "id": "3f46e3e7db",
+  "url": "https://nenow.in/north-east-news/assam/assam-tea-worker-dies-in-tinsukia-factory-machine-accident-protests-erupt.html",
+  "title": "Assam: Tea worker dies in Tinsukia factory machine accident; protests erupt",
+  "outlet": "Northeast Now",
+  "published": "2026-11-20",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2326,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A tea worker died in a factory machine accident in Assam, sparking protests by tea workers and tea-tribe organisations who accused garden management of safety lapses and demanded the manager's arrest.",
+    "facts": [
+      {
+        "claim": "A 45-year-old tea garden worker died after getting trapped in a roller machine at Talup Tea Estate Factory in Assam’s Tinsukia district on Friday.",
+        "quote": "Doomdooma: A 45-year-old tea garden worker died after getting trapped in a roller machine at Talup Tea Estate Factory in Assam’s Tinsukia district on Friday."
+      },
+      {
+        "claim": "The incident triggered protests by tea workers and tea-tribe organisations, which accused the garden management of safety lapses and demanded the manager’s arrest.",
+        "quote": "The incident triggered protests by tea workers and tea-tribe organisations, which accused the garden management of safety lapses and demanded the manager’s arrest."
+      },
+      {
+        "claim": "The deceased, identified as Bablu Garh, was a resident of Chingli Line in the tea estate. He reportedly met with the accident while working inside the factory. He was taken to a hospital, where doctors declared him dead.",
+        "quote": "The deceased, identified as Bablu Garh, was a resident of Chingli Line in the tea estate. He reportedly met with the accident while working inside the factory. He was taken to a hospital, where doctors declared him dead."
+      },
+      {
+        "claim": "The incident took place under the jurisdiction of Talap Police Outpost in the Kakopathar police station area of Tinsukia district’s Sadiya Co-District.",
+        "quote": "The incident took place under the jurisdiction of Talap Police Outpost in the Kakopathar police station area of Tinsukia district’s Sadiya Co-District."
+      },
+      {
+        "claim": "Following the incident, hundreds of tea workers gathered outside the factory and marched towards the Talap Police Outpost, demanding justice for Garh’s family and action against the garden management.",
+        "quote": "Following the incident, hundreds of tea workers gathered outside the factory and marched towards the Talap Police Outpost, demanding justice for Garh’s family and action against the garden management."
+      },
+      {
+        "claim": "Members of the Assam Chah Mazdoor Sangha (ACMS), Assam Adivasi Students’ Association (AASAA) and other tea-tribe organisations joined the protest. They alleged that the management had failed to ensure workplace safety.",
+        "quote": "Members of the Assam Chah Mazdoor Sangha (ACMS), Assam Adivasi Students’ Association (AASAA) and other tea-tribe organisations joined the protest. They alleged that the management had failed to ensure workplace safety."
+      },
+      {
+        "claim": "They also claimed that Garh had been assigned to operate machinery without proper training and that workers were not provided with essential safety equipment, including machine guards, helmets and protective footwear.",
+        "quote": "They also claimed that Garh had been assigned to operate machinery without proper training and that workers were not provided with essential safety equipment, including machine guards, helmets and protective footwear."
+      },
+      {
+        "claim": "This tragic incident reflects the serious negligence of the garden management. How can an ordinary worker without proper training be assigned to operate heavy machinery? Operating such equipment requires adequate training and safety arrangements. We found that the machine had no safety guard and that workers were not provided with helmets or safety shoes. We, along with other tea-tribe organisations, have lodged an FIR and submitted a memorandum demanding accountability,” an AASAA leader said.",
+        "quote": "This tragic incident reflects the serious negligence of the garden management. How can an ordinary worker without proper training be assigned to operate heavy machinery? Operating such equipment requires adequate training and safety arrangements. We found that the machine had no safety guard and that workers were not provided with helmets or safety shoes. We, along with other tea-tribe organisations, have lodged an FIR and submitted a memorandum demanding accountability,” an AASAA leader said."
+      },
+      {
+        "claim": "The protesting organisations demanded strict action against those responsible for the accident, the immediate arrest of the tea garden manager and justice for Garh’s family. They called for accountability over the alleged safety lapses that led to the worker’s death.",
+        "quote": "The protesting organisations demanded strict action against those responsible for the accident, the immediate arrest of the tea garden manager and justice for Garh’s family. They called for accountability over the alleged safety lapses that led to the worker’s death."
+      },
+      {
+        "claim": "A police officer said, “We are investigating the case and examining all aspects of the incident. Those found responsible will not be spared.”",
+        "quote": "A police officer said, “We are investigating the case and examining all aspects of the incident. Those found responsible will not be spared.”"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Tea workers in Assam's Tinsukia district protested after a fatal factory accident, accusing garden management of safety lapses and demanding the manager's arrest.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "10/10",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "4f7f7b38bd",
+  "url": "https://www.greaterkashmir.com/opinion/the-book-and-the-belonging-12832708",
+  "title": "The Book and the Belonging",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": "anti-sir-2026",
+  "score": 4.0,
+  "matched": [
+    "Special Intensive Revision",
+    "=SIR",
+    "electoral roll",
+    "Election Commission"
+  ],
+  "alternatives": [
+    "jk-statehood-2026",
+    "jharkhand-108-ambulance-2026",
+    "manipur-protests-2026",
+    "tn-hospital-workers-2026",
+    "up-nhm-staff-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "At a November 2026 book launch event in New Delhi, Congress leaders and regional alliance partners displayed unity ahead of upcoming state elections, with prominent figures from multiple parties seated together to signal opposition cohesion.",
+    "facts": [
+      {
+        "claim": "Congress leaders and regional alliance partners displayed unity ahead of upcoming state elections",
+        "quote": "At the November 16, 2026 launch of Congress Parliamentary Party chairperson Mrs Sonia Gandhi’s memoir, ‘Belonging: A Journey of Love’ in a five-star hotel in New Delhi, the presence of I.N.D.I.A bloc leaders alongside Congress figures and an odd newly baptised BJP leaders, projected multiple political and personal messages."
+      },
+      {
+        "claim": "Prominent figures from multiple parties seated together",
+        "quote": "The leaders such as Samajwadi party chief Mr Yadav and his MP wife Mrs Dimple Yadav, Jharkhand chief minister Mr Hemant Soren and his legislator wife Mrs Kalpana Soren, Jammu and Kashmir chief minister Mr Omar Abdullah and his father and National Conference patriarch Dr Farooq Abdullah, Peoples Democratic Party chief Ms Mehbooba Mufti, Trinamool Congress leader Mr Abhishek Banerjee, MP (nephew of TMC chief Ms Mamta Banerjee), Tamil Nadu chief minister Mr C Joseph Vijay, Nationalist Congress Party (SP) leader and MP Ms Supriya Sule among others, were given the front-row privilege in the sitting arrangement."
+      },
+      {
+        "claim": "Seated together to signal opposition cohesion",
+        "quote": "This was a notable point in relation to Congress’s relations with its allies. On the face of it Congress gave an impression of playing a second fiddle to the alliance partners, mostly regional players."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress and regional alliance partners organized a book launch event to project unity ahead of upcoming state elections in Uttar Pradesh, Punjab, Goa and Manipur.",
+    "confidence": 0.85,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

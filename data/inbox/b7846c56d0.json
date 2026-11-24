@@ -1,0 +1,54 @@
+{
+  "id": "b7846c56d0",
+  "url": "https://www.indianewsnetwork.com/en/controversy-erupts-after-bal-thackeray-image-torn-protest-20261119",
+  "title": "Controversy Erupts After Bal Thackeray Image Torn at Protest",
+  "outlet": "India News Network",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2935,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Shiv Sena members tore copies of Sonia Gandhi's memoir during a press conference, accidentally damaging a photograph of Bal Thackeray, leading to backlash from opposition parties including Shiv Sena (UBT), MNS, and Congress.",
+    "facts": [
+      {
+        "claim": "Shiv Sena members tore copies of Sonia Gandhi's memoir during a press conference",
+        "quote": "A significant protest occurred on Wednesday led by the Shiv Sena against Sonia Gandhi, following remarks in her memoir that discussed the actions of Hindutva ideologue Vinayak Damodar Savarkar."
+      },
+      {
+        "claim": "accidentally damaged a photograph of Bal Thackeray",
+        "quote": "While performing this act, a paper featuring Bal Thackeray, the party's late founder, was inadvertently torn."
+      },
+      {
+        "claim": "led to backlash from opposition parties including Shiv Sena (UBT), MNS, and Congress",
+        "quote": "Leaders from the opposition faction, the Shiv Sena (UBT), as well as Maharashtra Navnirman Sena (MNS) and Congress, condemned Shaina's actions."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Shiv Sena members tore copies of Sonia Gandhi's memoir during a press conference, accidentally damaging a photograph of Bal Thackeray, leading to backlash from opposition parties including Shiv Sena (UBT), MNS, and Congress.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

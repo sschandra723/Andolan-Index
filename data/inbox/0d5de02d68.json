@@ -1,0 +1,66 @@
+{
+  "id": "0d5de02d68",
+  "url": "https://www.greaterkashmir.com/business/skuast-k-concludes-15-day-training-course-on-integrated-nutrient-management-12836159",
+  "title": "SKUAST-K concludes 15-day training course on Integrated Nutrient Management",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2235,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "SKUAST-K concluded a 15-day training course on Integrated Nutrient Management for agricultural input dealers in Kashmir, aiming to improve scientific advice for farmers on balanced nutrient application and soil health.",
+    "facts": [
+      {
+        "claim": "SKUAST-K concluded a 15-day Certificate Course on Integrated Nutrient Management",
+        "quote": "SKUAST-K, through its Directorate of Extension/SAMETI, concluded a 15-day Certificate Course on Integrated Nutrient Management (INM), organised in collaboration with the National Institute of Agricultural Extension Management (MANAGE), Hyderabad."
+      },
+      {
+        "claim": "Conducted from November 9 to 23",
+        "quote": "Conducted from November 9 to 23, the programme aimed at strengthening the technical knowledge and extension skills of agricultural input dealers and prospective fertiliser dealers from different districts of Kashmir, enabling them to provide farmers with scientific advice on balanced nutrient application and soil health management."
+      },
+      {
+        "claim": "Under the guidance of Vice-Chancellor Prof. Nazir A. Ganai",
+        "quote": "Under the guidance of Vice-Chancellor Prof. Nazir A. Ganai, the course combined classroom lectures, practical demonstrations and field exposure."
+      },
+      {
+        "claim": "Participants attended 20 technical lectures",
+        "quote": "Participants attended 20 technical lectures delivered by university scientists and subject experts and undertook visits to KVKs in Budgam, Pulwama, Kulgam and Srinagar."
+      },
+      {
+        "claim": "The initiative is aimed at developing a cadre of trained agricultural input dealers",
+        "quote": "The initiative is aimed at developing a cadre of trained agricultural input dealers who can strengthen last-mile extension services and facilitate the dissemination of scientific nutrient management practices among farmers across Jammu and Kashmir."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “SKUAST-K, through its Directorate of Extension/SAMETI, concluded a 15-day Certif”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

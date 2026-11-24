@@ -1,0 +1,56 @@
+{
+  "id": "d49c4a7dc7",
+  "url": "https://theshillongtimes.com/2026/11/19/when-words-wound/",
+  "title": "When Words Wound",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3536,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "The Deputy Chief Minister of Meghalaya faced criticism for calling teachers 'termites of society' during their strike over salary demands, with critics arguing that political insults undermine democratic discourse and the government's failure to address underfunded schools.",
+    "facts": [
+      {
+        "claim": "Deputy CM, Prestone Tynsong called teachers the termites of society",
+        "quote": "Deputy CM, Prestone Tynsong drew much flak from the teaching community and other members of society too when he called teachers the termites of society merely because they are on strike for reasons related to their salaries etc."
+      },
+      {
+        "claim": "The government has issues with underfunded schools",
+        "quote": "True that education in Meghalaya suffers from several administrative lacunae that have afflicted the state for several years."
+      },
+      {
+        "claim": "Over 2600 schools are no longer viable",
+        "quote": "This is also one reason why Meghalaya has more schools than are required of which over 2600 are no longer viable educational institutions."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Deputy Chief Minister of Meghalaya faced criticism for using derogatory language during the teachers' strike, highlighting ongoing issues with underfunded schools and the government's failure to address the financial sustainability of educational institutions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "name “The Deputy Chief Minister of Meghalaya” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

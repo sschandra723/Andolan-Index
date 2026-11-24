@@ -1,0 +1,47 @@
+{
+  "id": "1e92b089ba",
+  "url": "https://www.ndtv.com/delhi-news/transport-unions-to-protest-for-auto-taxi-fare-hike-in-delhi-today-12344109",
+  "title": "Transport Unions To Protest For Auto-Taxi Fare Hike In Delhi Today",
+  "outlet": "NDTV",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Transport unions in Delhi plan to protest today over proposed auto-taxi fare hikes.",
+    "facts": [
+      {
+        "claim": "Transport unions in Delhi plan to protest today over proposed auto-taxi fare hikes",
+        "quote": "Transport Unions To Protest For Auto-Taxi Fare Hike In Delhi Today"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

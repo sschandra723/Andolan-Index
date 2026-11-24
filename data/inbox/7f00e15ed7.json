@@ -1,0 +1,63 @@
+{
+  "id": "7f00e15ed7",
+  "url": "https://scroll.in/latest/1097161/cec-protests-sc-seeks-congress-aap-cjp-response-on-traders-plea-alleging-business-losses",
+  "title": "CEC protests: SC seeks Congress, AAP, CJP response on traders’ plea alleging business losses",
+  "outlet": "Scroll.in",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "=CEC",
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1694,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "The Supreme Court asked Congress, AAP, CJP and AISSA to respond to traders' claims that protests against Chief Election Commissioner Gyanesh Kumar caused business losses in Delhi, as the protests demanded his resignation over alleged irregularities in the Special Intensive Revision of electoral rolls.",
+    "facts": [
+      {
+        "claim": "The Supreme Court sought responses from the Congress, the Aam Aadmi Party, the Cockroach Janta Party political campaign and the All India Students Association on a petition by traders’ associations",
+        "quote": "The Supreme Court on Wednesday sought responses from the Congress, the Aam Aadmi Party, the Cockroach Janta Party political campaign and the All India Students Association on a petition by traders’ associations alleging that protests against Chief Election Commissioner Gyanesh Kumar in October led to losses to their businesses in New Delhi"
+      },
+      {
+        "claim": "The protests, which began on October 2 and continued through most of the month, were held in Connaught Place and at Ramlila Ground in Central Delhi",
+        "quote": "The protests, which began on October 2 and continued through most of the month, were held in Connaught Place and at Ramlila Ground in Central Delhi"
+      },
+      {
+        "claim": "They called for Kumar’s resignation over alleged irregularities in the conduct of the special intensive revision of electoral rolls and concerns about the functioning of the Election Commission",
+        "quote": "They called for Kumar’s resignation over alleged irregularities in the conduct of the special intensive revision of electoral rolls and concerns about the functioning of the Election Commission"
+      },
+      {
+        "claim": "The traders said that Ramlila Maidan was \"surrounded by dense residential localities and wholesale and retail markets of Old Delhi, where thousands of workers, traders and vendors operate\"",
+        "quote": "The traders said that Ramlila Maidan was \"surrounded by dense residential localities and wholesale and retail markets of Old Delhi, where thousands of workers, traders and vendors operate\""
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court case relates to traders' claims of business losses due to protests against the Chief Election Commissioner over alleged irregularities in the Special Intensive Revision of electoral rolls.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

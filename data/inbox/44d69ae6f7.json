@@ -1,0 +1,72 @@
+{
+  "id": "44d69ae6f7",
+  "url": "https://scroll.in/latest/1097231/police-cannot-justify-restraining-journalists-by-calling-it-crowd-control-media-organisation-to-sc",
+  "title": "Police cannot justify restraining journalists by calling it crowd control: Media organisation to SC",
+  "outlet": "Scroll.in",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2713,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Network of Women in Media, India told the Supreme Court that Delhi Police cannot justify removing journalists from protest sites by calling it crowd control, as they placed journalists in police vehicles and restricted movement without detention or arrest.",
+    "facts": [
+      {
+        "claim": "The Network of Women in Media, India told the Supreme Court that the Delhi Police cannot justify removing journalists from protest sites, placing them in police vehicles and restricting their movement by describing the actions as 'crowd control' or 'removal for verification' rather than detention or arrest",
+        "quote": "The Network of Women in Media, India has told the Supreme Court that the Delhi Police cannot justify removing journalists from protest sites, placing them in police vehicles and restricting their movement by describing the actions as “crowd control” or “removal for verification” rather than detention or arrest, Live Law reported on Sunday."
+      },
+      {
+        "claim": "The Delhi Police had told the court last week that its actions were aimed at dispersing protesters and restoring public order, and were not intended to obstruct journalists from doing their work",
+        "quote": "The police had told the court last week that its actions were aimed at dispersing protesters and restoring public order, and were not intended to obstruct journalists from doing their work."
+      },
+      {
+        "claim": "The media organisation submitted that the police cannot 'justify an interference with personal liberty simply by refraining from calling it a detention or arrest'",
+        "quote": "the media organisation submitted that the police cannot “justify an interference with personal liberty simply by refraining from calling it a detention or arrest”, the news agency reported."
+      },
+      {
+        "claim": "The Delhi Police had said in its affidavit that it had not knowingly obstructed journalists",
+        "quote": "The Delhi Police had said in its affidavit that it had not knowingly obstructed journalists."
+      },
+      {
+        "claim": "The Delhi Police maintained that the Supreme Court's October 11 direction to the police not to 'hinder' journalists, lawyers and other professionals from discharging their duties did not extend to 'reel-makers' and social media influencers",
+        "quote": "It also maintained that the Supreme Court's October 11 direction to the police not to “hinder” journalists, lawyers and other professionals from discharging their duties did not extend to “reel-makers” and social media influencers."
+      },
+      {
+        "claim": "The media organisation stated that the right to gather and report news did not depend on accreditation, formal employment with a recognised media organisation or possession of an employer-issued identity card",
+        "quote": "The media organisation stated that the right to gather and report news did not depend on accreditation, formal employment with a recognised media organisation or possession of an employer-issued identity card."
+      },
+      {
+        "claim": "Recording police action at a public protest for publication is newsgathering and dissemination, irrespective of the duration, format or platform employed",
+        "quote": "“Recording police action at a public protest for publication is newsgathering and dissemination, irrespective of the duration, format or platform employed,” Live Law quoted the media organisation as submitting."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Network of Women in Media, India challenged Delhi Police's actions during protests against Chief Election Commissioner Gyanesh Kumar in October, alleging that police removed journalists without proper legal justification and closed sexual harassment complaints without independent inquiry.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

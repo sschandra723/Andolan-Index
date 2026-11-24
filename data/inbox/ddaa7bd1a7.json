@@ -1,0 +1,72 @@
+{
+  "id": "ddaa7bd1a7",
+  "url": "https://www.thehindu.com/news/national/telangana/university-of-hyderabad-students-continue-protest-demand-termination-of-faculty-member-over-alleged-casteist-remarks/article71730706.ece",
+  "title": "University of Hyderabad students continue protest, demand termination of faculty member over alleged casteist remarks",
+  "outlet": "The Hindu",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Jharkhand"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1342,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "ugc-equity-rules-2026",
+    "new_movement": null,
+    "summary": "University of Hyderabad students continue protesting for third day demanding termination of history faculty member Vijaya Ramadas Mandala over alleged casteist remarks in email.",
+    "facts": [
+      {
+        "claim": "Students at the University of Hyderabad, led by the Students’ Union, continued their protest for the third consecutive day, demanding the termination of Vijaya Ramadas Mandala, a faculty member in the Department of History, over his alleged derogatory and casteist remarks in a purported email correspondence.",
+        "quote": "Students at the University of Hyderabad, led by the Students’ Union, continued their protest for the third consecutive day, demanding the termination of Vijaya Ramadas Mandala, a faculty member in the Department of History, over his alleged derogatory and casteist remarks in a purported email correspondence."
+      },
+      {
+        "claim": "The email communication between April 14 and 16, 2026, contains references to former students from the Scheduled Castes community as \"untouchables\", remarks against students from marginalised backgrounds in Bihar and Jharkhand, and Islamophobic comments.",
+        "quote": "The email communication between April 14 and 16, 2026, contains references to former students from the Scheduled Castes community as \"untouchables\", remarks against students from marginalised backgrounds in Bihar and Jharkhand, and Islamophobic comments."
+      },
+      {
+        "claim": "Students said such statements raise questions about the ethical responsibilities of faculty members and the dignity of students within an academic institution.",
+        "quote": "Students said such statements raise questions about the ethical responsibilities of faculty members and the dignity of students within an academic institution."
+      },
+      {
+        "claim": "Allegedly, Mr. Ramadas had also threatened some students associated with progressive student organisations for working against him.",
+        "quote": "Allegedly, Mr. Ramadas had also threatened some students associated with progressive student organisations for working against him."
+      },
+      {
+        "claim": "The SU maintained that the university administration continues to remain silent despite the seriousness of the issue.",
+        "quote": "The SU maintained that the university administration continues to remain silent despite the seriousness of the issue."
+      },
+      {
+        "claim": "Seeking solidarity, its members have written to Member of Parliament V. Sivadasan, historians Romila Thapar, Ramachandra Guha, K. N. Ganesh, Rajan Gurukkal, and Irfan Habib.",
+        "quote": "Seeking solidarity, its members have written to Member of Parliament V. Sivadasan, historians Romila Thapar, Ramachandra Guha, K. N. Ganesh, Rajan Gurukkal, and Irfan Habib."
+      },
+      {
+        "claim": "Taking a firm stand, the students said the protests would continue until the university administration takes clear action and addresses their demands.",
+        "quote": "Taking a firm stand, the students said the protests would continue until the university administration takes clear action and addresses their demands."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students at University of Hyderabad are protesting over alleged casteist remarks by a history faculty member, which they say violate academic ethics and student dignity.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

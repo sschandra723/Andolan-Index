@@ -1,0 +1,50 @@
+{
+  "id": "37c4f396d8",
+  "url": "https://www.greaterkashmir.com/kashmir/abrogation-of-article-370-ended-separatist-sentiments-among-kashmiri-youth-shah-12829156",
+  "title": "Abrogation of Article 370 ended separatist sentiments among Kashmiri youth: Shah",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2745,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Union Home Minister Amit Shah stated that the abrogation of Article 370 in 2019 ended separatist sentiments among Kashmiri youth, with no local Kashmiri youth involved in terrorism after 35 years of violence.",
+    "facts": [
+      {
+        "claim": "the abrogation of Article 370 in 2019 ended separatist sentiments among Kashmiri youth",
+        "quote": "Itanagar, Nov 21: Union Home Minister Amit Shah on Saturday said that the abrogation of Article 370 in 2019 ended separatist sentiments among Kashmiri youth, and not a single local youth in the Valley is now involved in terrorism after 35 years of violence and unrest."
+      },
+      {
+        "claim": "not a single local youth in the Valley is now involved in terrorism",
+        "quote": "After over 35 years of violence, not a single local youth of Kashmir Valley is now involved in terrorism,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The J&K statehood movement has been protesting since 2026 over the Centre's failure to restore J&K's statehood after it was split into two union territories in 2019.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

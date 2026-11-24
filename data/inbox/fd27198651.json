@@ -1,0 +1,74 @@
+{
+  "id": "fd27198651",
+  "url": "https://www.thehindu.com/news/national/assam/cancel-wetland-excavation-project-in-eastern-assam-grazing-grounds-cm-urged/article71715038.ece",
+  "title": "Cancel wetland excavation project in eastern Assam grazing grounds, CM urged",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2356,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Farmers and fishing communities in eastern Assam urged Chief Minister Himanta Biswa Sarma to cancel wetland excavation in historic grazing grounds after a sit-in protest in Guwahati on November 17, 2026.",
+    "facts": [
+      {
+        "claim": "Farmers and fishing community members in eastern Assam’s Teok region have urged Chief Minister Himanta Biswa Sarma to scrap an ongoing “anti-people” project in “historic” grazing grounds and natural wetlands.",
+        "quote": "Farmers and fishing community members in eastern Assam’s Teok region have urged Chief Minister Himanta Biswa Sarma to scrap an ongoing “anti-people” project in “historic” grazing grounds and natural wetlands."
+      },
+      {
+        "claim": "They submitted a memorandum to the Chief Minister after staging a sit-in protest in Guwahati on Tuesday (November 17, 2026) against the project being implemented “in the guise of” a Flood Mitigation by Capacity Augmentation of Wetlands scheme.",
+        "quote": "They submitted a memorandum to the Chief Minister after staging a sit-in protest in Guwahati on Tuesday (November 17, 2026) against the project being implemented “in the guise of” a Flood Mitigation by Capacity Augmentation of Wetlands scheme."
+      },
+      {
+        "claim": "The Teok Ban Niskashan Nala Khanan Dabi Samiti, a collective of villagers around the 7,598 bighas (almost 2,512 acres) under excavation, organised the protest.",
+        "quote": "The Teok Ban Niskashan Nala Khanan Dabi Samiti, a collective of villagers around the 7,598 bighas (almost 2,512 acres) under excavation, organised the protest."
+      },
+      {
+        "claim": "They said the authorities began implementing the project in January without any open public hearings, independent Environmental Impact Assessment (EIA), Social Impact Assessment (SIA) or public consent.",
+        "quote": "They said the authorities began implementing the project in January without any open public hearings, independent Environmental Impact Assessment (EIA), Social Impact Assessment (SIA) or public consent."
+      },
+      {
+        "claim": "Located in Jorhat district, Teok is about 330 km east of Guwahati.",
+        "quote": "Located in Jorhat district, Teok is about 330 km east of Guwahati."
+      },
+      {
+        "claim": "The Hindu had reported on the first resistance in February-March after police served a notice to Debanga Sourav Gogoi, the Samiti’s advisor, for allegedly instigating villagers against the project involving the grazing grounds and the Jelengitup-Ghorachowa, Kenduguri, Garchiga and Kawaimari wetlands.",
+        "quote": "The Hindu had reported on the first resistance in February-March after police served a notice to Debanga Sourav Gogoi, the Samiti’s advisor, for allegedly instigating villagers against the project involving the grazing grounds and the Jelengitup-Ghorachowa, Kenduguri, Garchiga and Kawaimari wetlands."
+      },
+      {
+        "claim": "Mr. Gogoi said representatives from various progressive organisations, farmer organisations, political parties, students’ unions and civil society participated in Tuesday’s protest to express solidarity with the Samiti.",
+        "quote": "Mr. Gogoi said representatives from various progressive organisations, farmer organisations, political parties, students’ unions and civil society participated in Tuesday’s protest to express solidarity with the Samiti."
+      },
+      {
+        "claim": "The organisation wants the government to stop the excavation work; conduct a transparent and open public hearing in each project area involving independent environmental experts, public representatives, agriculturists, livestock farmers, fishermen and other affected citizens; and ensure legal protection of ancestral rights over the grazing grounds and traditional fishing rights in the targeted wetlands.",
+        "quote": "The organisation wants the government to stop the excavation work; conduct a transparent and open public hearing in each project area involving independent environmental experts, public representatives, agriculturists, livestock farmers, fishermen and other affected citizens; and ensure legal protection of ancestral rights over the grazing grounds and traditional fishing rights in the targeted wetlands."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers and fishing communities in eastern Assam have protested against wetland excavation in historic grazing grounds, demanding an end to the project and legal protection of ancestral rights.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

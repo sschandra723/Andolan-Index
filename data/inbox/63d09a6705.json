@@ -1,0 +1,47 @@
+{
+  "id": "63d09a6705",
+  "url": "https://www.greaterkashmir.com/videos/stand-with-protesting-pg-doctors-address-their-stipend-concerns-iltija-mufti-12834236",
+  "title": "Stand with protesting PG doctors, address their stipend concerns: Iltija Mufti",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Iltija Mufti called for support for protesting PG doctors addressing their stipend concerns.",
+    "facts": [
+      {
+        "claim": "Iltija Mufti called for support for protesting PG doctors addressing their stipend concerns",
+        "quote": "Stand with protesting PG doctors, address their stipend concerns: Iltija Mufti"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

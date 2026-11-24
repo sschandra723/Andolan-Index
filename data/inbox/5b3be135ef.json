@@ -1,0 +1,54 @@
+{
+  "id": "5b3be135ef",
+  "url": "https://theprint.in/politics/karnataka-govt-confiscating-book-on-basavanna-as-author-ravi-hanjs-remarks-spark-public-outrage/3104926/",
+  "title": "Author Ravi Hanj arrested as Karnataka cracks down on book that ‘distorts’ Basavanna’s teachings",
+  "outlet": "ThePrint",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka's Congress government arrested Kannada author Ravi Hanj for allegedly distorting Basavanna's teachings in his book 'Basava Mantapa', which sparked protests and accusations of disrespecting the 12th-century reformer.",
+    "facts": [
+      {
+        "claim": "Karnataka's Congress government arrested Kannada author Ravi Hanj",
+        "quote": "On Saturday, Hanj was detained at Kochi International Airport while trying to leave the country."
+      },
+      {
+        "claim": "allegedly distorting Basavanna's teachings in his book 'Basava Mantapa'",
+        "quote": "These are some of the statements and writings in Chicago-based Ravi Hanj’s 600-page book, Basava Mantapa, that have sparked intense uproar in various quarters, drawing scrutiny and criticism for allegedly distorting the reformer’s works and teachings."
+      },
+      {
+        "claim": "sparked protests and accusations of disrespecting the 12th-century reformer",
+        "quote": "The government will not remain silent if the honour of our Basavanna is violated. However, it is condemnable that an author named Ravi Hanj has written a controversial book titled ‘Basava Mantapa’ and has insulted Basavanna in a very derogatory manner."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka's Congress government arrested Kannada author Ravi Hanj for allegedly distorting Basavanna's teachings in his book 'Basava Mantapa', which sparked protests and accusations of disrespecting the 12th-century reformer.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

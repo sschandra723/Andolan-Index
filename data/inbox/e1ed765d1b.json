@@ -1,0 +1,58 @@
+{
+  "id": "e1ed765d1b",
+  "url": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
+  "title": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
+  "outlet": "The Guardian",
+  "published": "2026-11-22",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3403,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Indian Youth Congress warned of more protests against Meta after police clashes in Hyderabad, demanding restoration of its leaders' Instagram accounts which were temporarily taken down.",
+    "facts": [
+      {
+        "claim": "The Indian Youth Congress warned of more protests against Meta after police clashes in Hyderabad",
+        "quote": "The youth wing of India’s main opposition Congress party warned of more protests against Meta’s removal of some of its members’ accounts, a day after clashing with police outside the tech firm’s locals offices."
+      },
+      {
+        "claim": "The Indian Youth Congress demanded restoration of its leaders' Instagram accounts",
+        "quote": "The Indian Youth Congress on Saturday posted warnings on X that it would “storm your offices across the country and stage protests” unless the Instagram accounts of its leaders were restored."
+      },
+      {
+        "claim": "Two Meta accounts were restored after protests",
+        "quote": "Two such accounts were restored after Friday’s protests"
+      },
+      {
+        "claim": "Thousands of accounts of journalists, creators and influencers critical of the government remain restricted",
+        "quote": "thousands of accounts of journalists, creators and influencers critical of the government remain restricted"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Indian Youth Congress is demanding the restoration of its leaders' Instagram accounts after Meta removed them, following protests in Hyderabad where clashes with police occurred.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

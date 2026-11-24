@@ -1,0 +1,65 @@
+{
+  "id": "4757536a86",
+  "url": "https://www.newindianexpress.com/india/2026/Nov/21/nwmi-questions-delhi-polices-handling-of-women-journalists-harassment-complaints-during-anti-sir-protests",
+  "title": "NWMI questions Delhi Police’s handling of women journalists’ harassment complaints during anti-SIR protests",
+  "outlet": "The New Indian Express",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "anti-SIR protests",
+    "=SIR"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3793,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "NWMI filed a Supreme Court rejoinder challenging Delhi Police's handling of women journalists' harassment complaints during anti-SIR protests, arguing police figures and actions failed to address allegations of misconduct and lacked legal basis for detentions.",
+    "facts": [
+      {
+        "claim": "The police had said 3,747 women personnel were deployed during the day and 664 at night",
+        "quote": "The police had said 3,747 women personnel were deployed during the day and 664 at night"
+      },
+      {
+        "claim": "NWMI said these figures did not identify the personnel who handled women journalists",
+        "quote": "NWMI said these figures did not identify the personnel who handled women journalists"
+      },
+      {
+        "claim": "On sexual harassment complaints closed by the Crime Branch, NWMI said the closure \"reinforces the very concern underlying the prayer for an inquiry independent of the police force whose personnel are complained against\"",
+        "quote": "On sexual harassment complaints closed by the Crime Branch, NWMI said the closure \"reinforces the very concern underlying the prayer for an inquiry independent of the police force whose personnel are complained against\""
+      },
+      {
+        "claim": "NWMI questioned how the same police force accused of harassment could be allowed to investigate and close complaints against its own personnel",
+        "quote": "NWMI questioned how the same police force accused of harassment could be allowed to investigate and close complaints against its own personnel"
+      },
+      {
+        "claim": "The police affidavit failed to identify the specific directions issued in each case, the rank of the officer who issued them, what the journalist allegedly did to disobey those directions, or why removal was necessary instead of adopting a less restrictive measure",
+        "quote": "The police affidavit failed to identify the specific directions issued in each case, the rank of the officer who issued them, what the journalist allegedly did to disobey those directions, or why removal was necessary instead of adopting a less restrictive measure"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "NWMI challenged Delhi Police's handling of harassment complaints against women journalists during anti-SIR protests, arguing police actions lacked legal basis and failed to address misconduct allegations.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

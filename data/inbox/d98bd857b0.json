@@ -1,0 +1,70 @@
+{
+  "id": "d98bd857b0",
+  "url": "https://www.greaterkashmir.com/jammu-kashmir/guilty-will-not-be-spared-jk-official-on-exam-irregularity-row-12831526",
+  "title": "Guilty will not be spared: J&K official on exam irregularity row",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1591,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Jammu and Kashmir chief minister's advisor Nasir Aslam Wani stated that the government has taken cognisance of alleged irregularities in JKSSB recruitment exams and will bring guilty parties to book, emphasizing transparency and children's future.",
+    "facts": [
+      {
+        "claim": "The government has taken cognisance of alleged irregularities in the recruitment exam conducted by the Jammu and Kashmir Services Selection Board (JKSSB)",
+        "quote": "Srinagar, Nov 22: The government has taken cognisance of alleged irregularities in the recruitment exam conducted by the Jammu and Kashmir Services Selection Board (JKSSB), and the guilty will be brought to book, an official said on Sunday."
+      },
+      {
+        "claim": "Jammu and Kashmir chief minister's advisor Nasir Aslam Wani said the guilty will be brought to book",
+        "quote": "God forbid, no one will be allowed to tamper with the future of our children,\" Jammu and Kashmir chief minister's advisor Nasir Aslam Wani said."
+      },
+      {
+        "claim": "Job aspirants have alleged irregularities in the Finance Accounts Assistant (FAA) recruitment examination conducted by the JKSSB",
+        "quote": "Job aspirants have alleged irregularities in the Finance Accounts Assistant (FAA) recruitment examination conducted by the JKSSB."
+      },
+      {
+        "claim": "On Saturday, former Lok Sabha MP Ruhullah Mehdi joined their protest",
+        "quote": "On Saturday, former Lok Sabha MP Ruhullah Mehdi joined their protest."
+      },
+      {
+        "claim": "Wani asserted that exams will be conducted transparently and children's confidence restored",
+        "quote": "Rest assured that we won't allow any such wrongdoing at all. These exams will be conducted in a completely transparent manner, and the children's confidence in them will be fully restored,\" Wani asserted."
+      },
+      {
+        "claim": "Wani said strict action will be taken against guilty for supplying fake medicines and selling adulterated food",
+        "quote": "Asked about the seizure of rotten meat from a train bogey, the advisor said the strictest possible action will be taken against the guilty."
+      },
+      {
+        "claim": "Wani stated that statehood should be restored to address separatist sentiment claims",
+        "quote": "When Wani was asked about Union Home Minister Amit Shah's oft-repeated claims that after the abrogation of Article 370, the separatist sentiment in Kashmir has ended and there is zero youth involvement in militancy, he said, \"This is precisely why we say… statehood should be restored.\""
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The J&K statehood movement has been protesting the Centre's failure to restore statehood since 2019, following the split of J&K into two union territories. This protest involves allegations of exam irregularities and demands for statehood restoration.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

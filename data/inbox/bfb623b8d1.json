@@ -1,0 +1,62 @@
+{
+  "id": "bfb623b8d1",
+  "url": "https://kashmirobserver.net/2026/11/19/more-gmcs-join-resident-doctors-stipend-protest/",
+  "title": "More GMCs Join Resident Doctors’ Stipend Protest",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-19",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4562,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Resident doctors at four Government Medical Colleges in Jammu and Kashmir joined a protest demanding higher stipends and parity with doctors in other states and union territories, with plans to suspend outpatient services if demands are not met by November 22.",
+    "facts": [
+      {
+        "claim": "Resident doctors at Government Medical Colleges (GMCs) Jammu, Doda, Rajouri and Kathua joined the protest",
+        "quote": "Srinagar- The ongoing agitation by postgraduate (PG) and Senior Resident doctors demanding enhancement of stipends and parity with their counterparts in other States and Union Territories widened on Wednesday, with resident doctors at Government Medical Colleges (GMCs) Jammu, Doda, Rajouri and Kathua joining the protest."
+      },
+      {
+        "claim": "The protest involves wearing black bands and holding peaceful demonstrations from November 19 to 22",
+        "quote": "As part of the agitation, resident doctors will wear black bands and hold peaceful demonstrations from November 19 to 22."
+      },
+      {
+        "claim": "AIMSA has raised demands for immediate enhancement of stipends and parity for PG, Senior Resident, DNB and MDS doctors with counterparts in other states and union territories",
+        "quote": "AIMSA has primarily raised two major demands, including an immediate enhancement of stipends and parity for PG, Senior Resident, DNB and MDS doctors with their counterparts in other States and Union Territories."
+      },
+      {
+        "claim": "PG doctors in Jammu and Kashmir receive Rs 64,000 per month during the first year and Rs 67,000 in subsequent years",
+        "quote": "According to AIMSA, PG doctors in Jammu and Kashmir currently receive Rs 64,000 per month during the first year and Rs 67,000 in subsequent years."
+      },
+      {
+        "claim": "The protest may expand to include resident doctors at GMC Srinagar",
+        "quote": "The agitation is likely to expand further, as resident doctors at GMC Srinagar may also join the protest from November 20."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Resident doctors in Jammu and Kashmir are protesting for higher stipends and parity with doctors in other states and union territories, with potential escalation to suspension of outpatient services if demands are not met by November 22.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "4f7ee17c80",
+  "url": "https://www.greaterkashmir.com/national/kashmir-youth-abandoned-separatist-sentiment-amit-shah-12830483",
+  "title": "Kashmir youth abandoned separatist sentiment: Amit Shah",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2730,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Union Home Minister Amit Shah stated that after the 2019 abrogation of Article 370, no Kashmiri youth are involved in terrorism, ending 35 years of violence and separatist sentiment in the Kashmir Valley.",
+    "facts": [
+      {
+        "claim": "after the 2019 abrogation of Article 370, no Kashmiri youth are involved in terrorism",
+        "quote": "After over 35 years of violence, not a single local youth of Kashmir Valley is now involved in terrorism,"
+      },
+      {
+        "claim": "the abrogation of Article 370 ended separatist sentiments among Kashmiri youth",
+        "quote": "the abrogation of Article 370 has brought an end to the sense of separatism among the youth of Kashmir"
+      },
+      {
+        "claim": "the change in Kashmir was brought about not merely by eliminating terrorists but also by ending the atmosphere of discrimination and alienation among the youth of Kashmir",
+        "quote": "the change in Kashmir was brought about not merely by eliminating terrorists but also by ending the atmosphere of discrimination and alienation among the youth of Kashmir"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The J&K statehood movement has been protesting since 2026 over the Centre's failure to restore J&K's statehood after it was split into two union territories in 2019.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

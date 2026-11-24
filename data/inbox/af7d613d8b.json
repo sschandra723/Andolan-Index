@@ -1,0 +1,74 @@
+{
+  "id": "af7d613d8b",
+  "url": "https://nenow.in/north-east-news/assam/assam-attsa-stages-sit-in-demanding-land-rights-st-status-wage-hike-in-tinsukia.html",
+  "title": "Assam: ATTSA stages sit-in demanding land rights, ST status, wage hike in Tinsukia",
+  "outlet": "Northeast Now",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2068,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Assam Tea Tribes Students’ Association (ATTSA) staged a sit-in in Tinsukia demanding land rights, ST status, and wage hikes for tea garden workers.",
+    "facts": [
+      {
+        "claim": "Hundreds of people, including a large number of women, took part in a three-hour sit-in demonstration in front of the Deputy Commissioner’s office on Wednesday",
+        "quote": "Hundreds of people, including a large number of women, took part in a three-hour sit-in demonstration in front of the Deputy Commissioner’s office on Wednesday"
+      },
+      {
+        "claim": "The demonstration, supported by ATTSA representatives and members from Doomdooma, Talap, Makum, Digboi and Margherita",
+        "quote": "The demonstration, supported by ATTSA representatives and members from Doomdooma, Talap, Makum, Digboi and Margherita"
+      },
+      {
+        "claim": "Senior ATTSA leader Irot Tanti said, 'The tea tribes community has been demanding Scheduled Tribe status for decades. Our people have contributed immensely to Assam’s tea industry, yet their long-standing constitutional and social rights remain unfulfilled. We want the government to act now.'",
+        "quote": "Senior ATTSA leader Irot Tanti said, \"The tea tribes community has been demanding Scheduled Tribe status for decades. Our people have contributed immensely to Assam’s tea industry, yet their long-standing constitutional and social rights remain unfulfilled. We want the government to act now.\""
+      },
+      {
+        "claim": "The association reiterated its three principal demands: legal ownership of residential land for eligible tea community families, constitutional recognition through ST status and a meaningful increase in the daily wages of tea garden workers.",
+        "quote": "The association reiterated its three principal demands: legal ownership of residential land for eligible tea community families, constitutional recognition through ST status and a meaningful increase in the daily wages of tea garden workers."
+      },
+      {
+        "claim": "Tanti also stressed the importance of land security and fair remuneration, saying, 'Tea workers deserve legal ownership of the land on which they and their families have lived for generations. Their daily wages must also be revised in accordance with the Minimum Wages Act, 1948. These are not unreasonable demands; they are basic rights.'",
+        "quote": "Tanti also stressed the importance of land security and fair remuneration, saying, \"Tea workers deserve legal ownership of the land on which they and their families have lived for generations. Their daily wages must also be revised in accordance with the Minimum Wages Act, 1948. These are not unreasonable demands; they are basic rights.\""
+      },
+      {
+        "claim": "Following the demonstration, an ATTSA delegation submitted a memorandum to the concerned official, seeking government intervention on the demands.",
+        "quote": "Following the demonstration, an ATTSA delegation submitted a memorandum to the concerned official, seeking government intervention on the demands."
+      },
+      {
+        "claim": "The official assured the delegation that the memorandum would be forwarded to the Chief Minister through the Deputy Commissioner.",
+        "quote": "The official assured the delegation that the memorandum would be forwarded to the Chief Minister through the Deputy Commissioner."
+      },
+      {
+        "claim": "The demonstration brought together participants from Doomdooma, Makum, Talap, Digboi and Margherita in Tinsukia district, reinforcing ATTSA’s demand for government action on land ownership, constitutional recognition and economic justice for the tea community.",
+        "quote": "The demonstration brought together participants from Doomdooma, Makum, Talap, Digboi and Margherita in Tinsukia district, reinforcing ATTSA’s demand for government action on land ownership, constitutional recognition and economic justice for the tea community."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "ATTSA is a student association focused on land rights, ST status, and wage improvements for tea garden workers in Assam.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

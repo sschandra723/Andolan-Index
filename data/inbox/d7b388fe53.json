@@ -1,0 +1,75 @@
+{
+  "id": "d7b388fe53",
+  "url": "https://www.tribuneindia.com/news/haryana/bku-tikait-to-begin-indefinite-dharna-outside-haryana-agriculture-ministers-house-over-sugarcane-price/",
+  "title": "BKU (Tikait) to begin indefinite dharna outside Haryana Agriculture Minister’s house over sugarcane price",
+  "outlet": "The Tribune",
+  "published": "2026-11-19",
+  "collected": "2026-11-20",
+  "suggested_movement": "farmers-india-us-trade-2026",
+  "score": 2.0,
+  "matched": [
+    "Bharatiya Kisan Union",
+    "farmers"
+  ],
+  "alternatives": [
+    "karnataka-sugarcane-2025"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1886,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Bharatiya Kisan Union (Tikait) plans indefinite sit-in outside Haryana Agriculture Minister's residence demanding higher sugarcane prices, starting November 21.",
+    "facts": [
+      {
+        "claim": "Bharatiya Kisan Union (Tikait) has taken a decision to start a permanent dharna (sit-in) in front of the residence of Haryana Agriculture and Farmers Welfare Minister Shyam Singh Rana in Radaur town of Yamunanagar district.",
+        "quote": "The Bharatiya Kisan Union (Tikait) has taken a decision to start a permanent dharna (sit-in) in front of the residence of Haryana Agriculture and Farmers Welfare Minister Shyam Singh Rana in Radaur town of Yamunanagar district."
+      },
+      {
+        "claim": "The dharna would start from November 21 and would continue until sugarcane prices were increased by the government.",
+        "quote": "The dharna would start from November 21 and would continue until sugarcane prices were increased by the government."
+      },
+      {
+        "claim": "From November 21, a permanent day-and-night dharna will begin at the residence of Haryana Agriculture Minister Shyam Singh Rana after erecting a tent, demanding an increase in sugarcane prices",
+        "quote": "From November 21, a permanent day-and-night dharna will begin at the residence of Haryana Agriculture Minister Shyam Singh Rana after erecting a tent, demanding an increase in sugarcane prices"
+      },
+      {
+        "claim": "The United Kisan Morcha was continuously protesting at sugar mills in every district across the state demanding an increase in sugarcane prices.",
+        "quote": "The United Kisan Morcha was continuously protesting at sugar mills in every district across the state demanding an increase in sugarcane prices."
+      },
+      {
+        "claim": "A large number of farmers from across the state led by senior farmer leaders Ratan Mann, Suresh Kauth, and other leaders of the United Kisan Morcha will gherao the Chief Minister’s residence in Kurukshetra on December 2",
+        "quote": "A large number of farmers from across the state led by senior farmer leaders Ratan Mann, Suresh Kauth, and other leaders of the United Kisan Morcha will gherao the Chief Minister’s residence in Kurukshetra on December 2"
+      },
+      {
+        "claim": "The government wanted farmers not to receive timely fertilisers and seeds, forcing them to sell their land and work as labourers for corporate houses, but this would not be allowed to happen.",
+        "quote": "The government wanted farmers not to receive timely fertilisers and seeds, forcing them to sell their land and work as labourers for corporate houses, but this would not be allowed to happen."
+      },
+      {
+        "claim": "By increasing the rate of sugarcane by only 15 paise per kg, a cruel joke has been played on the farmers",
+        "quote": "By increasing the rate of sugarcane by only 15 paise per kg, a cruel joke has been played on the farmers"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Bharatiya Kisan Union (Tikait) is a farmer group in Haryana that has been protesting over sugarcane prices, following a state government decision to increase prices by 15 paise per kg.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "e7fa72a328",
+  "url": "https://kashmirobserver.net/2026/11/21/pg-doctors-senior-residents-intensify-stir-over-stipend-enhancement-in-jk/",
+  "title": "PG Doctors, Senior Residents Intensify Stir Over Stipend Enhancement In J&K",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2540,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Postgraduate and senior resident doctors in Jammu and Kashmir intensified protests demanding stipend increases to match other states and Union Territories, and implementation of maternity leave benefits as per High Court orders.",
+    "facts": [
+      {
+        "claim": "protest by postgraduate and senior resident doctors over stipend enhancement and maternity leave benefits intensified across Jammu and Kashmir",
+        "quote": "Srinagar- The protest by postgraduate and senior resident doctors over stipend enhancement and maternity leave benefits intensified across Jammu and Kashmir on Saturday, with demonstrations entering their second day at Government Medical College (GMC) Srinagar and third day at GMC Jammu."
+      },
+      {
+        "claim": "demanding an enhancement of stipends to bring them at par with those in other states and Union Territories, besides implementation of maternity leave benefits in accordance with applicable High Court directions",
+        "quote": "The protesting doctors are demanding an enhancement of stipends to bring them at par with those in other states and Union Territories, besides implementation of maternity leave benefits in accordance with applicable High Court directions."
+      },
+      {
+        "claim": "participation and solidarity from representatives of the All India Medical Students Association (AIMSA)",
+        "quote": "The agitation has also seen participation and solidarity from representatives of the All India Medical Students Association (AIMSA), with its office-bearers and postgraduate residents joining the protests at both medical colleges."
+      },
+      {
+        "claim": "doctors from district hospitals across Jammu and Kashmir would join the protest from November 23",
+        "quote": "Dr Yamin, a postgraduate resident at District Hospital Pulwama, announced that doctors from district hospitals across Jammu and Kashmir would join the protest from November 23."
+      },
+      {
+        "claim": "AIMSA has appealed to the Jammu and Kashmir Government, the Health and Medical Education Department and Lieutenant Governor Manoj Sinha to intervene and initiate meaningful dialogue",
+        "quote": "AIMSA has appealed to the Jammu and Kashmir Government, the Health and Medical Education Department and Lieutenant Governor Manoj Sinha to intervene and initiate meaningful dialogue with the protesting doctors to resolve their demands within a defined timeframe."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Doctors in Jammu and Kashmir are protesting for stipend increases and maternity leave benefits, with support from medical students' associations and plans to expand the protest to district hospitals.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

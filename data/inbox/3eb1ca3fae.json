@@ -1,0 +1,58 @@
+{
+  "id": "3eb1ca3fae",
+  "url": "https://www.thehindu.com/news/cities/chennai/fisherfolk-from-kasimedu-harbour-go-on-indefinite-strike/article71721418.ece",
+  "title": "Fisherfolk from Kasimedu harbour go on indefinite strike",
+  "outlet": "The Hindu",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Chennai"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1983,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "tn-fishermen-arrests-2025",
+    "new_movement": null,
+    "summary": "Fisherfolk from Kasimedu have gone on an indefinite strike demanding Tamil Nadu government bring back eight boats seized by Andhra Pradesh and increase solatium for Cyclone Murasu victims.",
+    "facts": [
+      {
+        "claim": "Fisherfolk from Kasimedu have gone on an indefinite strike",
+        "quote": "Fisherfolk from Kasimedu have gone on an indefinite strike demanding that the Tamil Nadu government take steps to bring back eight boats that have been seized by the Andhra Pradesh government."
+      },
+      {
+        "claim": "demanding that the Tamil Nadu government take steps to bring back eight boats that have been seized by the Andhra Pradesh government",
+        "quote": "demanding that the Tamil Nadu government take steps to bring back eight boats that have been seized by the Andhra Pradesh government"
+      },
+      {
+        "claim": "increase solatium for Cyclone Murasu victims",
+        "quote": "increase the amount of solatium paid to the kin of fishermen who died in Cyclone Murasu and to the owner of the boat that sank on that fateful day"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Fisherfolk from Kasimedu have gone on an indefinite strike demanding Tamil Nadu government bring back eight boats seized by Andhra Pradesh and increase solatium for Cyclone Murasu victims.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “increase the amount of solatium paid to the kin of fishermen who died in Cyclone”"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

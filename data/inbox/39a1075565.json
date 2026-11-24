@@ -1,0 +1,53 @@
+{
+  "id": "39a1075565",
+  "url": "https://www.ndtv.com/india-news/amid-freezing-cold-ladakh-votes-in-panchayat-municipal-polls-12358447",
+  "title": "Amid Freezing Cold, Ladakh Votes In Panchayat, Municipal Polls",
+  "outlet": "NDTV",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": "ladakh-statehood",
+  "score": 5.0,
+  "matched": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Kargil Democratic Alliance",
+    "Leh",
+    "Kargil"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "ladakh-statehood",
+    "new_movement": null,
+    "summary": "Ladakh residents voted in panchayat and municipal polls amid freezing temperatures, as the statehood movement continues.",
+    "facts": [
+      {
+        "claim": "Ladakh residents voted in panchayat and municipal polls",
+        "quote": "Amid Freezing Cold, Ladakh Votes In Panchayat, Municipal Polls"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh, a union territory without a legislature since 2019, wants the same constitutional status as tribal areas in four north-eastern states under the Sixth Schedule.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

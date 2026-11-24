@@ -1,0 +1,73 @@
+{
+  "id": "1df7a7f5cd",
+  "url": "https://nenow.in/north-east-news/manipur/manipur-tribal-bodies-set-nov-21-deadline-for-pending-st-scholarships-threaten-agitation.html",
+  "title": "Manipur: Tribal bodies set Nov 21 deadline for pending ST scholarships, threaten agitation",
+  "outlet": "Northeast Now",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": "manipur-protests-2026",
+  "score": 2.0,
+  "matched": [
+    "Manipur",
+    "Imphal"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1200,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "Two tribal organisations in Manipur set a November 21 deadline for the government to release pending ST student scholarships for the 2025-26 academic year, threatening intensified peaceful agitation from November 23 if the deadline is not met.",
+    "facts": [
+      {
+        "claim": "Two tribal bodies have set a November 21 deadline for the Manipur government to release pending Scheduled Tribe student scholarships for the 2025–26 academic year, warning of intensified peaceful agitation from November 23 if the deadline is not met.",
+        "quote": "Two tribal bodies have set a November 21 deadline for the Manipur government to release pending Scheduled Tribe student scholarships for the 2025–26 academic year, warning of intensified peaceful agitation from November 23 if the deadline is not met."
+      },
+      {
+        "claim": "The Tribal Youth Council of Manipur and the All Colleges Tribal Students’ Union, Imphal, submitted the joint ultimatum on November 17 to Deputy Chief Minister Nemchand Kipgen, who oversees Tribal Affairs and Hills and serves as the department’s additional chief secretary.",
+        "quote": "The Tribal Youth Council of Manipur and the All Colleges Tribal Students’ Union, Imphal, submitted the joint ultimatum on November 17 to Deputy Chief Minister Nemchand Kipgen, who oversees Tribal Affairs and Hills and serves as the department’s additional chief secretary."
+      },
+      {
+        "claim": "The groups cited departmental inaction despite repeated appeals for the funds.",
+        "quote": "The groups cited departmental inaction despite repeated appeals for the funds."
+      },
+      {
+        "claim": "In a joint statement, the organisations said the prolonged delay had strained ST students financially and affected their ability to meet academic expenses.",
+        "quote": "In a joint statement, the organisations said the prolonged delay had strained ST students financially and affected their ability to meet academic expenses."
+      },
+      {
+        "claim": "They also questioned the government’s commitment to strengthening education while failing to disburse scholarships to eligible students on time.",
+        "quote": "They also questioned the government’s commitment to strengthening education while failing to disburse scholarships to eligible students on time."
+      },
+      {
+        "claim": "ACTSUI had earlier submitted a representation to the director of Tribal Affairs and Hills on September 17, 2026, seeking the early release of the funds.",
+        "quote": "ACTSUI had earlier submitted a representation to the director of Tribal Affairs and Hills on September 17, 2026, seeking the early release of the funds."
+      },
+      {
+        "claim": "Union representatives also met the director and departmental staff multiple times, but the groups said those efforts yielded no action.",
+        "quote": "Union representatives also met the director and departmental staff multiple times, but the groups said those efforts yielded no action."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Tribal student scholarships for the 2025-26 academic year remain pending in Manipur, with two tribal organisations setting a November 21 deadline for release to avoid further agitation.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "2 outlets in the last 48 hours; coverage up from 1 to 7 reports this week."
+  }
+}

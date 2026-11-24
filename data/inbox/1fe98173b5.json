@@ -1,0 +1,47 @@
+{
+  "id": "1fe98173b5",
+  "url": "https://www.ndtv.com/india-news/4-5-years-no-answers-aap-mlas-car-blocked-by-angry-villagers-in-moga-majithia-takes-a-swipe-12367959",
+  "title": "\"4.5 Years, No Answers\": AAP MLA's Car Blocked By Villagers In Moga, Akali Dal Takes Swipe",
+  "outlet": "NDTV",
+  "published": "2026-11-23",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Villagers blocked an AAP MLA's car in Moga, prompting Akali Dal to take a swipe at the incident.",
+    "facts": [
+      {
+        "claim": "Villagers blocked an AAP MLA's car in Moga",
+        "quote": "4.5 Years, No Answers: AAP MLA's Car Blocked By Villagers In Moga, Akali Dal Takes Swipe"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

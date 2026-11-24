@@ -1,0 +1,70 @@
+{
+  "id": "5956f5818b",
+  "url": "https://www.thehindu.com/news/national/karnataka/gondenur-villagers-in-yadgir-stage-empty-pot-protest-demanding-drinking-water/article71715741.ece",
+  "title": "Gondenur villagers in Yadgir stage empty pot protest demanding drinking water",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1447,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Residents of Gondenur village staged a protest with empty pots demanding immediate drinking water supply and repairs to defunct water pumps, along with safety measures for wells and addressing illegal sand mining along the Krishna river.",
+    "facts": [
+      {
+        "claim": "Residents of Gondenur village in Wadagera taluk under the Yadgir Assembly constituency staged a protest with empty pots on Tuesday (November 17, 2026), demanding immediate supply of drinking water and other basic civic amenities.",
+        "quote": "Residents of Gondenur village in Wadagera taluk under the Yadgir Assembly constituency staged a protest with empty pots on Tuesday (November 17, 2026), demanding immediate supply of drinking water and other basic civic amenities."
+      },
+      {
+        "claim": "The agitators urged the authorities to make urgent drinking water arrangements to ensure that the general public and schoolchildren are not inconvenienced, and demanded the immediate repair of defunct water pumpsets in the village.",
+        "quote": "The agitators urged the authorities to make urgent drinking water arrangements to ensure that the general public and schoolchildren are not inconvenienced, and demanded the immediate repair of defunct water pumpsets in the village."
+      },
+      {
+        "claim": "They also demanded for the construction of protective walls or wire fencing around open wells to ensure public safety.",
+        "quote": "They also demanded for the construction of protective walls or wire fencing around open wells to ensure public safety."
+      },
+      {
+        "claim": "Pointing out that live electric wires are hanging dangerously at several spots in the village, the protesters demanded that Gulbarga Electricity Supply Company (GESCOM) officials replace them immediately and initiate safety measures.",
+        "quote": "Pointing out that live electric wires are hanging dangerously at several spots in the village, the protesters demanded that Gulbarga Electricity Supply Company (GESCOM) officials replace them immediately and initiate safety measures."
+      },
+      {
+        "claim": "During the agitation, the villagers also expressed outrage over rampant illegal sand mining and transportation along the Krishna river bank. They demanded an immediate crackdown on the illegal sand extraction to protect the environment and prevent the depletion of groundwater levels.",
+        "quote": "During the agitation, the villagers also expressed outrage over rampant illegal sand mining and transportation along the Krishna river bank. They demanded an immediate crackdown on the illegal sand extraction to protect the environment and prevent the depletion of groundwater levels."
+      },
+      {
+        "claim": "Following the protest, the residents submitted a memorandum addressed to the Governor and the Chief Minister through taluk panchayat officials, seeking the fulfilment of their demands.",
+        "quote": "Following the protest, the residents submitted a memorandum addressed to the Governor and the Chief Minister through taluk panchayat officials, seeking the fulfilment of their demands."
+      },
+      {
+        "claim": "Social activist Umesh Mudnal, along with hundreds of women and men from the village, participated in the demonstration.",
+        "quote": "Social activist Umesh Mudnal, along with hundreds of women and men from the village, participated in the demonstration."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Villagers in Gondenur village staged a pot protest demanding drinking water and infrastructure repairs, highlighting issues with water supply, electrical safety, and illegal sand mining in the Krishna river basin.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

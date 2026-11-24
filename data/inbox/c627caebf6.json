@@ -1,0 +1,47 @@
+{
+  "id": "c627caebf6",
+  "url": "https://www.moneycontrol.com/news/india/bjp-ka-beta-youth-congress-warns-meta-of-nationwide-protests-over-instagram-account-restrictions-14085955.html",
+  "title": "'BJP ka Beta': Youth Congress warns Meta of nationwide protests over Instagram account restrictions",
+  "outlet": "Moneycontrol",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Youth Congress warns Meta that nationwide protests could occur if Instagram account restrictions are not lifted.",
+    "facts": [
+      {
+        "claim": "Youth Congress warns Meta",
+        "quote": "BJP ka Beta"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

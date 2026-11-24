@@ -1,0 +1,70 @@
+{
+  "id": "abef2424c7",
+  "url": "https://www.thehindu.com/news/national/amid-cold-wave-students-indefinite-strike-against-jk-recruitment-board-scam-gathers-steam/article71729167.ece",
+  "title": "Amid cold wave, students’ indefinite strike against J&K recruitment board scam gathers steam",
+  "outlet": "The Hindu",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4467,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Students and former MP Aga Syed Ruhullah joined an indefinite strike in Srinagar protesting J&K Service Selection Board (JKSSB) recruitment scam, demanding a fair probe into alleged Finance Accounts Assistant rigging after 16 arrests.",
+    "facts": [
+      {
+        "claim": "Protesting government job aspirants launched an indefinite strike in Srinagar amid a cold wave over the government’s failure to act against the J&K Service Selection Board (JKSSB), the main recruitment agency of J&K that has become mired in a cheating scam that has led to 16 arrests so far.",
+        "quote": "Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave over the government’s failure to act against the J&K Service Selection Board (JKSSB), the main recruitment agency of J&K that has become mired in a cheating scam that has led to 16 arrests so far."
+      },
+      {
+        "claim": "The peaceful sit-in was forcibly broken up by police on Saturday night (November 21), said the protesters. \"Students and Aga sahib were removed from the site against their will. The demand stands: a fair probe into the alleged FAA [Finance Accounts Assistant] rigging. This fight isn’t over,\" said one protester.",
+        "quote": "The peaceful sit-in was forcibly broken up by police on Saturday night (November 21), said the protesters. \"Students and Aga sahib were removed from the site against their will. The demand stands: a fair probe into the alleged FAA [Finance Accounts Assistant] rigging. This fight isn’t over,\" said one protester."
+      },
+      {
+        "claim": "On November 15, the J&K Police busted four \"cheating modules\" in Jammu during the Board’s examination for the FAA posts.",
+        "quote": "On November 15, the J&K Police busted four \"cheating modules\" in Jammu during the Board’s examination for the FAA posts."
+      },
+      {
+        "claim": "Nearly 1.62 lakh aspirants had appeared for around 600 posts across J&K. Besides 16 arrests made in the case, the police said it filed three First Information Reports (FIRs) and recovered eight wireless devices, 22 mobile phones and four vehicles of the accused.",
+        "quote": "Nearly 1.62 lakh aspirants had appeared for around 600 posts across J&K. Besides 16 arrests made in the case, the police said it filed three First Information Reports (FIRs) and recovered eight wireless devices, 22 mobile phones and four vehicles of the accused."
+      },
+      {
+        "claim": "Board chairman Shrikant Balasaheb Suse said the \"examination was not compromised by a paper leak or mass malpractice\" and announced that the upcoming exams will be held \"as per the schedule\".",
+        "quote": "Board chairman Shrikant Balasaheb Suse said the \"examination was not compromised by a paper leak or mass malpractice\" and announced that the upcoming exams will be held \"as per the schedule\"."
+      },
+      {
+        "claim": "Facing a growing public outcry, J&K Education Minister Shamim Firdous said strict action should be taken \"if any irregularities or rigging are found\".",
+        "quote": "Facing a growing public outcry, J&K Education Minister Shamim Firdous said strict action should be taken \"if any irregularities or rigging are found\"."
+      },
+      {
+        "claim": "We demand a thorough investigation into all lapses. It is very imperative. The syndicate must be exposed and dismantled. There should be no further recruitment until the mafia is identified and held accountable,\" said Peoples Democratic Party (PDP) president Mehbooba Mufti.",
+        "quote": "We demand a thorough investigation into all lapses. It is very imperative. The syndicate must be exposed and dismantled. There should be no further recruitment until the mafia is identified and held accountable,\" said Peoples Democratic Party (PDP) president Mehbooba Mufti."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students and former MP Aga Syed Ruhullah joined an indefinite strike in Srinagar protesting J&K Service Selection Board (JKSSB) recruitment scam, demanding a fair probe into alleged Finance Accounts Assistant rigging after 16 arrests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "2f7f1cb6e5",
+  "url": "https://www.thehindu.com/news/national/karnataka/report-documents-impact-of-restrictions-on-the-right-to-protest-in-bengaluru/article71728501.ece",
+  "title": "Report documents impact of restrictions on the right to protest in Bengaluru",
+  "outlet": "The Hindu",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3986,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A report by PUCL-Karnataka and the Campaign for the Right to Protest states that restricting protests in Bengaluru to Freedom Park has made public dissent a permission-based activity, reducing visibility and leading to arbitrary police responses.",
+    "facts": [
+      {
+        "claim": "A study on the impact of confining protests to Freedom Park observes that the 2021 Licensing Order restricting protests in Bengaluru to Freedom Park has effectively turned a constitutionally guaranteed right into a permission-based activity, shrinking the space for public dissent and leaving a cascading impact on people who seek State accountability.",
+        "quote": "A study on the impact of confining protests to Freedom Park observes that the 2021 Licensing Order restricting protests in Bengaluru to Freedom Park has effectively turned a constitutionally guaranteed right into a permission-based activity, shrinking the space for public dissent and leaving a cascading impact on people who seek State accountability."
+      },
+      {
+        "claim": "The report highlights how the restriction has rendered protests invisible to the public.",
+        "quote": "The report highlights how the restriction has rendered protests invisible to the public."
+      },
+      {
+        "claim": "While Freedom Park is centrally located in the city, “it is an area which is completely invisible to the city’s people,” notes the report, which adds that, in the past, protests took place in areas located at crowded junctions, spaces that are frequented by pedestrians or visible to authorities they wanted to address.",
+        "quote": "While Freedom Park is centrally located in the city, “it is an area which is completely invisible to the city’s people,” notes the report, which adds that, in the past, protests took place in areas located at crowded junctions, spaces that are frequented by pedestrians or visible to authorities they wanted to address."
+      },
+      {
+        "claim": "The report also notes that different protests taking place simultaneously at Freedom Park dilute the efforts of civil society groups to make their voices heard.",
+        "quote": "The report also notes that different protests taking place simultaneously at Freedom Park dilute the efforts of civil society groups to make their voices heard."
+      },
+      {
+        "claim": "According to the report, while the Licensing Order has not stopped people in Bengaluru from protesting outside the designated area, it has empowered the police to respond in “arbitrary and unlawful” manner.",
+        "quote": "According to the report, while the Licensing Order has not stopped people in Bengaluru from protesting outside the designated area, it has empowered the police to respond in “arbitrary and unlawful” manner."
+      },
+      {
+        "claim": "It has been an increasingly common sight since the restriction of protests to Freedom Park, to see Bengaluru Police forcefully detaining protestors, at times violently. In many cases, they have also registered FIRs",
+        "quote": "It has been an increasingly common sight since the restriction of protests to Freedom Park, to see Bengaluru Police forcefully detaining protestors, at times violently. In many cases, they have also registered FIRs"
+      },
+      {
+        "claim": "The report cites several instances such as the lathi charging and detention of around 200 Dalit activists who had gathered in December 2022 to demand the implementation of internal reservation within the Scheduled Caste category, detention of left party protestors in October 2023 at Freedom Park during a protest against the Israel-led attack on Palestine, arrest of 71 farmers on 15 August 2022 for planning a protest in Devanahalli against forced land acquisition, among others.",
+        "quote": "The report cites several instances such as the lathi charging and detention of around 200 Dalit activists who had gathered in December 2022 to demand the implementation of internal reservation within the Scheduled Caste category, detention of left party protestors in October 2023 at Freedom Park during a protest against the Israel-led attack on Palestine, arrest of 71 farmers on 15 August 2022 for planning a protest in Devanahalli against forced land acquisition, among others."
+      },
+      {
+        "claim": "It notes that protests against Kogilu slum demolition, a protest by ward attenders of Victoria Hospital and general strike demanding repeal of labour codes also faced similar ‘police highhandedness.’",
+        "quote": "It notes that protests against Kogilu slum demolition, a protest by ward attenders of Victoria Hospital and general strike demanding repeal of labour codes also faced similar ‘police highhandedness.’"
+      },
+      {
+        "claim": "The report also observes how groups have resorted to creative ways to bypass restrictions on assemblies. Cases in point include the Domestic Workers’ Rights Union gathering in front of the Labour Commissioner’s office with copies of letters responding to the draft Karnataka Domestic Workers (Social Security and Welfare) Bill 2025, and ‘My Vote, My Right’ coalition working on the Special Intensive Revision (SIR) issue gathering in front of the Chief Electoral Officer’s office with questions printed on placards.",
+        "quote": "The report also observes how groups have resorted to creative ways to bypass restrictions on assemblies. Cases in point include the Domestic Workers’ Rights Union gathering in front of the Labour Commissioner’s office with copies of letters responding to the draft Karnataka Domestic Workers (Social Security and Welfare) Bill 2025, and ‘My Vote, My Right’ coalition working on the Special Intensive Revision (SIR) issue gathering in front of the Chief Electoral Officer’s office with questions printed on placards."
+      },
+      {
+        "claim": "The report also discusses the cascading effect of the restriction order. \"The Licensing Order was issued to regulate protests. The police have invoked it against reading circles, film screenings, pamphleteering, signature campaigns in the Metro, and meetings in private venues,\" it notes.",
+        "quote": "\"The Licensing Order was issued to regulate protests. The police have invoked it against reading circles, film screenings, pamphleteering, signature campaigns in the Metro, and meetings in private venues,\" it notes."
+      },
+      {
+        "claim": "“Organisers must now provide the Aadhaar cards of five people, and the police collect the addresses of participants. Intelligence officials follow and sit with organisers, and 90 police personnel photograph and film those who attend. This is a burden on privacy and on the freedom to associate without being identified and recorded,” it adds.",
+        "quote": "“Organisers must now provide the Aadhaar cards of five people, and the police collect the addresses of participants. Intelligence officials follow and sit with organisers, and 90 police personnel photograph and film those who attend. This is a burden on privacy and on the freedom to associate without being identified and recorded,” it adds."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The 2021 Licensing Order in Bengaluru restricts protests to Freedom Park, reducing public visibility and leading to arbitrary police actions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "11/11",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

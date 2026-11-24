@@ -1,0 +1,64 @@
+{
+  "id": "ac2e13422b",
+  "url": "https://www.indiatoday.in/india/video/chennai-protest-over-animal-birth-control-centre-management-ytvd-3044385-2026-11-22",
+  "title": "Citizens protest in Chennai over animal birth control centre issues and demands for accountability",
+  "outlet": "India Today",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Chennai"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1243,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "tn-hospital-workers-2026",
+    "new_movement": null,
+    "summary": "Citizens in Chennai protested against Greater Chennai Corporation over animal birth control centre mismanagement, citing botched surgeries and inadequate postoperative care causing animal deaths and cruelty.",
+    "facts": [
+      {
+        "claim": "Citizens and animal rights activists in Chennai held a candlelight protest against the Greater Chennai Corporation",
+        "quote": "Citizens and animal rights activists in Chennai held a candlelight protest against the Greater Chennai Corporation"
+      },
+      {
+        "claim": "alleging mismanagement of animal birth control centres",
+        "quote": "alleging mismanagement of animal birth control centres"
+      },
+      {
+        "claim": "The activists claimed botched surgeries and inadequate postoperative care have caused cruelty and deaths among animals",
+        "quote": "The activists claimed botched surgeries and inadequate postoperative care have caused cruelty and deaths among animals"
+      },
+      {
+        "claim": "Complaints have been ongoing for a decade across multiple administrations",
+        "quote": "Complaints have been ongoing for a decade across multiple administrations"
+      },
+      {
+        "claim": "There are demands for better regulation, fair inquiry, and transparency in the use of funds for animal welfare",
+        "quote": "There are demands for better regulation, fair inquiry, and transparency in the use of funds for animal welfare"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "e6f3d7e07b",
+  "url": "https://www.greaterkashmir.com/ladakh/citing-70-panchayat-poll-turnout-ladakh-cs-rules-out-lahdc-poll-deferment-12832728",
+  "title": "Citing 70% Panchayat poll turnout, Ladakh CS rules out LAHDC poll deferment",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": "ladakh-statehood",
+  "score": 8.0,
+  "matched": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Kargil Democratic Alliance",
+    "Sonam Wangchuk",
+    "Leh",
+    "Kargil",
+    "=LAB",
+    "=KDA"
+  ],
+  "alternatives": [
+    "anti-sir-2026",
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5374,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh Chief Secretary Ashish Kundra ruled out delaying LAHDC elections despite winter migration concerns, citing 70.03% Panchayat election turnout as proof of public demand for local self-governance.",
+    "facts": [
+      {
+        "claim": "70.03% Panchayat election turnout",
+        "quote": "Panchayat elections recorded an overall voter turnout of 70.03 percent"
+      },
+      {
+        "claim": "LAHDC elections scheduled for December 4, 2026",
+        "quote": "The December 4 elections will constitute eight separate LAHDCs across 100 constituencies"
+      },
+      {
+        "claim": "Kundra ruled out deferment of LAHDC polls",
+        "quote": "Ladakh Chief Secretary Ashish Kundra on Sunday firmly ruled out any deferment of the upcoming Ladakh Autonomous Hill Development Council (LAHDC) polls"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh lost statehood in 2019, when it was split into two union territories. The elected government and the Congress say the Centre has not kept its promise to restore it, and protested in July 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

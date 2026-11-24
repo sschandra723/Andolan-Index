@@ -1,0 +1,58 @@
+{
+  "id": "fdfd95e50b",
+  "url": "https://www.indiatoday.in/india/video/electronic-cheating-racket-busted-in-jammu-and-kashmir-recruitment-test-sparks-protests-ytvd-3044182-2026-11-21",
+  "title": "Job aspirants protest after electronic cheating racket uncovered in Jammu and Kashmir recruitment exam",
+  "outlet": "India Today",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1535,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Job aspirants in Jammu and Kashmir protested at Sher-e-Kashmir Park after police uncovered an electronic cheating racket in the state's recruitment exam, sparking political backlash against the Omar Abdullah administration.",
+    "facts": [
+      {
+        "claim": "Job aspirants protested at Sher-e-Kashmir Park in Srinagar following the Jammu and Kashmir Police's discovery of an electronic cheating racket linked to the Jammu and Kashmir Services Selection Board's Finance Accounts Assistant recruitment test.",
+        "quote": "Job aspirants protested at Sher-e-Kashmir Park in Srinagar following the Jammu and Kashmir Police's discovery of an electronic cheating racket linked to the Jammu and Kashmir Services Selection Board's Finance Accounts Assistant recruitment test."
+      },
+      {
+        "claim": "Candidates expressed frustration over ongoing recruitment controversies across the region, including previous exams, highlighting how malpractice affects meritocracy and impacts youth mentally.",
+        "quote": "Candidates expressed frustration over ongoing recruitment controversies across the region, including previous exams, highlighting how malpractice affects meritocracy and impacts youth mentally."
+      },
+      {
+        "claim": "A Special Investigation Team arrested suspects who used advanced microchips and communication devices to transmit answers during exams.",
+        "quote": "A Special Investigation Team arrested suspects who used advanced microchips and communication devices to transmit answers during exams."
+      },
+      {
+        "claim": "The issue sparked political backlash against the Omar Abdullah administration, with calls for thorough reform of the recruitment board and transparent selection processes.",
+        "quote": "The issue sparked political backlash against the Omar Abdullah administration, with calls for thorough reform of the recruitment board and transparent selection processes."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest follows the discovery of an electronic cheating racket in Jammu and Kashmir's recruitment exam, leading to political criticism of the state government.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

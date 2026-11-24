@@ -1,0 +1,50 @@
+{
+  "id": "d5c407f778",
+  "url": "https://www.deccanherald.com/india/karnataka/17-asha-workers-hospitalised-by-day-6-of-protest-for-better-pay-4227751",
+  "title": "17 ASHA workers hospitalised by Day 6 of protest for better pay",
+  "outlet": "Deccan Herald",
+  "published": "2026-11-22",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 403,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "ASHA workers in Bengaluru launched an indefinite protest on November 17 demanding better pay after repeated state government requests for improved remuneration were unmet, with 17 workers hospitalized by day six of the strike.",
+    "facts": [
+      {
+        "claim": "ASHA workers in Bengaluru launched an indefinite protest on November 17",
+        "quote": "Accredited Social Health Activists, or ASHAs, launched an indefinite protest on November 17 after their repeated representations to the state government over their long-pending demand for better remuneration did not elicit a positive response."
+      },
+      {
+        "claim": "17 workers hospitalized by day six of the strike",
+        "quote": "17 ASHA workers hospitalised by Day 6 of protest for better pay"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

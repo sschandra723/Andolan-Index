@@ -1,0 +1,52 @@
+{
+  "id": "e6259a4335",
+  "url": "https://eastmojo.com/news/2026/11/23/shillong-ropeway-jac-rejects-talks/",
+  "title": "Shillong ropeway JAC rejects talks, demands scrapping",
+  "outlet": "EastMojo",
+  "published": "2026-11-23",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "ropeway"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2538,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "shillong-ropeway-2026",
+    "new_movement": null,
+    "summary": "The Joint Action Committee (JAC) Against Shillong Ropeway Project has rejected further talks with the Meghalaya government, demanding the project be scrapped due to concerns over water sources and wildlife habitat. The sit-in by women near the U Kiang Nangbah statue began on November 6 and completed its 16th day.",
+    "facts": [
+      {
+        "claim": "The Joint Action Committee (JAC) Against Shillong Ropeway Project has turned down fresh invitations for dialogue from the Meghalaya government",
+        "quote": "Shillong: The Joint Action Committee (JAC) Against Shillong Ropeway Project has turned down fresh invitations for dialogue from the Meghalaya government and repeated its demand that the proposed Shillong Peak Ropeway be dropped altogether."
+      },
+      {
+        "claim": "The sit-in by women near the U Kiang Nangbah statue began on November 6 and completed its 16th day",
+        "quote": "The sit-in by women near the U Kiang Nangbah statue opposite Civil Hospital, which began on November 6, completed its 16th day on Sunday."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The JAC has been protesting the Shillong Peak Ropeway project since November 6, demanding its scrapping due to environmental concerns, with the sit-in now in its 16th day.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "57b977dbec",
+  "url": "https://www.greaterkashmir.com/national/bric-aims-at-usd-300-billion-indian-bioeconomy-by-2030-and-usd-1-trillion-by-2047-jitendra-singh-12829783",
+  "title": "BRIC aims at USD 300 billion Indian bioeconomy by 2030 and USD 1 trillion by 2047: Jitendra Singh",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Union Minister Dr. Jitendra Singh announced BRIC's target of USD 300 billion Indian bioeconomy by 2030 and USD 1 trillion by 2047 during its annual meeting in New Delhi.",
+    "facts": [
+      {
+        "claim": "BRIC aims at USD 300 billion Indian bioeconomy by 2030 and a USD 1 trillion bioeconomy by 2047",
+        "quote": "New Delhi, Nov 21: Union Minister Dr. Jitendra Singh said today that BRIC aims at USD 300 billion Indian bioeconomy by 2030 and a USD 1 trillion bioeconomy by 2047."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "1/1",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

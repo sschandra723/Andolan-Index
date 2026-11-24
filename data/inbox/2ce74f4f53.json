@@ -1,0 +1,50 @@
+{
+  "id": "2ce74f4f53",
+  "url": "https://www.thehindu.com/news/national/kerala/harassment-alleged-in-plus-two-students-suicide-kin-protest-with-body/article71735152.ece",
+  "title": "Harassment alleged in Plus Two student’s suicide; kin protest with body",
+  "outlet": "The Hindu",
+  "published": "2026-11-23",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2437,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Grieving relatives and students protested with a 17-year-old Plus Two student's body, alleging severe mental harassment by school authorities that led to his suicide.",
+    "facts": [
+      {
+        "claim": "Grieving relatives and students protested with the body of a 17-year-old Plus Two student",
+        "quote": "High drama and tense moments prevailed at the Sooranad Government Higher Secondary School on Monday as grieving relatives, local residents, and students staged a protest with the body of a 17-year-old Plus Two student, demanding strict legal action against the school authorities over allegations of severe mental harassment that drove him to suicide."
+      },
+      {
+        "claim": "alleging severe mental harassment by school authorities that led to his suicide",
+        "quote": "The family has leveled grave allegations against the school administration, claiming that the principal and teachers humiliated Niranjan in front of other students simply for speaking to a female classmate."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A 17-year-old Plus Two student died by suicide after alleged severe mental harassment by school authorities, prompting protests with his body.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

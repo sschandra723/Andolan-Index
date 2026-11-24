@@ -1,0 +1,61 @@
+{
+  "id": "52897b891c",
+  "url": "https://www.thehindu.com/news/cities/Delhi/we-need-a-way-to-distinguish-journalists-and-reelmakers-delhi-police-considered-reporter-jackets-own-id-cards-during-anti-sir-protests/article71734297.ece",
+  "title": "Delhi Police considered reporter jackets, press IDs to distinguish journalists from ‘reel-makers’ during anti-SIR protests",
+  "outlet": "The Hindu",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "anti-SIR protests",
+    "=SIR"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5182,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "Delhi Police considered issuing reporter vests and IDs to distinguish journalists from 'reel-makers' during anti-SIR protests in October, but the plan didn't materialize due to concerns about replication and confusion.",
+    "facts": [
+      {
+        "claim": "Delhi Police considered issuing high-visibility reporter vests carrying its name and separate identification cards to journalists covering the anti-SIR protests in the Capital in October",
+        "quote": "The Delhi Police had considered issuing high-visibility reporter vests carrying its name and separate identification cards to journalists covering the anti-SIR protests in the Capital in October, in an attempt to distinguish genuine mediapersons from those it described as ‘reel-makers’, senior police officers told The Hindu."
+      },
+      {
+        "claim": "The proposals did not materialise, with officers concerned that the vests and identification cards could be easily replicated",
+        "quote": "The proposals, however, did not materialise, with officers concerned that the vests and identification cards could be easily replicated, potentially creating another layer of confusion during an already tense law-and-order situation."
+      },
+      {
+        "claim": "Police officers cited circulation of fake press identification cards and instances of protesters claiming to be independent journalists to avoid detention",
+        "quote": "They cited the circulation of fake press identification cards, the absence of a clear mechanism to authenticate journalists and instances of protesters claiming to be independent journalists to avoid detention."
+      },
+      {
+        "claim": "The police argued that social media content creators, ‘reel-makers’ and people carrying cameras or microphones could not automatically be considered bona fide journalists",
+        "quote": "the police’s November 16 affidavit before the Supreme Court, in which it argued that social media content creators, ‘reel-makers’ and people carrying cameras or microphones could not automatically be considered bona fide journalists or claim the protections available to accredited mediapersons."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Police faced challenges distinguishing journalists from social media content creators during anti-SIR protests in October 2026, leading to confusion and potential misdetentions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

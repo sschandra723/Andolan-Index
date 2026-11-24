@@ -1,0 +1,114 @@
+{
+  "id": "377a50af1c",
+  "url": "https://www.deccanherald.com/india/karnataka/basava-supporters-erupt-in-protest-against-author-ravi-hanj-4224657",
+  "title": "Basava supporters erupt in protest against author Ravi Hanj",
+  "outlet": "Deccan Herald",
+  "published": "2026-11-19",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2499,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Pro-Basava groups protested against author Ravi Hanj's book 'Basava Mantapa' which they claim portrays social reformer Basavanna negatively, staging a flash protest in Bidar where they burned effigies of the author and others involved in the book's release.",
+    "facts": [
+      {
+        "claim": "Pro-Basava organisations erupted in a flash protest against the 'Basava Mantapa' book authored by Ravi Hanj",
+        "quote": "Bidar: Various pro-Basava organisations erupted in a flash protest against the 'Basava Mantapa' book authored by Ravi Hanj that, according to protesters, showcases social reformer Basavanna in a poor light."
+      },
+      {
+        "claim": "They staged a protest at Basaveshwara Circle in the city on Thursday",
+        "quote": "They staged a protest at Basaveshwara Circle in the city on Thursday."
+      },
+      {
+        "claim": "Raising slogans against the author, the pro-Basava activists hit an effigy of Ravi Hanj with slippers and also set it on fire",
+        "quote": "Raising slogans against the author, the pro-Basava activists hit an effigy of Ravi Hanj with slippers and also set it on fire."
+      },
+      {
+        "claim": "They also set portraits of Shankar Bidari, who took part in the event where the book was released",
+        "quote": "They also set portraits of Shankar Bidari, who took part in the event where the book was released."
+      },
+      {
+        "claim": "Seers of various mutts, who also took part in the protest, sought immediate arrest of Ravi Hanj for making derogatory remarks about Basavanna and Vachana Sahitya",
+        "quote": "Addressing the protesters, seers of various mutts, who also took part in the protest, sought immediate arrest of Ravi Hanj for making derogatory remarks about Basavanna and Vachana Sahitya."
+      },
+      {
+        "claim": "Hanj has been writing against Basava ideology, Lingayat religion, Sharanas and mutt heads",
+        "quote": "Hanj has been writing against Basava ideology, Lingayat religion, Sharanas and mutt heads."
+      },
+      {
+        "claim": "A collection of his articles has been brought out in book form in 'Basava Mantapa'",
+        "quote": "A collection of his articles has been brought out in book form in 'Basava Mantapa'."
+      },
+      {
+        "claim": "He has also made objectionable remarks during his interview to a media house",
+        "quote": "He has also made objectionable remarks during his interview to a media house."
+      },
+      {
+        "claim": "Ravi Hanj has termed social reformer Basavanna a thief and liar during his interview to a private channel",
+        "quote": "Ravi Hanj has termed social reformer Basavanna a thief and liar during his interview to a private channel."
+      },
+      {
+        "claim": "He has made similar accusations on social media",
+        "quote": "He has made similar accusations on social media."
+      },
+      {
+        "claim": "His insulting remarks on Vachana literature have upset the community",
+        "quote": "His insulting remarks on Vachana literature have upset the community,"
+      },
+      {
+        "claim": "The state government has accorded cultural icon status on Basavanna who is also termed as 'Vishwaguru'",
+        "quote": "The state government has accorded cultural icon status on Basavanna who is also termed as 'Vishwaguru'."
+      },
+      {
+        "claim": "Many universities even abroad are conducting research on ideologies of Basavanna",
+        "quote": "Many universities even abroad are conducting research on ideologies of Basavanna."
+      },
+      {
+        "claim": "At a time when the whole world has accepted Basvanna and his ideology it is condemnable that Ravi Hanj a non-resident Indian made insulting remarks on Basavanna",
+        "quote": "At a time when the whole world has accepted Basvanna and his ideology it is condemnable that Ravi Hanj a non-resident Indian made insulting remarks on Basavanna"
+      },
+      {
+        "claim": "Observed Lingayat Mathadhipathigala Okoota president Basavalinga Pattadevaru in Bhalki",
+        "quote": "observed Lingayat Mathadhipathigala Okoota president Basavalinga Pattadevaru in Bhalki"
+      },
+      {
+        "claim": "Scores of papers and books have been published after years of research by the scholars",
+        "quote": "Scores of papers and books have been published after years of research by the scholars."
+      },
+      {
+        "claim": "Instead of reading them the author has made damning remarks on Basavanna",
+        "quote": "Instead of reading them the author has made damning remarks on Basavanna."
+      },
+      {
+        "claim": "This is an attempt to insult whole Kannadigas",
+        "quote": "This is an attempt to insult whole Kannadigas the seer observed."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Pro-Basava groups in Karnataka have protested against author Ravi Hanj's book 'Basava Mantapa' which they claim portrays social reformer Basavanna negatively, leading to a flash protest in Bidar where effigies of the author and others involved in the book's release were destroyed.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "18/18",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

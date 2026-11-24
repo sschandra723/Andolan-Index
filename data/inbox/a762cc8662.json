@@ -1,0 +1,71 @@
+{
+  "id": "a762cc8662",
+  "url": "https://www.greaterkashmir.com/sports/ku-bags-4-medals-in-all-india-inter-university-thang-ta-championship-in-manipur-12836152",
+  "title": "KU bags 4 medals in All India Inter-University Thang-Ta Championship in Manipur",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Manipur"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1577,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The University of Kashmir's Thang-Ta team won four medals at the All India Inter-University Championship in Manipur, with the university's leadership congratulating their achievements.",
+    "facts": [
+      {
+        "claim": "The University of Kashmir’s (KU's) All India Inter University Thang-Ta team signed off with four medals at recently concluded All India Inter-University Thang-Ta Championship",
+        "quote": "The University of Kashmir’s ( KU's) All India Inter University Thang-Ta team signed off with four medals at recently concluded All India Inter-University Thang-Ta Championship, hosted by the National Sports University Manipur, under the aegis of Association of Indian Universities, New Delhi."
+      },
+      {
+        "claim": "Haseeb Shafi won gold in Phunaba Ama (Weight Category, 58 kg)",
+        "quote": "Haseeb Shafi , Gold medal in Phunaba Ama (Weight Category, 58 kg)"
+      },
+      {
+        "claim": "Nida Andrabi won bronze in Phunaba Anishuba (Weight Category, 72 kg)",
+        "quote": "Nida Andrabi, bronze medal in Phunaba Anishuba, Weight Category, 72 kg)"
+      },
+      {
+        "claim": "Arjumand secured silver in Phunaba Anishuba (Weight Category, 60 kg)",
+        "quote": "Arjumand secured the silver medal in Phunaba Anishuba(Weight Category, 60 kg)"
+      },
+      {
+        "claim": "Hammad Bashir won bronze in Phunaba Anishuba (Weight Category, 62 kg)",
+        "quote": "Hammad Bashir claimed bronze medal in Phunaba Anishuba(weight category, 62 kg)"
+      },
+      {
+        "claim": "Vice-Chancellor Prof. Nilofer Khan congratulated the medalists",
+        "quote": "Vice-Chancellor KU Prof. Nilofer Khan, congratulated the medalists for their remarkable achievement and for bringing pride to the University."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The University of Kashmir’s ( KU's) All India Inter University Thang-Ta team sig”",
+        "name “University Championship” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

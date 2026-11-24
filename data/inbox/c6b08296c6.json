@@ -1,0 +1,54 @@
+{
+  "id": "c6b08296c6",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/mehbooba-seeks-service-rules-for-protesting-j-k-medical-college-staff-101795373645798.html",
+  "title": "Mehbooba seeks service rules for protesting J&K medical college staff",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1584,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "J&K medical college staff have been on strike for a week demanding service rules after seven years of denied career progression and benefits. The government had promised to finalize rules by September 30 but delayed.",
+    "facts": [
+      {
+        "claim": "non-gazetted employees of J&K’s five new medical colleges have been denied a clear service structure, career progression and legitimate benefits",
+        "quote": "Mufti said that for nearly seven years, non-gazetted employees of J&K’s five new medical colleges have been denied a clear service structure, career progression and legitimate benefits"
+      },
+      {
+        "claim": "employees have been on strike for the past week",
+        "quote": "Since Monday, the employees of GMCs of Doda, Rajouri, Poonch, Anantnag and Baramulla have been on protest demanding a formally notified service framework for non gazetted employees"
+      },
+      {
+        "claim": "government promised to finalize rules by September 30 but delayed",
+        "quote": "The protesters said that the assurances by the government to finalise the rules by September 30 were not fulfilled prompting them to go for protest"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "J&K medical college staff have been striking for service rules after seven years of denied career progression and benefits, with the government failing to meet its September 30 deadline.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "77e924ad05",
+  "url": "https://www.thehindu.com/news/national/karnataka/ashas-reject-governments-assurance-decide-to-continue-protest/article71728934.ece",
+  "title": "ASHAs reject government’s assurance; decide to continue protest",
+  "outlet": "The Hindu",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1390,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka ASHA workers rejected government assurances on a pay hike and continued their fifth-day protest after talks ended inconclusively.",
+    "facts": [
+      {
+        "claim": "The second round of talks between the State government and protesting ASHAs ended inconclusively on Saturday, with the workers rejecting the government’s assurance on a pay hike and deciding to continue their agitation, which entered its fifth day.",
+        "quote": "The second round of talks between the State government and protesting ASHAs ended inconclusively on Saturday, with the workers rejecting the government’s assurance on a pay hike and deciding to continue their agitation, which entered its fifth day."
+      },
+      {
+        "claim": "Health Minister U.T. Khader had invited representatives of the Karnataka State Samyukta ASHA Workers’ Union for discussions.",
+        "quote": "Health Minister U.T. Khader had invited representatives of the Karnataka State Samyukta ASHA Workers’ Union for discussions."
+      },
+      {
+        "claim": "The talks failed after the Minister said the demand for an increase in remuneration would be discussed during the preparation of the next State Budget.",
+        "quote": "The talks failed after the Minister said the demand for an increase in remuneration would be discussed during the preparation of the next State Budget."
+      },
+      {
+        "claim": "The workers refused to accept the assurance and decided to continue their protest.",
+        "quote": "The workers refused to accept the assurance and decided to continue their protest."
+      },
+      {
+        "claim": "Chief Minister D.K. Shivakumar appealed to the protesting ASHAs to withdraw their agitation, expressing sympathy for their hardships and acknowledging their contribution to the healthcare system.",
+        "quote": "Chief Minister D.K. Shivakumar appealed to the protesting ASHAs to withdraw their agitation, expressing sympathy for their hardships and acknowledging their contribution to the healthcare system."
+      },
+      {
+        "claim": "Mr. Shivakumar said the government was considering a comprehensive and lasting solution to their demands and would discuss the matter with the Cabinet before taking an appropriate decision.",
+        "quote": "Mr. Shivakumar said the government was considering a comprehensive and lasting solution to their demands and would discuss the matter with the Cabinet before taking an appropriate decision."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "ASHA workers in Karnataka have been protesting for a pay hike, with their agitation entering its fifth day after talks with the state government ended inconclusively.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "5ff00ecb26",
+  "url": "https://www.greaterkashmir.com/opinion/reservations-karnataka-to-kashmir-12830519",
+  "title": "Reservations: Karnataka to Kashmir",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Leh",
+    "Kargil"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka High Court struck down state law increasing reservations beyond constitutional 50% cap, while J&K's reservation policy reached 70% amid political tensions.",
+    "facts": [
+      {
+        "claim": "Karnataka High Court struck down state law increasing reservations beyond constitutional 50% cap",
+        "quote": "A Bench of the Karnataka High Court, headed by Chief Justice Vibhu Bakhru, declared Sections 3 and 4 of the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of Appointments or Posts in the Services under the State) Act, 2022, unconstitutional."
+      },
+      {
+        "claim": "J&K's reservation policy reached 70% amid political tensions",
+        "quote": "In Jammu and Kashmir, the reservation issue has become explosive and combustible. In the opinion of many people, it has been weaponised to empower some categories while disempowering others."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka High Court ruled state reservations for SCs and STs exceeded constitutional 50% cap, while J&K's reservation policy reached 70% after political changes.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

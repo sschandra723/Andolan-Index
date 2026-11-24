@@ -1,0 +1,70 @@
+{
+  "id": "35a774bbaf",
+  "url": "https://www.greaterkashmir.com/jammu-kashmir/jks-3014-mw-chenab-power-push-faces-delays-12832652",
+  "title": "J&K’s 3014-MW Chenab power push faces delays",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4804,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Jammu and Kashmir's hydropower projects face delays with two completed and two lagging behind, causing cost overruns and extended timelines for the 3014 MW Chenab basin projects.",
+    "facts": [
+      {
+        "claim": "Jammu and Kashmir's ambitious hydropower expansion in the Chenab basin is progressing unevenly",
+        "quote": "Srinagar, Nov 22: Jammu and Kashmir's ambitious hydropower expansion in the Chenab basin is progressing unevenly, with two major projects approaching completion while the remaining two have recorded less than 42 percent physical progress, according to the latest government monitoring report."
+      },
+      {
+        "claim": "The four projects, with a combined installed capacity of 3014 MW, have witnessed a cumulative cost escalation of Rs 5737.29 crore over their original estimates",
+        "quote": "The four projects, with a combined installed capacity of 3014 MW, have witnessed a cumulative cost escalation of Rs 5737.29 crore over their original estimates, while the commissioning timelines of the projects reflect significant delays."
+      },
+      {
+        "claim": "The 1000 MW Pakal Dul Hydroelectric Project has achieved 89 percent physical progress",
+        "quote": "The 1000 MW Pakal Dul Hydroelectric Project has achieved 89 percent physical progress, while the 624 MW Kiru project has reached 92.10 percent."
+      },
+      {
+        "claim": "The 850 MW Ratle Hydroelectric Project has recorded only 33.14 percent progress",
+        "quote": "The 850 MW Ratle Hydroelectric Project has recorded only 33.14 percent progress, while the 540 MW Kwar project has achieved 41.55 percent."
+      },
+      {
+        "claim": "The 540 MW Kwar project has achieved 41.55 percent physical progress",
+        "quote": "The 540 MW Kwar project has achieved 41.55 percent physical progress, with expenditure of Rs 2100.11 crore against its estimated cost of Rs 4526.12 crore."
+      },
+      {
+        "claim": "The 1000 MW Pakal Dul project has recorded expenditure of Rs 10,038.05 crore against its revised cost of Rs 12,728 crore",
+        "quote": "The 1000 MW Pakal Dul project, being executed by NHPC through Chenab Valley Power Projects Limited (CVPPL), has recorded expenditure of Rs 10,038.05 crore against its revised cost of Rs 12,728 crore."
+      },
+      {
+        "claim": "The 850 MW Ratle project, originally scheduled for completion in February 2026, has had its revised deadline extended to November 2028",
+        "quote": "The 850 MW Ratle project, originally scheduled for completion in February 2026, has had its revised deadline extended to November 2028."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Jammu and Kashmir's hydropower projects face delays with two completed and two lagging behind, causing cost overruns and extended timelines for the 3014 MW Chenab basin projects.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

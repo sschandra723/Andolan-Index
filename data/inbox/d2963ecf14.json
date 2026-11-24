@@ -1,0 +1,80 @@
+{
+  "id": "d2963ecf14",
+  "url": "https://www.hindustantimes.com/cities/others/lpst-protest-govt-ready-to-issue-orders-on-four-demands-says-minister-101794986049605.html",
+  "title": "LPST protest: Govt ready to issue orders on four demands, says minister",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "LPST"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3849,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "keralam-lpst-rankholders-2026",
+    "new_movement": null,
+    "summary": "The Kerala government says it will issue orders on four demands from LPST rank holders but needs further discussion on reducing the student-teacher ratio to 1:25, which could have financial implications.",
+    "facts": [
+      {
+        "claim": "The Kerala government is ready to issue orders on four demands raised by protesting LPST rank holders",
+        "quote": "Thiruvananthapuram, The Keralam government is ready to issue orders on four demands raised by protesting LPST rank holders, but further discussions are needed to resolve the contentious matter of reducing the student-teacher ratio to 1:25, state General Education Minister N Samsudheen said here on Wednesday."
+      },
+      {
+        "claim": "The government would continue discussions with the rank holders",
+        "quote": "Speaking to reporters after the Cabinet meeting, the minister said the government was sympathetic to the concerns of the Lower Primary School Teacher rank holders and would continue discussions with them."
+      },
+      {
+        "claim": "The issue of the teacher-student ratio requires careful consideration",
+        "quote": "However, the issue of the teacher-student ratio required careful consideration, as any change would have financial implications and could lead to other complications."
+      },
+      {
+        "claim": "The government is ready to issue orders on the four issues on which both sides have already reached an agreement",
+        "quote": "The government is ready to issue orders on the four issues on which both sides have already reached an agreement."
+      },
+      {
+        "claim": "The measure would cover schools facing a reduction in student strength and divisions",
+        "quote": "One of the agreed measures was to appoint Head Teachers from the Kerala Public Service Commission rank list in government schools with more than 150 students, instead of filling such posts through the existing arrangement. The measure would also cover schools facing a reduction in student strength and divisions, he said."
+      },
+      {
+        "claim": "Reducing the ratio to 1:25 could have wider financial implications",
+        "quote": "The minister said reducing the ratio to 1:25 could have wider financial implications, particularly if the measure had to be extended to other sectors as well."
+      },
+      {
+        "claim": "The government was examining these aspects before taking a decision",
+        "quote": "The government was examining these aspects before taking a decision."
+      },
+      {
+        "claim": "The government is ready to resume talks and would meet the representatives to explain its position",
+        "quote": "He said the government was ready to resume talks and would meet the representatives to explain its position."
+      },
+      {
+        "claim": "The protesters are demanding a reduction in the student-teacher ratio to 1:25",
+        "quote": "The protesters are demanding a reduction in the student-teacher ratio to 1:25, inclusion of Head Teacher Vacancy posts under the PSC, an extension of the validity of their rank list and postponement of a fresh notification."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Kerala government has agreed to address four demands from LPST rank holders but requires further discussion on reducing the student-teacher ratio to 1:25, which the protesters have been demanding since July 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "1 outlet in the last 48 hours; coverage up from 0 to 10 reports this week."
+  }
+}

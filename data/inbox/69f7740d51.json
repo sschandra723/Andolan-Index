@@ -1,0 +1,68 @@
+{
+  "id": "69f7740d51",
+  "url": "https://timesofindia.indiatimes.com/india/bangladesh-unrest-bengal-cm-suvendu-to-write-to-eam-may-push-to-extend-minority-entry-cut-off/articleshow/136079971.cms",
+  "title": "Bangladesh unrest: Bengal CM Suvendu to write to EAM, may push to extend minority entry cut-off",
+  "outlet": "Times of India",
+  "published": "2026-11-22",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3892,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "West Bengal chief minister Suvendu Adhikari said he would contact India's external affairs minister to seek an extension of the December 31, 2024 cut-off date for religious minorities fleeing Bangladesh to enter India, citing concerns over escalating violence in the country.",
+    "facts": [
+      {
+        "claim": "West Bengal chief minister Suvendu Adhikari said he would contact external affairs minister S Jaishankar on Monday to convey concerns in the state over the escalating violence in Bangladesh",
+        "quote": "West Bengal chief minister Suvendu Adhikari on Sunday said he would contact external affairs minister S Jaishankar on Monday to convey concerns in the state over the escalating violence in Bangladesh."
+      },
+      {
+        "claim": "Suvendu indicated that the government could seek an extension of the cut-off date for religious minorities fleeing the neighbouring country to enter India",
+        "quote": "He also indicated that the government could seek an extension of the cut-off date for religious minorities entering India from Bangladesh, if required."
+      },
+      {
+        "claim": "Suvendu said the developments in Bangladesh were 'extremely painful' and had caused widespread concern in West Bengal",
+        "quote": "Suvendu said the developments in Bangladesh were \"extremely painful\" and had caused widespread concern in West Bengal, where many people have relatives across the border."
+      },
+      {
+        "claim": "Suvendu said around two crore people in Bengal have relatives in Bangladesh",
+        "quote": "Around two crore people in Bengal have relatives there, and the developments are having an impact here as well."
+      },
+      {
+        "claim": "Suvendu said he would write to the Centre to extend the timeline if required",
+        "quote": "If required, we will write to the Centre to extend the timeline,\" he told reporters."
+      },
+      {
+        "claim": "Suvendu cited protocol, saying he cannot comment directly on foreign affairs",
+        "quote": "As the chief minister of a state, I cannot comment directly on foreign affairs. There is a protocol."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "West Bengal chief minister Suvendu Adhikari is seeking an extension of the December 31, 2024 cut-off date for religious minorities fleeing Bangladesh to enter India amid escalating political violence in Bangladesh.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “He also indicated that the government could seek an extension of the cut-off dat”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

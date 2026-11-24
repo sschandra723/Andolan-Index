@@ -1,0 +1,70 @@
+{
+  "id": "e620b45d93",
+  "url": "https://www.greaterkashmir.com/opinion/open-covenants-openly-arrived-at-12830526",
+  "title": "Open covenants openly arrived at",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5270,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The article discusses the Shenzhen trilateral summit between US, Russia, and China, highlighting debates over whether the secret meeting represents progress in global stability or a retreat from multilateralism. Foreign policy analysts and international observers are divided on the summit's impact.",
+    "facts": [
+      {
+        "claim": "The Shenzhen trilateral summit between US, Russia, and China",
+        "quote": "the historic trilateral summit in the southern Chinese city of Shenzhen, where United States President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping met behind closed doors on the sidelines of the Asia Pacific Economic Cooperation summit"
+      },
+      {
+        "claim": "The summit's purpose was to discuss peace and international relations",
+        "quote": "United States President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping met behind closed doors on the sidelines of the Asia Pacific Economic Cooperation summit"
+      },
+      {
+        "claim": "The summit's outcomes included pledges on energy, nuclear arms, and UN reform",
+        "quote": "The three nations committed to increasing the production and supply of refined oil products to support steady global energy flows, a move welcomed by economists concerned about supply chain disruptions in developing nations"
+      },
+      {
+        "claim": "The summit's outcomes included pledges on nuclear arms reduction",
+        "quote": "following the expiration of the New START nuclear treaty in February, the world has been left without legally binding limits on strategic nuclear weapons"
+      },
+      {
+        "claim": "The summit's outcomes included pledges on UN reform",
+        "quote": "their joint call to reform the United Nations acknowledges that international institutions must evolve to reflect contemporary global realities"
+      },
+      {
+        "claim": "Critics argue the summit excluded key stakeholders",
+        "quote": "Sceptics point to the omission of major ongoing conflicts from the final joint statement as a primary flaw, noting that although the war in Ukraine has entered its fifth year, the declaration made no mention of Ukraine or the conflict in Iran at all"
+      },
+      {
+        "claim": "Critics argue the summit weakened international courts",
+        "quote": "Sceptics argue that when the world’s three strongest military powers unite to curb international legal bodies, it weakens the institutional protections that smaller states rely upon against aggression by stronger neighbours"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Shenzhen trilateral summit between US, Russia, and China has sparked debate over whether it represents a step toward global stability or a retreat from multilateralism, with critics highlighting the exclusion of key stakeholders and potential weakening of international legal institutions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

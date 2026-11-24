@@ -1,0 +1,54 @@
+{
+  "id": "057cf68aca",
+  "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+  "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+  "outlet": "Al Jazeera",
+  "published": "2026-11-22",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Bangladesh deployed paramilitary forces to contain violence after supporters of ex-PM Sheikh Hasina protested against the government's rejection of her planned return. At least four people died in the week-long unrest, with attacks on police stations, banks, and Muhammad Yunus's ancestral home.",
+    "facts": [
+      {
+        "claim": "Bangladesh deployed paramilitary troops to help contain a wave of violence",
+        "quote": "Bangladesh has deployed paramilitary troops to help contain a wave of violence that erupted after supporters of former Prime Minister Sheikh Hasina staged protests against the government’s rejection of the ousted leader’s planned return to the country."
+      },
+      {
+        "claim": "At least four people have been killed in the political violence since November 14",
+        "quote": "At least four people have been killed in the political violence since November 14, including three political activists and a bus worker who died when his vehicle was torched, according to local media reports."
+      },
+      {
+        "claim": "The ancestral home of Muhammad Yunus was set on fire in Chittagong",
+        "quote": "Late Wednesday, police said the ancestral home of Yunus was set on fire in the port city of Chittagong."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Bangladesh's government rejected Sheikh Hasina's request for a passport and identity card to return, leading to protests by her supporters that escalated into violence.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

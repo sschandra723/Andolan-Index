@@ -1,0 +1,68 @@
+{
+  "id": "b5eebd2f13",
+  "url": "https://kashmirlife.net/stipend-hike-demand-will-be-examined-on-priority-basis-sakeena-itoo-to-protesting-doctors-462390/",
+  "title": "‘Stipend Hike Demand Will Be Examined on Priority Basis’: Sakeena Itoo to Protesting Doctors",
+  "outlet": "Kashmir Life",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1422,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Health and Medical Education Minister Sakeena Itoo assured protesting doctors in Jammu and Kashmir that their stipend hike demand would be examined on priority basis, urging them to resume duties amid ongoing demonstrations.",
+    "facts": [
+      {
+        "claim": "stipend hike demand will be examined on priority basis",
+        "quote": "‘Stipend Hike Demand Will Be Examined on Priority Basis’: Sakeena Itoo to Protesting Doctors"
+      },
+      {
+        "claim": "Minister assured protesting doctors their demand for stipend revision would receive due consideration",
+        "quote": "She assured them that their demand for a revision of the stipend structure would receive due consideration."
+      },
+      {
+        "claim": "Minister urged doctors to resume professional duties",
+        "quote": "Itoo also urged the doctors to resume their professional duties, emphasising that the ongoing agitation should not affect patient care or the delivery of healthcare services."
+      },
+      {
+        "claim": "Protest involves postgraduate, senior resident, DNB and MDS doctors across Jammu and Kashmir",
+        "quote": "The protest involves postgraduate (PG), senior resident, Diplomate of National Board (DNB) and Master of Dental Surgery (MDS) doctors across Jammu and Kashmir"
+      },
+      {
+        "claim": "Doctors demand higher stipends and parity with other states and Union Territories",
+        "quote": "who are demanding higher monthly stipends and parity with their counterparts in other states and Union Territories, including doctors at the Sher-i-Kashmir Institute of Medical Sciences (SKIMS)."
+      },
+      {
+        "claim": "Doctors say current stipends don't reflect inflation and workload",
+        "quote": "The protesting doctors have maintained that the existing stipend rates do not adequately reflect rising inflation and their increasing workload."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Jammu and Kashmir government is addressing stipend demands of medical professionals amid ongoing protests, following previous statehood protests.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘Stipend Hike Demand Will Be Examined on Priority Basis’: Sakeena Itoo to Protes”"
+      ]
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

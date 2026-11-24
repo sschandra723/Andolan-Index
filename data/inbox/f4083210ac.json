@@ -1,0 +1,74 @@
+{
+  "id": "f4083210ac",
+  "url": "https://www.greaterkashmir.com/opinion/when-the-barracks-govern-12836131",
+  "title": "When the Barracks Govern",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-23",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Election Commission"
+  ],
+  "alternatives": [
+    "pu-bachao-morcha-2025"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The article discusses Pakistan's political situation, focusing on the military's growing influence in governance without a coup, contrasting with India's democratic institutions. It covers Imran Khan's legal troubles, the election in Jammu and Kashmir, and a protest movement in Pakistan-occupied Kashmir that was banned and resulted in civilian deaths.",
+    "facts": [
+      {
+        "claim": "Pakistan has a prime minister, a two-chamber parliament, a Supreme Court, and an election in PoK",
+        "quote": "Pakistan has a prime minister, a two-chamber parliament, a Supreme Court, an election commission and, this summer, an election in PoK."
+      },
+      {
+        "claim": "Imran Khan's party was denied its election symbol before the 2024 vote, but its candidates won more seats than anyone else as independents",
+        "quote": "His party was denied its election symbol before the 2024 vote, and its candidates still won more seats than anyone else as independents."
+      },
+      {
+        "claim": "The Supreme Court ordered Imran Khan moved to a private hospital in August, but months later it has not happened",
+        "quote": "The Supreme Court ordered him moved to a private hospital in August, and months later it has not happened."
+      },
+      {
+        "claim": "In Jammu and Kashmir, assembly elections were held in 2024 with strong participation, and an elected government took office",
+        "quote": "Assembly elections were held in Jammu and Kashmir in 2024, with strong participation, and an elected government took office."
+      },
+      {
+        "claim": "A Joint Awami Action Committee, a coalition of traders, lawyers and students, asked for cheaper electricity, working hospitals and an end to elite privilege",
+        "quote": "The Joint Awami Action Committee, a coalition of traders, lawyers and students, asked for cheaper electricity, working hospitals and an end to elite privilege."
+      },
+      {
+        "claim": "In June, the authorities banned the committee under anti-terror law, cut the internet and told outsiders to stay away",
+        "quote": "In June the authorities banned the committee under anti-terror law, cut the internet and told outsiders to stay away."
+      },
+      {
+        "claim": "Police confirmed that security personnel were also killed, and federal ministers said those involved would be treated as rioters, not protesters",
+        "quote": "Police confirmed that security personnel were also killed, and federal ministers said those involved would be treated as rioters, not protesters."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The article compares Pakistan's military-influenced governance with India's democratic institutions, highlighting the lack of civilian authority in Pakistan and the suppression of a protest movement in Pakistan-occupied Kashmir.",
+    "confidence": 0.8,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

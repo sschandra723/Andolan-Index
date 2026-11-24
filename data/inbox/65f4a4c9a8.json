@@ -1,0 +1,56 @@
+{
+  "id": "65f4a4c9a8",
+  "url": "https://www.greaterkashmir.com/sports/jks-young-football-lions-storm-to-3rd-place-12825058",
+  "title": "J&K’s Young Football Lions storm to 3rd place",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Jharkhand"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3031,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "J&K's Under-14 Boys Football team won 3rd place at the 70th SGFI National School Games 2026, securing a podium finish in a competition organized by the School Games Federation of India.",
+    "facts": [
+      {
+        "claim": "J&K Under-14 Boys Football team secured 3rd Place at the 70th SGFI National School Games 2026",
+        "quote": "The J&K Under-14 Boys Football team has brought immense laurels to the Union Territory by securing a podium finish claiming 3rd Place at the prestigious 70th SGFI National School Games 2026 held at Chhatarpur, Madhya Pradesh."
+      },
+      {
+        "claim": "The championship was organized by the District Education Officer, Chhatarpur, Madhya Pradesh, under the aegis of the School Games Federation of India (SGFI)",
+        "quote": "The championship was organised by the District Education Officer, Chhatarpur, Madhya Pradesh, under the aegis of the School Games Federation of India (SGFI)."
+      },
+      {
+        "claim": "The young footballers from J&K demonstrated exceptional teamwork and dominance on the pitch",
+        "quote": "Throughout the tournament, as per a DYSS statement, the young footballers from J&K demonstrated exceptional teamwork and dominance on the pitch, cruising through the league and knockout stages with commanding victories before defeating Chhattisgarh 4–0 in the third-place playoff."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

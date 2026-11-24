@@ -1,0 +1,65 @@
+{
+  "id": "50a3f202a1",
+  "url": "https://kashmirlife.net/gmc-baramulla-prohibits-pg-students-dnb-candidates-from-joining-strikes-462245/",
+  "title": "GMC Baramulla Prohibits PG Students, DNB Candidates from Joining Strikes",
+  "outlet": "Kashmir Life",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1299,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Government Medical College Baramulla banned postgraduate students and DNB candidates from joining strikes to protect academic and healthcare services, requiring them to repeat or compensate missed duties if they participate.",
+    "facts": [
+      {
+        "claim": "Government Medical College (GMC) Baramulla has prohibited postgraduate students, Diplomate of National Board (DNB) candidates and senior residents from participating in strikes, protests or similar activities that disrupt academic programmes and patient-care services",
+        "quote": "Government Medical College (GMC) Baramulla has prohibited postgraduate students, Diplomate of National Board (DNB) candidates and senior residents from participating in strikes, protests or similar activities that disrupt academic programmes and patient-care services"
+      },
+      {
+        "claim": "In a circular issued on November 21, the college directed all concerned to maintain institutional discipline and ensure that academic activities and healthcare services are not affected by such actions",
+        "quote": "In a circular issued on November 21, the college directed all concerned to maintain institutional discipline and ensure that academic activities and healthcare services are not affected by such actions"
+      },
+      {
+        "claim": "The circular, issued by the Registrar Academics, stated that postgraduate students, DNB candidates and senior residents had submitted undertakings and affidits at the time of admission or engagement, committing themselves to maintaining discipline and abiding by the institution’s rules and regulations",
+        "quote": "The circular, issued by the Registrar Academics, stated that postgraduate students, DNB candidates and senior residents had submitted undertakings and affidits at the time of admission or engagement, committing themselves to maintaining discipline and abiding by the institution’s rules and regulations"
+      },
+      {
+        "claim": "It further clarified that any period of absence from prescribed academic, clinical or departmental duties due to participation in a strike would have to be repeated or compensated, if so determined by the competent authority, in accordance with applicable rules and directions",
+        "quote": "It further clarified that any period of absence from prescribed academic, clinical or departmental duties due to participation in a strike would have to be repeated or compensated, if so determined by the competent authority, in accordance with applicable rules and directions"
+      },
+      {
+        "claim": "The college warned that violations of the instructions would be viewed seriously and could invite disciplinary action under the relevant rules and regulations",
+        "quote": "The college warned that violations of the instructions would be viewed seriously and could invite disciplinary action under the relevant rules and regulations"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "GMC Baramulla has prohibited postgraduate students and DNB candidates from joining strikes to protect academic and healthcare services, requiring them to repeat or compensate missed duties if they participate.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The circular, issued by the Registrar Academics, stated that postgraduate studen”",
+        "name “Government Medical College Baramulla” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

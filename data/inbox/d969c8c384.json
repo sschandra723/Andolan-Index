@@ -1,0 +1,64 @@
+{
+  "id": "d969c8c384",
+  "url": "https://www.thehindu.com/news/national/west-bengal/kolkata-medical-college-tense-as-junior-doctors-gherao-principal-outsiders-attack-protesting-students/article71718707.ece",
+  "title": "Kolkata Medical College tense as junior doctors gherao principal; outsiders attack protesting students",
+  "outlet": "The Hindu",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3269,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "Junior doctors at Kolkata Medical College protested over show-cause notices after speaking against the government during a Chorbagan stampede, leading to clashes with outsiders who damaged property. Police said the site was not a permitted venue for protests.",
+    "facts": [
+      {
+        "claim": "Junior doctors gheraoed the principal",
+        "quote": "many members of the West Bengal Junior Doctors Front (WBJDF) gave out an SOS call and said that the Medical College was under attack."
+      },
+      {
+        "claim": "Outsiders attacked protesting doctors and damaged property",
+        "quote": "Over 70/80 outside goons entered the hospital and started vandalising, attacking interns and doctors. Many have been physically injured"
+      },
+      {
+        "claim": "Junior doctors were protesting a show-cause notice",
+        "quote": "The eight junior doctors had been sent a show-cause notice by the authorities on Tuesday (November 17, 2026)."
+      },
+      {
+        "claim": "ABVP denied involvement in the clashes",
+        "quote": "The incident that took place at the Medical College has no connection whatsoever with ABVP."
+      },
+      {
+        "claim": "Health Minister called doctors 'dimagi naxals'",
+        "quote": "These junior Maoist doctors are students in India, West Bengal. We will take all necessary legal steps; they cannot escape the rule of law. They are anti-nationals and do not abide by any rules or laws"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Junior doctors in Kolkata are protesting show-cause notices after speaking against the government during a Chorbagan stampede, which led to clashes with outsiders and damage to property at the medical college.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": [
+        "name “Kolkata Medical College” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

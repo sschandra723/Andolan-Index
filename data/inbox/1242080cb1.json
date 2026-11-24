@@ -1,0 +1,60 @@
+{
+  "id": "1242080cb1",
+  "url": "https://www.thehindu.com/news/national/telangana/contract-assistant-professors-at-nizam-college-protest-demanding-7th-ugc-pay-scales/article71719653.ece",
+  "title": "Contract Assistant Professors at Nizam College protest demanding 7th UGC pay scales",
+  "outlet": "The Hindu",
+  "published": "2026-11-19",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=UGC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 691,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "ugc-equity-rules-2026",
+    "new_movement": null,
+    "summary": "Contract Assistant Professors at Nizam College staged a protest demanding implementation of the 7th UGC pay scales as per 2016 norms, service regularisation and job security.",
+    "facts": [
+      {
+        "claim": "Contract Assistant Professors of Nizam College, Osmania University, staged a protest on Thursday, under the University Teachers’ Association (Contract), demanding implementation of the 7th UGC pay scales as per 2016 norms, service regularisation and job security.",
+        "quote": "Contract Assistant Professors of Nizam College, Osmania University, staged a protest on Thursday, under the University Teachers’ Association (Contract), demanding implementation of the 7th UGC pay scales as per 2016 norms, service regularisation and job security."
+      },
+      {
+        "claim": "As part of statewide agitation, lecturers attended classes wearing black badges to highlight their grievances.",
+        "quote": "As part of statewide agitation, lecturers attended classes wearing black badges to highlight their grievances."
+      },
+      {
+        "claim": "Led by its leaders, Thirupathi and Ramdas Nayak, they urged the government to honour the assurances on revised pay scales and job protection.",
+        "quote": "Led by its leaders, Thirupathi and Ramdas Nayak, they urged the government to honour the assurances on revised pay scales and job protection."
+      },
+      {
+        "claim": "The faculty highlighted stagnant salaries despite years of service and sought fair remuneration, retirement benefits, and security.",
+        "quote": "The faculty highlighted stagnant salaries despite years of service and sought fair remuneration, retirement benefits, and security."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Contract Assistant Professors at Nizam College staged a protest demanding implementation of the 7th UGC pay scales as per 2016 norms, service regularisation and job security.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

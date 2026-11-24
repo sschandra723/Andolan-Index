@@ -1,0 +1,85 @@
+{
+  "id": "7439011ede",
+  "url": "https://nenow.in/north-east-news/manipur/manipur-women-protest-killing-of-alleged-surrendered-militant-demand-probe-into-security-operation.html",
+  "title": "Manipur: Women protest killing of alleged surrendered militant, demand probe into security operation",
+  "outlet": "Northeast Now",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": "manipur-protests-2026",
+  "score": 2.0,
+  "matched": [
+    "Manipur",
+    "Imphal"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2258,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "manipur-protests-2026",
+    "new_movement": null,
+    "summary": "Women in Imphal West staged a protest condemning the killing of an alleged surrendered militant during a security operation, demanding an impartial investigation into the death of Laishram Ranjit.",
+    "facts": [
+      {
+        "claim": "Women residents of Yurembam Awang Leikai in Imphal West district staged a protest on Saturday, condemning the killing of an alleged surrendered militant and the arrest of eight others, including the chairman of the Kangleipak Communist Party (People’s War Group) (KCP-PWG), during a security operation on November 20.",
+        "quote": "Women residents of Yurembam Awang Leikai in Imphal West district staged a protest on Saturday, condemning the killing of an alleged surrendered militant and the arrest of eight others, including the chairman of the Kangleipak Communist Party (People’s War Group) (KCP-PWG), during a security operation on November 20."
+      },
+      {
+        "claim": "The protesters rejected the official account of an exchange of fire and demanded an investigation into the death of Laishram Ranjit, alias Tamnganba.",
+        "quote": "The protesters rejected the official account of an exchange of fire and demanded an investigation into the death of Laishram Ranjit, alias Tamnganba."
+      },
+      {
+        "claim": "According to an official police statement, a joint team of the CRPF and Manipur Police carried out an operation at Yurembam in the early hours of November 20. The operation resulted in the death of one KCP-PWG cadre and the arrest of eight others.",
+        "quote": "According to an official police statement, a joint team of the CRPF and Manipur Police carried out an operation at Yurembam in the early hours of November 20. The operation resulted in the death of one KCP-PWG cadre and the arrest of eight others."
+      },
+      {
+        "claim": "Security personnel reportedly recovered four double-barrel breech-loading (DBBL) guns, 12 live 12-bore cartridges, one live SLR round, a pistol and other miscellaneous items from the site.",
+        "quote": "Security personnel reportedly recovered four double-barrel breech-loading (DBBL) guns, 12 live 12-bore cartridges, one live SLR round, a pistol and other miscellaneous items from the site."
+      },
+      {
+        "claim": "Police said a case had been registered at Patsoi Police Station and an investigation was underway.",
+        "quote": "Police said a case had been registered at Patsoi Police Station and an investigation was underway."
+      },
+      {
+        "claim": "Speaking to the media, Ranjit’s neighbour, Laishram Anandi, said there had been no gunfight when central security forces entered the locality.",
+        "quote": "Speaking to the media, Ranjit’s neighbour, Laishram Anandi, said there had been no gunfight when central security forces entered the locality."
+      },
+      {
+        "claim": "Anandi alleged that she heard security personnel knocking on the door, followed by one or two gunshots. She claimed Ranjit was killed in custody rather than during an exchange of fire.",
+        "quote": "Anandi alleged that she heard security personnel knocking on the door, followed by one or two gunshots. She claimed Ranjit was killed in custody rather than during an exchange of fire."
+      },
+      {
+        "claim": "Demanding an impartial investigation, Ngashepam Debjani Devi, general secretary of the Yurembam Awang Leikai Apunba Meira Paibi, said the women’s collective and local residents strongly condemned the incident.",
+        "quote": "Demanding an impartial investigation, Ngashepam Debjani Devi, general secretary of the Yurembam Awang Leikai Apunba Meira Paibi, said the women’s collective and local residents strongly condemned the incident."
+      },
+      {
+        "claim": "She also questioned why Manipur Police personnel were not present alongside the CRPF CoBRA team during the operation. According to her, Ranjit had surrendered to the government at IGAR (South) in July along with 46 other cadres.",
+        "quote": "She also questioned why Manipur Police personnel were not present alongside the CRPF CoBRA team during the operation. According to her, Ranjit had surrendered to the government at IGAR (South) in July along with 46 other cadres."
+      },
+      {
+        "claim": "Debjani Devi further questioned the use of lethal force, stating that individuals suspected of unlawful activities should be arrested and prosecuted in accordance with the law rather than killed.",
+        "quote": "Debjani Devi further questioned the use of lethal force, stating that individuals suspected of unlawful activities should be arrested and prosecuted in accordance with the law rather than killed."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Women in Imphal West staged a protest condemning the killing of an alleged surrendered militant during a security operation, demanding an impartial investigation into the death of Laishram Ranjit.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "10/10",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

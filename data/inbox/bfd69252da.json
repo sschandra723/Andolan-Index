@@ -1,0 +1,65 @@
+{
+  "id": "bfd69252da",
+  "url": "https://nagalandpost.com/statehood-at-what-cost-the-unfinished-question-of-naga-self-determination/",
+  "title": "Statehood at what cost? The unfinished question of Naga self-determination",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "The Naga National Council and Naga Federal Government reiterate that the Naga people's historical aspiration has always been self-determination, not statehood, and criticize the Indian government for failing to honor past agreements despite promises of autonomy.",
+    "facts": [
+      {
+        "claim": "The NNC/FGN reiterates that the historical and political aspiration of the Naga people has always been self-determination.",
+        "quote": "The NNC/FGN reiterates that the historical and political aspiration of the Naga people has always been self-determination."
+      },
+      {
+        "claim": "This aspiration was unequivocally articulated in the memorandum submitted by the Naga Club to the Simon Commission in 1929, reaffirmed through the declaration of Naga Independence on 14 August 1947, and further demonstrated through the 1951 Naga Voluntary Plebiscite.",
+        "quote": "This aspiration was unequivocally articulated in the memorandum submitted by the Naga Club to the Simon Commission in 1929, reaffirmed through the declaration of Naga Independence on 14 August 1947, and further demonstrated through the 1951 Naga Voluntary Plebiscite."
+      },
+      {
+        "claim": "The NNC/FGN believes that certain brainwashed sections of our people appear to be increasingly oblivious to the fundamental reality that India and the Nagas are worlds apart.",
+        "quote": "The NNC/FGN believes that certain brainwashed sections of our people appear to be increasingly oblivious to the fundamental reality that India and the Nagas are worlds apart."
+      },
+      {
+        "claim": "Statehood was never the political aspiration for which the Naga people declared their independence and made enormous sacrifices.",
+        "quote": "Statehood was never the political aspiration for which the Naga people declared their independence and made enormous sacrifices."
+      },
+      {
+        "claim": "The Government of India has, time and again, demonstrated a recurring pattern of failing to honour the agreements it has signed with the Nagas.",
+        "quote": "The Government of India has, time and again, demonstrated a recurring pattern of failing to honour the agreements it has signed with the Nagas."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Naga National Council and Naga Federal Government argue that historical self-determination, not statehood, has been the Naga people's aspiration, and they criticize the Indian government for failing to honor past agreements despite promises of autonomy.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The NNC/FGN believes that certain brainwashed sections of our people appear to b”",
+        "name “Naga Federal Government” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "888e97282d",
+  "url": "https://www.thehindu.com/news/national/karnataka/protest-against-derogatory-book-on-basavanna/article71725097.ece",
+  "title": "Protest against ‘derogatory’ book on Basavanna",
+  "outlet": "The Hindu",
+  "published": "2026-11-20",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2104,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Protesters in Mysuru gathered to condemn a book 'Basava Mantapa' as insulting 12th century social reformer Basavanna, demanding the author's arrest and branding him a traitor to Basavanna's ideals.",
+    "facts": [
+      {
+        "claim": "Protesters gathered at Basaveshwara Circle in Mysuru",
+        "quote": "Several people gathered at Basaveshwara Circle in Mysuru on Friday to protest against the alleged insult to 12th century social reformer Basavanna in the recently released book ‘Basava Mantapa’ authored by Ravi Hanj and published by Vishweshwar Bhat."
+      },
+      {
+        "claim": "Protesters demanded the author's immediate arrest",
+        "quote": "They demanded his immediate arrest, alleging that he had insulted the Veerashaiva community."
+      },
+      {
+        "claim": "Protesters branded the author a 'traitor' to Basavanna's ideals",
+        "quote": "The protesters also branded him as a “traitor” to Basavanna’s ideals."
+      },
+      {
+        "claim": "Protesters burnt copies of the book",
+        "quote": "The protesters burnt copies of the book as part of their demonstration."
+      },
+      {
+        "claim": "BJP MLA Srivatsa participated in the protest",
+        "quote": "BJP MLA Srivatsa and several leaders of the Veerashaiva community from Mysuru district participated in the protest."
+      },
+      {
+        "claim": "Former corporator K.V. Mallesh demanded the author's arrest",
+        "quote": "former corporator of Mysuru City Corporation (MCC) and Congress leader K.V. Mallesh, in a statement here, has demanded the arrest of the author of the book Ravi Hanj."
+      },
+      {
+        "claim": "K.V. Mallesh accused the author of fleeing abroad",
+        "quote": "He said the passport of Mr. Hanj, who sparked a controversy and fled abroad, should be revoked."
+      },
+      {
+        "claim": "K.V. Mallesh stated the book denigrates Basavanna's personality and ideals",
+        "quote": "He stated that the work ‘Basava Mantapa’, written in a manner that denigrates Basavanna’s personality and his ideals of equality, is detrimental to society."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Protesters in Mysuru gathered to condemn a book 'Basava Mantapa' as insulting 12th century social reformer Basavanna, demanding the author's arrest and branding him a traitor to Basavanna's ideals.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

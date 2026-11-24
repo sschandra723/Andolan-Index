@@ -1,0 +1,56 @@
+{
+  "id": "da8c675217",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/panchkula-nurses-strike-brings-opd-emergency-services-at-civil-hospital-to-a-halt-101795029112768.html",
+  "title": "Panchkula: Nurses’ strike brings OPD, emergency services at Civil Hospital to a halt",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1947,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "up-nhm-staff-2026",
+    "new_movement": null,
+    "summary": "Nurses at Civil Hospital in Panchkula struck for two hours, halting OPD and emergency services due to the suspension of six nursing officers over alleged medical negligence in a patient's death.",
+    "facts": [
+      {
+        "claim": "Nurses at Civil Hospital in Panchkula struck for two hours",
+        "quote": "The strike began at 9 am, leaving the emergency department, outpatient departments (OPDs) and registration counters short-staffed."
+      },
+      {
+        "claim": "halting OPD and emergency services",
+        "quote": "Healthcare services at the Civil Hospital in Sector 6 were disrupted for nearly two hours on Wednesday after around 250 employees, including Haryana Kaushal Rojgar Nigam (HKRN) and nursing staff, protested against the suspension of six nursing officers in connection with the death of patient Ashish Kumar in an alleged medical negligence case."
+      },
+      {
+        "claim": "due to the suspension of six nursing officers over alleged medical negligence in a patient's death",
+        "quote": "The protest was triggered by the health department’s action against six nursing officers over negligence in the treatment of Ashish Kumar, a heart patient, who was not treated properly, which later led to his death, said an official report."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The strike occurred at Civil Hospital in Panchkula, Haryana, as part of broader protests by UP health mission staff over job security and better terms.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The protest was triggered by the health department’s action against six nursing ”"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

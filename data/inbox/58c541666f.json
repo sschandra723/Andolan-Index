@@ -1,0 +1,64 @@
+{
+  "id": "58c541666f",
+  "url": "https://www.greaterkashmir.com/national/concerns-of-people-of-siang-valley-over-dam-project-to-be-addressed-through-dialogue-amit-shah-12830121",
+  "title": "Concerns of people of Siang Valley over dam project to be addressed through dialogue: Amit Shah",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": "siang-dam-protests",
+  "score": 3.0,
+  "matched": [
+    "Siang",
+    "Siang Upper Multipurpose",
+    "=SUMP"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4166,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "Union Home Minister Amit Shah assured Siang Valley residents that concerns over the proposed 11,200-MW Siang Upper Multipurpose Project would be addressed through dialogue, emphasizing the project's national importance and strategic value for Arunachal Pradesh while promising rehabilitation packages and cultural respect.",
+    "facts": [
+      {
+        "claim": "Union Home Minister Amit Shah assured the people of Siang Valley that their concerns would be addressed through dialogue",
+        "quote": "I want to assure my brothers and sisters from Siang that we will find a way forward through positive dialogue... You need not worry about it."
+      },
+      {
+        "claim": "The proposed 11,200-MW Siang Upper Multipurpose Project is of national importance and crucial for Arunachal Pradesh’s development and strategic interests",
+        "quote": "Asserting that the proposed 11,200-MW Siang Upper Multipurpose Project (SUMP) is of national importance and crucial for Arunachal Pradesh’s development and strategic interests"
+      },
+      {
+        "claim": "The government would provide 'one of the country’s most attractive' rehabilitation and resettlement packages",
+        "quote": "Shah also assured people that the government would provide 'one of the country’s most attractive' rehabilitation and resettlement packages for those affected by the proposed project."
+      },
+      {
+        "claim": "The project is considered strategically important by the Centre, particularly in view of China’s plans to develop a massive hydropower project on the upper reaches of the Yarlung Tsangpo River in Tibet",
+        "quote": "The project, proposed on the Siang River, is considered strategically important by the Centre, particularly in view of China’s plans to develop a massive hydropower project on the upper reaches of the Yarlung Tsangpo River in Tibet, which enters India as the Siang before flowing into Assam as the Brahmaputra."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Union Home Minister Amit Shah visited Arunachal Pradesh to address Siang Valley concerns over the proposed 11,200-MW Siang Upper Multipurpose Project, emphasizing dialogue and rehabilitation packages amid indigenous opposition.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/4",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Shah also assured people that the government would provide 'one of the country’s”"
+      ]
+    },
+    "importance": 40,
+    "importance_reason": "6 outlets in the last 48 hours."
+  }
+}

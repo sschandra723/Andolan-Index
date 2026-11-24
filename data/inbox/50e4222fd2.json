@@ -1,0 +1,54 @@
+{
+  "id": "50e4222fd2",
+  "url": "https://www.thehindu.com/news/national/maharashtra/eknath-shinde-tears-sonia-gandhis-book-over-savarkar-references-seeks-ban-in-maharashtra/article71717132.ece",
+  "title": "Shiv Sena members tear pages of Sonia Gandhi’s book over Savarkar references, seek ban in Maharashtra",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3485,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Shiv Sena members tore pages from Sonia Gandhi's memoir Belonging, demanding the publisher remove two pages with alleged Savarkar references and a Maharashtra government ban on the book's sale in the state.",
+    "facts": [
+      {
+        "claim": "Shiv Sena members tore pages from Sonia Gandhi's memoir Belonging",
+        "quote": "Members of Shiv Sena on Wednesday (November 18, 2026) tore pages from Sonia Gandhi's memoir Belonging: A Journey of Love, demanding that the publisher withdraw two pages that the party claimed contained objectionable references to Vinayak Damodar Savarkar."
+      },
+      {
+        "claim": "Shiv Sena demanded the publisher withdraw two pages with alleged Savarkar references",
+        "quote": "We have torn the pages of the book as a mark of protest against the statements on Savarkar ji. We have sought that Harper Collins, the publisher, should scrap these two pages."
+      },
+      {
+        "claim": "Shiv Sena sought a Maharashtra government ban on the book's sale in the state",
+        "quote": "Till they do that, we have sought that the Maharashtra government ban the sale of the book in the State."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Shiv Sena members tore pages from Sonia Gandhi's memoir Belonging, demanding the publisher withdraw two pages with alleged Savarkar references and a Maharashtra government ban on the book's sale in the state.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

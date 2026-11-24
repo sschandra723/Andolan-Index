@@ -1,0 +1,62 @@
+{
+  "id": "b9b958f741",
+  "url": "https://www.greaterkashmir.com/business/how-much-safety-technology-does-an-suv-really-need-12822219",
+  "title": "How Much Safety Technology Does an SUV Really Need?",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The article discusses safety technology in SUVs, comparing features like airbags, stability control, and ADAS systems between the Kia Sonet and Tata Safari models to help buyers prioritize essential safety equipment over feature counts.",
+    "facts": [
+      {
+        "claim": "Safety has become an important consideration for SUV buyers, with manufacturers introducing increasingly sophisticated technologies to protect occupants and assist drivers.",
+        "quote": "Safety has become an important consideration for SUV buyers, with manufacturers introducing increasingly sophisticated technologies to protect occupants and assist drivers."
+      },
+      {
+        "claim": "The Kia Sonet comes with six airbags as standard, along with Electronic Stability Control (ESC), Hill Assist Control (HAC), Vehicle Stability Management (VSM) and all-wheel disc brakes.",
+        "quote": "The Kia Sonet comes with six airbags as standard, along with Electronic Stability Control (ESC), Hill Assist Control (HAC), Vehicle Stability Management (VSM) and all-wheel disc brakes."
+      },
+      {
+        "claim": "The Tata Safari also offers six airbags in its entry-level Smart variant, while higher configurations provide seven airbags, including a driver's knee airbag.",
+        "quote": "The Tata Safari also offers six airbags in its entry-level Smart variant, while higher configurations provide seven airbags, including a driver's knee airbag."
+      },
+      {
+        "claim": "The Sonet offers Level 1 ADAS with 10 driver-assistance functions on applicable variants, including Forward Collision Warning, Forward Collision-Avoidance Assist, Lane Keep Assist and Driver Attention Warning.",
+        "quote": "The Sonet offers Level 1 ADAS with 10 driver-assistance functions on applicable variants. These include Forward Collision Warning, Forward Collision-Avoidance Assist, Lane Keep Assist and Driver Attention Warning."
+      },
+      {
+        "claim": "The Tata Safari takes a more extensive approach, offering Level 2 ADAS on higher variants, including autonomous emergency braking, lane-keeping assistance, adaptive cruise control and intelligent speed assistance.",
+        "quote": "The Tata Safari takes a more extensive approach, offering Level 2 ADAS on higher variants. Available functions include autonomous emergency braking, lane-keeping assistance, adaptive cruise control and intelligent speed assistance."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

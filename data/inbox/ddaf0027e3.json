@@ -1,0 +1,70 @@
+{
+  "id": "ddaf0027e3",
+  "url": "https://www.thehindu.com/news/cities/Madurai/sanitary-workers-protest-in-ramanathapuram-pressing-for-regularisation/article71728397.ece",
+  "title": "Sanitary workers protest in Ramanathapuram pressing for regularisation",
+  "outlet": "The Hindu",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1576,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Municipal sanitary workers in Ramanathapuram staged a protest demanding regularisation of service, revised daily wages, better working conditions, and an end to forced 12-hour shifts.",
+    "facts": [
+      {
+        "claim": "Municipal sanitary workers affiliated to the All India Trade Union Congress (AITUC) staged a demonstration in Ramanathapuram on Saturday, pressing for regularisation of service, revised daily wages, and better working conditions.",
+        "quote": "Municipal sanitary workers affiliated to the All India Trade Union Congress (AITUC) staged a demonstration in Ramanathapuram on Saturday, pressing for regularisation of service, revised daily wages, and better working conditions."
+      },
+      {
+        "claim": "Addressing the protesters, N.K. Rajan, district general secretary, AITUC, urged the State government to fulfill its electoral promise by immediately regularising all sanitary workers who have completed 240 days of service and granting them permanent pay scales.",
+        "quote": "Addressing the protesters, N.K. Rajan, district general secretary, AITUC, urged the State government to fulfill its electoral promise by immediately regularising all sanitary workers who have completed 240 days of service and granting them permanent pay scales."
+      },
+      {
+        "claim": "As per Government Order 181, all contract and temporary workers must be paid a daily wage of ₹181 from the month of November, he demanded.",
+        "quote": "As per Government Order 181, all contract and temporary workers must be paid a daily wage of ₹181 from the month of November, he demanded."
+      },
+      {
+        "claim": "He also demanded the complete abolition of contract, outsourcing, and Self-Help Group (SHG) recruitment models in civic sanitation work, along with the implementation of revised daily wages for temporary workers effective from November as per government orders.",
+        "quote": "He also demanded the complete abolition of contract, outsourcing, and Self-Help Group (SHG) recruitment models in civic sanitation work, along with the implementation of revised daily wages for temporary workers effective from November as per government orders."
+      },
+      {
+        "claim": "The protesters alleged that workers were being subjected to excessive workloads and forced to work 12-hour shifts, calling the practice illegal and demanding strict adherence to an eight-hour workday.",
+        "quote": "The protesters alleged that workers were being subjected to excessive workloads and forced to work 12-hour shifts, calling the practice illegal and demanding strict adherence to an eight-hour workday."
+      },
+      {
+        "claim": "They also condemned municipal officials for allegedly speaking disrespectfully to sanitary staff and demanded an immediate end to such behaviour.",
+        "quote": "They also condemned municipal officials for allegedly speaking disrespectfully to sanitary staff and demanded an immediate end to such behaviour."
+      },
+      {
+        "claim": "Among other demands, the union sought the prompt remittance of deducted Provident Fund (PF) and LIC amounts to the respective institutions with proper receipts issued to workers, as well as the immediate distribution of pending safety gear and essentials, including uniforms, gloves, and soap.",
+        "quote": "Among other demands, the union sought the prompt remittance of deducted Provident Fund (PF) and LIC amounts to the respective institutions with proper receipts issued to workers, as well as the immediate distribution of pending safety gear and essentials, including uniforms, gloves, and soap."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Municipal sanitary workers in Ramanathapuram are demanding regularisation of service, revised daily wages, and better working conditions after being subjected to excessive workloads and forced 12-hour shifts.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

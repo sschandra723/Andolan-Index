@@ -1,0 +1,60 @@
+{
+  "id": "b1d60fdc9e",
+  "url": "https://kashmirobserver.net/2026/11/23/minister-itoo-meets-doctors-amid-ongoing-protest-at-gmc-srinagar/",
+  "title": "Minister Itoo Meets Doctors Amid Ongoing Protest at GMC Srinagar",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1778,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Health Minister Sakina Itoo met protesting doctors at GMC Srinagar and assured them their demands for stipend hikes, parity with other states, and maternity leave would be examined. The protest, now in its fifth consecutive day at GMC Srinagar and sixth at GMC Jammu, has spread to district hospitals across Jammu and Kashmir.",
+    "facts": [
+      {
+        "claim": "protest entered its fifth consecutive day at GMC Srinagar and sixth day at GMC Jammu",
+        "quote": "The protest entered its fifth consecutive day at GMC Srinagar and sixth day at GMC Jammu on Monday"
+      },
+      {
+        "claim": "doctors are demanding a substantial hike in stipends, parity with their counterparts in other States and Union Territories and maternity leave benefits",
+        "quote": "The protesting doctors are demanding a substantial hike in stipends, parity with their counterparts in other States and Union Territories and maternity leave benefits."
+      },
+      {
+        "claim": "Health Minister Sakina Itoo assured doctors their demands would be examined and all possible assistance extended",
+        "quote": "Srinagar- Jammu and Kashmir Health and Medical Education Minister Sakina Itoo on Monday met protesting postgraduate (PG) and senior resident doctors at Government Medical College (GMC) Srinagar and assured them that their demands would be examined and all possible assistance extended to address their concerns."
+      },
+      {
+        "claim": "The protest has spread to district hospitals across Jammu and Kashmir",
+        "quote": "The minister’s intervention, however, failed to end the agitation, which has spread beyond medical colleges to several district hospitals across Jammu and Kashmir."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest involves doctors demanding stipend hikes, parity with other states, and maternity leave benefits, spreading from medical colleges to district hospitals in Jammu and Kashmir.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Health Minister Sakina Itoo” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

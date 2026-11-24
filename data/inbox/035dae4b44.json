@@ -1,0 +1,68 @@
+{
+  "id": "035dae4b44",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/sukhu-accuses-previous-bjp-regime-of-selling-himachal-assets-101795204533195.html",
+  "title": "Sukhu accuses previous BJP regime of ‘selling’ Himachal assets",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3702,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu accused the previous BJP government of selling state assets at throwaway prices, citing examples like allotting 300 bighas to a private firm at ₹1 per square metre and 4,000 bighas at similar rates. The CM also claimed 5,000 bighas in Baddi-Nalagarh were under consideration for a 99-year lease at nominal rates.",
+    "facts": [
+      {
+        "claim": "Sukhu accused the previous BJP government of putting state’s assets up for sale and allotting land to private firms at throwaway prices",
+        "quote": "Himachal Pradesh chief minister Sukhvinder Singh Sukhu on Friday accused the previous BJP government of putting state’s assets up for sale and allotting land to private firms at throwaway prices in the name of customised packages."
+      },
+      {
+        "claim": "Industrial land was given to big companies at concessional rates while young entrepreneurs from Himachal were made to pay market prices",
+        "quote": "Sukhu said industrial land was given to big companies at concessional rates while young entrepreneurs from Himachal were made to pay market prices."
+      },
+      {
+        "claim": "300 bighas were allotted to a private firm at ₹1 per square metre, along with a waiver of electricity duty of ₹3 per unit",
+        "quote": "He said 300 bighas were allotted to a private firm at ₹1 per square metre, along with a waiver of electricity duty of ₹3 per unit."
+      },
+      {
+        "claim": "Around 4,000 bighas were allotted at the same rate",
+        "quote": "He also alleged that around 4,000 bighas were allotted at the same rate, while another 150 bighas were given to another private firm."
+      },
+      {
+        "claim": "Nearly 5,000 bighas in the Baddi-Nalagarh belt were being considered for a 99-year lease at the nominal rate",
+        "quote": "He claimed that nearly 5,000 bighas in the Baddi-Nalagarh belt were being considered for a 99-year lease at the nominal rate."
+      },
+      {
+        "claim": "Sukhu accused the previous regime of favouring a company associated with a film personality by allotting around 124 bighas in Manali, allegedly worth more than ₹500 crore",
+        "quote": "Sukhu alleged that during the previous BJP government’s tenure, industrial plots were converted into real estate projects. The CM said 300 bighas were allotted to a private firm at ₹1 per square metre, along with a waiver of electricity duty of ₹3 per unit. He claimed that no work had been undertaken on the proposed project so far."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu accused the previous BJP government of selling state assets at throwaway prices, citing examples like allotting 300 bighas to a private firm at ₹1 per square metre and 4,000 bighas at similar rates.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “He said 300 bighas were allotted to a private firm at ₹1 per square metre, along”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

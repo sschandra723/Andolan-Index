@@ -1,0 +1,53 @@
+{
+  "id": "864089278a",
+  "url": "https://scroll.in/latest/1097228/after-siang-dam-protests-amit-shah-says-centre-will-hold-constructive-talks-in-arunachal",
+  "title": "After Siang dam protests, Amit Shah says Centre will hold ‘constructive’ talks in Arunachal",
+  "outlet": "Scroll.in",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": "siang-dam-protests",
+  "score": 3.0,
+  "matched": [
+    "Siang dam protest",
+    "Siang"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3947,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "Union Home Minister Amit Shah said the Centre will hold constructive talks with stakeholders about the Siang dam project after protests turned violent in Arunachal Pradesh.",
+    "facts": [
+      {
+        "claim": "Amit Shah said the Centre will hold constructive talks with stakeholders about the Siang dam project",
+        "quote": "Union Home Minister Amit Shah on Saturday said that “positive and constructive” discussions will be held with stakeholders about the project."
+      },
+      {
+        "claim": "Protests turned violent in Arunachal Pradesh",
+        "quote": "On October 23, protesters vandalised and set fire to an office of the National Hydroelectric Power Corporation and a police station in Pasighat after security personnel fired tear gas during the agitation."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Siang dam project, proposed in 2017 by NITI Aayog, is the country's largest dam if completed and has faced opposition from local communities in Arunachal Pradesh.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "6 outlets in the last 48 hours."
+  }
+}

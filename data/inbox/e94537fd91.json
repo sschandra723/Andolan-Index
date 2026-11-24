@@ -1,0 +1,54 @@
+{
+  "id": "e94537fd91",
+  "url": "https://www.sentinelassam.com/more-news/national-news/srfti-panel-to-submit-campus-violence-report-by-november-27-amid-ongoing-protests",
+  "title": "SRFTI Panel to Submit Campus Violence Report by November 27 Amid Ongoing Protests",
+  "outlet": "The Sentinel",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "SRFTI"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2392,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "srfti-kolkata-protest-2026",
+    "new_movement": null,
+    "summary": "SRFTI students have been protesting since September 27 after alleged campus violence, with a fact-finding committee expected to submit a report on the September 27 incident by November 27, 2026.",
+    "facts": [
+      {
+        "claim": "SRFTI students have been protesting since September 27 after alleged campus violence",
+        "quote": "The Kolkata-based premier film institute has been witnessing ongoing student protests since September 27 following alleged attacks on students at the Main Theatre during an event organised by the RSS-affiliated Akhil Bharatiya Grahak Panchayat."
+      },
+      {
+        "claim": "a fact-finding committee expected to submit a report on the September 27 incident by November 27, 2026",
+        "quote": "The Fact-Finding Committee is actively engaged in its work. The volume of material, records and other evidence requiring examination is substantial, and the Committee is undertaking a detailed and rigorous exercise to ensure that all relevant aspects are duly considered."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "SRFTI students have been protesting since September 27 after alleged attacks on students at the Main Theatre during an event organised by the RSS-affiliated Akhil Bharatiya Grahak Panchayat.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "1/2",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The Fact-Finding Committee is actively engaged in its work. The volume of materi”"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

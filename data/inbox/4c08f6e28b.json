@@ -1,0 +1,54 @@
+{
+  "id": "4c08f6e28b",
+  "url": "https://www.hindustantimes.com/cities/others/radiation-risks-drivers-at-vallarpadam-container-terminal-call-off-protest-101795317274988.html",
+  "title": "Radiation risks: Drivers at Vallarpadam Container Terminal call off protest",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3140,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Drivers at Vallarpadam Container Terminal in Kochi ended a 13-day protest over radiation concerns during container scanning after a meeting with officials agreed to address health risks and conduct medical checks for 3,000 workers.",
+    "facts": [
+      {
+        "claim": "Drivers at Vallarpadam Container Terminal in Kochi called off their 13-day non-cooperation protest",
+        "quote": "Kochi, Drivers working at the DP World-operated Vallarpadam Container Terminal in Kochi on Saturday called off their 13-day non-cooperation protest over concerns about possible health risks from radiation during container scanning, officials said."
+      },
+      {
+        "claim": "The protest began after Customs, following a Central government directive, decided to scan all containers at the terminal",
+        "quote": "The protest began after Customs, following a Central government directive, decided to scan all containers at the terminal."
+      },
+      {
+        "claim": "A medical team would conduct a detailed examination of the health of around 3,000 workers",
+        "quote": "A medical team would also conduct a detailed examination of the health of around 3,000 workers who had been associated with the port since it began operations in 2018, and submit a report within three months."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Drivers at Vallarpadam Container Terminal in Kochi ended a 13-day protest over radiation concerns during container scanning after a meeting with officials agreed to address health risks and conduct medical checks for 3,000 workers.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

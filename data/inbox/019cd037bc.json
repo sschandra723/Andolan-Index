@@ -1,0 +1,62 @@
+{
+  "id": "019cd037bc",
+  "url": "https://www.hindustantimes.com/cities/mumbai-news/after-13-yrs-borivali-s-bhagwati-hosp-set-to-reopen-from-july-2027-101795286269139.html",
+  "title": "After 13 yrs, Borivali’s Bhagwati Hosp set to reopen from July 2027",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2339,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "After 13 years, Mumbai's Bhagwati Hospital is set to reopen in July 2027 following a protest by Shiv Sena (UBT) leader Aditya Thackeray against its proposed public-private partnership model.",
+    "facts": [
+      {
+        "claim": "After 13 years, Mumbai's Bhagwati Hospital is set to reopen in July 2027",
+        "quote": "After 13 yrs, Borivali’s Bhagwati Hosp set to reopen from July 2027"
+      },
+      {
+        "claim": "Following a protest led by Shiv Sena (UBT) leader Aditya Thackeray outside the hospital on November 16 against its proposed public-private partnership (PPP) model",
+        "quote": "Following a protest led by Shiv Sena (UBT) leader Aditya Thackeray outside the hospital on November 16 against its proposed public-private partnership (PPP) model"
+      },
+      {
+        "claim": "The hospital was shut in 2013 after being declared dilapidated",
+        "quote": "the hospital was shut in 2013 after being declared dilapidated"
+      },
+      {
+        "claim": "Patients were shifted to Shatabdi Hospital in Kandivli",
+        "quote": "its patients were shifted to Shatabdi Hospital in Kandivli"
+      },
+      {
+        "claim": "The hospital will have MRI, CT scan, cath lab, blood centres, burns wards and a 20-bed neonatal ICU",
+        "quote": "Once renovated, Bhagwati Hospital will have MRI, CT scan, cath lab, blood centres, burns wards and a 20-bed neonatal ICU"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The hospital was closed in 2013 due to being declared dilapidated and patients were shifted to Shatabdi Hospital, which has since become overwhelmed with patients from across Mumbai and beyond.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

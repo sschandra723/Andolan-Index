@@ -1,0 +1,72 @@
+{
+  "id": "48d9fa0637",
+  "url": "https://www.newindianexpress.com/india/2026/Nov/20/auto-drivers-launch-protest-over-delay-in-fare-revision",
+  "title": "Auto drivers launch protest over delay in fare revision",
+  "outlet": "The New Indian Express",
+  "published": "2026-11-19",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1206,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "gig-workers-strike-2025",
+    "new_movement": null,
+    "summary": "Transport unions affiliated with Bharatiya Mazdoor Sangh staged a protest in New Delhi demanding higher auto and taxi fares, a ban on private bike-taxi services, and removal of fitness requirements for auto-rickshaws, citing unfulfilled government promises.",
+    "facts": [
+      {
+        "claim": "Transport unions affiliated with Bharatiya Mazdoor Sangh staged a protest in New Delhi",
+        "quote": "Cab fares across the National Capital Region (NCR) spiked on Thursday morning as transport unions staged a protest to demand higher auto and taxi fares."
+      },
+      {
+        "claim": "The protesters also sought a ban on private bike-taxi services and the withdrawal of certain fitness-related requirements for auto-rickshaws",
+        "quote": "The protesters, organised by transport unions affiliated with the Bharatiya Mazdoor Sangh (BMS) at Ramlila Maidan, also sought a ban on private bike-taxi services and the withdrawal of certain fitness-related requirements for auto-rickshaws."
+      },
+      {
+        "claim": "A large number of transport workers from different states across India participated and raised their voices against the policies of the Centre and Delhi government",
+        "quote": "A statement issued by the unions said, “A large number of transport workers from different states across India participated and raised their voices against the policies of the Centre and Delhi government.”"
+      },
+      {
+        "claim": "The government in Delhi has been in power for more than one and a half years, yet not a single promise made to auto and taxi drivers has been fulfilled",
+        "quote": "The government in Delhi has been in power for more than one and a half years, yet not a single promise made to auto and taxi drivers has been fulfilled."
+      },
+      {
+        "claim": "Rajendra Soni, former general secretary of the unions, said the Delhi government introduced new rules that increased difficulties of drivers",
+        "quote": "According to Rajendra Soni, former general secretary of the unions, said the Delhi government introduced new rules that increased difficulties of drivers."
+      },
+      {
+        "claim": "Drivers are the backbone of the transport system, but their problems continue to be neglected",
+        "quote": "He said, “Drivers are the backbone of the transport system, but their problems continue to be neglected.”"
+      },
+      {
+        "claim": "Commuters faced problems, claiming that a ride from Mayur Vihar to Sector 62 in Noida, which costs around Rs 300 on cab-hailing platforms, was showing fares of over Rs 400- Rs 450",
+        "quote": "Commuters faced problems, claiming that a ride from Mayur Vihar to Sector 62 in Noida, which costs around Rs 300 on cab-hailing platforms, was showing fares of over Rs 400- Rs 450."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Transport unions affiliated with Bharatiya Mazdoor Sangh staged a protest in New Delhi demanding higher auto and taxi fares, a ban on private bike-taxi services, and removal of fitness requirements for auto-rickshaws, citing unfulfilled government promises.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/7",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “A statement issued by the unions said, “A large number of transport workers from”"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

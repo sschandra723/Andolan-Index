@@ -1,0 +1,47 @@
+{
+  "id": "9935419dd0",
+  "url": "https://www.greaterkashmir.com/videos/around-3000-non-gazetted-employees-protest-across-5-gmcs-over-recruitment-rules-12826340",
+  "title": "Around 3,000 non-gazetted employees protest across 5 GMCs over recruitment rules",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Non-gazetted employees across five GMCs protested over recruitment rules, with the protest involving approximately 3,000 people.",
+    "facts": [
+      {
+        "claim": "3,000",
+        "quote": "Around 3,000 non-gazetted employees protest across 5 GMCs over recruitment rules"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

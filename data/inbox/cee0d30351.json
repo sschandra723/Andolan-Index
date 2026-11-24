@@ -1,0 +1,62 @@
+{
+  "id": "cee0d30351",
+  "url": "https://theprint.in/india/congress-protests-against-shiv-sena-over-tearing-of-copies-of-sonia-gandhis-book/3102588/",
+  "title": "Congress protests against Shiv Sena over tearing of copies of Sonia Gandhi’s book",
+  "outlet": "ThePrint",
+  "published": "2026-11-18",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1299,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Congress activists in Latur protested after Shiv Sena leaders tore copies of Sonia Gandhi's book during a Mumbai press conference, with Congress alleging the act reflected Sena's intellectual bankruptcy and damaged Bal Thackeray's image.",
+    "facts": [
+      {
+        "claim": "Congress activists protested in Latur on Wednesday after Shiv Sena leaders tore copies of Sonia Gandhi’s book",
+        "quote": "Latur, Nov 18 (PTI) Congress activists protested in Latur on Wednesday after Shiv Sena leaders tore copies of Sonia Gandhi’s book ‘Belonging: A Journey of Love’ during a press conference in Mumbai."
+      },
+      {
+        "claim": "Congress office-bearers and workers gathered carrying a banner condemning the Deputy CM Eknath Shinde-led party",
+        "quote": "A large number of Congress office-bearers and workers gathered on a prominent road in the city in the evening, carrying a banner condemning the Deputy CM Eknath Shinde-led party and raising slogans."
+      },
+      {
+        "claim": "Latur district Congress president Abhay Salunke described the act as an 'irresponsible attempt driven by arrogance of power and money'",
+        "quote": "Latur district Congress president Abhay Salunke alleged that the act of tearing Sonia Gandhi’s memoir reflected the intellectual bankruptcy of Sena leaders, describing it as an \"irresponsible attempt driven by arrogance of power and money\"."
+      },
+      {
+        "claim": "Shiv Sena leaders, including Shaina NC, tore copies of Sonia Gandhi’s book claiming it insulted Hindutva ideologue V D Savarkar",
+        "quote": "At a press conference in Mumbai, Shiv Sena leaders, including Shaina NC, tore copies of Sonia Gandhi’s just-released book, claiming it insulted Hindutva ideologue V D Savarkar and described RSS members as informers of British authorities."
+      },
+      {
+        "claim": "Shaina NC inadvertently tore a paper with a photo of Bal Thackeray",
+        "quote": "During the press conference, Shaina NC inadvertently tore a paper with a photo of Bal Thackeray, sparking a political controversy."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress activists in Latur protested after Shiv Sena leaders tore copies of Sonia Gandhi's book during a Mumbai press conference, with Congress alleging the act reflected Sena's intellectual bankruptcy and damaged Bal Thackeray's image.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

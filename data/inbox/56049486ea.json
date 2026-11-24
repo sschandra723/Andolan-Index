@@ -1,0 +1,54 @@
+{
+  "id": "56049486ea",
+  "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/22/protests-hit-meta-offices",
+  "title": "Protests hit Meta offices",
+  "outlet": "The Star",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2598,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Indian Youth Congress protested outside Meta offices in Hyderabad and Mumbai, claiming the company removed their Instagram accounts without consent, while the government says it only removes content that breaches laws or threatens public safety.",
+    "facts": [
+      {
+        "claim": "The Indian Youth Congress protested outside Meta offices in Hyderabad and Mumbai",
+        "quote": "The youth wing of India’s main opposition Congress party clashed with police outside Meta offices, protesting the company’s removal of some Instagram accounts of its members, according to footage released by the group."
+      },
+      {
+        "claim": "The government says it only removes content that breaches laws or threatens public safety",
+        "quote": "Modi’s government says it orders content taken down only if it breaches local laws, can harm public safety or national security."
+      },
+      {
+        "claim": "Thousands of accounts of journalists, creators and influencers critical of the government remain restricted",
+        "quote": "Two such accounts were restored after Friday’s protests, but thousands of accounts of journalists, creators and influencers critical of the government remain restricted, Manu Jain, who is in charge of social media for the youth group, said yesterday."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Indian Youth Congress has been protesting Meta's removal of Instagram accounts since the government started removing accounts of opposition figures and journalists.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

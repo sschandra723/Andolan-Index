@@ -1,0 +1,77 @@
+{
+  "id": "f0566a0ca9",
+  "url": "https://hyderabadmail.com/bhogapuram-airport-taxi-drivers-protest-350-entry-fee/",
+  "title": "Taxi drivers protest over ₹350 entry fee at Bhogapuram airport",
+  "outlet": "hyderabadmail",
+  "published": "2026-11-17",
+  "collected": "2026-11-18",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2438,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Taxi drivers in Andhra Pradesh protested near Bhogapuram airport on November 18, 2026, claiming a ₹350 entry fee for local taxis would increase their operating costs and passenger fares.",
+    "facts": [
+      {
+        "claim": "Taxi drivers staged a protest near Alluri Sitarama Raju International Airport at Bhogapuram on Wednesday, November 18, 2026, opposing an alleged ₹350 entry fee for local taxis.",
+        "quote": "HYDERABAD: Taxi drivers staged a protest near Alluri Sitarama Raju International Airport at Bhogapuram on Wednesday, November 18, 2026, opposing an alleged ₹350 entry fee for local taxis."
+      },
+      {
+        "claim": "The drivers said authorities were asking them to pay ₹350 to enter the airport premises and pick up or drop off passengers.",
+        "quote": "The drivers said authorities were asking them to pay ₹350 to enter the airport premises and pick up or drop off passengers."
+      },
+      {
+        "claim": "They argued that the charge would increase their operating costs and burden passengers.",
+        "quote": "They argued that the charge would increase their operating costs and burden passengers."
+      },
+      {
+        "claim": "According to the protesting drivers, a taxi journey from Visakhapatnam to Bhogapuram airport costs around ₹1,000. If drivers pass on the entry fee to passengers, the total fare could increase to approximately ₹1,350.",
+        "quote": "According to the protesting drivers, a taxi journey from Visakhapatnam to Bhogapuram airport costs around ₹1,000. If drivers pass on the entry fee to passengers, the total fare could increase to approximately ₹1,350."
+      },
+      {
+        "claim": "Bhogapuram airport lies around 45–50 km from Visakhapatnam via National Highway 16. Taxis remain an important transport option for passengers travelling between the city and the airport.",
+        "quote": "Bhogapuram airport lies around 45–50 km from Visakhapatnam via National Highway 16. Taxis remain an important transport option for passengers travelling between the city and the airport."
+      },
+      {
+        "claim": "Taxi drivers staged a protest near Bhogapuram airport over an entry fee of ₹350 being charged to local taxis entering the airport premises.",
+        "quote": "Taxi drivers staged a protest near Bhogapuram airport over an entry fee of ₹350 being charged to local taxis entering the airport premises."
+      },
+      {
+        "claim": "Drivers alleged that local taxis have to pay an additional ₹350 to enter the airport area.",
+        "quote": "Drivers alleged that local taxis have to pay an additional ₹350 to enter the airport area."
+      },
+      {
+        "claim": "They said passengers travelling from Visakhapatnam to the airport are already paying ₹1,000 in taxi fares and now face an additional burden of ₹350.",
+        "quote": "They said passengers travelling from Visakhapatnam to the airport are already paying ₹1,000 in taxi fares and now face an additional burden of ₹350."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Taxi drivers in Andhra Pradesh protested near Bhogapuram airport on November 18, 2026, claiming a ₹350 entry fee for local taxis would increase their operating costs and passenger fares.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “HYDERABAD: Taxi drivers staged a protest near Alluri Sitarama Raju International”",
+        "name “Andhra Pradesh” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

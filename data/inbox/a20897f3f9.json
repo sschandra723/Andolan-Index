@@ -1,0 +1,66 @@
+{
+  "id": "a20897f3f9",
+  "url": "https://www.timesnownews.com/india/ys-jagan-mohan-reddy-caste-census-protest-delhi-november-28-article-156539463",
+  "title": "Caste Census Row: YS Jagan Gets Invite For November 28 Delhi Protest",
+  "outlet": "Times Now",
+  "published": "2026-11-20",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2486,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A delegation seeking a comprehensive caste census invited YS Jagan Mohan Reddy to join a national protest in New Delhi on November 28, aiming to secure detailed caste-wise data for reservation benefits.",
+    "facts": [
+      {
+        "claim": "A delegation seeking a comprehensive caste census has invited former Andhra Pradesh Chief Minister and YSR Congress Party president YS Jagan Mohan Reddy to join a national protest in New Delhi on November 28.",
+        "quote": "A delegation seeking a comprehensive caste census has invited former Andhra Pradesh Chief Minister and YSR Congress Party president YS Jagan Mohan Reddy to join a national protest in New Delhi on November 28."
+      },
+      {
+        "claim": "Reddy responded positively to the invitation, according to a party statement.",
+        "quote": "Reddy responded positively to the invitation, according to a party statement."
+      },
+      {
+        "claim": "The committee, which describes itself as a coalition of OBC organisations and civil-society groups, wants the Centre to revise its proposed methodology for caste enumeration in the 2027 Census.",
+        "quote": "The committee, which describes itself as a coalition of OBC organisations and civil-society groups, wants the Centre to revise its proposed methodology for caste enumeration in the 2027 Census."
+      },
+      {
+        "claim": "Professor Suraj Mandal of Delhi University, grandson of former Mandal Commission chairman B.P. Mandal, said the census should include a separate OBC column and a caste-wise dropdown menu.",
+        "quote": "Professor Suraj Mandal of Delhi University, grandson of former Mandal Commission chairman B.P. Mandal, said the census should include a separate OBC column and a caste-wise dropdown menu."
+      },
+      {
+        "claim": "Dr Goud Kiran Kumar, national president of the All India OBC Students Association, said the committee had brought together 60 OBC organisations from states including Madhya Pradesh, Maharashtra, Karnataka and Tamil Nadu.",
+        "quote": "Dr Goud Kiran Kumar, national president of the All India OBC Students Association, said the committee had brought together 60 OBC organisations from states including Madhya Pradesh, Maharashtra, Karnataka and Tamil Nadu."
+      },
+      {
+        "claim": "Dr. Kumar said reliable caste-wise data was necessary to contest the 50 per cent ceiling on reservations and to defend BC reservation rights before courts.",
+        "quote": "Dr. Kumar said reliable caste-wise data was necessary to contest the 50 per cent ceiling on reservations and to defend BC reservation rights before courts."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The delegation is part of a broader movement to secure detailed caste-wise data for reservation benefits, aiming to revise the 2027 Census methodology to include comprehensive OBC and BC data.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

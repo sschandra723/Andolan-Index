@@ -1,0 +1,88 @@
+{
+  "id": "0594d232ba",
+  "url": "https://www.greaterkashmir.com/srinagar/skuast-k-trains-participants-in-detection-and-prevention-of-zoonotic-diseases-under-one-health-initiative-12821931",
+  "title": "SKUAST-K trains participants in detection and prevention of Zoonotic diseases under One Health Initiative",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2305,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "SKUAST-K organised a one-day workshop on zoonotic disease prevention under One Health initiative, focusing on practical training and interdisciplinary collaboration.",
+    "facts": [
+      {
+        "claim": "SKUAST-K organised a one-day workshop on 'Toolkit for Zoonoses' under the One Health initiative",
+        "quote": "The Division of Veterinary Public Health and Epidemiology, Faculty of Veterinary Sciences and Animal Husbandry (FVSc & AH), SKUAST-K, organised a one-day workshop on \"Toolkit for Zoonoses\" under the One Health initiative, focusing on the prevention, diagnosis and control of zoonotic diseases through scientific awareness and practical training."
+      },
+      {
+        "claim": "Prof. Sabia Qureshi, Associate Dean, FVSc & AH, attended as Chief Guest and emphasised the need for interdisciplinary collaboration and professional training",
+        "quote": "Prof. Sabia Qureshi, Associate Dean, FVSc & AH, attended as Chief Guest and emphasised the need for interdisciplinary collaboration and professional training to address emerging zoonotic threats."
+      },
+      {
+        "claim": "Prof. Zia ul Hassan Munshi, former Head, Division of Veterinary Public Health and Epidemiology, highlighted the importance of One Health, zoonoses and food safety",
+        "quote": "Prof. Zia ul Hassan Munshi, former Head, Division of Veterinary Public Health and Epidemiology, highlighted the importance of One Health, zoonoses and food safety in safeguarding human health."
+      },
+      {
+        "claim": "Dr Najimaana Wani, Senior Assistant Professor-cum-Junior Scientist and Programme Coordinator, highlighted the importance of practical diagnostic skills",
+        "quote": "Dr Najimaana Wani, Senior Assistant Professor-cum-Junior Scientist and Programme Coordinator, welcomed the participants and highlighted the importance of practical diagnostic skills in veterinary public health."
+      },
+      {
+        "claim": "The technical sessions featured lectures and hands-on demonstrations on key zoonotic diseases and preventive practices",
+        "quote": "The technical sessions featured lectures and hands-on demonstrations on key zoonotic diseases and preventive practices."
+      },
+      {
+        "claim": "Dr Syed Akram Hussain, Professor and Head, spoke on occupational zoonoses and the protection of farmers, veterinarians and animal handlers",
+        "quote": "Dr Syed Akram Hussain, Professor and Head, spoke on occupational zoonoses and the protection of farmers, veterinarians and animal handlers."
+      },
+      {
+        "claim": "Dr Mudasir Ali Rather, Associate Professor-cum-Senior Scientist, discussed brucellosis at the human-animal interface and demonstrated serological and molecular diagnostic approaches",
+        "quote": "Dr Mudasir Ali Rather, Associate Professor-cum-Senior Scientist, discussed brucellosis at the human-animal interface and demonstrated serological and molecular diagnostic approaches."
+      },
+      {
+        "claim": "Dr Najimaana Wani addressed foodborne zoonoses and farm-to-fork food safety, with a demonstration on the isolation and identification of foodborne pathogens",
+        "quote": "Dr Najimaana Wani addressed foodborne zoonoses and farm-to-fork food safety, with a demonstration on the isolation and identification of foodborne pathogens."
+      },
+      {
+        "claim": "Dr Shabu Shoukat, Assistant Professor-cum-Senior Scientist, discussed mastitis management and demonstrated field screening and laboratory diagnostic techniques",
+        "quote": "Dr Shabu Shoukat, Assistant Professor-cum-Senior Scientist, discussed mastitis management and demonstrated field screening and laboratory diagnostic techniques."
+      },
+      {
+        "claim": "Dr Innas Yousuf, Contractual Lecturer, demonstrated the collection, transportation and handling of samples for zoonotic disease diagnosis",
+        "quote": "Dr Innas Yousuf, Contractual Lecturer, demonstrated the collection, transportation and handling of samples for zoonotic disease diagnosis."
+      },
+      {
+        "claim": "The workshop provided participants with practical exposure to diagnostic and preventive techniques, reinforcing the importance of food safety, occupational health and coordinated One Health interventions",
+        "quote": "The workshop provided participants with practical exposure to diagnostic and preventive techniques, reinforcing the importance of food safety, occupational health and coordinated One Health interventions."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "11/11",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

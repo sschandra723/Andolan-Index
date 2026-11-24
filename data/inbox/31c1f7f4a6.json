@@ -1,0 +1,66 @@
+{
+  "id": "31c1f7f4a6",
+  "url": "https://www.greaterkashmir.com/national/india-emerging-as-global-research-hub-for-diabetes-genetic-disorders-and-next-generation-healthcare-solutions-dr-jitendra-singh-12826973",
+  "title": "India emerging as global research hub for diabetes, genetic disorders and next-generation healthcare solutions: Jitendra Singh",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "India's Union Minister Dr. Jitendra Singh stated that the country is becoming a global research hub for diabetes, genetic disorders and healthcare solutions, with multiple research initiatives underway under the Ministry of Science & Technology and Department of Biotechnology.",
+    "facts": [
+      {
+        "claim": "India is emerging as a global research hub for diabetes, genetic disorders and next-generation healthcare solutions",
+        "quote": "India is emerging as a global research hub for diabetes, genetic disorders and next-generation healthcare solutions, with over a dozen diabetes-related research projects currently underway under the Ministry of Science & Technology, largely through the Department of Biotechnology (DBT) and some through CSIR, Union Minister Dr. Jitendra Singh said today."
+      },
+      {
+        "claim": "Research is increasingly focused on the prevention and control of diabetes through next-generation molecular and genetic solutions",
+        "quote": "Emphasising that research is increasingly focused on the prevention and control of diabetes through next-generation molecular and genetic solutions, Dr. Singh said India’s vast population and genetic diversity offer a unique opportunity to develop scientific insights and healthcare solutions with relevance for the country and the world."
+      },
+      {
+        "claim": "India has undergone a significant transformation in its scientific and healthcare capabilities",
+        "quote": "The Minister said India has undergone a significant transformation in its scientific and healthcare capabilities, moving from dependence on external solutions to developing indigenous vaccines, therapies, antibiotics and advanced medical technologies."
+      },
+      {
+        "claim": "India has emerged as a frontline contributor to scientific research",
+        "quote": "He also referred to India’s vaccine pipeline for diseases such as HPV, dengue and malaria, and advances in genetic therapies, demonstrating the expanding scope of Indian biomedical research."
+      },
+      {
+        "claim": "Research initiatives include an Indo-Danish collaborative study on gut microbiota among prediabetic and diabetic patients",
+        "quote": "Among the major research initiatives underway is an Indo-Danish collaborative study examining India-specific changes in gut microbiota among prediabetic and diabetic patients, aimed at advancing understanding of the role of gut microbial patterns in metabolic disorders."
+      },
+      {
+        "claim": "Research involves genetically engineered E. coli Nissle 1917 capable of producing GLP-1",
+        "quote": "Another DBT-supported study involves genetically engineered E. coli Nissle 1917 capable of producing GLP-1, with the potential to be developed as a probiotic-based approach for delivering therapeutic molecules through the gastrointestinal tract, with human studies expected to be undertaken."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

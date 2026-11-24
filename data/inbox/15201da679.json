@@ -1,0 +1,79 @@
+{
+  "id": "15201da679",
+  "url": "https://www.greaterkashmir.com/ladakh/ladakh-chief-secretary-rules-out-sidelining-lab-kda-says-elected-lahdc-members-to-join-talks-12831513",
+  "title": "Ladakh Chief Secretary rules out sidelining LAB, KDA; says elected LAHDC members to join talks",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": "ladakh-statehood",
+  "score": 8.0,
+  "matched": [
+    "Ladakh",
+    "Leh Apex Body",
+    "Kargil Democratic Alliance",
+    "Sonam Wangchuk",
+    "Leh",
+    "Kargil",
+    "=LAB",
+    "=KDA"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5141,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh Chief Secretary Ashish Kundra stated political dialogue with Ladakh's leadership will resume after December 15, 2026, involving newly elected LAHDC representatives alongside existing LAB and KDA groups seeking constitutional safeguards and statehood.",
+    "facts": [
+      {
+        "claim": "political dialogue between the Ministry of Home Affairs (MHA) and Ladakh's leadership will resume after December 15, 2026",
+        "quote": "Ladakh Chief Secretary Ashish Kundra on Sunday said the political dialogue between the Ministry of Home Affairs (MHA) and Ladakh's leadership will resume after December 15, with newly elected representatives to the eight Ladakh Autonomous Hill Development Councils (LAHDCs) also expected to be part of the future engagement."
+      },
+      {
+        "claim": "newly elected representatives to the eight Ladakh Autonomous Hill Development Councils (LAHDCs) will be part of the future engagement",
+        "quote": "Ladakh Chief Secretary Ashish Kundra on Sunday said the political dialogue between the Ministry of Home Affairs (MHA) and Ladakh's leadership will resume after December 15, with newly elected representatives to the eight Ladakh Autonomous Hill Development Councils (LAHDCs) also expected to be part of the future engagement."
+      },
+      {
+        "claim": "the inclusion of elected representatives does not mean replacing or undermining the ongoing dialogue with the Leh Apex Body (LAB) and Kargil Democratic Alliance (KDA)",
+        "quote": "The Chief Secretary, however, clarified that the inclusion of elected representatives does not mean replacing or undermining the ongoing dialogue with the Leh Apex Body (LAB) and Kargil Democratic Alliance (KDA), which have jointly engaged with the Centre for the past five years, seeking constitutional safeguards and statehood for Ladakh."
+      },
+      {
+        "claim": "the Ministry of Home Affairs is going to resume the process of political dialogue for a larger structure or UT-level body",
+        "quote": "He said the Ministry of Home Affairs is going to resume the process of political dialogue for a larger structure or UT-level body which has been under discussion."
+      },
+      {
+        "claim": "the proposed UT-level body could have directly elected representatives, with its constituencies demarcated afresh",
+        "quote": "He indicated that the proposed UT-level body could have directly elected representatives, with its constituencies demarcated afresh."
+      },
+      {
+        "claim": "the distribution of powers between the proposed UT-level institution and the eight district councils would be determined through negotiations",
+        "quote": "He said the distribution of powers between the proposed UT-level institution and the eight district councils would be determined through negotiations."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh's movement for statehood has been ongoing since 2019, with the current protests seeking constitutional safeguards and statehood through dialogue with the Centre.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": [
+        "number 2026 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

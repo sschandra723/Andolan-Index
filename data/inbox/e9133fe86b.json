@@ -1,0 +1,56 @@
+{
+  "id": "e9133fe86b",
+  "url": "https://www.greaterkashmir.com/jammu/gmc-kathua-non-gazetted-employees-extend-strike-for-another-72-hours-12821891",
+  "title": "GMC Kathua non-gazetted employees extend strike for another 72 hours",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-19",
+  "collected": "2026-11-19",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4206,
+    "fetch_note": null,
+    "drafted": "2026-11-19",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Non-gazetted employees of Government Medical College Kathua extended their strike for 72 hours, protesting delays in finalizing Service Recruitment Rules (SRRs) that have been pending for over seven years.",
+    "facts": [
+      {
+        "claim": "The ongoing agitation of the non-gazetted employees of Government Medical College (GMC), Kathua continued unabated as the employees unanimously decided to extend their strike for another 72 hours, with effect from November 19, 2026, in protest against, what they alleged, “the continued delay in finalisation and official notification of their long-pending Service Recruitment Rules (SRRs).”",
+        "quote": "The ongoing agitation of the non-gazetted employees of Government Medical College (GMC), Kathua continued unabated as the employees unanimously decided to extend their strike for another 72 hours, with effect from November 19, 2026, in protest against, what they alleged, “the continued delay in finalisation and official notification of their long-pending Service Recruitment Rules (SRRs).”"
+      },
+      {
+        "claim": "The employees stated that their primary demand remained the early finalisation and formal notification of the Service Recruitment Rules, which had been pending for more than seven years, leaving employees in a state of uncertainty regarding their service conditions, career progression and promotional avenues.",
+        "quote": "The employees reiterated that their primary demand remained the early finalisation and formal notification of the Service Recruitment Rules, which had been pending for more than seven years, leaving employees in a state of uncertainty regarding their service conditions, career progression and promotional avenues."
+      },
+      {
+        "claim": "The employees recalled that the Department of Information and Public Relations (DIPR), Jammu and Kashmir, had publicly announced on August 21, 2026, that the Model Recruitment Rules for Non-Gazetted staff across all Government Medical Colleges would be finalised and notified by September 30, 2026, following the statement of the Minister for Health and Medical Education, Sakeena Itoo.",
+        "quote": "The employees recalled that the Department of Information and Public Relations (DIPR), Jammu and Kashmir, had publicly announced on August 21, 2026, that the Model Recruitment Rules for Non-Gazetted staff across all Government Medical Colleges would be finalised and notified by September 30, 2026, following the statement of the Minister for Health and Medical Education, Sakeena Itoo."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Non-gazetted employees of Government Medical College Kathua extended their strike for 72 hours, protesting delays in finalizing Service Recruitment Rules (SRRs) that have been pending for over seven years.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "name “Government Medical College Kathua” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

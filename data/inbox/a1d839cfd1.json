@@ -1,0 +1,58 @@
+{
+  "id": "a1d839cfd1",
+  "url": "https://kashmirobserver.net/2026/11/22/jkssb-defends-exam-integrity-announces-additional-safeguards/",
+  "title": "JKSSB Defends Exam Integrity, Announces Additional Safeguards",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-22",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3401,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "The Jammu and Kashmir Services Selection Board defended exam integrity amid allegations of cheating attempts, announcing enhanced security measures for upcoming recruitment tests while claiming the November 15 examination was unaffected.",
+    "facts": [
+      {
+        "claim": "The Jammu and Kashmir Services Selection Board announced additional security measures for upcoming recruitment tests",
+        "quote": "Jammu- Amid mounting criticism, protests and demands for accountability over the alleged attempt to facilitate cheating in the recently held finance accounts assistant (FAA) examination, the Jammu and Kashmir Services Selection Board has announced additional security measures for the upcoming recruitment tests, while maintaining that the November 15 examination remained unaffected."
+      },
+      {
+        "claim": "The alleged attempt to manipulate the exam was foiled before it could compromise the interests of candidates",
+        "quote": "The J&K Services Selection Board (JKSSB) said the alleged attempt to manipulate the exam was foiled before it could compromise the interests of candidates, claiming that timely intervention by police and the security arrangements put in place ensured its smooth conduct across all 20 districts of the Union territory."
+      },
+      {
+        "claim": "Police arrested 14 suspects ahead of the FAA exam, uncovering a network that planned to transmit answers to select candidates",
+        "quote": "Recently, police in Jammu arrested 14 suspects ahead of the FAA exam, “uncovering” a network that planned to transmit answers to select candidates inside the exam centres through electronic communication devices."
+      },
+      {
+        "claim": "The FAA examination was conducted on November 15 at 493 centres across the UT, with 1,61,946 candidates appearing for selection against 600 posts",
+        "quote": "The FAA examination was conducted on November 15 at 493 centres across the UT, with 1,61,946 candidates appearing for selection against 600 posts."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The JKSSB is the recruitment body for Jammu and Kashmir, and the controversy relates to alleged cheating attempts in the finance accounts assistant exam, which has led to protests and demands for accountability.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

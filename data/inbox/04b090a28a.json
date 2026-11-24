@@ -1,0 +1,66 @@
+{
+  "id": "04b090a28a",
+  "url": "https://www.greaterkashmir.com/kashmir/post-mortem-records-blunt-force-injuries-12830509",
+  "title": "Post-mortem records blunt-force injuries",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Omar Abdullah"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4403,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A 28-year-old labourer from Kokernag went missing in September 2026 and was found dead in Amritsar with blunt-force injuries; PDP leader Mehbooba Mufti called for a time-bound probe into his death, while local activists demanded accountability for the case.",
+    "facts": [
+      {
+        "claim": "A 28-year-old youth from Kokernag went missing on September 23",
+        "quote": "Aijaz Ahmed Dar, a labourer and resident of Halpora village in Kokernag, went missing on September 23."
+      },
+      {
+        "claim": "His body was recovered in Amritsar on October 28",
+        "quote": "His body was recovered in Amritsar on October 28"
+      },
+      {
+        "claim": "The autopsy report recorded multiple blunt-force injuries",
+        "quote": "The autopsy report, accessed by Greater Kashmir recorded a head wound, skull fracture, bleeding beneath the scalp and brain damage, besides bruising to the left chest wall and injury to the left lung."
+      },
+      {
+        "claim": "Mehbooba Mufti called for a time-bound investigation",
+        "quote": "Mehbooba called for a time-bound investigation and urged the Punjab Police and Union Home Ministry to ensure that those responsible were identified and punished."
+      },
+      {
+        "claim": "Local activists demanded a thorough investigation",
+        "quote": "Local PDP leader and tribal activist Chaudhary Talib Hussain, who has been leading a campaign seeking justice for the family, questioned the Amritsar Police's handling of the case."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A 28-year-old labourer from Kokernag went missing in September 2026 and was found dead in Amritsar with blunt-force injuries; PDP leader Mehbooba Mufti called for a time-bound probe into his death, while local activists demanded accountability for the case.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": [
+        "number 2026 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

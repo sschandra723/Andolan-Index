@@ -1,0 +1,58 @@
+{
+  "id": "ef352fd343",
+  "url": "https://timesofindia.indiatimes.com/india/population-up-in-40-china-border-villages-amit-shah-reaches-out-to-arunachal-amid-dam-protests/articleshow/136071267.cms",
+  "title": "'Population up in 40 China-border villages': Amit Shah reaches out to Arunachal amid dam protests",
+  "outlet": "Times of India",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4050,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "Union home minister Amit Shah visited Arunachal Pradesh to address dam protests, stating population in 40 China-border villages has increased due to improved employment, healthcare, and other facilities, with the Centre directing military and border police to source produce from local cooperatives instead of cities.",
+    "facts": [
+      {
+        "claim": "population in 40 villages bordering China has increased",
+        "quote": "the population there has increased, and migration has stopped"
+      },
+      {
+        "claim": "migration has stopped",
+        "quote": "migration has stopped"
+      },
+      {
+        "claim": "improved employment, healthcare, and other facilities",
+        "quote": "Electricity, employment, and health facilities have been discussed. Water has also been delivered to the hilltops"
+      },
+      {
+        "claim": "Centre directed Army and ITBP to procure produce from local cooperatives",
+        "quote": "The Home Ministry has strictly mandated that the ITBP and the Army should not procure their produce from Tezpur or Guwahati; they must be procured from villages and cooperatives"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Union home minister Amit Shah visited Arunachal Pradesh to address dam protests, stating population in 40 China-border villages has increased due to improved employment, healthcare, and other facilities, with the Centre directing military and border police to source produce from local cooperatives instead of cities.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "5 outlets in the last 48 hours."
+  }
+}

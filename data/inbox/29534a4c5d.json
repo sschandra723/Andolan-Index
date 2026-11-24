@@ -1,0 +1,62 @@
+{
+  "id": "29534a4c5d",
+  "url": "https://theprint.in/india/law-and-order-on-decline-in-maharashtra-says-sule-alleges-inaction-by-state-home-dept/3106031/",
+  "title": "Law and order on decline in Maharashtra, says Sule; alleges inaction by state Home dept",
+  "outlet": "ThePrint",
+  "published": "2026-11-22",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1855,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "NCP (SP) leader Supriya Sule warned Maharashtra government that protests will follow if law and order deteriorates, citing rising crime in Baramati taluka and alleged inaction by state Home department.",
+    "facts": [
+      {
+        "claim": "NCP (SP) senior leader Supriya Sule said the party will stage protests if the Maharashtra government doesn’t make efforts to improve the 'deteriorating' law and order situation",
+        "quote": "Thane, Nov 22 (PTI) NCP (SP) senior leader Supriya Sule on Sunday said the party will stage protests if the Maharashtra government doesn’t make efforts to improve the “deteriorating” law and order situation."
+      },
+      {
+        "claim": "Sule has repeatedly flagged the worsening law and order situation to the Maharashtra Chief Minister (Devendra Fadnavis), who also holds the Home portfolio, as well as the Pune Superintendent of Police and the Pune City Police Commissioner",
+        "quote": "Speaking to reporters in Thane, Sule said she has repeatedly flagged the worsening law and order situation to the Maharashtra Chief Minister (Devendra Fadnavis), who also holds the Home portfolio, as well as the Pune Superintendent of Police and the Pune City Police Commissioner."
+      },
+      {
+        "claim": "The crime is increasing sharply and incidents which previously never occurred in Baramati taluka have begun taking place, causing deep anxiety among local residents and business owners",
+        "quote": "The crime is increasing sharply and incidents which previously never occurred in Baramati taluka have begun taking place, causing deep anxiety among local residents and business owners,"
+      },
+      {
+        "claim": "Her remarks followed alleged firing outside a builder’s residence in Baramati in Pune district after extortion demands",
+        "quote": "Her remarks followed alleged firing outside a builder’s residence in Baramati in Pune district after extortion demands."
+      },
+      {
+        "claim": "If policing and rapid response do not improve, NCP (SP) workers will take to the streets",
+        "quote": "If policing and rapid response do not improve, NCP (SP) workers will take to the streets,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "NCP (SP) leader Supriya Sule warned Maharashtra government that protests will follow if law and order deteriorates, citing rising crime in Baramati taluka and alleged inaction by state Home department.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

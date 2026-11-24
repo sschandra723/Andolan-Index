@@ -1,0 +1,60 @@
+{
+  "id": "8a8ae6e747",
+  "url": "https://www.sentinelassam.com/more-news/national-news/we-have-demonstrated-what-social-justice-means-pm-modi-on-welfare-schemes-for-poor",
+  "title": "We have demonstrated what social justice means: PM Modi on welfare schemes for poor",
+  "outlet": "The Sentinel",
+  "published": "2026-11-23",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2324,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Prime Minister Modi recalled his early welfare initiatives as Gujarat Chief Minister, emphasizing how they influenced national welfare schemes and claimed 50 crore people exited poverty in 12-13 years.",
+    "facts": [
+      {
+        "claim": "PM Modi recalled his early days as Gujarat Chief Minister",
+        "quote": "Prime Minister Narendra Modi on Sunday recalled his early days as Gujarat Chief Minister"
+      },
+      {
+        "claim": "his first public programme after assuming office in 2001 was a 'Garib Kalyan Mela' in Deesa",
+        "quote": "his first public programme after assuming office in 2001 was a 'Garib Kalyan Mela' in Deesa"
+      },
+      {
+        "claim": "the experience influenced his approach to welfare delivery at the national level",
+        "quote": "he said later influenced his approach to welfare delivery at the national level"
+      },
+      {
+        "claim": "Citing a World Bank report, PM Modi claimed that 50 crore people had come out of poverty in a period of 12-13 years",
+        "quote": "Citing a World Bank report, PM Modi claimed that 50 crore people had come out of poverty in a period of 12-13 years"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "PM Modi highlighted his welfare initiatives as Gujarat Chief Minister and their impact on national poverty reduction efforts.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Prime Minister Modi” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

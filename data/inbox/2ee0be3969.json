@@ -1,0 +1,62 @@
+{
+  "id": "2ee0be3969",
+  "url": "https://theprint.in/india/successfully-demonstrated-vehicle-mounted-anti-tank-guided-missile-system-adani-defence/3105416/",
+  "title": "Successfully demonstrated vehicle-mounted anti-tank guided missile system: Adani Defence",
+  "outlet": "ThePrint",
+  "published": "2026-11-21",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3140,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Adani Defence successfully demonstrated a vehicle-mounted anti-tank guided missile system at Pokhran, claiming it meets Indian battlefield needs with features like 8km range, dual-missile engagement, and resistance to electronic jamming.",
+    "facts": [
+      {
+        "claim": "Adani Defence successfully demonstrated a vehicle-mounted anti-tank guided missile system at Pokhran",
+        "quote": "Adani Defence and Aerospace has “successfully demonstrated” a vehicle-mounted anti-tank guided missile (ATGM) system at the Pokhran field firing ranges in Rajasthan, the firm shared on Saturday."
+      },
+      {
+        "claim": "The system can engage targets at 8km range with dual-missile capability",
+        "quote": "Enumerating Bagheera AT1’s features, the company said the anti-tank engagement has a range of 8 km, with the wider missile architecture capable of supporting guided engagements of up to 10 km."
+      },
+      {
+        "claim": "The system uses laser beam for engagement, resistant to electronic jamming",
+        "quote": "The missile rides a laser beam rather than relying on a radio link, making it highly resistant to electronic jamming on a battlefield increasingly shaped by drones and electronic warfare"
+      },
+      {
+        "claim": "The system can fire two missiles in quick succession along the same beam",
+        "quote": "Two missiles can be fired in quick succession along the same beam at a single target. The first engages the tank’s Active Protection System (APS), while the second is designed to penetrate its defences"
+      },
+      {
+        "claim": "The system has 12 missiles per vehicle capacity",
+        "quote": "Four ready-to-fire missiles on the automated launcher and eight reloads onboard provide a total capacity of 12 missiles per vehicle"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

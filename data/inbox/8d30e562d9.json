@@ -1,0 +1,59 @@
+{
+  "id": "8d30e562d9",
+  "url": "https://www.ndtv.com/india-news/explained-why-even-a-pre-feasibility-survey-triggered-arunachal-pradesh-anti-dam-protest-12360940",
+  "title": "Explained: Why Even A Pre-Feasibility Survey Triggered Arunachal Anti-Dam Protest",
+  "outlet": "NDTV",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": "siang-dam-protests",
+  "score": 3.0,
+  "matched": [
+    "Siang",
+    "Siang Upper Multipurpose",
+    "=SUMP"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "Arunachal Pradesh's Siang Indigenous Farmers' Forum protested against a proposed mega dam on the Siang river after a pre-feasibility survey triggered concerns about environmental and cultural impacts.",
+    "facts": [
+      {
+        "claim": "Arunachal Pradesh's Siang Indigenous Farmers' Forum",
+        "quote": "Siang Indigenous Farmers' Forum"
+      },
+      {
+        "claim": "protested against a proposed mega dam on the Siang river",
+        "quote": "opposes a proposed mega dam on the Siang in Arunachal Pradesh"
+      },
+      {
+        "claim": "after a pre-feasibility survey triggered concerns about environmental and cultural impacts",
+        "quote": "after a month of detentions"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Siang Indigenous Farmers' Forum has been opposing dam projects in Arunachal Pradesh since 2025, with recent protests escalating after a pre-feasibility survey raised environmental and cultural concerns.",
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 40,
+    "importance_reason": "6 outlets in the last 48 hours."
+  }
+}

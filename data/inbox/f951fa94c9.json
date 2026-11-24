@@ -1,0 +1,66 @@
+{
+  "id": "f951fa94c9",
+  "url": "https://www.greaterkashmir.com/opinion/terrorism-on-its-last-legs-in-jk-12830528",
+  "title": "Terrorism on its last legs in J&K",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-22",
+  "collected": "2026-11-22",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "The article discusses the decline in terrorism in Jammu and Kashmir, noting reduced terrorist recruitment and incidents, with police stating local terrorist recruitment had fallen to almost zero over two years, and only two Kashmiri youths joining Lashkar-e-Taiba in that period.",
+    "facts": [
+      {
+        "claim": "local terrorist recruitment had fallen to almost zero over the preceding two years",
+        "quote": "local terrorist recruitment had fallen to almost zero over the preceding two years"
+      },
+      {
+        "claim": "only two Kashmiri youths having joined Lashkar-e-Taiba during that period",
+        "quote": "only two Kashmiri youths having joined Lashkar-e-Taiba during that period"
+      },
+      {
+        "claim": "the elimination of Lateef Bhat in Kulgam as the neutralisation of the last known active local Lashkar terrorist in Kashmir",
+        "quote": "the elimination of Lateef Bhat in Kulgam as the neutralisation of the last known active local Lashkar terrorist in Kashmir"
+      },
+      {
+        "claim": "terrorist-initiated incidents declined from 228 in 2018 to 12 in 2025",
+        "quote": "terrorist-initiated incidents declined from 228 in 2018 to 12 in 2025"
+      },
+      {
+        "claim": "civilian casualties in terror-related incidents fell from 55 in 2018 to 28 in 2025",
+        "quote": "civilian casualties in terror-related incidents fell from 55 in 2018 to 28 in 2025"
+      },
+      {
+        "claim": "security personnel fatalities declined from 91 to 16 during the same period",
+        "quote": "security personnel fatalities declined from 91 to 16 during the same period"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The article reports a decline in terrorism in Jammu and Kashmir, with police stating local terrorist recruitment has fallen to almost zero over two years, indicating a significant reduction in militant activity.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

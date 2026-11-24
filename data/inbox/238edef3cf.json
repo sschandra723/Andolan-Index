@@ -1,0 +1,64 @@
+{
+  "id": "238edef3cf",
+  "url": "https://www.greaterkashmir.com/jammu-kashmir/iltija-mufti-alleges-recruitment-mafia-in-jk-seeks-probe-into-jkssb-exam-scams-12826502",
+  "title": "Iltija Mufti alleges recruitment mafia in J&K, seeks probe into JKSSB exam scams",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-20",
+  "collected": "2026-11-20",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Omar Abdullah"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4646,
+    "fetch_note": null,
+    "drafted": "2026-11-20",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "PDP leader Iltija Mufti accused JKSSB of recruitment scams, demanding an impartial probe into FAA exam irregularities and questioning government control over the recruitment system.",
+    "facts": [
+      {
+        "claim": "a recruitment mafia is operating in Jammu and Kashmir in collusion with government employees",
+        "quote": "Iltija, daughter of PDP president Mehbooba Mufti rejected the Jammu and Kashmir Services Selection Board’s (JKSSB) description of the alleged cheating in the FAA examination as a standalone incident, saying recruitment-related controversies had repeatedly surfaced since 2019."
+      },
+      {
+        "claim": "examinations for Police Sub-Inspectors, Jal Shakti, Finance Accounts Assistants and Fire and Emergency Services had also faced allegations of irregularities and cancellations",
+        "quote": "She said examinations for Police Sub-Inspectors, Jal Shakti, Finance Accounts Assistants and Fire and Emergency Services had also faced allegations of irregularities and cancellations, raising serious questions about the credibility and transparency of the recruitment process."
+      },
+      {
+        "claim": "JKSSB collects crore annually through examination applications, while approximately Rs 113 crore had been collected between 2023 and 2026",
+        "quote": "Highlighting the financial burden on aspirants, she said that JKSSB collects crore annually through examination applications, while approximately Rs 113 crore had been collected between 2023 and 2026."
+      },
+      {
+        "claim": "Aptech, which she described as a blacklisted company, for conducting examinations in 2022",
+        "quote": "Iltija also questioned the engagement of Aptech, which she described as a blacklisted company, for conducting examinations in 2022, saying authorities should have thoroughly examined the firm’s background before assigning it such an important responsibility."
+      },
+      {
+        "claim": "Chief Minister Omar Abdullah had spoken about reviewing the board’s functioning and directing officials to remove bottlenecks and ensure time-bound recruitment",
+        "quote": "Taking a dig at Chief Minister Omar Abdullah over his remarks that JKSSB is not under his control, she referred to his social media post in May in which he had spoken about reviewing the board’s functioning and directing officials to remove bottlenecks and ensure time-bound recruitment."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Iltija Mufti is demanding an impartial investigation into JKSSB exam irregularities, highlighting systemic recruitment issues in Jammu and Kashmir since 2019.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "c66e8ac6c3",
+  "url": "https://www.thehindu.com/news/national/kerala/job-aspirants-protest-ntpcs-abrupt-decision-to-cancel-recruitment-process/article71731702.ece",
+  "title": "Job aspirants protest NTPC’s abrupt decision to cancel recruitment process",
+  "outlet": "The Hindu",
+  "published": "2026-11-22",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1165,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Job aspirants protested NTPC's sudden cancellation of recruitment process after exams, claiming time and money were wasted.",
+    "facts": [
+      {
+        "claim": "Candidates who applied for the post of Assistant Officer (Corporation Communication) at the National Thermal Power Corporation (NTPC) and travelled long distances to attend the examination have protested the abrupt cancellation of the recruitment process.",
+        "quote": "Candidates who applied for the post of Assistant Officer (Corporation Communication) at the National Thermal Power Corporation (NTPC) and travelled long distances to attend the examination have protested the abrupt cancellation of the recruitment process."
+      },
+      {
+        "claim": "The notification for the recruitment was issued on September 18, following which the examination was conducted on November 1 at various examination centres.",
+        "quote": "The notification for the recruitment was issued on September 18, following which the examination was conducted on November 1 at various examination centres."
+      },
+      {
+        "claim": "According to an aspirant, who appeared for the computer-based test from a centre in Chennai, several candidates including those from Keralam travelled long distances and incurred considerable expenses to attend the examination.",
+        "quote": "According to an aspirant, who appeared for the computer-based test from a centre in Chennai, several candidates including those from Keralam travelled long distances and incurred considerable expenses to attend the examination."
+      },
+      {
+        "claim": "However, NTPC announced on Saturday (November 21) that the selection process has been cancelled due to \"administrative reasons\".",
+        "quote": "However, NTPC announced on Saturday (November 21) that the selection process has been cancelled due to \"administrative reasons\"."
+      },
+      {
+        "claim": "The sudden decision has triggered widespread disappointment among aspirants, who claim that their time, money and hard work have been disregarded.",
+        "quote": "The sudden decision has triggered widespread disappointment among aspirants, who claim that their time, money and hard work have been disregarded."
+      },
+      {
+        "claim": "They urged the Central Public Sector Undertaking to officially disclose the reasons behind the cancellation, and also called for withdrawing the decision and resuming the selection process at the earliest.",
+        "quote": "They urged the Central Public Sector Undertaking to officially disclose the reasons behind the cancellation, and also called for withdrawing the decision and resuming the selection process at the earliest."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "NTPC cancelled recruitment process after exams, causing job aspirants to protest over wasted time and money.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "94b0e5fb7b",
+  "url": "https://www.thehindu.com/news/cities/Delhi/we-are-journalists-not-reel-makers-independent-reporters-hit-back-at-delhi-polices-affidavit-to-supreme-court/article71715183.ece",
+  "title": "‘We are journalists, not reel makers’: independent reporters hit back at Delhi Police’s affidavit to Supreme Court",
+  "outlet": "The Hindu",
+  "published": "2026-11-18",
+  "collected": "2026-11-18",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "anti-SIR protests",
+    "=SIR"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-18",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Independent journalists in Delhi rejected police claims that social media users are not journalists, emphasizing their role in documenting protests and countering misinformation.",
+    "facts": [
+      {
+        "claim": "police said social media content creators could not be equated with journalists",
+        "quote": "the Delhi Police Commissioner defended the force’s actions during the October protests, arguing that the presence of YouTube reel-makers and social media influencers at protest sites had made it “difficult” for personnel to distinguish journalists from protesters."
+      },
+      {
+        "claim": "journalists said they are not reel makers",
+        "quote": "We are not reel makers, we are journalists."
+      },
+      {
+        "claim": "journalists documented protests and countering misleading narratives",
+        "quote": "We realised there was a gap between what was happening on the ground and what was being published by larger institutions. We were on the ground all the time and had the footage. That meant the public could see what was actually happening."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Independent journalists in Delhi are challenging police claims that social media users are not journalists, highlighting their role in protest documentation.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “We realised there was a gap between what was happening on the ground and what wa”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "f978d15437",
+  "url": "https://www.greaterkashmir.com/kashmir/mehbooba-slams-nc-govt-over-exam-irregularities-says-students-future-at-risk-12828628",
+  "title": "Mehbooba slams NC govt over exam irregularities, says students’ future at risk",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "National Conference"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026",
+    "pu-bachao-morcha-2025"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1610,
+    "fetch_note": null,
+    "drafted": "2026-11-21",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "PDP president Mehbooba Mufti criticized the National Conference-led government for alleged exam irregularities, warning that repeated controversies threaten students' futures in Jammu and Kashmir.",
+    "facts": [
+      {
+        "claim": "Mehbooba Mufti criticised the National Conference-led government over alleged examination irregularities",
+        "quote": "Srinagar, Nov 21: Peoples Democratic Party (PDP) president Mehbooba Mufti on Saturday criticised the National Conference-led government over alleged examination irregularities, saying repeated controversies were jeopardising the future of students in Jammu and Kashmir."
+      },
+      {
+        "claim": "Mehbooba Mufti warned that repeated controversies were jeopardising the future of students in Jammu and Kashmir",
+        "quote": "Srinagar, Nov 21: Peoples Democratic Party (PDP) president Mehbooba Mufti on Saturday criticised the National Conference-led government over alleged examination irregularities, saying repeated controversies were jeopardising the future of students in Jammu and Kashmir."
+      },
+      {
+        "claim": "Mehbooba Mufti questioned the government’s ability to ensure fair and transparent examinations",
+        "quote": "Speaking to reporters in Srinagar, Mehbooba questioned the government’s ability to ensure fair and transparent examinations."
+      },
+      {
+        "claim": "Mehbooba Mufti said students work hard throughout their lives and pay hefty fees, yet continue to face injustice due to alleged irregularities in the examination system",
+        "quote": "She said students work hard throughout their lives and pay hefty fees, yet continue to face injustice due to alleged irregularities in the examination system."
+      },
+      {
+        "claim": "Mehbooba Mufti described the situation as 'scam upon scam, scam upon scam' with no change under the National Conference government",
+        "quote": "‘Scam upon scam, scam upon scam. There has been no change. If it happened during Governor’s rule, it is happening under today’s National Conference government as well,’ she said."
+      },
+      {
+        "claim": "Mehbooba Mufti mentioned that a minister in Delhi had been dropped following public outrage over the NEET controversy",
+        "quote": "Referring to the NEET controversy, Mehbooba said a minister in Delhi had been dropped following public outrage, while the issue in Jammu and Kashmir appeared to be receiving little attention."
+      },
+      {
+        "claim": "Mehbooba Mufti demanded a thorough probe into alleged examination irregularities",
+        "quote": "Demanding a thorough probe, the PDP chief called for identifying the alleged syndicate behind the examination irregularities before taking any action."
+      },
+      {
+        "claim": "Mehbooba Mufti said the government should not play with the future of children",
+        "quote": "‘This is a very serious matter. The government should not play with the future of our children. Whatever mistakes have taken place should be investigated,’ she said."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The J&K statehood movement has been protesting for the Centre to restore statehood since 2019, but this article focuses on examination irregularities rather than statehood.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘Scam upon scam, scam upon scam. There has been no change. If it happened during”",
+        "quote not in article: “‘This is a very serious matter. The government should not play with the future o”"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1b542a3052",
+  "url": "https://www.deccanchronicle.com/southern-states/telangana/telangana-university-contract-faculty-to-hold-statewide-protest-on-november-25-2006931",
+  "title": "Telangana University Contract Faculty to Hold Statewide Protest on November 25",
+  "outlet": "Deccan Chronicle",
+  "published": "2026-11-22",
+  "collected": "2026-11-23",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 918,
+    "fetch_note": null,
+    "drafted": "2026-11-23",
+    "is_protest_in_india": true,
+    "movement": "up-nhm-staff-2026",
+    "new_movement": null,
+    "summary": "Contract faculty from Telangana state universities plan a statewide protest on November 25 demanding regularisation, job security, revised UGC pay scales, and equal pay for equal work.",
+    "facts": [
+      {
+        "claim": "contract faculty across state universities will stage a dharna outside the respective administrative buildings from 10 am on November 25",
+        "quote": "Contract faculty across state universities will stage a dharna outside the respective administrative buildings from 10 am on November 25"
+      },
+      {
+        "claim": "They are seeking regularisation of services, job security, revised 7th PRC/UGC pay scales and equal pay for equal work",
+        "quote": "They are seeking regularisation of services, job security, revised 7th PRC/UGC pay scales and equal pay for equal work"
+      },
+      {
+        "claim": "The University Teachers Association Contract – Telangana State (UTAC-TS), which announced the statewide protest on Sunday",
+        "quote": "The University Teachers Association Contract – Telangana State (UTAC-TS), which announced the statewide protest on Sunday"
+      },
+      {
+        "claim": "The association demanded that existing contract faculty, particularly those qualified through NET, SET or PhD, be absorbed into regular service and given job security before fresh recruitment begins",
+        "quote": "The association demanded that existing contract faculty, particularly those qualified through NET, SET or PhD, be absorbed into regular service and given job security before fresh recruitment begins"
+      },
+      {
+        "claim": "It also sought parity in salaries and service conditions and argued that contract teachers perform the same duties as regular faculty",
+        "quote": "It also sought parity in salaries and service conditions and argued that contract teachers perform the same duties as regular faculty"
+      },
+      {
+        "claim": "The association said career progression and fair remuneration remain among its long-pending demands",
+        "quote": "The association said career progression and fair remuneration remain among its long-pending demands"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Contract faculty in Telangana state universities are demanding regularisation and revised pay scales, which has led to a planned statewide protest.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

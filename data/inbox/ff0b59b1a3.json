@@ -1,0 +1,54 @@
+{
+  "id": "ff0b59b1a3",
+  "url": "https://www.hindustantimes.com/cities/delhi-news/traffic-advisory-issued-for-several-roads-in-delhi-as-wedding-season-begins-101795234453164.html",
+  "title": "Traffic advisory issued for several roads in Delhi as wedding season begins",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-21",
+  "collected": "2026-11-21",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3682,
+    "fetch_note": null,
+    "drafted": "2026-11-22",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Delhi police issued traffic advisory for wedding season with over 27 marriage functions expected on four roads, bringing more than 12,000 guests and 5,000 additional vehicles.",
+    "facts": [
+      {
+        "claim": "over 27 marriage functions",
+        "quote": "The police said over 27 marriage functions are scheduled on SSN Marg (Bhati Mines Road), Bandh Road, Mandi Road and MG Road, bringing more than 12,000 guests."
+      },
+      {
+        "claim": "more than 12,000 guests",
+        "quote": "The police said over 27 marriage functions are scheduled on SSN Marg (Bhati Mines Road), Bandh Road, Mandi Road and MG Road, bringing more than 12,000 guests."
+      },
+      {
+        "claim": "more than 5,000 additional vehicles",
+        "quote": "The police said the marriage functions are scheduled on SSN Marg (Bhati Mines Road), Bandh Road, Mandi Road and MG Road, with more than 5,000 additional vehicles expected in the area."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "5b21dd1c3d",
+  "url": "https://theprint.in/india/iyc-workers-protest-outside-meta-office-in-gurugram-police-use-water-cannons/3111929/",
+  "title": "IYC workers protest outside Meta office in Gurugram, police use water cannons",
+  "outlet": "The Print",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3154,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "gig-workers-strike-2025",
+    "new_movement": null,
+    "summary": "IYC workers protested outside Meta office in Gurugram, alleging suppression of opposition voices on Meta's platforms, with police using water cannons to disperse them.",
+    "facts": [
+      {
+        "claim": "More than a hundred Indian Youth Congress (IYC) workers staged a demonstration in front of the Meta office here on Saturday",
+        "quote": "More than a hundred Indian Youth Congress (IYC) workers staged a demonstration in front of the Meta office here on Saturday"
+      },
+      {
+        "claim": "A huge police force was deployed in view of the protest led by IYC national president Uday Bhanu Chib",
+        "quote": "A huge police force was deployed in view of the protest led by IYC national president Uday Bhanu Chib"
+      },
+      {
+        "claim": "The protesters climbed onto barricades holding placards that read “Constitution of India, Withheld in India”",
+        "quote": "The protesters climbed onto barricades holding placards that read “Constitution of India, Withheld in India”"
+      },
+      {
+        "claim": "However, the demonstration was soon stopped by police, who used water cannons to disperse the demonstrators and took some of them into custody",
+        "quote": "However, the demonstration was soon stopped by police, who used water cannons to disperse the demonstrators and took some of them into custody"
+      },
+      {
+        "claim": "Some IYC workers alleged that police sprayed dirty water on the protesters, a claim the police denied",
+        "quote": "Some IYC workers alleged that police sprayed dirty water on the protesters, a claim the police denied"
+      },
+      {
+        "claim": "Following the protest, IYC president Uday Bhanu Chib alleged that voices of dissent are being suppressed through a deliberate strategy across Meta’s various platforms",
+        "quote": "Following the protest, IYC president Uday Bhanu Chib alleged that voices of dissent are being suppressed through a deliberate strategy across Meta’s various platforms"
+      },
+      {
+        "claim": "On November 19, Meta suspended the official Instagram accounts of Indian Youth Congress national president Uday Bhanu Chib and national in-charge Manish Sharma in India",
+        "quote": "On November 19, Meta suspended the official Instagram accounts of Indian Youth Congress national president Uday Bhanu Chib and national in-charge Manish Sharma in India"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "IYC workers protested outside Meta offices in Gurugram, Mumbai, and Hyderabad after Meta suspended their social media accounts on November 19, claiming the accounts were subject to unlawful restrictions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

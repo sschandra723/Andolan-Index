@@ -1,0 +1,58 @@
+{
+  "id": "d043aa9b5b",
+  "url": "https://www.hindustantimes.com/india-news/delhi-police-says-no-permission-for-skms-protest-march-to-jantar-mantar-101795666628618.html",
+  "title": "Delhi Police says no permission for SKM's protest march to Jantar Mantar",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=SKM"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1553,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "farmers-india-us-trade-2026",
+    "new_movement": null,
+    "summary": "Delhi Police prohibited SKM's planned protest march to Jantar Mantar without permission, citing prohibitory orders under Section 163 of the BNSS, 2023.",
+    "facts": [
+      {
+        "claim": "Delhi Police prohibited unauthorised gatherings and demonstrations in the New Delhi district",
+        "quote": "The Delhi Police has prohibited unauthorised gatherings and demonstrations in the New Delhi district, citing the imposition of prohibitory orders"
+      },
+      {
+        "claim": "No application for permission for the march was received",
+        "quote": "no application seeking permission for the proposed march has been received, and no permission has been granted"
+      },
+      {
+        "claim": "Prohibitory orders under Section 163 of the BNSS, 2023 are in force",
+        "quote": "Police said prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, are in force in the New Delhi district"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Police prohibited SKM's planned protest march to Jantar Mantar without permission, citing prohibitory orders under Section 163 of the BNSS, 2023.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

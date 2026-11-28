@@ -1,0 +1,56 @@
+{
+  "id": "068e03eaea",
+  "url": "https://timesofindia.indiatimes.com/city/hyderabad/brs-cpi-cpm-leaders-protest-over-land-auctions/articleshow/136167515.cms",
+  "title": "BRS, CPI, CPM leaders protest over land auctions",
+  "outlet": "The Times of India",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2365,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Opposition leaders from BRS, CPI, and CPM protested against Hyderabad's land auction plan, demanding cancellation of the e-auction scheduled for Nov 27, claiming government lands acquired for public use were being sold to corporations.",
+    "facts": [
+      {
+        "claim": "Opposition leaders from BRS, CPI, and CPM staged a protest",
+        "quote": "Opposing the Hyderabad Metropolitan Development Authority (HMDA)’s proposal to auction govt land in Kukatpally truck park, KPHB and Miyapur, leaders of the BRS, Communist Party of India (CPI) and Communist Party of India (Marxist) (CPM) staged a protest outside the HMDA headquarters in Ameerpet on Wednesday."
+      },
+      {
+        "claim": "They demanded immediate cancellation of the e-auction scheduled for Nov 27",
+        "quote": "The opposition leaders demanded the immediate cancellation of the e-auction scheduled to be conducted by HMDA on Nov 27."
+      },
+      {
+        "claim": "They alleged government lands acquired for public purposes were sold to corporate entities",
+        "quote": "They alleged that valuable govt lands originally acquired for public purposes were being sold to corporate entities instead of being utilised for public welfare."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Opposition leaders from BRS, CPI, and CPM protested against Hyderabad's land auction plan, demanding cancellation of the e-auction scheduled for Nov 27, claiming government lands acquired for public use were being sold to corporations.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/3",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Opposing the Hyderabad Metropolitan Development Authority (HMDA)’s proposal to a”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

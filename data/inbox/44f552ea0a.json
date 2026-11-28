@@ -1,0 +1,58 @@
+{
+  "id": "44f552ea0a",
+  "url": "https://www.indiatoday.in/india/story/constitution-day-nationwide-protest-live-updates-congress-samvidhan-raksha-cockroach-janta-party-march-protests-rallies-delhi-lucknow-nagpur-samajwadi-party-prakash-raj-abhijeet-dipke-bjp-gyanesh-3047111-2026-11-26",
+  "title": "Constitution Day Protest Highlights: Congress, SP hold nationwide protests against CEC on Constitution Day",
+  "outlet": "India Today",
+  "published": "2026-11-26",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Congress and SP held nationwide protests on Constitution Day against the Election Commission, with farmers joining the anti-SIR protest in Delhi and youth organizing 'Run for Constitution' marathons in Rajasthan.",
+    "facts": [
+      {
+        "claim": "Congress and SP held nationwide protests on Constitution Day against the Election Commission",
+        "quote": "Constitution Day Protest Highlights: Congress, SP hold nationwide protests against CEC on Constitution Day"
+      },
+      {
+        "claim": "Farmers joined the anti-SIR protest in Delhi",
+        "quote": "Farmers under the banner of the Samyukta Kisan Morcha (SKM) and KKU joined the 'People Against SIR' protest in Delhi on Thursday"
+      },
+      {
+        "claim": "Youth organized 'Run for Constitution' marathons in Rajasthan",
+        "quote": "The Rajasthan unit of the National Students' Union of India (NSUI) organised a 'Run for Constitution' marathon at the main gate of Rajasthan University on Thursday"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress and SP organized nationwide protests on Constitution Day targeting the Election Commission, with farmers joining the anti-SIR protest in Delhi and youth organizing marathons in Rajasthan.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "name “Election Commission” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

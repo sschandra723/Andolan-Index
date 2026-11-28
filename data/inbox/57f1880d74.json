@@ -1,0 +1,54 @@
+{
+  "id": "57f1880d74",
+  "url": "https://www.thehindu.com/news/national/telangana/telanganas-traditional-martial-art-karra-samu-to-take-centre-stage-at-khelo-india/article71749370.ece",
+  "title": "Telangana’s traditional martial art ‘Karra samu’ to take centre stage at Khelo India; CM Revanth keen to give it a push",
+  "outlet": "The Hindu",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4223,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Telangana's traditional martial art 'Karra samu' will debut at the Khelo India Youth Games, showcasing the state's sporting heritage and cultural identity.",
+    "facts": [
+      {
+        "claim": "Telangana’s traditional martial art ‘Karra samu’ to take centre stage at Khelo India",
+        "quote": "A bamboo stick in hand, concentration in the eyes and lightning-fast movements, the skilful manoeuvres of ‘Karra samu’, Telangana’s traditional martial art, are set to captivate audiences at the national level with the discipline making its debut at the Khelo India Youth Games."
+      },
+      {
+        "claim": "The art will be showcased for the first time at the Khelo India Youth Games",
+        "quote": "The art will be showcased for the first time at the Khelo India Youth Games to be held in the State from December 11 to 22."
+      },
+      {
+        "claim": "The inclusion of ‘Karra samu’ is significant at a time when several traditional rural sports and physical disciplines are gradually fading",
+        "quote": "The inclusion of ‘Karra samu’ is significant at a time when several traditional rural sports and physical disciplines are gradually fading with the growing popularity of modern competitive sports."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

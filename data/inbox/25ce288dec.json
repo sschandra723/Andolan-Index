@@ -1,0 +1,82 @@
+{
+  "id": "25ce288dec",
+  "url": "https://theprint.in/india/ukhand-villagers-threaten-indefinite-protest-against-relocation-of-jageshwar-sculptures-to-delhi/3111806/",
+  "title": "U’khand: Villagers threaten indefinite protest against relocation of Jageshwar sculptures to Delhi",
+  "outlet": "The Print",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2201,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Villagers in Uttarakhand's Almora district threatened an indefinite protest at the Jageshwar Museum if Archaeological Survey of India relocates over 274 ancient sculptures to a new Delhi museum.",
+    "facts": [
+      {
+        "claim": "Villagers in Uttarakhand’s Almora district have threatened an indefinite protest at the Jageshwar Museum if the Archaeological Survey of India (ASI) goes ahead with its proposed move to shift more than 274 ancient sculptures housed there to a museum under construction in Delhi.",
+        "quote": "Villagers in Uttarakhand’s Almora district have threatened an indefinite protest at the Jageshwar Museum if the Archaeological Survey of India (ASI) goes ahead with its proposed move to shift more than 274 ancient sculptures housed there to a museum under construction in Delhi."
+      },
+      {
+        "claim": "A large number of residents from surrounding villages gathered at the museum on Saturday after learning that an ASI team had arrived to collect the precious artefacts, and strongly opposed their relocation.",
+        "quote": "A large number of residents from surrounding villages gathered at the museum on Saturday after learning that an ASI team had arrived to collect the precious artefacts, and strongly opposed their relocation."
+      },
+      {
+        "claim": "The protesters warned the team that any attempt to remove the sculptures would trigger a public agitation, including an indefinite dharna at the museum entrance.",
+        "quote": "The protesters warned the team that any attempt to remove the sculptures would trigger a public agitation, including an indefinite dharna at the museum entrance."
+      },
+      {
+        "claim": "Hari Mohan Bhatt, a priest at the Jageshwar temple, said villagers united in opposition as soon as they learnt about the ASI team’s arrival to collect the sculptures.",
+        "quote": "Hari Mohan Bhatt, a priest at the Jageshwar temple, said villagers united in opposition as soon as they learnt about the ASI team’s arrival to collect the sculptures."
+      },
+      {
+        "claim": "He said the residents had made it clear that they would launch an indefinite sit-in if the ancient artefacts were taken away.",
+        "quote": "He said the residents had made it clear that they would launch an indefinite sit-in if the ancient artefacts were taken away."
+      },
+      {
+        "claim": "Naveen Bhatt, former vice-president of the Jageshwar Temple Committee, said they had written to the Director General of the ASI in Delhi, requesting that the sculptures not be relocated.",
+        "quote": "Naveen Bhatt, former vice-president of the Jageshwar Temple Committee, said they had written to the Director General of the ASI in Delhi, requesting that the sculptures not be relocated."
+      },
+      {
+        "claim": "If any law-and-order situation arises as a result of this public agitation, the department will be held responsible,” he said.",
+        "quote": "If any law-and-order situation arises as a result of this public agitation, the department will be held responsible,” he said."
+      },
+      {
+        "claim": "According to sources, the Jageshwar Museum houses more than 274 rare and ancient sculptures, including those of Lakulisha Shiva and ‘Paun Raja’.",
+        "quote": "According to sources, the Jageshwar Museum houses more than 274 rare and ancient sculptures, including those of Lakulisha Shiva and ‘Paun Raja’."
+      },
+      {
+        "claim": "Located around 35 km from Almora, Jageshwar Dham is a renowned complex of ancient temples dedicated to Lord Shiva in the Kumaon region of Uttarakhand.",
+        "quote": "Located around 35 km from Almora, Jageshwar Dham is a renowned complex of ancient temples dedicated to Lord Shiva in the Kumaon region of Uttarakhand."
+      },
+      {
+        "claim": "The sculptures are proposed to be shifted to ‘Yuge Yugeen Bharat’, a museum being developed by the central government in Delhi’s North and South Blocks. Once completed, it is set to be the largest museum of its kind in the world.",
+        "quote": "The sculptures are proposed to be shifted to ‘Yuge Yugeen Bharat’, a museum being developed by the central government in Delhi’s North and South Blocks. Once completed, it is set to be the largest museum of its kind in the world."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Villagers in Uttarakhand's Almora district oppose relocating over 274 ancient sculptures from Jageshwar Museum to a new Delhi museum, threatening an indefinite protest.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "10/10",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

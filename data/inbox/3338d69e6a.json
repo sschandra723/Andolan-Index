@@ -1,0 +1,52 @@
+{
+  "id": "3338d69e6a",
+  "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-26-november-2026-cjp-save-democracy-protest-nagpur-25-percent-us-tariffs-cairo-crash-us-tariffs-congress-constitution-day-pm-narendra-modi-10978950/",
+  "title": "India News Live Updates, 26 November 2026: CJP to hold ‘Save Democracy, Save Constitution’ protest in Nagpur today",
+  "outlet": "The Indian Express",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "Cockroach Janta Party",
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A protest called 'Save Democracy, Save Constitution' is planned for Nagpur today by the CJP, according to live updates from The Indian Express on 26 November 2026.",
+    "facts": [
+      {
+        "claim": "A protest called 'Save Democracy, Save Constitution' is planned for Nagpur today by the CJP",
+        "quote": "India News Live Updates, 26 November 2026: CJP to hold ‘Save Democracy, Save Constitution’ protest in Nagpur today"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "9f99938f0f",
+  "url": "https://www.greaterkashmir.com/kashmir/jksa-protests-over-alleged-faa-exam-malpractice-12839025",
+  "title": "JKSA protests over alleged FAA Exam malpractice",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-25",
+  "collected": "2026-11-25",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "paper leak"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3168,
+    "fetch_note": null,
+    "drafted": "2026-11-25",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "The Jammu & Kashmir Students Association demanded a CBI investigation into alleged FAA exam cheating and recruitment irregularities in Jammu and Kashmir, urging the Union Home Minister to intervene for a fair inquiry.",
+    "facts": [
+      {
+        "claim": "The Jammu & Kashmir Students Association (JKSA) staged a protest at the District Headquarters in Ramban",
+        "quote": "The Jammu & Kashmir Students Association (JKSA) on Tuesday staged a protest at the District Headquarters in Ramban under the leadership of its National Joint Secretary, Adv. Mubashir Ahmed, demanding an independent CBI investigation into the alleged Finance Accounts Assistant (FAA) examination cheating racket and recurring irregularities in JKSSB recruitment processes."
+      },
+      {
+        "claim": "The JKSA demanded an independent CBI investigation into alleged FAA exam cheating and recruitment irregularities",
+        "quote": "demanding an independent CBI investigation into the alleged Finance Accounts Assistant (FAA) examination cheating racket and recurring irregularities in JKSSB recruitment processes"
+      },
+      {
+        "claim": "The JKSA urged the Union Home Minister to personally intervene for a fair inquiry",
+        "quote": "urged Union Home Minister Amit Shah to personally intervene and ensure a fair, impartial and time-bound investigation"
+      },
+      {
+        "claim": "The JKSA demanded an immediate postponement of the upcoming JKPSI and Police Constable examinations",
+        "quote": "demanded an immediate postponement of the upcoming JKPSI and Police Constable examinations until the alleged malpractice is thoroughly investigated and the concerns of aspirants are adequately addressed"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The JKSA protests are part of ongoing demands for reform in Jammu and Kashmir's public recruitment system, following previous issues with exam integrity and recruitment processes.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "ec3b122fd9",
+  "url": "https://www.indiatoday.in/india/telangana/story/brs-congress-clash-hyderabad-biryani-protest-telangana-jobs-promise-3047929-2026-11-27",
+  "title": "BRS, Congress workers clash during biryani protest targeting Rahul Gandhi",
+  "outlet": "India Today",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2700,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "BRS and Congress workers clashed at a biryani protest in Hyderabad targeting Rahul Gandhi over employment promises, with police intervening to prevent escalation.",
+    "facts": [
+      {
+        "claim": "BRS leaders staged an unusual biryani protest at Hyderabad's Bavarchi restaurant on November 26, targeting Congress leader Rahul Gandhi over the alleged failure to fulfil the Congress-led Telangana government's promise of providing two lakh jobs to unemployed youth.",
+        "quote": "Bharat Rashtra Samithi (BRS) leaders staged an unusual biryani protest at Hyderabad's Bavarchi restaurant on November 26, targeting Congress leader Rahul Gandhi over the alleged failure to fulfil the Congress-led Telangana government's promise of providing two lakh jobs to unemployed youth."
+      },
+      {
+        "claim": "The demonstration soon took a confrontational turn after Congress workers arrived at the restaurant. Heated arguments broke out between the two groups, escalating into a clash in which plates were allegedly thrown at each other.",
+        "quote": "The demonstration soon took a confrontational turn after Congress workers arrived at the restaurant. Heated arguments broke out between the two groups, escalating into a clash in which plates were allegedly thrown at each other."
+      },
+      {
+        "claim": "Police personnel intervened and brought the situation under control, preventing the confrontation from escalating further.",
+        "quote": "Police personnel intervened and brought the situation under control, preventing the confrontation from escalating further."
+      },
+      {
+        "claim": "Congress Rajya Sabha MP Anil Kumar Yadav criticised the BRS leaders for choosing such a mode of protest.",
+        "quote": "Congress Rajya Sabha MP Anil Kumar Yadav criticised the BRS leaders for choosing such a mode of protest."
+      },
+      {
+        "claim": "The latest confrontation comes a week after another clash between Congress and BRS workers at a pension distribution programme in Hyderabad's LB Nagar constituency on November 19.",
+        "quote": "The latest confrontation comes a week after another clash between Congress and BRS workers at a pension distribution programme in Hyderabad's LB Nagar constituency on November 19."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "BRS and Congress have had prior clashes over employment promises and access to government programs in Hyderabad.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

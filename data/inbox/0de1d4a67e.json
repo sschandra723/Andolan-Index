@@ -1,0 +1,54 @@
+{
+  "id": "0de1d4a67e",
+  "url": "https://www.khaleejtimes.com/world/asia/india-police-water-cannon-protest-outside-meta-offices-haryana",
+  "title": "India police disperse protest outside Meta offices in Haryana with water cannon",
+  "outlet": "Khaleej Times",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1745,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Police in Haryana used water cannons to disperse Congress youth activists protesting outside Meta offices, accusing the company of censoring opposition voices ahead of state elections.",
+    "facts": [
+      {
+        "claim": "Police in the northern Indian state of Haryana used water cannon to disperse activists from the main opposition Congress party protesting outside Meta's offices over allegations that the company is censoring opposition voices.",
+        "quote": "Police in the northern Indian state of Haryana used water cannon to disperse activists from the main opposition Congress party protesting outside Meta's offices over allegations that the company is censoring opposition voices."
+      },
+      {
+        "claim": "Activists from the youth wing of the Congress party have staged massive protests outside Meta offices, accusing the company of acting in the interests of Prime Minister Narendra Modi's Bharatiya Janata Party, in what has become one of the Facebook and Instagram parent's biggest challenges in its largest market by users.",
+        "quote": "Activists from the youth wing of the Congress party have staged massive protests outside Meta offices, accusing the company of acting in the interests of Prime Minister Narendra Modi's Bharatiya Janata Party, in what has become one of the Facebook and Instagram parent's biggest challenges in its largest market by users."
+      },
+      {
+        "claim": "Congress' youth wing posted on X that its party activists were hit with water cannon and drenched with \"filthy\" water by police during a protest outside Meta's office in Gurugram, accusing the government of using force against demonstrators demanding freedom of expression.",
+        "quote": "Congress' youth wing posted on X that its party activists were hit with water cannon and drenched with \"filthy\" water by police during a protest outside Meta's office in Gurugram, accusing the government of using force against demonstrators demanding freedom of expression."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress youth wing accused Meta of censoring opposition voices ahead of state elections, leading to protests and police dispersal with water cannons.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

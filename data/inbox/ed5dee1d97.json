@@ -1,0 +1,50 @@
+{
+  "id": "ed5dee1d97",
+  "url": "https://www.thehindu.com/news/national/bihar/killed-bihar-youths-mother-sits-on-fast-unto-death-protest-mp-pappu-yadav-meets-her-demands-cbi-probe/article71750774.ece",
+  "title": "Killed Bihar youth’s mother sits on fast-unto-death protest, MP Pappu Yadav meets her, demands CBI probe",
+  "outlet": "The Hindu",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3134,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Asha Devi, mother of a murdered youth in Bihar, sat on a fast-unto-death protest demanding justice after police allegedly killed her son Bharat Bhushan Tiwari in a June 2026 encounter. The family had sought government action but received no results after five months.",
+    "facts": [
+      {
+        "claim": "Asha Devi, mother of a murdered youth in Bihar, sat on a fast-unto-death protest demanding justice after police allegedly killed her son Bharat Bhushan Tiwari in a June 2026 encounter.",
+        "quote": "Asha Devi, mother of a murdered youth from Bhojpur district in Bihar, Bharat Bhushan Tiwari, sat on a fast-unto-death protest along with other family members on Friday (November 27, 2026) at the village, slamming the Bihar government for “not fulfilling the assurances made to them in the case\"."
+      },
+      {
+        "claim": "The family had sought government action but received no results after five months.",
+        "quote": "The government had assured us of a government job to a family member, financial help and arrest of those found guilty in the case but even after five months of the incident, no one takes care of us…impartial justice has not been done to us\""
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest involves a family demanding justice after police allegedly killed their son in a June 2026 encounter, with the family having met the Chief Minister for assurances but receiving no results after five months.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

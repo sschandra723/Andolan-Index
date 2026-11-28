@@ -1,0 +1,62 @@
+{
+  "id": "e0054c68ef",
+  "url": "https://www.hindustantimes.com/cities/mumbai-news/dharavi-bandh-today-to-protest-redevelopment-project-101795805095250.html",
+  "title": "Dharavi bandh today to protest redevelopment project",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4876,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Residents of Dharavi will stage a shutdown and march on Saturday to protest redevelopment project, demanding fair rehabilitation, protection of homes and livelihoods, and constitutional rights.",
+    "facts": [
+      {
+        "claim": "Residents of Dharavi will stage a shutdown and march on Saturday to protest redevelopment project",
+        "quote": "Mumbai: Residents of Dharavi, backed by leaders and activists from various political parties and social organisations, will stage a shut down of the entire area on Saturday to protest against the ongoing redevelopment process."
+      },
+      {
+        "claim": "They will also participate in a march demanding transparency, fair rehabilitation and the protection of their homes, livelihoods and identity",
+        "quote": "They will also participate in a march demanding transparency, fair rehabilitation and the protection of their homes, livelihoods and identity, said Dharavi Bachao Andolan President Baburao Mane."
+      },
+      {
+        "claim": "The redevelopment project, spread over 628.82 acres, aims to transform Dharavi through planned housing, infrastructure and commercial development",
+        "quote": "The redevelopment project, spread over 628.82 acres, aims to transform Dharavi through planned housing, infrastructure and commercial development."
+      },
+      {
+        "claim": "Residents have accused the state government of favouring the Adani Group’s Navbharat Mega Developers Private Limited, which is executing the redevelopment project, at the expense of residents’ interests",
+        "quote": "The protesters have accused the state government of favouring the Adani Group’s Navbharat Mega Developers Private Limited, which is executing the redevelopment project, at the expense of residents’ interests."
+      },
+      {
+        "claim": "Residents demand a minimum 500 sq ft house for slum dwellers and 750 sq ft accommodation for occupants of old municipal and approved buildings",
+        "quote": "The residents’ key demands include a minimum 500 sq ft house for slum dwellers and 750 sq ft accommodation for occupants of old municipal and approved buildings,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Dharavi residents are protesting redevelopment project that has raised concerns over eligibility criteria, rehabilitation, relocation and future of small businesses.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

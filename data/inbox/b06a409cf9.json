@@ -1,0 +1,72 @@
+{
+  "id": "b06a409cf9",
+  "url": "https://www.greaterkashmir.com/opinion/why-kashmir-must-heed-the-uttarakhand-warning-12847579",
+  "title": "Why Kashmir must heed the Uttarakhand warning",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Viral videos show heavy earthmoving machines cutting Sheshnag Lake's shoreline in Jammu and Kashmir, raising environmental concerns about ecological and water security. The Border Roads Organisation claims the work stabilizes tracks and reduces Amarnath Yatra congestion, but experts warn of glacial lake outburst flood risks and downstream impacts.",
+    "facts": [
+      {
+        "claim": "heavy earthmoving machines cutting into the fragile shoreline of Sheshnag Lake in upper Pahalgam",
+        "quote": "Viral videos showing heavy earthmoving machines cutting into the fragile shoreline of Sheshnag Lake in upper Pahalgam have sparked deep environmental concern across Jammu and Kashmir."
+      },
+      {
+        "claim": "serious threat to the ecological and water security of South Kashmir",
+        "quote": "Located at around 11,780 feet, this excavation is not a routine project, but a serious threat to the ecological and water security of South Kashmir."
+      },
+      {
+        "claim": "Border Roads Organisation stated that the machinery is widening and stabilising existing tracks, easing Amarnath Yatra congestion",
+        "quote": "In its defence, the Border Roads Organisation stated that the machinery is widening and stabilising existing tracks, easing Amarnath Yatra congestion, and following environmental safeguards."
+      },
+      {
+        "claim": "high altitude terrain comprises unstable glacial deposits, loose moraines, permafrost, and steep slopes that fail easily when disturbed",
+        "quote": "High altitude terrain comprises unstable glacial deposits, loose moraines, permafrost, and steep slopes that fail easily when disturbed."
+      },
+      {
+        "claim": "disturbing moraines, altering drainage channels, or weakening nearby slopes increases existing risks",
+        "quote": "Disturbing moraines, altering drainage channels, or weakening nearby slopes increases existing risks."
+      },
+      {
+        "claim": "Sheshnag is among 14 high risk glacial lakes in Jammu and Kashmir prone to Glacial Lake Outburst Floods",
+        "quote": "Experts have listed Sheshnag among 14 high risk glacial lakes in Jammu and Kashmir prone to Glacial Lake Outburst Floods."
+      },
+      {
+        "claim": "Sheshnag basin feeds the upper Lidder River, which flows through Pahalgam and Bijbehara before joining the Jhelum",
+        "quote": "Together with the neighbouring Kolahoi glacier system, the Sheshnag basin feeds the upper Lidder River, which flows through Pahalgam and Bijbehara before joining the Jhelum near village Gur."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Environmental concerns over Sheshnag Lake excavation in Jammu and Kashmir highlight risks of glacial lake outburst floods and downstream water security, urging adherence to Uttarakhand's lessons on sustainable development in fragile Himalayan regions.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

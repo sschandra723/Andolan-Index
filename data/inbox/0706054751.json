@@ -1,0 +1,86 @@
+{
+  "id": "0706054751",
+  "url": "https://www.greaterkashmir.com/world/ousted-leader-hasina-plans-to-return-to-bangladesh-from-exile-on-dec-16-spokesperson-says-12836738",
+  "title": "Ousted leader Hasina plans to return to Bangladesh from exile on Dec 16, spokesperson says",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1691,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return to Bangladesh from exile in India on December 16, the day her country celebrates independence from Pakistan.",
+    "facts": [
+      {
+        "claim": "Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on December 16",
+        "quote": "Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on December 16, the day the country celebrates as Victory Day when it won independence after a war with Pakistan."
+      },
+      {
+        "claim": "Hasina went into exile in India on August 5, 2024, after a student-led mass uprising forced her to end her 15-year rule",
+        "quote": "Hasina went into exile in India on August 5, 2024, after a student-led mass uprising forced her to end her 15-year rule."
+      },
+      {
+        "claim": "She was sentenced to death in absentia for crimes against humanity involving the uprising in which hundreds of protesters were killed",
+        "quote": "She was sentenced to death in absentia for crimes against humanity involving the uprising in which hundreds of protesters were killed."
+      },
+      {
+        "claim": "Hasina rejected the verdict and has said she is ready fight the case once she is back",
+        "quote": "Hasina rejected the verdict and has said she is ready fight the case once she is back."
+      },
+      {
+        "claim": "In the statement Tuesday announcing the planned date of her return, she urged current Prime Minister Tarique Rahman to arrange her return on the national airline",
+        "quote": "In the statement Tuesday announcing the planned date of her return, she urged current Prime Minister Tarique Rahman to arrange her return on the national airline."
+      },
+      {
+        "claim": "Since Sheikh Hasina was flown to India on a Bangladesh aircraft on August 5th, 2024, she now calls upon the government to arrange for her air transport from Delhi back to Dhaka",
+        "quote": "Since Sheikh Hasina was flown to India on a Bangladesh aircraft on August 5th, 2024, she now calls upon the government to arrange for her air transport from Delhi back to Dhaka"
+      },
+      {
+        "claim": "It is deeply symbolic that she has chosen 16 December, our Victory Day, for her planned return to Bangladesh",
+        "quote": "It is deeply symbolic that she has chosen 16 December, our Victory Day, for her planned return to Bangladesh."
+      },
+      {
+        "claim": "We firmly believe that she will celebrate this historic day among her people, honouring the great victory achieved under the leadership of her father, Bangabandhu Sheikh Mujibur Rahman",
+        "quote": "We firmly believe that she will celebrate this historic day among her people, honouring the great victory achieved under the leadership of her father, Bangabandhu Sheikh Mujibur Rahman"
+      },
+      {
+        "claim": "Abu Obaidha Arin, an aide to Hasina, told The Associated Press",
+        "quote": "Abu Obaidha Arin, an aide to Hasina, told The Associated Press."
+      },
+      {
+        "claim": "We are equally confident that, she will definitely return and under her leadership post return, Bangladesh will once again advance towards peace, stability and prosperity",
+        "quote": "We are equally confident that, she will definitely return and under her leadership post return, Bangladesh will once again advance towards peace, stability and prosperity"
+      },
+      {
+        "claim": "Earlier this month, in an interview with The Associated Press, Hasina said she would return to the country in December at any cost, and even death could not prevent her from returning home",
+        "quote": "Earlier this month, in an interview with The Associated Press, Hasina said she would return to the country in December at any cost, and even death could not prevent her from returning home."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "11/11",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

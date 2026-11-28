@@ -1,0 +1,58 @@
+{
+  "id": "fe28ccb738",
+  "url": "https://www.hindustantimes.com/india-news/mumbai-police-issues-look-out-circular-loc-against-cjps-dipke-das-and-ranka-over-gandhi-jayanti-protest-in-mumbais-dadar-101795688864622.html",
+  "title": "Mumbai Police issues LOCs against CJP's Saurav Das, Abhijeet Dipke, Ashutosh Ranka over Dadar protest last month",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5577,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Mumbai Police issued look-out circulars against Cockroach Janta Party leaders over a protest at Shivaji Park in October that was denied permission by police.",
+    "facts": [
+      {
+        "claim": "Mumbai Police issued look-out circulars against Cockroach Janta Party leaders",
+        "quote": "Mumbai Police has issued look-out circulars against Cockroach Janta Party leaders Abhijeet Dipke, Saurav Das and Ashutosh Ranka, seven weeks after the organisation's protest in Shivaji Park on October 2."
+      },
+      {
+        "claim": "protest at Shivaji Park in October",
+        "quote": "The circulars were issued over the FIR registered against Dipke, Das, Ranka, as well as other CJP members and their supporters on October 3 after the protest."
+      },
+      {
+        "claim": "protest denied permission by police",
+        "quote": "The police had denied permission to the CJP’s representative Ajinkya Shinde for organising the protest on Gandhi Jayanti at Shivaji Park, saying they were not empowered to grant permission for any gathering at Shivaji Park."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Mumbai Police issued look-out circulars against Cockroach Janta Party leaders over a protest at Shivaji Park in October that was denied permission by police.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

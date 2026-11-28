@@ -1,0 +1,92 @@
+{
+  "id": "e24bac09e5",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-announces-protests-across-tamil-nadu-against-tvk-government-on-december-2-2026/article71745989.ece",
+  "title": "AIADMK announces protests across Tamil Nadu against TVK government on December 2",
+  "outlet": "The Hindu",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Tamil Nadu"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1794,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "tn-fishermen-arrests-2025",
+    "new_movement": null,
+    "summary": "AIADMK announced state-wide protests in Tamil Nadu on December 2 against TVK government for failing to meet electoral promises, deteriorating law and order, and women's safety issues.",
+    "facts": [
+      {
+        "claim": "AIADMK announced State-wide protests by his party on December 2",
+        "quote": "AIADMK general secretary Edappadi K. Palaniswami on Thursday (November 26, 2026) announced State-wide protests by his party on December 2"
+      },
+      {
+        "claim": "accusing the TVK government of failing to fulfil its electoral promises",
+        "quote": "accusing the TVK government of failing to fulfil its electoral promises"
+      },
+      {
+        "claim": "alleged deterioration of law and order situation",
+        "quote": "alleged deterioration of law and order situation"
+      },
+      {
+        "claim": "alleged \"silence\" over the Mekedatu issue",
+        "quote": "alleged \"silence\" over the Mekedatu issue"
+      },
+      {
+        "claim": "incidents of murder, robbery, drug trafficking, sexual violence and custodial deaths had become frequent",
+        "quote": "incidents of murder, robbery, drug trafficking, sexual violence and custodial deaths had become frequent"
+      },
+      {
+        "claim": "the government had failed to take effective action",
+        "quote": "the government had failed to take effective action"
+      },
+      {
+        "claim": "the government had completed six months in office but had pushed the State backwards on several fronts",
+        "quote": "the government had completed six months in office but had pushed the State backwards on several fronts"
+      },
+      {
+        "claim": "the government had failed to ensure women’s safety",
+        "quote": "the government had failed to ensure women’s safety"
+      },
+      {
+        "claim": "the government had failed to curb the drug menace",
+        "quote": "the government had failed to curb the drug menace"
+      },
+      {
+        "claim": "the government had failed to protect public property",
+        "quote": "the government had failed to protect public property"
+      },
+      {
+        "claim": "the administration was more concerned about retaining power than addressing people’s problems",
+        "quote": "the administration was more concerned about retaining power than addressing people’s problems"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "AIADMK announced protests against TVK government for failing to meet electoral promises and deteriorating law and order in Tamil Nadu.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "8/11",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “the government had failed to ensure women’s safety”",
+        "quote not in article: “the government had failed to curb the drug menace”",
+        "quote not in article: “the government had failed to protect public property”"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

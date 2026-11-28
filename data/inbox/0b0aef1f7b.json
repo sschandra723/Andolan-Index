@@ -1,0 +1,64 @@
+{
+  "id": "0b0aef1f7b",
+  "url": "https://www.thehindu.com/news/national/karnataka/karnataka-poultry-farmers-protest-demand-implementation-of-10-per-kg-minimum-rearing-cost-fixed-by-govt/article71742709.ece",
+  "title": "Karnataka poultry farmers protest, demand implementation of ₹10 per kg minimum rearing cost fixed by govt.",
+  "outlet": "The Hindu",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1664,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka poultry farmers protested at Freedom Park demanding implementation of the state's ₹10 per kg minimum rearing cost order, which integration companies have not followed.",
+    "facts": [
+      {
+        "claim": "Karnataka State Poultry Farmers Welfare and Development Association and Akhila Karnataka State Poultry Farmers Welfare and Development Association protested at Freedom Park",
+        "quote": "Demanding that integration companies implement the minimum rearing cost of ₹10 per kg fixed by the State government, the Karnataka State Poultry Farmers Welfare and Development Association and the Akhila Karnataka State Poultry Farmers Welfare and Development Association protested at Freedom Park on Wednesday."
+      },
+      {
+        "claim": "The state government fixed the rearing cost from ₹6.20 per kg to 10 per kg seven months ago",
+        "quote": "Seven months ago, the State government during former Chief Minister Siddaramaiah’s tenure fixed the rearing cost from ₹6.20 per kg to 10 per kg."
+      },
+      {
+        "claim": "Integration companies continue to pay ₹6.20 per kg",
+        "quote": "However, the integration companies haven’t implemented the order and continue to pay ₹6.20 per kg."
+      },
+      {
+        "claim": "Farmers want Chief Minister D.K. Shivakumar to intervene",
+        "quote": "We want Mr. Shivakumar to intervene and implement the rearing cost order."
+      },
+      {
+        "claim": "The association also demanded the Karnataka Poultry Control and Development Bill, 2022",
+        "quote": "It has also urged the government to pass the Karnataka Poultry Control and Development Bill, 2022, in the upcoming Winter Session."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka poultry farmers have been demanding implementation of a state-mandated minimum rearing cost increase from ₹6.20 to ₹10 per kg for seven months, but integration companies have not complied.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

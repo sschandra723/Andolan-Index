@@ -1,0 +1,58 @@
+{
+  "id": "dc8546ab51",
+  "url": "https://www.thehindu.com/news/national/police-handling-of-women-protesters-what-law-says-about-crowd-control-use-of-force/article71737939.ece",
+  "title": "Police ‘handling’ of women protesters: What law says about crowd control, use of force",
+  "outlet": "The Hindu",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1142,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "delhi-clean-air-2025",
+    "new_movement": null,
+    "summary": "Delhi Police stated there is no legal requirement for women officers to handle women protesters during crowd control, addressing allegations that male officers manhandled women and journalists during protests demanding CEC Gyanesh Kumar's resignation.",
+    "facts": [
+      {
+        "claim": "The Delhi Police has told the Supreme Court that there is no strict rule requiring only women police officers to 'handle' women in crowd-control operations.",
+        "quote": "The Delhi Police has told the Supreme Court that there is no strict rule requiring only women police officers to \"handle\" women in crowd-control operations."
+      },
+      {
+        "claim": "The petitions have been filed by the Network of Women in Media, India, represented by advocate Aarthi Rajan, and others, including the Delhi Union of Journalists, Free Speech Collective and the Kerala Union of Working Journalists.",
+        "quote": "The petitions have been filed by the Network of Women in Media, India, represented by advocate Aarthi Rajan, and others, including the Delhi Union of Journalists, Free Speech Collective and the Kerala Union of Working Journalists."
+      },
+      {
+        "claim": "The Delhi Police said the legal requirement that only women police officers could arrest or search women does not amount to a mandate in crowd-control situations.",
+        "quote": "The Delhi Police said the legal requirement that only women police officers could arrest or search women does not amount to a mandate in crowd-control situations."
+      },
+      {
+        "claim": "The requirement of women personnel handling women is not a statutory mandate in the context of crowd-control operations, in the same manner as it is expressly prescribed under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 in relation to searches and arrests.",
+        "quote": "The requirement of women personnel handling women is not a statutory mandate in the context of crowd-control operations, in the same manner as it is expressly prescribed under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 in relation to searches and arrests,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Police clarified that the legal requirement for women officers to handle women protesters during crowd control does not exist, addressing allegations from women journalists and activists during protests demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "b64c4bffe0",
+  "url": "https://www.greaterkashmir.com/opinion/sheshnag-kashmirs-sacred-lake-under-threat-12841495",
+  "title": "Sheshnag: Kashmir’s Sacred Lake Under Threat",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "ropeway"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5626,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Sheshnag Lake in Kashmir faces threats from road widening projects that risk landslides and environmental damage, with protests and petitions demanding the project halt and environmental clearances made public.",
+    "facts": [
+      {
+        "claim": "Sheshnag Lake is far more than a halt on the Amarnath pilgrimage",
+        "quote": "At 3,590 metres (about 11,780 feet), Sheshnag Lake is far more than a halt on the Amarnath pilgrimage."
+      },
+      {
+        "claim": "The lake anchors the ecology of the entire Liddar valley in south Kashmir",
+        "quote": "It anchors the ecology of the entire Liddar valley in south Kashmir."
+      },
+      {
+        "claim": "The lake is fed by meltwater from the Kolahoi and Sheshnag glaciers",
+        "quote": "Set high in the upper reaches of Pahalgam in Anantnag district, this fragile alpine lake is fed by meltwater from the Kolahoi and Sheshnag glaciers."
+      },
+      {
+        "claim": "Its outflow becomes the Liddar river, which supplies clean drinking water to Pahalgam, Bijbehara, Anantnag and hundreds of villages",
+        "quote": "Its outflow becomes the Liddar river, which supplies clean drinking water to Pahalgam, Bijbehara, Anantnag and hundreds of villages before it joins the Jhelum."
+      },
+      {
+        "claim": "Kashmir’s orchards, paddy and tourism economy all depend on this mountain water system",
+        "quote": "Kashmir’s orchards, paddy and tourism economy all depend on this mountain water system."
+      },
+      {
+        "claim": "Earthmovers, JCBs and bulldozers are now digging and widening a road along the very edge of this delicate ecosystem",
+        "quote": "Video and photographs of machines cutting into the lake’s banks have triggered sharp reactions across the Valley."
+      },
+      {
+        "claim": "Young people and trekkers have protested peacefully on Srinagar’s Shankaracharya hill",
+        "quote": "Young people and trekkers have protested peacefully on Srinagar’s Shankaracharya hill"
+      },
+      {
+        "claim": "Thousands have signed online petitions",
+        "quote": "thousands have signed online petitions"
+      },
+      {
+        "claim": "Political parties, religious leaders and environmental groups such as the Jammu and Kashmir Climate Action Group are demanding that the excavation stop immediately and that the project’s environmental clearances be made public",
+        "quote": "Political parties, religious leaders and environmental groups such as the Jammu and Kashmir Climate Action Group are demanding that the excavation stop immediately and that the project’s environmental clearances be made public."
+      },
+      {
+        "claim": "The Border Roads Organisation argues that widening the route is necessary to ease traffic, make the yatra smoother and strengthen safety",
+        "quote": "The Border Roads Organisation argues that widening the route is necessary to ease traffic, make the yatra smoother and strengthen safety."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Sheshnag Lake in Kashmir faces threats from road widening projects that risk landslides and environmental damage, with protests and petitions demanding the project halt and environmental clearances made public.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "10/10",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

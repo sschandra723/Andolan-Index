@@ -1,0 +1,54 @@
+{
+  "id": "4e9e10a69f",
+  "url": "https://nagalandpost.com/security-curbs-imposed-ahead-of-presidents-visit/",
+  "title": "Security curbs imposed ahead of President’s visit",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3386,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Nagaland police imposed curbs ahead of President's visit, banning protests and creating no-drone zones to ensure security.",
+    "facts": [
+      {
+        "claim": "District Magistrate, Kohima, B. Henok Buchem, has prohibited all forms of agitation, protest, procession, rally, dharna and unlawful assembly across Kohima district with immediate effect until December 10, 2026",
+        "quote": "District Magistrate, Kohima, B. Henok Buchem, has prohibited all forms of agitation, protest, procession, rally, dharna and unlawful assembly across Kohima district with immediate effect until December 10, 2026."
+      },
+      {
+        "claim": "Kohima Police have declared a two-kilometre radius around Lok Bhavan, Kohima, and Naga Heritage Village, Kisama, as temporary “Red Zones” and “No Drone Zones”",
+        "quote": "Kohima Police have declared a two-kilometre radius around Lok Bhavan, Kohima, and Naga Heritage Village, Kisama, as temporary “Red Zones” and “No Drone Zones”"
+      },
+      {
+        "claim": "The no-drone restriction around Lok Bhavan will remain in force from midnight of November 29 to 11.59 pm on December 2",
+        "quote": "The no-drone restriction around Lok Bhavan will remain in force from midnight of November 29 to 11.59 pm on December 2"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Nagaland police imposed curbs ahead of President's visit to ensure security, banning protests and creating no-drone zones.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

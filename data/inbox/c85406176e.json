@@ -1,0 +1,54 @@
+{
+  "id": "c85406176e",
+  "url": "https://theprint.in/politics/karnataka-minister-faces-heat-over-gold-necklace-remark-on-asha-workers-protesting-for-higher-wages/3109326/",
+  "title": "Karnataka minister faces heat over ‘gold necklace’ remark on ASHA workers protesting for higher wages",
+  "outlet": "ThePrint",
+  "published": "2026-11-26",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3832,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka's Agriculture Minister P.M. Narendra Swamy faced criticism for an insensitive remark about ASHA workers protesting for higher wages, with the government accused of neglecting their demands despite ongoing sit-ins at Bengaluru's freedom park.",
+    "facts": [
+      {
+        "claim": "Karnataka's Agriculture Minister P.M. Narendra Swamy made a remark about not being able to give necklaces to healthcare workers seeking higher wages",
+        "quote": "Agriculture Minister P.M. Narendra Swamy’s comment made earlier this week on \"not being able to give necklaces\" to healthcare workers seeking higher wages has drawn sharp criticism for being what most say was \"insensitive\"."
+      },
+      {
+        "claim": "ASHA workers have been protesting for higher wages in Bengaluru for the past nine days",
+        "quote": "Some 15,000 workers have been protesting at Bengaluru’s freedom park in the cold and heat, demanding a wage of Rs 15,000 per month as against the current Rs 8,000."
+      },
+      {
+        "claim": "The government has been criticized for neglecting ASHA workers' demands",
+        "quote": "The D.K. Shivakumar-led Congress government in Karnataka has faced criticism for neglecting the demands of ASHA workers even as the chief minister tours Japan."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka's ASHA workers have been protesting for higher wages and better conditions for nine days at Bengaluru's freedom park, demanding Rs 15,000 per month instead of current Rs 8,000.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

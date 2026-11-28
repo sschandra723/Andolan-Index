@@ -1,0 +1,71 @@
+{
+  "id": "1a6c474897",
+  "url": "https://www.thehindu.com/news/national/kerala/mohanan-kunnummal-takes-swipe-at-sfi-protesters-at-kerala-university-farewell/article71746925.ece",
+  "title": "Mohanan Kunnummal takes swipe at SFI protesters at Kerala University farewell",
+  "outlet": "The Hindu",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "syndicate"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2674,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "keralam-lpst-rankholders-2026",
+    "new_movement": null,
+    "summary": "Kerala University Vice-Chancellor Mohanan Kunnummal criticized SFI protesters at a farewell event, highlighting academic achievements while noting ongoing staff shortages and concerns over campus disruptions.",
+    "facts": [
+      {
+        "claim": "Kerala University Vice-Chancellor Mohanan Kunnummal took a swipe at campus protests",
+        "quote": "Kerala University Vice-Chancellor (V-C) in-charge Mohanan Kunnummal on Thursday took a swipe at campus protests and highlighted the university’s achievements during his tenure at a farewell function organised ahead of his retirement on November 28."
+      },
+      {
+        "claim": "Students Federation of India (SFI) activists were protesting on university premises",
+        "quote": "The event was held amid protests by Students Federation of India (SFI) activists on the university premises."
+      },
+      {
+        "claim": "Kerala University issued 1,90,202 degree certificates and 1,564 PhD certificates during the V-C's tenure",
+        "quote": "Reflecting on his four-year tenure, he said Kerala University has issued 1,90,202 degree certificates and 1,564 PhD certificates."
+      },
+      {
+        "claim": "126 of the university’s 150-odd teachers received promotions during the V-C's tenure",
+        "quote": "He also claimed that 126 of the university’s 150-odd teachers had received promotions during the period."
+      },
+      {
+        "claim": "The university continues to face a shortage of permanent teaching staff",
+        "quote": "The university, however, continues to face a shortage of permanent teaching staff, he added, while calling for more faculty positions."
+      },
+      {
+        "claim": "V-C expressed concerns over disruption of academic activities through campus agitations",
+        "quote": "He expressed concerns over the purported disruption of academic activities through campus agitations."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kerala University Vice-Chancellor Mohanan Kunnummal addressed SFI protesters at a farewell event before retiring on November 28, 2026, amid ongoing protests related to delayed appointments for lower primary school teacher rank holders.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “He expressed concerns over the purported disruption of academic activities throu”",
+        "name “Chancellor Mohanan Kunnummal” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

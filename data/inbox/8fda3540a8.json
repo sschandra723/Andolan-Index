@@ -1,0 +1,64 @@
+{
+  "id": "8fda3540a8",
+  "url": "https://www.theweek.in/news/india/2026/11/26/will-youth-protests-and-campus-dialogues-reframe-rahul-gandhi-as-pm-contender.html",
+  "title": "Will youth protests and campus dialogues reframe Rahul Gandhi as PM contender?",
+  "outlet": "The Week",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Rahul Gandhi discussed political empathy and youth mobilization during US university visits in November 2026, following months of Indian student protests over examination scandals, job scarcity, and voter roll manipulation.",
+    "facts": [
+      {
+        "claim": "Rahul Gandhi said the Bharat Jodo Yatra changed his approach to politics by 'diluting the line' between himself and others",
+        "quote": "Rahul Gandhi said the Bharat Jodo Yatra had changed his approach to politics by \"diluting the line\" between himself and others."
+      },
+      {
+        "claim": "Gandhi spoke about voter-roll manipulation and institutional capture, noting the Election Commission acknowledged 140 million invalid voters on 2024 rolls",
+        "quote": "he told both audiences that India’s Election Commission had been forced to acknowledge 140 million invalid voters on the 2024 rolls."
+      },
+      {
+        "claim": "Gandhi described India as a millennia-old civilizational contest over pluralism and voice",
+        "quote": "he described as a millennia-old civilizational contest over pluralism and voice."
+      },
+      {
+        "claim": "Gandhi was detained and carried onto a police bus while joining demonstrations outside the Prime Minister’s residence in July 2026",
+        "quote": "In July, he was detained and carried onto a police bus while joining demonstrations outside the Prime Minister’s residence"
+      },
+      {
+        "claim": "Students marched against voter roll manipulation, examination scandals, and job scarcity",
+        "quote": "India saw massive youth-led protests, driven by examination scandals, scarce jobs, and voter roll manipulation, that spilt onto the streets of New Delhi"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Rahul Gandhi's November 2026 US university visits followed months of Indian student protests over examination scandals, job scarcity, and voter roll manipulation, which led to his detention in July 2026.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “he told both audiences that India’s Election Commission had been forced to ackno”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

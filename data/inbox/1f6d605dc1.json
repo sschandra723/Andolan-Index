@@ -1,0 +1,65 @@
+{
+  "id": "1f6d605dc1",
+  "url": "https://timesofindia.indiatimes.com/india/300-bjp-hindu-outfit-members-booked-over-thiruparankundram-deepam-protests/articleshow/136147297.cms",
+  "title": "300 BJP, Hindu outfit members booked over Thiruparankundram Deepam protests",
+  "outlet": "Times of India",
+  "published": "2026-11-25",
+  "collected": "2026-11-25",
+  "suggested_movement": "tn-thiruparankundram-deepam-2026",
+  "score": 2.0,
+  "matched": [
+    "Thiruparankundram",
+    "Karthigai Deepam"
+  ],
+  "alternatives": [
+    "tn-hospital-workers-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4653,
+    "fetch_note": null,
+    "drafted": "2026-11-25",
+    "is_protest_in_india": true,
+    "movement": "tn-thiruparankundram-deepam-2026",
+    "new_movement": null,
+    "summary": "Protests in Tamil Nadu over failure to light Karthigai Deepam at Deepathoon stone pillar as per Supreme Court order, with police registering cases against 300 BJP and Hindu organisations members.",
+    "facts": [
+      {
+        "claim": "300 BJP and Hindu organisations members",
+        "quote": "Cases have been registered against around 300 members of the BJP and Hindu organisations for protesting in Tamil Nadu's Thiruparankundram on Tuesday over the non-lighting of the Karthigai Deepam at the Deepathoon stone pillar"
+      },
+      {
+        "claim": "Supreme Court interim order",
+        "quote": "The Supreme Court had directed that the lamp be lit at 6pm."
+      },
+      {
+        "claim": "Lamp lit at Uchi Pillayar temple",
+        "quote": "The Maha Deepam was instead lit above the Uchi Pillayar temple at Thiruparankundram Hills as part of the annual festival"
+      },
+      {
+        "claim": "Police registered cases under six sections",
+        "quote": "According to the police, cases have been registered under six sections, including unlawful assembly without permission, causing a breach of public peace, making controversial remarks and obstructing government servants from discharging their duties."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Tamil Nadu government failed to light Karthigai Deepam at Deepathoon stone pillar as per Supreme Court's interim order, leading to protests and police action.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/4",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Cases have been registered against around 300 members of the BJP and Hindu organ”"
+      ]
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

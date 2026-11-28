@@ -1,0 +1,54 @@
+{
+  "id": "088e11d48b",
+  "url": "https://www.hindustantimes.com/india-news/meta-officials-meets-congress-leaders-after-protests-over-restrictions-on-party-s-social-media-accounts-101795621094193.html",
+  "title": "Meta officials meet Congress leaders after protests over restrictions on party’s social media accounts",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Meta officials met Congress leaders in Delhi after Congress youth wing protested restrictions on their social media accounts critical of BJP, with Meta citing content moderation policies and Indian law compliance.",
+    "facts": [
+      {
+        "claim": "Meta officials met Congress leaders in Delhi",
+        "quote": "Meta officials on Tuesday met Congress leaders in Delhi and raised concerns about its employees and offices being targeted across India, people aware of the matter said."
+      },
+      {
+        "claim": "Congress youth wing protested restrictions on accounts critical of BJP",
+        "quote": "The meeting follows nearly a week of protests by the Congress’s youth wing — Indian Youth Congress (IYC) — outside the company’s offices over allegations of restrictions on accounts and posts of their leaders critical of the Bharatiya Janata Party (BJP)."
+      },
+      {
+        "claim": "Meta restricted over 5 million pieces of content in India in first six months of 2026",
+        "quote": "Meta’s transparency data shows it restricted access to over 5.4 million pieces of content in India under local law in the first six months of 2026."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress youth wing protested Meta restrictions on accounts critical of BJP, leading to meetings with Meta officials in Delhi.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

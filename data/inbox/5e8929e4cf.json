@@ -1,0 +1,57 @@
+{
+  "id": "5e8929e4cf",
+  "url": "https://theprint.in/politics/prohibitory-orders-detentions-as-vijay-govt-defies-sc-order-karthigai-deepam-not-lit-at-deepathoon/3107985/",
+  "title": "Prohibitory orders, detentions as Vijay govt defies SC order. Karthigai Deepam not lit at Deepathoon",
+  "outlet": "ThePrint",
+  "published": "2026-11-24",
+  "collected": "2026-11-26",
+  "suggested_movement": "tn-thiruparankundram-deepam-2026",
+  "score": 2.0,
+  "matched": [
+    "Thiruparankundram",
+    "Karthigai Deepam"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4630,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "tn-thiruparankundram-deepam-2026",
+    "new_movement": null,
+    "summary": "The Tamil Nadu government defied a Supreme Court order to light the Karthigai Deepam at Thiruparankundram, lighting the ceremonial lamp at the Deepa Mandapam near the Uchi Pillayar Temple. Protests by Hindu activists and Hindu Munnani members led to scuffles with police and detentions of nearly 50 protesters.",
+    "facts": [
+      {
+        "claim": "The Tamil Nadu government defied a Supreme Court order to light the Karthigai Deepam at Thiruparankundram",
+        "quote": "Chennai: The Vijay-led TVK government Tuesday defied the Supreme Court order permitting a one-time lighting of the Karthigai Deepam at the Deepathoon"
+      },
+      {
+        "claim": "The ceremonial lamp was lit at the Deepa Mandapam near the Uchi Pillayar Temple",
+        "quote": "Expressing the TVK’s clear stance, Law Minister CTR Nirmal Kumar wrote on X, \"The Karthigai Mahadeepam was lit in the Deepa Mandapam near the Uchchipillaiyar temple located directly above the head of the presiding deity at Thiruparankundram.\""
+      },
+      {
+        "claim": "Protests by Hindu activists and Hindu Munnani members led to scuffles with police and detentions of nearly 50 protesters",
+        "quote": "The decision triggered protests by Hindu activists and members of organisations including the Hindu Munnani, leading to scuffles with police near the Thiruparankundram temple. Nearly 50 protesters were detained after a confrontation in which two policemen sustained minor injuries."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Tamil Nadu government and previous DMK government have opposed lighting the Karthigai Deepam at Thiruparankundram, arguing it is not an established temple custom and risks law and order.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "5 outlets in the last 48 hours."
+  }
+}

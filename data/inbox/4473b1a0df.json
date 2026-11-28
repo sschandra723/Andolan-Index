@@ -1,0 +1,68 @@
+{
+  "id": "4473b1a0df",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/dalit-youth-s-custodial-death-sparks-protest-in-zira-family-demands-justice-101795808096333.html",
+  "title": "Dalit youth’s ‘custodial death’ sparks protest in Zira, family demands justice",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1869,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Family of Dalit youth Jashandeep, a Class 12 student and hockey player from Basti Machhianwala, allege custodial torture leading to death after being taken into custody by Kulgarhi police on November 16. Police claim he had a kidney ailment and was released after questioning.",
+    "facts": [
+      {
+        "claim": "Jashandeep was allegedly taken into custody by the Kulgarhi police on November 16 for questioning in some matter",
+        "quote": "Jashandeep, a Class 12 student and budding hockey player from Basti Machhianwala, was allegedly taken into custody by the Kulgarhi police on November 16 for questioning in some matter, sources said"
+      },
+      {
+        "claim": "Family of Dalit youth alleged that he was tortured during custody and fell ill shortly after being handed back to them",
+        "quote": "Tension prevailed in Ferozepur’s Zira as family members of 19-year-old Jashandeep, alleging custodial torture leading to his death, staged a protest by placing his body at Sherawala Chowk on Friday and demanding action against the policemen concerned."
+      },
+      {
+        "claim": "He was subsequently taken to hospitals in Zira and later Moga, where he remained under treatment for around five days before passing away",
+        "quote": "The family of the Dalit youth alleged that he was tortured during custody and fell ill shortly after being handed back to them. He was subsequently taken to hospitals in Zira and later Moga, where he remained under treatment for around five days before passing away."
+      },
+      {
+        "claim": "His mother, Sarabjit Kaur, claimed her son had no previous physical ailments and aspired to become an international hockey player",
+        "quote": "His mother, Sarabjit Kaur, claimed her son had no previous physical ailments and aspired to become an international hockey player."
+      },
+      {
+        "claim": "Zira City SHO Jaswinder Singh Brar refuted the allegations, claiming that the youth was suffering from a kidney ailment and had been released after questioning",
+        "quote": "Zira City SHO Jaswinder Singh Brar refuted the allegations, claiming that the youth was suffering from a kidney ailment and had been released after questioning."
+      },
+      {
+        "claim": "He denied any assault in custody and said the post-mortem examination would be conducted before further action",
+        "quote": "He denied any assault in custody and said the post-mortem examination would be conducted before further action."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Dalit youth's custodial death in Zira, Punjab, has sparked protests demanding justice, with family alleging police torture and police claiming kidney ailment.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": [
+        "name “Family of Dalit” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

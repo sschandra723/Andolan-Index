@@ -1,0 +1,49 @@
+{
+  "id": "3230892a1d",
+  "url": "https://www.thehindu.com/news/cities/chennai/chennai-corporation-contractors-protest-over-2200-crore-pending-bills/article71746399.ece",
+  "title": "Chennai Corporation contractors protest over ₹2,200 crore pending bills",
+  "outlet": "The Hindu",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Chennai"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Chennai Corporation contractors protest over ₹2,200 crore pending bills",
+    "facts": [
+      {
+        "claim": "Chennai Corporation contractors protest over ₹2,200 crore pending bills",
+        "quote": "Chennai Corporation contractors protest over ₹2,200 crore pending bills"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

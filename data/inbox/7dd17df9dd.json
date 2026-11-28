@@ -1,0 +1,54 @@
+{
+  "id": "7dd17df9dd",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/sugarcane-prices-satisfactory-for-farmers-haryana-agri-minister-101795807316460.html",
+  "title": "Sugarcane prices satisfactory for farmers: Haryana agri minister",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [
+    "karnataka-sugarcane-2025"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1711,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Haryana's agriculture minister stated that the government's sugarcane state advised price (SAP) of ₹430-450 is satisfactory, but farmers have been protesting at sugar mills demanding ₹600 SAP and have stopped supplying the crop for crushing.",
+    "facts": [
+      {
+        "claim": "Haryana's agriculture minister stated that the government's sugarcane state advised price (SAP) of ₹430-450 is satisfactory",
+        "quote": "Chief minister Nayab Singh Saini has given ₹430 and ₹450 for next season, which is satisfactory. Even if the farmers demand more, this is their right. If Punjab is giving ₹1 extra, this is due to the elections"
+      },
+      {
+        "claim": "Farmers have been protesting at sugar mills across the state, demanding ₹600 SAP and have stopped supplying the crop for crushing at the mills",
+        "quote": "Farmers have been protesting at sugar mills across the state, demanding ₹600 SAP and have stopped supplying the crop for crushing at the mills"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Haryana farmers are protesting over sugarcane prices, demanding ₹600 SAP while the government has set ₹430-450 for next season.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

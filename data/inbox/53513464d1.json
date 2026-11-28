@@ -1,0 +1,54 @@
+{
+  "id": "53513464d1",
+  "url": "https://www.hindustantimes.com/india-news/parliament-consultative-committee-discusses-foreign-campuses-student-exchanges-101795749047376.html",
+  "title": "Parliament consultative committee discusses foreign campuses, student exchanges",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5910,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Union education minister Pralhad Joshi chaired a meeting on internationalising Indian education, discussing foreign university campuses, student exchanges, and CBSE schools abroad. The committee highlighted 268 CBSE schools operating globally and plans to expand Indian universities overseas.",
+    "facts": [
+      {
+        "claim": "268 CBSE-affiliated schools were functioning across 26 countries",
+        "quote": "268 CBSE-affiliated schools were functioning across 26 countries"
+      },
+      {
+        "claim": "The ministry has an overseas regional office in Dubai",
+        "quote": "with an overseas regional office in Dubai"
+      },
+      {
+        "claim": "Around 21 foreign higher education institutions were currently operational in India",
+        "quote": "around 21 foreign HEIs were currently operational in India"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The committee focused on expanding Indian education globally through foreign campuses and student exchanges, with CBSE schools already operating internationally.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

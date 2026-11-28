@@ -1,0 +1,64 @@
+{
+  "id": "de4b85a416",
+  "url": "https://www.greaterkashmir.com/politics/iltija-mufti-expresses-solidarity-with-protesting-pg-doctors-12836545",
+  "title": "Iltija Mufti expresses solidarity with protesting PG doctors",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1831,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "PDP leader Iltija Mufti expressed solidarity with PG doctors protesting at Government Medical College Srinagar, accusing authorities of threatening them with academic failure to suppress demands for stipend increases since 2017.",
+    "facts": [
+      {
+        "claim": "Iltija Mufti expressed solidarity with the protesting doctors at the GMC",
+        "quote": "Iltija met the protesters and expressed solidarity with the protesting doctors at the GMC here"
+      },
+      {
+        "claim": "The PG doctors have been protesting for four days",
+        "quote": "the PG doctors who have been peacefully protesting for four days"
+      },
+      {
+        "claim": "The stipend has been stuck since the Sixth Pay Commission was implemented in 2017",
+        "quote": "the stipend given to them has been stuck ever since the Sixth Pay Commission was implemented in 2017"
+      },
+      {
+        "claim": "The stipend is Rs 70,000 compared to Rs 1.5 lakh in other states",
+        "quote": "the highest stipend they get is just Rs 70,000. Compare this to other states like UP, Gujarat, Bihar, Delhi, which give their PG doctors at least Rs 1.5 lakh per month"
+      },
+      {
+        "claim": "The government is threatening PG doctors with academic failure",
+        "quote": "the government that they will be failed in their exams as well"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "PG doctors at Government Medical College Srinagar have been protesting since 2017 for stipend increases, with the current protest lasting four days as of November 23, 2026.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": [
+        "name “Government Medical College Srinagar” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

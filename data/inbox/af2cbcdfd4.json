@@ -1,0 +1,72 @@
+{
+  "id": "af2cbcdfd4",
+  "url": "https://www.sentinelassam.com/north-east-india-news/meghalaya-news/meghalaya-deficit-teachers-in-shillong-stage-silent-protest-over-long-pending-grievances",
+  "title": "Meghalaya: Deficit Teachers in Shillong Stage Silent Protest Over Long-Pending Grievances",
+  "outlet": "The Sentinel",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "deficit teachers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1329,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "Over 1,000 deficit teachers in Shillong staged a silent protest march demanding urgent government action on long-pending grievances, including pending DA releases and service cases, after Deputy Chief Minister Prestone Tynsong criticized teachers as 'termites'.",
+    "facts": [
+      {
+        "claim": "More than 1,000 deficit teachers, along with teaching and non-teaching staff, took to the streets of Shillong on Wednesday in a silent protest march organised by the Meghalaya College Teachers Association",
+        "quote": "More than 1,000 deficit teachers, along with teaching and non-teaching staff, took to the streets of Shillong on Wednesday in a silent protest march organised by the Meghalaya College Teachers Association"
+      },
+      {
+        "claim": "The march began at Don Bosco Square and proceeded towards Madan Malki, with political parties and pressure groups, including the Khasi Students' Union (KSU), joining in solidarity",
+        "quote": "The march began at Don Bosco Square and proceeded towards Madan Malki, with political parties and pressure groups, including the Khasi Students' Union (KSU), joining in solidarity"
+      },
+      {
+        "claim": "Protesters carried banners highlighting their demands for the release of pending DA, the settlement of service-related cases and the filling of vacancies in higher education institutions",
+        "quote": "Protesters carried banners highlighting their demands for the release of pending DA, the settlement of service-related cases and the filling of vacancies in higher education institutions"
+      },
+      {
+        "claim": "The demonstration also targeted Deputy Chief Minister Prestone Tynsong over his controversial remark describing teachers as \"termites\" (Kruin)",
+        "quote": "The demonstration also targeted Deputy Chief Minister Prestone Tynsong over his controversial remark describing teachers as \"termites\" (Kruin)"
+      },
+      {
+        "claim": "Through banners and placards, the protesters termed the remark an insult to the dignity, contribution and sacrifices of the teaching community",
+        "quote": "Through banners and placards, the protesters termed the remark an insult to the dignity, contribution and sacrifices of the teaching community"
+      },
+      {
+        "claim": "The teachers marched through the streets of Shillong with banners, demanding action rather than assurances",
+        "quote": "The teachers marched through the streets of Shillong with banners, demanding action rather than assurances"
+      },
+      {
+        "claim": "They warned that continued delays in addressing their grievances were undermining the interests of educators and the future of Meghalaya's education sector",
+        "quote": "They warned that continued delays in addressing their grievances were undermining the interests of educators and the future of Meghalaya's education sector"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Deficit teachers in Meghalaya have been protesting for job security and better terms since May 2026, following the state's Centralised Fund Scheme 2026 that they rejected.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

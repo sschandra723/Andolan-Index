@@ -1,0 +1,78 @@
+{
+  "id": "0c5eb60415",
+  "url": "https://kashmirobserver.net/2026/11/26/plea-seeks-protest-rules-sc-issues-notice-to-centre-cjp-leaders/",
+  "title": "Plea Seeks Protest Rules, SC Issues Notice to Centre, CJP Leaders",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3425,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court agreed to examine a plea by Lawyers Voice seeking uniform protest rules, citing CJP's violations of Delhi Police permissions for protests in July and October 2026.",
+    "facts": [
+      {
+        "claim": "The Supreme Court agreed to examine a plea by a lawyers’ body seeking directions for formulation of uniform guidelines and a standard operating procedure governing public demonstrations and protests.",
+        "quote": "New Delhi- The Supreme Court on Thursday agreed to examine a plea by a lawyers’ body seeking directions for formulation of uniform guidelines and a standard operating procedure governing public demonstrations and protests."
+      },
+      {
+        "claim": "The petition argued that while dissent is part of democracy, protests must stay within legal bounds and avoid paralysing the capital or disrupting lawyers’ livelihoods.",
+        "quote": "The petition argued that while dissent is part of democracy, protests must stay within legal bounds and avoid paralysing the capital or disrupting lawyers’ livelihoods."
+      },
+      {
+        "claim": "The petition referred to the protests organised by CJP during July and October, 2026.",
+        "quote": "The petition referred to the protests organised by CJP during July and October, 2026."
+      },
+      {
+        "claim": "The Delhi Police permitted the CJP to hold a Dharna at Jantar Mantar on June 6, 2026, strictly between 10 am and 5 pm.",
+        "quote": "Referring to media reports, the petition said the Delhi Police, by way of a \"one-time exemption\", permitted the CJP to hold a Dharna at Jantar Mantar on June 6, 2026, strictly between 10 am and 5 pm on the strength of the undertaking furnished by its organisers."
+      },
+      {
+        "claim": "The CJP protest was not discontinued at the expiry of the permitted hours, continuing until July 25, 2026.",
+        "quote": "Permission was sought and granted for a single day on June 20, 2026 again, confined to the hours between 10 am and 5 pm, but the demonstration was not discontinued at the expiry of the permitted hours, it said."
+      },
+      {
+        "claim": "The CJP protest continued until July 25, 2026, during which a march towards Parliament was undertaken on July 20, 2026 without permission.",
+        "quote": "The sit-in is reported to have continued until July 25, 2026, a period of about thirty-five days, during which a march towards Parliament was also undertaken on July 20, 2026 without the permission of the authorities,"
+      },
+      {
+        "claim": "The Delhi Police refused permission for a protest at Jantar Mantar on October 10, 2026, due to insufficient notice.",
+        "quote": "The Delhi Police is reported to have refused permission on October 9 on the ground that the intimation had been furnished merely three days before the proposed event, as against the 10 days prescribed."
+      },
+      {
+        "claim": "The Delhi Police detained about 1,500 persons on October 10, 2026 to prevent a breach of public order.",
+        "quote": "About 1,500 persons had to be detained by the forenoon of October 10 in order to prevent a breach of public order,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court is addressing complaints about CJP's protest activities violating Delhi Police permissions, which have led to detentions and ongoing legal challenges.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

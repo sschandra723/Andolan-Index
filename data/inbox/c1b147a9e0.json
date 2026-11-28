@@ -1,0 +1,74 @@
+{
+  "id": "c1b147a9e0",
+  "url": "https://www.greaterkashmir.com/kashmir/indias-largest-earthquake-isolated-hospital-block-coming-up-at-ld-hospital-12838997",
+  "title": "India’s largest earthquake-isolated hospital block coming up at LD Hospital",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-25",
+  "collected": "2026-11-25",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3415,
+    "fetch_note": null,
+    "drafted": "2026-11-25",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A six-storey hospital block in Srinagar, Kashmir, designed with advanced seismic base-isolation technology to withstand earthquakes is nearing completion under the World Bank-funded Jhelum and Tawi Flood Recovery Project.",
+    "facts": [
+      {
+        "claim": "The six-storey structure at Lal Ded Hospital Srinagar incorporates advanced seismic base-isolation technology",
+        "quote": "This building is designed to move with the earthquakes."
+      },
+      {
+        "claim": "The building incorporates 43 friction pendulum isolators",
+        "quote": "The building incorporates 43 friction pendulum isolators."
+      },
+      {
+        "claim": "The LD Hospital project is the largest among three such base-isolation projects in India",
+        "quote": "The LD Hospital project is the largest among three such base-isolation projects in India."
+      },
+      {
+        "claim": "The base-isolation system is the key and differentiating feature of the building's structural design",
+        "quote": "The base-isolation system is the key and differentiating feature of the building's structural design."
+      },
+      {
+        "claim": "Dr Jan said the building can bear a quake upto the intensity of 8 Richter scale",
+        "quote": "Dr Jan said the building can bear a quake upto the intensity of 8 Richter scale."
+      },
+      {
+        "claim": "The original allotted cost of Rs 118.22 crore has been revised to Rs 127.75 crore now",
+        "quote": "The original allotted cost of Rs 118.22 crore has been revised to Rs 127.75 crore now."
+      },
+      {
+        "claim": "The G+5 structure with an attic has a total built-up area of 11,640 square metres",
+        "quote": "The G+5 structure with an attic has a total built-up area of 11,640 square metres."
+      },
+      {
+        "claim": "The block will house specialties of gynae-oncology and assisted fertility and will house specialised healthcare infrastructure",
+        "quote": "The block will house specialties of gynae-oncology and assisted fertility and will house specialised healthcare infrastructure."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

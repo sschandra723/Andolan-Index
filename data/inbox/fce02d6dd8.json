@@ -1,0 +1,56 @@
+{
+  "id": "fce02d6dd8",
+  "url": "https://www.thehindu.com/news/national/karnataka/addanda-cariappa-protests-over-denial-of-permission-for-staging-play/article71745399.ece",
+  "title": "Addanda Cariappa protests over denial of permission for staging play",
+  "outlet": "The Hindu",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1431,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Former Rangayana Director Addanda Cariappa led a protest outside Kalamandira in Mysuru against Karnataka government denying permission for staging the controversial play Gandhi Hatyeya Satya, citing the High Court order and police security concerns.",
+    "facts": [
+      {
+        "claim": "denied permission for staging the controversial play Gandhi Hatyeya Satya",
+        "quote": "the Karnataka government’s decision to deny permission for staging the controversial play Gandhi Hatyeya Satya in the city"
+      },
+      {
+        "claim": "protest led by Addanda Cariappa",
+        "quote": "Former Rangayana Director and playwright Addanda Cariappa led a demonstration outside Kalamandira premises in Mysuru on Thursday (November 26, 2026)"
+      },
+      {
+        "claim": "protest cited police security concerns",
+        "quote": "Assistant Director of the Department of Kannada and Culture, Mysuru, M.D. Sudarshan, in a letter to Mr Cariappa, who is the President of the Rangabhoomi Trust, attributed the denial of permission for the play to the Mysuru City Police’s inability to provide adequate security for the performance, as elaborate arrangements had to be made by the police for the Constitution Day celebrations scheduled to be held on the same day."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka government denied permission for staging the controversial play Gandhi Hatyeya Satya in Mysuru, citing police security concerns for Constitution Day celebrations.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "name “Former Rangayana Director Addanda Cariappa” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "a6cadfd93f",
+  "url": "https://www.newsbytesapp.com/news/india/meta-india-executives-meet-congress-in-delhi-over-account-bans/tldr",
+  "title": "Meta India executives meet Congress in Delhi over account bans",
+  "outlet": "NewsBytes",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Meta India executives met with Congress leaders in Delhi on 25 November 2026 to discuss account bans following the party's criticism of Meta's role in spreading misinformation.",
+    "facts": [
+      {
+        "claim": "Meta India executives met with Congress leaders in Delhi on 25 November 2026",
+        "quote": "Meta India executives meet Congress in Delhi over account bans"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

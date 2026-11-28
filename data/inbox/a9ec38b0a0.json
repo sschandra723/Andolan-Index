@@ -1,0 +1,68 @@
+{
+  "id": "a9ec38b0a0",
+  "url": "https://www.greaterkashmir.com/kashmir/leopard-attacks-spark-protest-in-kupwaraszunrishichowkibal-2-killed-several-injured-in-last-3-months-12847610",
+  "title": "Leopard attacks spark protest in Kupwara’sZunrishiChowkibal; 2 killed, several injured in last 3 months",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1592,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Residents in Kupwara's Zunrishi Chowkibal staged a protest against repeated leopard attacks that have killed two people and injured several over three months, demanding wildlife authorities take action to capture the animal.",
+    "facts": [
+      {
+        "claim": "Residents of Zunrishi Chowkibal in north Kashmir’s Kupwara district staged a protest Friday against repeated leopard attacks that have left two people dead and several others injured over the past three months.",
+        "quote": "Residents of Zunrishi Chowkibal in north Kashmir’s Kupwara district staged a protest Friday against repeated leopard attacks that have left two people dead and several others injured over the past three months."
+      },
+      {
+        "claim": "Two people have been killed and several others injured in leopard attacks over the past three months. Women, elderly people and children are among those injured, with several victims shifted to hospitals in Srinagar for specialised treatment",
+        "quote": "Two people have been killed and several others injured in leopard attacks over the past three months. Women, elderly people and children are among those injured, with several victims shifted to hospitals in Srinagar for specialised treatment"
+      },
+      {
+        "claim": "Fear has gripped the area, with residents saying they are forced to remain indoors after sunset. Children are afraid to attend school, while farmers are reluctant to venture into their fields due to the threat of attacks.",
+        "quote": "Fear has gripped the area, with residents saying they are forced to remain indoors after sunset. Children are afraid to attend school, while farmers are reluctant to venture into their fields due to the threat of attacks."
+      },
+      {
+        "claim": "The protesters demanded the immediate deployment of a special Wildlife Department team, installation of cages at vulnerable locations and capture of the leopard for relocation to a safe habitat.",
+        "quote": "The protesters demanded the immediate deployment of a special Wildlife Department team, installation of cages at vulnerable locations and capture of the leopard for relocation to a safe habitat."
+      },
+      {
+        "claim": "They warned of intensifying their agitation if authorities failed to take prompt action and appealed to the Chief Wildlife Warden of Jammu and Kashmir and Deputy Commissioner Kupwara to intervene urgently to protect human lives.",
+        "quote": "They warned of intensifying their agitation if authorities failed to take prompt action and appealed to the Chief Wildlife Warden of Jammu and Kashmir and Deputy Commissioner Kupwara to intervene urgently to protect human lives."
+      },
+      {
+        "claim": "Meanwhile, the Kupwara district administration has initiated a major rescue operation to trap the leopard, described as a man-eater.",
+        "quote": "Meanwhile, the Kupwara district administration has initiated a major rescue operation to trap the leopard, described as a man-eater."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Residents in Kupwara's Zunrishi Chowkibal staged a protest against repeated leopard attacks that have killed two people and injured several over three months, demanding wildlife authorities take action to capture the animal.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

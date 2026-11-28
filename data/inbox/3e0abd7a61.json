@@ -1,0 +1,54 @@
+{
+  "id": "3e0abd7a61",
+  "url": "https://www.thehindu.com/news/national/karnataka/students-extend-support-to-protesting-asha-workers/article71754204.ece",
+  "title": "Students extend support to protesting ASHA workers",
+  "outlet": "The Hindu",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1710,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Students in Belagavi joined a statewide protest supporting ASHA workers demanding ₹15,000 monthly honorarium from Karnataka government, as the workers have been protesting for 12 days at Freedom Park since November 17.",
+    "facts": [
+      {
+        "claim": "Students of Government Sardar Pre-University College in Belagavi expressed solidarity with ASHA workers protesting in Bengaluru",
+        "quote": "Students of Government Sardar Pre-University College in Belagavi expressed solidarity with ASHA workers protesting in Bengaluru on Saturday, in an event held as part of a State-wide ‘Demand Day’ organised by the All India Democratic Students’ Organisation (AIDSO)."
+      },
+      {
+        "claim": "The protest has been ongoing for 12 days",
+        "quote": "The protest had entered its 12th day, with the workers continuing their agitation despite the cold and rain, he said."
+      },
+      {
+        "claim": "ASHA workers demand ₹15,000 monthly honorarium from Karnataka government",
+        "quote": "demanding a monthly honorarium of ₹15,000 from the State government"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "ASHA workers in Karnataka have been protesting since November 17 for a monthly honorarium of ₹15,000, with students joining the movement to support their demands.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

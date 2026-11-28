@@ -1,0 +1,66 @@
+{
+  "id": "3bc61d7b92",
+  "url": "https://nenow.in/north-east-news/assam/assam-aamsu-stages-protest-against-eviction-drives-seeks-rehabilitation-of-displaced-families-in-dhubri.html",
+  "title": "Assam: AAMSU stages protest against eviction drives, seeks rehabilitation of displaced families in Dhubri",
+  "outlet": "Northeast Now",
+  "published": "2026-11-27",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Thousands of activists from the All Assam Minorities Students’ Union (AAMSU) protested in Dhubri against arbitrary eviction drives, demanding rehabilitation of displaced families and an end to evictions without safeguards.",
+    "facts": [
+      {
+        "claim": "Thousands of activists of the All Assam Minorities Students’ Union (AAMSU) took to the streets in Dhubri on Friday, marching to the Deputy Commissioner’s office to protest against what the organisation described as arbitrary and inhuman eviction drives.",
+        "quote": "Thousands of activists of the All Assam Minorities Students’ Union (AAMSU) took to the streets in Dhubri on Friday, marching to the Deputy Commissioner’s office to protest against what the organisation described as arbitrary and inhuman eviction drives."
+      },
+      {
+        "claim": "The protesters demanded immediate rehabilitation of displaced families and an end to further eviction operations without adequate safeguards.",
+        "quote": "The protesters demanded immediate rehabilitation of displaced families and an end to further eviction operations without adequate safeguards."
+      },
+      {
+        "claim": "The organisation also submitted a memorandum to Chief Minister Himanta Biswa Sarma through the Dhubri Deputy Commissioner, seeking his intervention to stop arbitrary evictions, rehabilitate affected families and safeguard their land and fundamental rights under Article 21 of the Constitution.",
+        "quote": "The organisation also submitted a memorandum to Chief Minister Himanta Biswa Sarma through the Dhubri Deputy Commissioner, seeking his intervention to stop arbitrary evictions, rehabilitate affected families and safeguard their land and fundamental rights under Article 21 of the Constitution."
+      },
+      {
+        "claim": "AAMSU president Imtaz Hussain, chief adviser Ainuddin Ahmed and general secretaries Minnatul Islam and Kuddus Ali Sarkar said repeated eviction drives across Dhubri district had rendered thousands of families homeless, deprived them of their livelihoods and pushed them into severe hardship.",
+        "quote": "AAMSU president Imtaz Hussain, chief adviser Ainuddin Ahmed and general secretaries Minnatul Islam and Kuddus Ali Sarkar said repeated eviction drives across Dhubri district had rendered thousands of families homeless, deprived them of their livelihoods and pushed them into severe hardship."
+      },
+      {
+        "claim": "According to the memorandum, around 1,355 families were evicted from approximately 3,500 bighas of government khas land, 1,700 bighas of patta land and 200 bighas of allotted land in Chirakuta-Charuabakra.",
+        "quote": "According to the memorandum, around 1,355 families were evicted from approximately 3,500 bighas of government khas land, 1,700 bighas of patta land and 200 bighas of allotted land in Chirakuta-Charuabakra."
+      },
+      {
+        "claim": "Hundreds of displaced families are still living in makeshift tents without adequate shelter, drinking water, sanitation and healthcare facilities, the organisation said. The memorandum also referred to the death of a displaced woman, Sakina Khatun, while she was staying in a makeshift camp.",
+        "quote": "Hundreds of displaced families are still living in makeshift tents without adequate shelter, drinking water, sanitation and healthcare facilities, the organisation said. The memorandum also referred to the death of a displaced woman, Sakina Khatun, while she was staying in a makeshift camp."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "AAMSU is protesting against eviction drives in Dhubri district, Assam, demanding rehabilitation of displaced families and an end to arbitrary evictions without safeguards.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

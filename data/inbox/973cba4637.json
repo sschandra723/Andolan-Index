@@ -1,0 +1,62 @@
+{
+  "id": "973cba4637",
+  "url": "https://www.greaterkashmir.com/kashmir/dr-karan-singh-raises-alarm-over-amarnath-route-widening-says-earth-moving-equipment-threatens-fragile-himalayas-12844095",
+  "title": "Dr Karan Singh raises alarm over Amarnath route widening, says earth moving equipment threatens fragile Himalayas",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1371,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Former Sadr-i-Riyasat Dr Karan Singh warned against using heavy earth moving equipment to widen the Amarnath route, saying it threatens the fragile Himalayas and that pilgrims can manage with 2-lane roads.",
+    "facts": [
+      {
+        "claim": "Dr Singh said he was shocked to read that heavy machinery is being used to widen the route to the holy shrine",
+        "quote": "Dr Singh said he was shocked to read that heavy machinery is being used to widen the route to the holy shrine."
+      },
+      {
+        "claim": "Dr Singh urged those concerned not to use heavy equipment on this route",
+        "quote": "I join my voice with those who are protesting about this, and would urge those concerned not to use heavy equipment on this route."
+      },
+      {
+        "claim": "Dr Singh has been raising the disaster being caused to the Himalayas due to avoidable road widening",
+        "quote": "Dr Singh said for many years he has been raising the disaster being caused to the Himalayas due to avoidable road widening, particularly on the pilgrim routes in Uttarakhand."
+      },
+      {
+        "claim": "Dr Singh said tourists and pilgrims can manage with 2-lane roads",
+        "quote": "We do not have to make every pilgrim route into a motorable road just for the convenience of tourists. Genuine pilgrims will not mind walking or riding towards this great shrine"
+      },
+      {
+        "claim": "Dr Singh mentioned the Kedarnath disaster as an example of damage from road widening",
+        "quote": "In fact several disasters have already occurred, including the one at Kedarnath some years ago"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Dr Karan Singh, former Sadr-i-Riyasat, has long raised concerns about road widening in the Himalayas, particularly on pilgrim routes, citing environmental damage and past disasters like Kedarnath.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

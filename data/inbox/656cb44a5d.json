@@ -1,0 +1,54 @@
+{
+  "id": "656cb44a5d",
+  "url": "https://english.mathrubhumi.com/news/india/supreme-court-centre-delhi-govt-reply-protest-detention-dfquvddv",
+  "title": "Over 7,000 protesters detained: SC seeks Centre, Delhi govt response to Delhi protest pleas",
+  "outlet": "Mathrubhumi English",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4267,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court ordered the Centre and Delhi government to respond within 10 days to petitions claiming over 7,000 protesters were detained during October 10 anti-CEC demonstrations in Delhi.",
+    "facts": [
+      {
+        "claim": "The Supreme Court ordered the Centre and Delhi government to respond within 10 days to petitions claiming over 7,000 protesters were detained during October 10 anti-CEC demonstrations in Delhi.",
+        "quote": "The Supreme Court on Wednesday directed the Centre and the Delhi government to submit comprehensive responses within 10 days to petitions alleging the detention of political leaders and other protesters during the October 10 demonstrations against Chief Election Commissioner Gyanesh Kumar in Delhi."
+      },
+      {
+        "claim": "The Supreme Court ordered the Centre and Delhi government to respond within 10 days to petitions claiming over 7,000 protesters were detained during October 10 anti-CEC demonstrations in Delhi.",
+        "quote": "New Delhi: The Supreme Court on Wednesday sought comprehensive responses from the Centre and the Delhi government to petitions alleging the detention of political leaders and protesters during the October 10 anti-CEC demonstrations in the national capital."
+      },
+      {
+        "claim": "The Supreme Court ordered the Centre and Delhi government to respond within 10 days to petitions claiming over 7,000 protesters were detained during October 10 anti-CEC demonstrations in Delhi.",
+        "quote": "According to the report, more than 7,000 protesters were detained during the security operation."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protests were against Chief Election Commissioner Gyanesh Kumar, with allegations of irregularities in the Election Commission's functioning.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

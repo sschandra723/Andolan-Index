@@ -1,0 +1,51 @@
+{
+  "id": "8c9bcb4b66",
+  "url": "https://www.thehindu.com/news/cities/kolkata/medical-interns-appear-before-kolkata-police-others-students-join-the-march/article71747692.ece",
+  "title": "Medical interns appear before Kolkata Police, others students join the march",
+  "outlet": "The Hindu",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Medical interns appear before Kolkata Police, others students join the march",
+    "facts": [
+      {
+        "claim": "Medical interns appear before Kolkata Police",
+        "quote": "Medical interns appear before Kolkata Police"
+      },
+      {
+        "claim": "others students join the march",
+        "quote": "others students join the march"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

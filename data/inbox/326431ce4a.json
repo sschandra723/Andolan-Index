@@ -1,0 +1,62 @@
+{
+  "id": "326431ce4a",
+  "url": "https://kashmirlife.net/bsc-paramedical-interns-launch-strike-across-jammu-kashmir-demand-monthly-stipend-463038/",
+  "title": "BSc Paramedical Interns Launch Strike Across Jammu Kashmir, Demand Monthly Stipend",
+  "outlet": "Kashmir Life",
+  "published": "2026-11-27",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1096,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "BSc Paramedical interns across Jammu and Kashmir have launched a strike demanding monthly stipends after a government proposal was processed years ago but no final decision was made.",
+    "facts": [
+      {
+        "claim": "BSc Paramedical interns at several Government Medical Colleges (GMCs) across Jammu and Kashmir have launched an agitation demanding monthly stipends",
+        "quote": "SRINAGAR: BSc Paramedical interns at several Government Medical Colleges (GMCs) across Jammu and Kashmir have launched an agitation demanding monthly stipends, with the interns abstaining from work over the non-implementation of a long-pending government proposal."
+      },
+      {
+        "claim": "The agitation comes amid a separate strike by non-gazetted employees of five newly established Government Medical Colleges",
+        "quote": "The agitation comes amid a separate strike by non-gazetted employees of five newly established Government Medical Colleges, who have been protesting for the past 12 days."
+      },
+      {
+        "claim": "The interns said a government proposal to grant monthly stipends to B.Sc Paramedical interns had been processed several years ago, but no final decision had been taken so far",
+        "quote": "The interns said a government proposal to grant monthly stipends to B.Sc Paramedical interns had been processed several years ago, but no final decision had been taken so far."
+      },
+      {
+        "claim": "They have appealed to the Jammu and Kashmir Government to intervene, expedite the pending proposal and fulfil their demand for monthly stipends",
+        "quote": "They have appealed to the Jammu and Kashmir Government to intervene, expedite the pending proposal and fulfil their demand for monthly stipends."
+      },
+      {
+        "claim": "The interns’ absence from work has raised concerns over the possible impact on hospital functioning and patient care",
+        "quote": "The interns’ absence from work has raised concerns over the possible impact on hospital functioning and patient care."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "BSc Paramedical interns across Jammu and Kashmir have launched a strike demanding monthly stipends after a government proposal was processed years ago but no final decision was made.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

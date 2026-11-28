@@ -1,0 +1,54 @@
+{
+  "id": "d1fd93348f",
+  "url": "https://theshillongtimes.com/2026/11/24/farm-protest-tore-apart-akali-dal-bjp-alliance-six-years-later-joined-hands/",
+  "title": "Farm protest tore apart Akali Dal-BJP alliance; six years later joined hands",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Chandigarh"
+  ],
+  "alternatives": [
+    "pu-bachao-morcha-2025"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "pu-bachao-morcha-2025",
+    "new_movement": null,
+    "summary": "The Shiromani Akali Dal and BJP revived their political alliance ahead of Punjab's 2027 Assembly elections after a six-year split over farm laws, with both parties emphasizing their commitment to Punjab's development and farmer welfare.",
+    "facts": [
+      {
+        "claim": "The Shiromani Akali Dal and BJP revived their political alliance ahead of Punjab's 2027 Assembly elections after a six-year split over farm laws",
+        "quote": "From a 24-year-old political partnership to a bitter divorce over controversial national farm laws, the one-man ruled regional Shiromani Akali Dal and the BJP on Tuesday joined hands ahead of the polls to the 117-seat Assembly"
+      },
+      {
+        "claim": "both parties emphasizing their commitment to Punjab's development and farmer welfare",
+        "quote": "I would like to emphasise one thing: Eliminating drugs from Punjab will be our primary objective, and strengthening nationalist forces in Punjab will also be one of our key priorities"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Akali Dal and BJP previously split in June 2020 over farm laws, leading to the Akali Dal's exit from the NDA and a 2022 election where they won only three seats in Punjab's 117-member Assembly.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

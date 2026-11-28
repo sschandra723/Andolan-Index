@@ -1,0 +1,52 @@
+{
+  "id": "bfb8959c17",
+  "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-congress-protests-against-sir-irregularities-demands-protection-of-voting-rights-101795681157101.html",
+  "title": "Delhi Congress protests against SIR 'irregularities', demands protection of voting rights",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=SIR"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3270,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Delhi Congress marched on Constitution Day demanding protection of voting rights amid allegations of irregularities in the Special Intensive Revision (SIR) electoral roll exercise, citing 47.56 lakh missing names and claims of genuine voters being excluded through wrongful deletions.",
+    "facts": [
+      {
+        "claim": "47.56 lakh names missing from Delhi's draft roll",
+        "quote": "He further said the SIR exercise raised serious concerns over the exclusion of genuine voters from electoral rolls, with 47.56 lakh names missing from Delhi's draft roll."
+      },
+      {
+        "claim": "75 living voters declared dead in Nehru Vihar ward",
+        "quote": "The Congress earlier cited the case of Nehru Vihar ward in the Mustafabad assembly constituency, where it alleged that 75 living voters were declared dead through Form 7 applications."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Congress protests against alleged irregularities in the Special Intensive Revision (SIR) electoral roll exercise, demanding protection of voting rights and transparency in the deletion process.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

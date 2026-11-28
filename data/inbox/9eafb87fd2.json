@@ -1,0 +1,70 @@
+{
+  "id": "9eafb87fd2",
+  "url": "https://www.thehindu.com/news/national/telangana/oppn-protest-against-auction-of-truck-park-in-kukatpally/article71743955.ece",
+  "title": "Oppn. protest against auction of truck park in Kukatpally",
+  "outlet": "The Hindu",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1687,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Opposition parties protested in Hyderabad against the auction of Kukatpally HUDA truck park land, demanding cancellation and warning it would worsen traffic congestion. Police detained several leaders including a MLA and MLC.",
+    "facts": [
+      {
+        "claim": "The Bharat Rashtra Samithi (BRS) and Left parties of Telangana staged a protest at the Hyderabad Metropolitan Development Authority (HMDA) office",
+        "quote": "The Bharat Rashtra Samithi (BRS) and Left parties of Telangana on Wednesday staged a protest at the Hyderabad Metropolitan Development Authority (HMDA) office in Ameerpet, demanding cancellation of the November 27 e-auction of the Kukatpally HUDA truck park land."
+      },
+      {
+        "claim": "Police detained several leaders, including Kukatpally MLA Madhavaram Krishna Rao and MLC Shambipur Raju",
+        "quote": "The protest turned tense as police detained several leaders, including Kukatpally MLA Madhavaram Krishna Rao and MLC Shambipur Raju."
+      },
+      {
+        "claim": "The protest turned tense as police made elaborate security arrangements",
+        "quote": "Police made elaborate security arrangements in Ameerpet and Maitrivanam, barricading roads leading to the HMDA office in Swarna Jayanthi Complex and taking several activists into preventive custody."
+      },
+      {
+        "claim": "BRS leaders said the protest followed a week-long agitation, including hunger strikes and a signature campaign",
+        "quote": "BRS leaders said the protest followed a week-long agitation, including hunger strikes and a signature campaign, against the proposed auction."
+      },
+      {
+        "claim": "BRS leaders warned that the truck park would force lorries onto the Mumbai National Highway and internal roads in Kukatpally and Balanagar, worsening traffic congestion",
+        "quote": "They pointed out that more than 500 heavy vehicles would be parked at the truck park every day and warned that its sale would force lorries onto the Mumbai National Highway and internal roads in Kukatpally and Balanagar, worsening traffic congestion."
+      },
+      {
+        "claim": "The Opposition estimates that the truck park auction alone could fetch about ₹5,000 crore",
+        "quote": "The Opposition estimates that the truck park auction alone could fetch about ₹5,000 crore."
+      },
+      {
+        "claim": "The Opposition demanded that the land be retained for transport-related purposes or used for public amenities such as parks, hospitals and community halls",
+        "quote": "It has demanded that the land be retained for transport-related purposes or used for public amenities such as parks, hospitals and community halls."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Opposition parties in Telangana protested against the auction of Kukatpally HUDA truck park land, warning it would worsen traffic congestion and demanding cancellation or repurposing for public amenities.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "196616677d",
+  "url": "https://www.sentinelassam.com/breakingnews/kjdsta-teachers-protest-outside-mbose-office-over-exclusion-from-government-talks",
+  "title": "KJDSTA Teachers Protest Outside MBoSE Office Over Exclusion From Government Talks",
+  "outlet": "The Sentinel",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=KJDSTA"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2906,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "Khasi Jaintia Deficit Schools Teachers’ Association (KJDSTA) continued protesting outside Meghalaya Board of School Education office on 27 November, alleging government excluded its leadership from a proposed meeting with selected deficit school teachers.",
+    "facts": [
+      {
+        "claim": "KJDSTA continued its protest outside the Meghalaya Board of School Education (MBoSE) office in Lower Lachumiere, Shillong, on 27th November",
+        "quote": "KJDSTA continued its protest outside the Meghalaya Board of School Education (MBoSE) office in Lower Lachumiere, Shillong, on 27th November"
+      },
+      {
+        "claim": "alleging that the Meghalaya government had excluded its leadership from a proposed 30th November meeting with selected deficit school teachers",
+        "quote": "alleging that the Meghalaya government had excluded its leadership from a proposed 30th November meeting with selected deficit school teachers"
+      },
+      {
+        "claim": "KJDSTA president Boswell S Pala alleged that the Meghalaya government was attempting to divide teachers by inviting selected deficit school teachers to a proposed November 30 meeting without involving the association's leadership",
+        "quote": "KJDSTA president Boswell S Pala alleged that the Meghalaya government was attempting to divide teachers by inviting selected deficit school teachers to a proposed November 30 meeting without involving the association's leadership"
+      },
+      {
+        "claim": "The association maintained that any meaningful engagement with the government should include its representatives",
+        "quote": "The association maintained that any meaningful engagement with the government should include its representatives"
+      },
+      {
+        "claim": "The protest outside the MBoSE office continued on November 27, with teachers from three areas joining the protest",
+        "quote": "The protest outside the MBoSE office continued on November 27, with teachers from three areas joining the protest"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "KJDSTA has been protesting since 11 November over government exclusion from talks regarding deficit school teachers' issues.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “KJDSTA continued its protest outside the Meghalaya Board of School Education (MB”"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

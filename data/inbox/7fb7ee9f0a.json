@@ -1,0 +1,57 @@
+{
+  "id": "7fb7ee9f0a",
+  "url": "https://www.hindustantimes.com/india-news/self-proclaimed-journalists-may-not-get-same-protection-as-accredited-ones-sc-on-anti-cec-protest-pleas-101795685265505.html",
+  "title": "‘Self-proclaimed journalists may not get same protection as accredited ones’: SC on anti-CEC protest pleas",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "anti-CEC protests",
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court noted that self-proclaimed journalists may not receive the same protection as accredited reporters during anti-CEC protests, stating that journalist status is not self-conferred and must be accredited through official channels.",
+    "facts": [
+      {
+        "claim": "Self-proclaimed journalists may not enjoy the same protection which is given to accredited reporters",
+        "quote": "Self-proclaimed journalists may not enjoy the same protection which is given to accredited reporters, the Supreme Court noted on Thursday while hearing pleas over ill-treatment of media personnel during anti-CEC protests in Delhi."
+      },
+      {
+        "claim": "Status as a journalist is not self-conferred",
+        "quote": "The top court, in context of the pleas, noted that the status as a journalist “is not self-conferred,” adding that reporters are accredited according to their medium."
+      },
+      {
+        "claim": "Reporters are accredited according to their medium",
+        "quote": "If you're a journalist from a newspaper/print media, you're under [Press Council] accredited journalist...if you are a TV channel of that newspaper you are accredited accordingly...you can also be an online journalist and you can also have registration."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court is addressing the definition of journalists and their protection during protests following complaints of police misconduct against media personnel during anti-CEC demonstrations in Delhi.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

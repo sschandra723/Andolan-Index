@@ -1,0 +1,54 @@
+{
+  "id": "e91b95a69f",
+  "url": "https://www.greaterkashmir.com/kashmir/frequent-power-cuts-hit-langate-market-traders-stage-protest-12836473",
+  "title": "Frequent power cuts hit Langate market, traders stage protest",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1219,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Traders in Langate staged a peaceful protest against frequent unscheduled power cuts, accusing the Power Development Department of failing to ensure regular electricity supply.",
+    "facts": [
+      {
+        "claim": "Traders in Langate staged a peaceful protest",
+        "quote": "Traders in Langate on Monday staged a peaceful protest against frequent and unscheduled power cuts, accusing the Power Development Department (PDD) of failing to ensure regular electricity supply to the area."
+      },
+      {
+        "claim": "accusing the Power Development Department of failing to ensure regular electricity supply",
+        "quote": "accusing the Power Development Department (PDD) of failing to ensure regular electricity supply to the area."
+      },
+      {
+        "claim": "frequent and unscheduled power cuts",
+        "quote": "frequent and unscheduled power cuts"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

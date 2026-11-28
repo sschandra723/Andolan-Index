@@ -1,0 +1,74 @@
+{
+  "id": "6e2fa6352e",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-names-dissidents-to-lead-aiadmks-agitations-but-leaves-out-three-key-rebels/article71751178.ece",
+  "title": "Palaniswami names dissidents to lead AIADMK’s agitations, but leaves out three key rebels",
+  "outlet": "The Hindu",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1946,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "AIADMK leader Palaniswami appointed rebels to lead party agitations on inflation and women's security issues, excluding three prominent dissidents who previously opposed him in the assembly.",
+    "facts": [
+      {
+        "claim": "Palaniswami named several rebels to lead the party’s agitations in different parts of the State on December 2",
+        "quote": "The All India Anna Dravida Munnetra Kazhagam’s general secretary Edappadi K. Palaniswami on Friday named several rebels to lead the party’s agitations in different parts of the State on December 2 to highlight issues such as inflation and lack of security for women."
+      },
+      {
+        "claim": "He left out three prominent dissidents — Natham R. Viswanathan, S.P. Velumani and C.Ve. Shanmugam",
+        "quote": "However, he left out three prominent dissidents — Natham R. Viswanathan, S.P. Velumani and C.Ve. Shanmugam."
+      },
+      {
+        "claim": "Those who went against the party’s line on the floor of the Assembly in mid-May, and have been assigned the party work include K.P. Anbalagan for Tirupattur; K.C. Veeramani for Cuddalore (north); P. Balakrishna Reddy for Dharmapuri (east) and N.S.N. Nataraj Tiruppur (suburban east)",
+        "quote": "Those who went against the party’s line on the floor of the Assembly in mid-May, and have been assigned the party work include K.P. Anbalagan for Tirupattur; K.C. Veeramani for Cuddalore (north); P. Balakrishna Reddy for Dharmapuri (east) and N.S.N. Nataraj Tiruppur (suburban east)."
+      },
+      {
+        "claim": "Recently, Mr. Viswanathan wondered whether it was proper on the part of Mr. Palaniswami to have released pictures of him with DMK president M.K. Stalin",
+        "quote": "Recently, Mr. Viswanathan wondered whether it was proper on the part of Mr. Palaniswami to have released pictures of him with DMK president M.K. Stalin,"
+      },
+      {
+        "claim": "Mr. Velumani had thanked the AIADMK general secretary for describing him as one among the two crore cadre, adding it was these workers who had brought him to the post of general secretary",
+        "quote": "Mr. Velumani had thanked the AIADMK general secretary for describing him as one among the two crore cadre, adding it was these workers who had brought him to the post of general secretary."
+      },
+      {
+        "claim": "Five months ago, Mr. Palaniswami named the two leaders deputy general secretaries but the latter refused to take up the assignment",
+        "quote": "Five months ago, Mr. Palaniswami named the two leaders deputy general secretaries but the latter refused to take up the assignment."
+      },
+      {
+        "claim": "Mr Shanmugam has been maintaining a low profile",
+        "quote": "Mr Shanmugam has been maintaining a low profile."
+      },
+      {
+        "claim": "In another statement, the AIADMK general secretary criticised the State government for handing over, to automatic weaving looms, the job of producing dhoties and sarees, meant for free distribution at the time of Pongal festival in mid-January, citing the paucity of time as the reason",
+        "quote": "In another statement, the AIADMK general secretary criticised the State government for handing over, to automatic weaving looms, the job of producing dhoties and sarees, meant for free distribution at the time of Pongal festival in mid-January, citing the paucity of time as the reason."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "AIADMK leader Palaniswami appointed rebels to lead party agitations on inflation and women's security issues, excluding three prominent dissidents who previously opposed him in the assembly.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

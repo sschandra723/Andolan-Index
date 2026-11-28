@@ -1,0 +1,56 @@
+{
+  "id": "a28e7bd51b",
+  "url": "https://www.hindustantimes.com/india-news/karnataka-cm-shivakumar-warns-of-delhi-chalo-protest-over-pending-drought-relief-101795859401470.html",
+  "title": "Karnataka CM Shivakumar warns of 'Delhi Chalo' protest over pending drought relief",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3890,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka Chief Minister Shivakumar warned of a 'Delhi Chalo' protest after the Centre failed to release drought relief funds, stating the Centre has not given any rupees for drought relief.",
+    "facts": [
+      {
+        "claim": "Karnataka CM Shivakumar warned of 'Delhi Chalo' agitation after legislature session if Centre fails to release drought relief funds",
+        "quote": "Karnataka Chief Minister D K Shivakumar on Saturday warned that the state would launch a 'Delhi Chalo' agitation after the legislature session if the Centre failed to release drought relief funds, and indicated that his government is exploring legal recourse by approaching the Supreme Court over the delay."
+      },
+      {
+        "claim": "The Centre has not released a single rupee towards drought relief for the state",
+        "quote": "Till today, the Centre has not given a single rupee for the drought relief. It has not even made an announcement,"
+      },
+      {
+        "claim": "Karnataka has submitted a revised memorandum seeking ₹22,400.58 crore in assistance under the NDRF",
+        "quote": "The state has submitted a revised memorandum seeking ₹22,400.58 crore in assistance under the NDRF."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka is facing severe drought with 226 taluks affected and crop damage across 57.93 lakh hectares.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "name “Karnataka Chief Minister Shivakumar” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

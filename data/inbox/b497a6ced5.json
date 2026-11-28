@@ -1,0 +1,70 @@
+{
+  "id": "b497a6ced5",
+  "url": "https://www.hindustantimes.com/cities/lucknow-news/many-congress-leaders-detained-for-march-sans-permission-in-lucknow-101795715375462.html",
+  "title": "Many Congress leaders detained for march sans permission in Lucknow",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-26",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "electoral roll"
+  ],
+  "alternatives": [
+    "up-nhm-staff-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2228,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "mgnrega-bachao-2026",
+    "new_movement": null,
+    "summary": "Congress leaders detained in Lucknow for unauthorised Constitution march protesting alleged deletion of 13 crore voters from electoral rolls.",
+    "facts": [
+      {
+        "claim": "UP Congress leaders were detained during an unauthorised Constitution march",
+        "quote": "UP Congress leaders were detained during an unauthorised Constitution march, protesting the alleged deletion of 13 crore voters from electoral rolls."
+      },
+      {
+        "claim": "Several Congress leaders, including AICC in-charge for Uttar Pradesh Rajendra Pal Gautam and state unit party chief Aradhana Mishra, and workers were detained on Thursday as they took out “Samvidhan Raksha March” even after they were denied permission",
+        "quote": "Several Congress leaders, including AICC in-charge for Uttar Pradesh Rajendra Pal Gautam and state unit party chief Aradhana Mishra, and workers were detained on Thursday as they took out “Samvidhan Raksha March” even after they were denied permission."
+      },
+      {
+        "claim": "UP Congress president Aradhana Mishra said the march was protesting the alleged deletion of 13 crore voters from electoral rolls",
+        "quote": "“Across the country, all states have got permission for the march but not Uttar Pradesh. We have been detained but the Congress will continue the struggle until all 13 crore votes deleted under SIR are brought back on the electoral roll,” said UP Congress president Aradhana Mishra."
+      },
+      {
+        "claim": "UP Congress in-charge Rajendra Pal Gautam asked whom the administration was afraid of",
+        "quote": "The administration gives permission for all BJP events but not for ours. Whom are they afraid of?” UP Congress in-charge Rajendra Pal Gautam asked."
+      },
+      {
+        "claim": "Kunwar Nishad, head, UP Congress media department and vice-chairperson Priyanka Gupta said the BJP government fears the Constitution",
+        "quote": "This day, the nation adopted the Constitution drafted by Dr Bhimrao Ambedkar. “Yet, on this very day, the BJP government in Uttar Pradesh has demonstrated that it fears not the Constitution itself but those who seek to protect it,” said Kunwar Nishad, head, UP Congress media department and vice-chairperson Priyanka Gupta in a statement."
+      },
+      {
+        "claim": "Rajendra Pal Gautam said arrests, batons, and barricades cannot intimidate Congress",
+        "quote": "The BJP government must realise that its prisons have yet to forge the iron capable of confining the steely resolve of the Congress. Arrests, batons, and barricades cannot intimidate us,” Gautam said."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress leaders detained in Lucknow for unauthorised Constitution march protesting alleged deletion of 13 crore voters from electoral rolls.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

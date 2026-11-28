@@ -1,0 +1,74 @@
+{
+  "id": "d0c9831db6",
+  "url": "https://www.theweek.in/wire-updates/national/2026/11/23/skm-outlines-nov-26-agitation-programme-to-stage-march-from-mandir-marg-to-jantar-mantar-in-delhi.html",
+  "title": "SKM outlines Nov 26 agitation programme to stage march from Mandir Marg to Jantar Mantar in Delhi",
+  "outlet": "The Week",
+  "published": "2026-11-23",
+  "collected": "2026-11-26",
+  "suggested_movement": "farmers-india-us-trade-2026",
+  "score": 3.0,
+  "matched": [
+    "Samyukt Kisan Morcha",
+    "=SKM",
+    "farmers"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4593,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "farmers-india-us-trade-2026",
+    "new_movement": null,
+    "summary": "The Samyukt Kisan Morcha (SKM) plans nationwide demonstrations on November 26, 2026, marking six years of farmer protests since the 2020 agitation, demanding the repeal of the India-US trade agreement and other agricultural reforms.",
+    "facts": [
+      {
+        "claim": "The SKM outlined a nationwide agitation programme for November 26, 2026, with demonstrations at around 100 locations across the country",
+        "quote": "The Samyukt Kisan Morcha (SKM) on Monday outlined the programme for its nationwide agitation on November 26, saying farmers would hold demonstrations at around 100 locations across the country and submit a charter of demands to President Droupadi Murmu through district collectors."
+      },
+      {
+        "claim": "The SKM demands the repeal of the India-US trade agreement",
+        "quote": "Opposing the proposed India-US trade agreement, Bharatiya Kisan Union (Tikait) leader Yudhvir Singh said Indian farmers, most of whom have small landholdings, would be unable to compete with large American agricultural producers."
+      },
+      {
+        "claim": "The SKM demands a law guaranteeing the minimum support price (MSP) calculated on the basis of the \"C2 plus 50 per cent\" formula for all crops, with assured procurement",
+        "quote": "The demands include a law guaranteeing the minimum support price (MSP) calculated on the basis of the \"C2 plus 50 per cent\" formula for all crops, with assured procurement, a comprehensive loan waiver, a repeal of the four labour codes and the withdrawal of the legislation relating to electricity privatisation, seeds and amendments to the National Food Security Act."
+      },
+      {
+        "claim": "The SKM demands a comprehensive loan waiver",
+        "quote": "The memorandum also seeks a comprehensive loan waiver, a compensation of Rs 25 lakh each to the families of farmers and farm workers who die by suicide, and the replacement of the Pradhan Mantri Fasal Bima Yojana with a public-sector Crop and Livestock Insurance Corporation."
+      },
+      {
+        "claim": "The SKM demands the restoration of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) with 200 days of work annually at a wage of Rs 700",
+        "quote": "On employment and social security, the SKM has demanded the restoration of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) with 200 days of work annually at a wage of Rs 700, a minimum wage of Rs 42,000 for all workers and a monthly pension of Rs 21,000 for farmers and agricultural workers aged above 60 years, besides universal social security and free public healthcare for rural households."
+      },
+      {
+        "claim": "The SKM has demanded the scrapping of the Special Intensive Revision (SIR) of electoral rolls",
+        "quote": "The SKM has additionally demanded the scrapping of the Special Intensive Revision (SIR) of electoral rolls, the restoration of the 2024 voter lists and the prosecution of Chief Election Commissioner (CEC) Gyanesh Kumar."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The SKM is demanding the repeal of the India-US trade agreement, which was part of the 2020-21 farmer agitation that led to the repeal of three farm laws.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": [
+        "number 2026 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

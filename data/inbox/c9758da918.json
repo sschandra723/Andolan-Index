@@ -1,0 +1,54 @@
+{
+  "id": "c9758da918",
+  "url": "https://www.greaterkashmir.com/srinagar/apni-party-expresses-solidarity-with-protesting-resident-doctors-seeks-stipend-parity-12844573",
+  "title": "Apni Party expresses solidarity with protesting resident doctors, seeks stipend parity",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1785,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Apni Party leaders visited protesting resident doctors in Jammu and Kashmir, expressing solidarity with their strike demands for stipend parity with other Union Territories.",
+    "facts": [
+      {
+        "claim": "Apni Party leaders visited protesting resident doctors in Jammu and Kashmir",
+        "quote": "A delegation of senior Apni Party leaders, led by Provincial President Mohammad Ashraf Mir, on Thursday visited the protesting resident doctors at Government Medical College (GMC) and expressed strong solidarity with their ongoing strike and demands."
+      },
+      {
+        "claim": "Resident doctors have been staging protests for stipend parity",
+        "quote": "Resident doctors across Jammu and Kashmir have been staging protests for the past several days, pressing for their long-pending demands, including stipend parity."
+      },
+      {
+        "claim": "Apni Party demands stipends be brought at par with other Union Territories",
+        "quote": "Emphasizing the need for immediate action, Ashraf Mir stated that the stipends of resident doctors in Jammu and Kashmir must be brought at par with those provided in other Union Territories across India."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Resident doctors in Jammu and Kashmir have been striking for stipend parity with other Union Territories, with Apni Party offering political support.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

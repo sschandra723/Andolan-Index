@@ -1,0 +1,62 @@
+{
+  "id": "5d3ad73696",
+  "url": "https://www.thehindu.com/news/national/karnataka/aidso-stages-protest-in-support-of-asha-workers-in-dharwad/article71754349.ece",
+  "title": "AIDSO stages protest in support of ASHA workers in Dharwad",
+  "outlet": "The Hindu",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1765,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Students from AIDSO staged a protest in Dharwad supporting ASHA workers who have been on indefinite strike since November 15 demanding ₹15,000 monthly honorarium.",
+    "facts": [
+      {
+        "claim": "Students under the aegis of All India Democratic Students’ Organisation (AIDSO) staged a protest at Vivekananda Circle in Dharwad on Saturday",
+        "quote": "Students under the aegis of All India Democratic Students’ Organisation (AIDSO) staged a protest at Vivekananda Circle in Dharwad on Saturday"
+      },
+      {
+        "claim": "urging the State government to fulfil the demands of ASHA workers who have been on an indefinite strike in Bengaluru",
+        "quote": "urging the State government to fulfil the demands of ASHA workers who have been on an indefinite strike in Bengaluru"
+      },
+      {
+        "claim": "thousands of ASHA workers had been staging an indefinite protest at Freedom Park in Bengaluru since November 15",
+        "quote": "thousands of ASHA workers had been staging an indefinite protest at Freedom Park in Bengaluru since November 15"
+      },
+      {
+        "claim": "demanding a monthly honorarium of ₹15,000",
+        "quote": "demanding a monthly honorarium of ₹15,000"
+      },
+      {
+        "claim": "Accusing the Congress government of failing to honour its assurance of increasing their monthly honorarium to ₹10,000 two years ago",
+        "quote": "Accusing the Congress government of failing to honour its assurance of increasing their monthly honorarium to ₹10,000 two years ago"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "ASHA workers, who provide grassroots healthcare, have been on indefinite strike since November 15 demanding ₹15,000 monthly honorarium, with AIDSO supporting their cause.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "073869be09",
+  "url": "https://eastmojo.com/meghalaya/2026/11/26/northeast-gets-first-region-specific-antivenom-for-pit-viper-bites/",
+  "title": "Northeast gets first region-specific antivenom for pit viper bites",
+  "outlet": "EastMojo",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2535,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Researchers developed India's first region-specific antivenom for Northeast pit vipers, addressing a gap in snakebite treatment where conventional antivenom covers only four major snake species.",
+    "facts": [
+      {
+        "claim": "Researchers developed India’s first region-specific antivenom targeting two medically significant pit viper species found in Northeast India",
+        "quote": "Researchers have developed India’s first region-specific antivenom targeting two medically significant pit viper species found in Northeast India, potentially addressing a major gap in snakebite treatment."
+      },
+      {
+        "claim": "The antivenom was developed by a team led by Ashis K. Mukherjee, director of the Institute of Advanced Study in Science and Technology (IASST), Guwahati",
+        "quote": "The antivenom was developed by a team led by Ashis K. Mukherjee, director of the Institute of Advanced Study in Science and Technology (IASST), Guwahati."
+      },
+      {
+        "claim": "It has demonstrated superior effectiveness against the venom of Pope’s pit viper (Trimeresurus popeiorum) and red-tailed bamboo pit viper (Trimeresurus erythrurus)",
+        "quote": "It has demonstrated superior effectiveness against the venom of Pope’s pit viper (Trimeresurus popeiorum) and red-tailed bamboo pit viper (Trimeresurus erythrurus)."
+      },
+      {
+        "claim": "The development is significant for the Northeast, where the commercially available Indian polyvalent antivenom is primarily designed to neutralise venom from the country’s four major venomous snakes — Russell’s viper, spectacled cobra, common krait and saw-scaled viper",
+        "quote": "The development is significant for the Northeast, where the commercially available Indian polyvalent antivenom is primarily designed to neutralise venom from the country’s four major venomous snakes — Russell’s viper, spectacled cobra, common krait and saw-scaled viper."
+      },
+      {
+        "claim": "Its effectiveness against several medically important regional species is limited, leaving patients vulnerable to complications from their bites",
+        "quote": "Its effectiveness against several medically important regional species is limited, leaving patients vulnerable to complications from their bites."
+      },
+      {
+        "claim": "The research team developed an equine-derived F(ab)2 bivalent antivenom using pit viper venoms collected in Mizoram and Meghalaya",
+        "quote": "The research team developed an equine-derived F(ab)2 bivalent antivenom using pit viper venoms collected in Mizoram and Meghalaya."
+      },
+      {
+        "claim": "Pit viper bites can cause blood-clotting disorders, tissue damage and injuries to internal organs",
+        "quote": "Pit viper bites can cause blood-clotting disorders, tissue damage and injuries to internal organs."
+      },
+      {
+        "claim": "The new formulation significantly reduced these effects in preclinical investigations",
+        "quote": "The new formulation significantly reduced these effects in preclinical investigations."
+      },
+      {
+        "claim": "The study involved researchers from IASST, Premium Serums and Vaccines Pvt. Ltd., Amrita Research Centre, Delhi-NCR, Mizoram University and Aaranyak, Guwahati",
+        "quote": "The study involved researchers from IASST, Premium Serums and Vaccines Pvt. Ltd., Amrita Research Centre, Delhi-NCR, Mizoram University and Aaranyak, Guwahati."
+      },
+      {
+        "claim": "The findings, published in the International Journal of Biological Macromolecules, highlight the limitations of a uniform antivenom strategy in a country with considerable regional diversity in venomous snake species",
+        "quote": "The findings, published in the International Journal of Biological Macromolecules, highlight the limitations of a uniform antivenom strategy in a country with considerable regional diversity in venomous snake species."
+      },
+      {
+        "claim": "Snakebite is classified by the World Health Organization as a neglected tropical disease and a medical emergency",
+        "quote": "Snakebite is classified by the World Health Organization as a neglected tropical disease and a medical emergency."
+      },
+      {
+        "claim": "The lack of effective antivenoms against several regionally prevalent species remains a major challenge in northeastern India",
+        "quote": "The lack of effective antivenoms against several regionally prevalent species remains a major challenge in northeastern India."
+      },
+      {
+        "claim": "Mukherjee said further clinical and regulatory assessments would be required before the antivenom could be introduced for routine treatment",
+        "quote": "Mukherjee said further clinical and regulatory assessments would be required before the antivenom could be introduced for routine treatment."
+      },
+      {
+        "claim": "The development could pave the way for more effective, region-specific snakebite treatment in the Northeast, where the conventional antivenom does not adequately cover the region’s diverse medically significant snake species",
+        "quote": "The development could pave the way for more effective, region-specific snakebite treatment in the Northeast, where the conventional antivenom does not adequately cover the region’s diverse medically significant snake species."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "14/14",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

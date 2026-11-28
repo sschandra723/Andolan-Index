@@ -1,0 +1,76 @@
+{
+  "id": "bb51bebf24",
+  "url": "https://indianexpress.com/article/india/ranchi-protest-tree-felling-detentions-10977816/",
+  "title": "In Ranchi, a protest against tree felling ends in detentions",
+  "outlet": "The Indian Express",
+  "published": "2026-11-25",
+  "collected": "2026-11-25",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Ranchi"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2997,
+    "fetch_note": null,
+    "drafted": "2026-11-25",
+    "is_protest_in_india": true,
+    "movement": "jharkhand-exam-protests-2026",
+    "new_movement": null,
+    "summary": "Protesters in Ranchi detained by police during demonstration against proposed road expansion that would felling trees and displace Adivasi communities.",
+    "facts": [
+      {
+        "claim": "More than a dozen people, including several activists, were detained by police in Ranchi on Wednesday during a protest against the proposed felling of trees and the displacement of Adivasi bastis for a 10-lane road project.",
+        "quote": "More than a dozen people, including several activists, were detained by police in Ranchi on Wednesday during a protest against the proposed felling of trees and the displacement of Adivasi bastis for a 10-lane road project."
+      },
+      {
+        "claim": "Protesters said they were standing at a distance from one another and were not obstructing traffic.",
+        "quote": "Protesters said they were standing at a distance from one another and were not obstructing traffic."
+      },
+      {
+        "claim": "Shailesh Krishna, an activist who has been raising the issue of the proposed tree-felling, said the existing four-lane road was adequate and there was no need to expand it into a 10-lane road.",
+        "quote": "Shailesh Krishna, an activist who has been raising the issue of the proposed tree-felling, said the existing four-lane road was adequate and there was no need to expand it into a 10-lane road."
+      },
+      {
+        "claim": "According to a petition filed on Wednesday by advocates Piyushita Tudu and Shailesh Poddar, approximately 7,000 trees would have to be felled to expand a 4–5 km stretch into a 10-lane road.",
+        "quote": "According to a petition filed on Wednesday by advocates Piyushita Tudu and Shailesh Poddar, approximately 7,000 trees would have to be felled to expand a 4–5 km stretch into a 10-lane road."
+      },
+      {
+        "claim": "Activist Siraj Dutta said the proposed road expansion would also affect settlements along the route.",
+        "quote": "Activist Siraj Dutta said the proposed road expansion would also affect settlements along the route."
+      },
+      {
+        "claim": "Dutta also questioned the police action, claiming that Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) was not applicable at the spot where they were protesting.",
+        "quote": "Dutta also questioned the police action, claiming that Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) was not applicable at the spot where they were protesting."
+      },
+      {
+        "claim": "Nayan, one of the two women social workers detained, alleged that police personnel used force against the protesters despite their asking under which law they were being prevented from standing there.",
+        "quote": "Nayan, one of the two women social workers detained, alleged that police personnel used force against the protesters despite their asking under which law they were being prevented from standing there."
+      },
+      {
+        "claim": "A police official from Tupudana police station said that protests were not allowed within a 1-km radius of the Vidhan Sabha as prohibitory orders under Section 163 of the BNSS were in force.",
+        "quote": "A police official from Tupudana police station said that protests were not allowed within a 1-km radius of the Vidhan Sabha as prohibitory orders under Section 163 of the BNSS were in force."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Protesters in Ranchi detained by police during demonstration against proposed road expansion that would felling trees and displace Adivasi communities.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "bd9526bed0",
+  "url": "https://timesofindia.indiatimes.com/india/congress-meets-meta-amid-youth-congress-protest-demads-fair-treatment/articleshow/136168723.cms",
+  "title": "Congress meets Meta amid Youth Congress protest, demads fair treatment",
+  "outlet": "Times of India",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1905,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Congress social media department met Meta officials following complaints about selective suspension of opposition accounts, as Indian Youth Congress demanded restoration of suspended functionaries' accounts after a week-long protest.",
+    "facts": [
+      {
+        "claim": "Congress social media department met Meta officials",
+        "quote": "A team of Meta officials met Congress social media department in the wake of complaints by the lead opposition party and amid the ongoing protest of Indian Youth Congress which has issued a week-long ultimatum to the company to restore the suspended accounts of its functionaries."
+      },
+      {
+        "claim": "Indian Youth Congress issued a week-long ultimatum to Meta",
+        "quote": "Indian Youth Congress has issued a week-long ultimatum to the company to restore the suspended accounts of its functionaries."
+      },
+      {
+        "claim": "Over 54 lakh youth posts removed or restricted by Meta",
+        "quote": "posts of more than 54 lakh youth have been removed or restricted by Meta over the last six months."
+      },
+      {
+        "claim": "Youth Congress president Uday Bhanu Chib stated Meta is acting as a political agent",
+        "quote": "\"Meta is exerting political influence in our country. It is acting as a political agent. Meta is welcome to operate in our country and earn revenue from our youth, but it must not interfere with our nation’s democracy,\" Chib said."
+      },
+      {
+        "claim": "Meta officials argued they are bound by India’s laws",
+        "quote": "Meta officials argued that the company is bound by India’s laws, and it has to take down posts within three hours of a govt request."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress social media department met Meta officials following complaints about selective suspension of opposition accounts, as Indian Youth Congress demanded restoration of suspended functionaries' accounts after a week-long protest.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Indian Youth Congress has issued a week-long ultimatum to the company to restore”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

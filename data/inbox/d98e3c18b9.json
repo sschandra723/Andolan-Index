@@ -1,0 +1,60 @@
+{
+  "id": "d98e3c18b9",
+  "url": "https://www.deccanherald.com/india/punjab/punjab-dalit-youths-custodial-death-sparks-protest-in-zira-family-demands-justice-4233970",
+  "title": "Punjab: Dalit youth's 'custodial death' sparks protest in Zira, family demands justice",
+  "outlet": "Deccan Herald",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1603,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Family of Dalit youth Jashandeep, a Class 12 student and hockey player, staged a protest in Zira, Punjab, alleging custodial torture leading to his death after being released from police custody on November 16. Police denied allegations, claiming he had a kidney ailment and was released after questioning.",
+    "facts": [
+      {
+        "claim": "Family of 19-year-old Jashandeep staged protest in Zira, Punjab",
+        "quote": "Ferozepur: Tension prevailed in Ferozepur's Zira as family members of 19-year-old Jashandeep, alleging custodial torture leading to his death, staged a protest by placing his body at Sherawala Chowk on Friday and demanding action against the policemen concerned."
+      },
+      {
+        "claim": "Jashandeep was a Class 12 student and budding hockey player",
+        "quote": "Jashandeep, a Class 12 student and budding hockey player from Basti Machhianwala, was allegedly taken into custody by the Kulgarhi police on November 16 for questioning in some matter, sources said."
+      },
+      {
+        "claim": "Jashandeep died after being released from police custody on November 16",
+        "quote": "The family of the Dalit youth alleged that he was tortured during custody and fell ill shortly after being handed back to them. He was subsequently taken to hospitals in Zira and later Moga, where he remained under treatment for around five days before passing away."
+      },
+      {
+        "claim": "Police denied allegations of custodial torture",
+        "quote": "Zira City SHO Jaswinder Singh Brar refuted the allegations, claiming that the youth was suffering from a kidney ailment and had been released after questioning."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A Dalit youth died after allegedly being tortured by police in Zira, Punjab, sparking a protest demanding justice.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Family of Dalit” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

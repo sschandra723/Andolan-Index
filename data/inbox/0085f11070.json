@@ -1,0 +1,51 @@
+{
+  "id": "0085f11070",
+  "url": "https://www.ndtv.com/india-news/why-cjps-abhijeet-dipke-saurav-das-ashutosh-ranka-are-facing-look-out-circulars-12381582",
+  "title": "Why CJP's Abhijeet Dipke, Saurav Das, Ashutosh Ranka Are Facing Look Out Circulars",
+  "outlet": "NDTV",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Three judicial officers face look-out circulars for alleged misconduct in judicial appointments.",
+    "facts": [
+      {
+        "claim": "Three judicial officers face look-out circulars",
+        "quote": "Why CJP's Abhijeet Dipke, Saurav Das, Ashutosh Ranka Are Facing Look Out Circulars"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

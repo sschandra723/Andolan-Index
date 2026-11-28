@@ -1,0 +1,64 @@
+{
+  "id": "ef2d0198e3",
+  "url": "https://www.hindustantimes.com/cities/mumbai-news/residents-protest-metro-11-office-on-bandra-plot-reserved-for-garden-101795806537398.html",
+  "title": "Residents protest Metro 11 office on Bandra plot reserved for garden",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5141,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Residents in Bandra protest the allocation of a garden plot to Metro Line 11 office, demanding restoration of recreational space after years of unfulfilled promises.",
+    "facts": [
+      {
+        "claim": "Residents protest the allocation of a garden plot to Metro Line 11 office",
+        "quote": "Residents plan to assemble at the plot on Sunday, to protest the allotment and demand their recreational ground."
+      },
+      {
+        "claim": "The plot was designated as a recreational ground in the city’s Development Plan 2034",
+        "quote": "The plot, near Guru Nanak Hospital in Bandra (east), looks nothing like a recreational ground (RG) – and yet it is designated as one in the city’s Development Plan 2034."
+      },
+      {
+        "claim": "Residents have waited over a decade for the promised open space",
+        "quote": "Arvind Sawant, former senior police inspector with the Mumbai Crime Branch and chairperson of Renuka Cooperative Housing Society, underlined that they had waited more than a decade for the promised open space."
+      },
+      {
+        "claim": "The plot was used for Metro Line 3 site office for 11 years",
+        "quote": "Under the jurisdiction of the suburban district collector, the plot hosted the site office of Metro Line 3 for 11 years."
+      },
+      {
+        "claim": "The plot is 3,500-sq m and will accommodate 15 department heads",
+        "quote": "Construction work is underway on a 3,500-sq m plot in Bandra (East). Six pits, each 4 feet deep, have been dug for the foundation of a site office for Metro Line 11. The site office will accommodate the cabins of 15 department heads of the Mumbai Metro Rail Corporation Ltd (MMRCL)."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Residents in Bandra have been waiting over a decade for a promised recreational space after the plot was used for Metro Line 3 site office for 11 years, but now it is being allocated to Metro Line 11 office for five years.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The plot, near Guru Nanak Hospital in Bandra (east), looks nothing like a recrea”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "48bd51e48d",
+  "url": "https://www.hindustantimes.com/cities/bengaluru-news/karnataka-rules-out-lalbagh-land-for-bengaluru-tunnel-road-surveys-two-alternative-routes-101795615625824.html",
+  "title": "Karnataka rules out Lalbagh land for Bengaluru tunnel road, surveys two alternative routes",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3376,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka government rules out using Lalbagh Botanical Garden land for Bengaluru tunnel road after protests, surveying two alternative routes.",
+    "facts": [
+      {
+        "claim": "Karnataka rules out Lalbagh Botanical Garden land for Bengaluru tunnel road",
+        "quote": "Karnataka is surveying two alternative routes for the Bengaluru tunnel road after ruling out Lalbagh Botanical Garden, following protests over the original plan."
+      },
+      {
+        "claim": "The government is considering two alternative alignments for the proposed Bengaluru tunnel road after ruling out the use of Lalbagh Botanical Garden land",
+        "quote": "The Karnataka government is considering two alternative alignments for the proposed Bengaluru tunnel road after ruling out the use of Lalbagh Botanical Garden land for the project, Bengaluru development minister Krishna Byre Gowda said on Wednesday."
+      },
+      {
+        "claim": "The original plan for the 16.75-km tunnel road involved routing part of it through or around Lalbagh",
+        "quote": "The original plan for the 16.75-km tunnel road involved routing part of it through or around Lalbagh, with entry and exit ramps and construction infrastructure requiring the use of garden land."
+      },
+      {
+        "claim": "The proposal triggered protests by environmentalists, citizens’ groups and political leaders",
+        "quote": "The proposal triggered protests by environmentalists, citizens’ groups and political leaders, who warned that it could threaten the garden’s trees, ancient rock formations and biodiversity."
+      },
+      {
+        "claim": "The government is surveying two alternative routes and will select the final alignment after assessing their advantages and disadvantages",
+        "quote": "The government is surveying two alternative routes and will select the final alignment after assessing their advantages and disadvantages."
+      },
+      {
+        "claim": "Areas around Siddapura and Wilson Garden are among those being considered",
+        "quote": "Areas around Siddapura and Wilson Garden are among those being considered."
+      },
+      {
+        "claim": "The decision follows a Cabinet resolution earlier this month to exclude Lalbagh from the project",
+        "quote": "The decision follows a Cabinet resolution earlier this month to exclude Lalbagh from the project."
+      },
+      {
+        "claim": "The government began exploring alternative alignments after facing opposition to the proposed use of garden land",
+        "quote": "The government began exploring alternative alignments after facing opposition to the proposed use of garden land."
+      },
+      {
+        "claim": "The Cabinet had also withdrawn the Karnataka Parks Conservation Amendment Bill",
+        "quote": "The Cabinet had also withdrawn the Karnataka Parks Conservation Amendment Bill, which would have allowed portions of park land to be used for infrastructure projects."
+      },
+      {
+        "claim": "Bengaluru South MP Tejasvi Surya welcomed the decision",
+        "quote": "Bengaluru South MP Tejasvi Surya welcomed the decision, describing it as a victory for citizens who had campaigned against the proposed alignment."
+      },
+      {
+        "claim": "The government has asked the chief secretary to negotiate with the contractor to explore ways to reduce the project’s cost",
+        "quote": "The government has asked the chief secretary to negotiate with the contractor to explore ways to reduce the project’s cost."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka government ruled out Lalbagh Botanical Garden for Bengaluru tunnel road after protests, surveying two alternative routes.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "11/11",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

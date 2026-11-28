@@ -1,0 +1,56 @@
+{
+  "id": "697bc63366",
+  "url": "https://www.hindustantimes.com/india-news/you-can-not-blackmail-any-government-karnataka-cm-shivakumar-to-protesting-asha-workers-101795701141596.html",
+  "title": "'You can not blackmail any government': Karnataka CM Shivakumar to protesting ASHA workers",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5021,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka Chief Minister Shivakumar urged ASHA workers to end their nine-day strike demanding ₹15,000 honorarium, stating they should seek written assurances from the central government instead of the state.",
+    "facts": [
+      {
+        "claim": "Karnataka Chief Minister Shivakumar urged ASHA workers to end their nine-day strike",
+        "quote": "Karnataka Chief Minister D K Shivakumar on Thursday took a tough stand over the agitation by the ASHA workers and said they cannot blackmail the state government."
+      },
+      {
+        "claim": "ASHA workers have been on an indefinite strike for the past nine days at Freedom Park",
+        "quote": "ASHA workers have been on an indefinite strike for the past nine days at Freedom Park seeking ₹15,000 honorarium."
+      },
+      {
+        "claim": "They should seek written assurances from the central government instead of the state government",
+        "quote": "Why are they not seeking a written assurance from the central government? Why are they not placing their demands before the Centre? I cannot give written assurances in every such matter."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka Chief Minister Shivakumar stated that ASHA workers, who are recruited by the central government, should not seek written assurances from the state government but rather address their demands with the central government.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "name “Karnataka Chief Minister Shivakumar” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

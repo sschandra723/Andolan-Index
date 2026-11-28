@@ -1,0 +1,58 @@
+{
+  "id": "94a4c45c55",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-issues-order-to-withdraw-600-cases-against-farmers-teachers-over-past-protests/article71742491.ece",
+  "title": "Tamil Nadu government issues order to withdraw 600 cases against farmers, teachers over past protests",
+  "outlet": "The Hindu",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [
+    "tn-hospital-workers-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1148,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "tn-fishermen-arrests-2025",
+    "new_movement": null,
+    "summary": "Tamil Nadu government ordered withdrawal of 600 cases against farmers and teachers from May 2021 to April 2026 related to protests and road roko demonstrations.",
+    "facts": [
+      {
+        "claim": "Tamil Nadu government ordered withdrawal of 600 cases",
+        "quote": "The Tamil Nadu government has ordered the withdrawal of a total of 600 cases registered against farmers and teachers between May 2021 and April 2026 in connection with demonstrations, road roko protests and rallies against the government."
+      },
+      {
+        "claim": "Cases against farmers: 428",
+        "quote": "a total of 428 cases registered against farmers at various stages, including 73 cases under investigation, 80 cases not taken on file, 46 cases pending trial and 229 cases in which further action had been dropped, would be withdrawn."
+      },
+      {
+        "claim": "Cases against teachers: 172",
+        "quote": "a total of 172 cases registered against teachers, including 40 cases under investigation, 29 cases not taken on file, 10 cases pending trial and 93 cases in which further action had been dropped, would also be withdrawn"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Tamil Nadu government withdrew 600 cases against farmers and teachers from May 2021 to April 2026 related to protests and road roko demonstrations.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

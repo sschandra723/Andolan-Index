@@ -1,0 +1,110 @@
+{
+  "id": "47b94d535b",
+  "url": "https://www.thehindu.com/news/cities/Delhi/right-to-vote-cannot-be-compromised-people-against-sir-protest-in-delhi-on-constitution-day/article71746816.ece",
+  "title": "Right to vote cannot be compromised: people against SIR protest in Delhi on Constitution Day",
+  "outlet": "The Hindu",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "=SIR",
+    "=CEC"
+  ],
+  "alternatives": [
+    "farmers-india-us-trade-2026",
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Hundreds of protesters under 'People Against SIR' gathered in Delhi on Constitution Day demanding scrapping of the Special Intensive Revision (SIR) electoral rolls, removal of Chief Election Commissioner Gyanesh Kumar, and restoration of Jantar Mantar as a protest site.",
+    "facts": [
+      {
+        "claim": "Hundreds of protesters under the banner of ‘People Against SIR’ gathered at Valmiki Sadan on Mandir Marg in the national capital on Thursday (November 26, 2026), observed as Constitution Day, demanding the scrapping of the special intensive revision (SIR) of electoral rolls, the removal of Chief Election Commissioner (CEC) Gyanesh Kumar and the restoration of Jantar Mantar as a designated protest site.",
+        "quote": "Hundreds of protesters under the banner of ‘People Against SIR’ gathered at Valmiki Sadan on Mandir Marg in the national capital on Thursday (November 26, 2026), observed as Constitution Day, demanding the scrapping of the special intensive revision (SIR) of electoral rolls, the removal of Chief Election Commissioner (CEC) Gyanesh Kumar and the restoration of Jantar Mantar as a designated protest site."
+      },
+      {
+        "claim": "Protestors representing student organisations, women’s groups, farmers’ unions, and civil society groups were met with heavy barricading and a substantial deployment of security personnel stopping them from marching towards Jantar Mantar.",
+        "quote": "Protestors representing student organisations, women’s groups, farmers’ unions, and civil society groups were met with heavy barricading and a substantial deployment of security personnel stopping them from marching towards Jantar Mantar."
+      },
+      {
+        "claim": "All India Students’ Association (AISA) president Neha, lawyer Prashant Bhushan, and activist Yogendra Yadav were among more than 200 people who joined the protest.",
+        "quote": "All India Students’ Association (AISA) president Neha, lawyer Prashant Bhushan, and activist Yogendra Yadav were among more than 200 people who joined the protest."
+      },
+      {
+        "claim": "Representatives of the Samyukta Kisan Morcha (SKM), who were to join the march from Kali Bari Marg, were stopped by the police. A few representatives of the farm unions were detained.",
+        "quote": "Representatives of the Samyukta Kisan Morcha (SKM), who were to join the march from Kali Bari Marg, were stopped by the police. A few representatives of the farm unions were detained."
+      },
+      {
+        "claim": "The protesters said the Election Commission of India (ECI) had been forced to reconsider some of its earlier decisions following sustained public opposition but maintained that the movement would continue until the SIR exercise was scrapped in its entirety.",
+        "quote": "Speaking to The Hindu, the protesters said the Election Commission of India (ECI) had been forced to reconsider some of its earlier decisions following sustained public opposition but maintained that the movement would continue until the SIR exercise was scrapped in its entirety."
+      },
+      {
+        "claim": "‘Complete scrapping of SIR’",
+        "quote": "‘Complete scrapping of SIR’"
+      },
+      {
+        "claim": "‘Scrap SIR’ and ‘Gyanesh Kumar Get Out’",
+        "quote": "‘Scrap SIR’ and ‘Gyanesh Kumar Get Out’"
+      },
+      {
+        "claim": "‘The ECI has gone back on some of its earlier decisions because of sustained protests by citizens despite attempts to suppress them. However, the demand remains the complete scrapping of SIR and guarantee that no elections are held on the basis of the revised rolls’",
+        "quote": "The ECI has gone back on some of its earlier decisions because of sustained protests by citizens despite attempts to suppress them. However, the demand remains the complete scrapping of SIR and guarantee that no elections are held on the basis of the revised rolls"
+      },
+      {
+        "claim": "‘It is Constitution Day, and we are here to remind the government how our constitutional rights are being undermined. These rights were secured through long struggles and sacrifices. We will not allow them to be taken away without a fight’",
+        "quote": "It is Constitution Day, and we are here to remind the government how our constitutional rights are being undermined. These rights were secured through long struggles and sacrifices. We will not allow them to be taken away without a fight"
+      },
+      {
+        "claim": "‘Where is our freedom?’",
+        "quote": "Where is our freedom?"
+      },
+      {
+        "claim": "‘The Constitution guarantees us freedom of expression. Where is that freedom today? The road has been turned into a jail, with barricades blocking movement from both sides. Social media posts and accounts are being taken down, including mine, for asking simple questions. A young man was stopped from travelling to the United Kingdom. Where is the freedom we are promised?’",
+        "quote": "The Constitution guarantees us freedom of expression. Where is that freedom today? The road has been turned into a jail, with barricades blocking movement from both sides. Social media posts and accounts are being taken down, including mine, for asking simple questions. A young man was stopped from travelling to the United Kingdom. Where is the freedom we are promised?"
+      },
+      {
+        "claim": "‘With today’s protest, the movement has entered its second phase. It is no longer confined to Delhi. Protests are being organised in districts across the country. The Samyukta Kisan Morcha gave a call for protests at the tehsil level. This movement will only deepen’",
+        "quote": "With today’s protest, the movement has entered its second phase. It is no longer confined to Delhi. Protests are being organised in districts across the country. The Samyukta Kisan Morcha gave a call for protests at the tehsil level. This movement will only deepen"
+      },
+      {
+        "claim": "‘The SIR exercise has attacked the fundamental right to vote. There can hardly be a bigger assault on the Constitution than this. The government is doing everything to shield CEC Gyanesh Kumar, under whose watch this unauthorised and undemocratic revision exercise has been carried out. Barricades have been put up to prevent citizens from reaching Jantar Mantar. Even our right to protest is being curtailed’",
+        "quote": "The SIR exercise has attacked the fundamental right to vote. There can hardly be a bigger assault on the Constitution than this. The government is doing everything to shield CEC Gyanesh Kumar, under whose watch this unauthorised and undemocratic revision exercise has been carried out. Barricades have been put up to prevent citizens from reaching Jantar Mantar. Even our right to protest is being curtailed"
+      },
+      {
+        "claim": "‘On the one hand, Constitution Day is being celebrated in central Delhi, while on the other, the same government officials who are celebrating the Constitution are dismantling the principle of universal adult franchise that it guarantees’",
+        "quote": "On the one hand, Constitution Day is being celebrated in central Delhi, while on the other, the same government officials who are celebrating the Constitution are dismantling the principle of universal adult franchise that it guarantees"
+      },
+      {
+        "claim": "‘We will not stop protesting until Gyanesh Kumar resigns. The right to vote cannot be compromised, particularly when the most vulnerable sections of society stand to be excluded’",
+        "quote": "We will not stop protesting until Gyanesh Kumar resigns. The right to vote cannot be compromised, particularly when the most vulnerable sections of society stand to be excluded"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Protesters demanded scrapping of the Special Intensive Revision (SIR) electoral rolls, removal of Chief Election Commissioner Gyanesh Kumar, and restoration of Jantar Mantar as a protest site on Constitution Day.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "15/15",
+      "names_checked": true,
+      "problems": [
+        "name “Chief Election Commissioner Gyanesh Kumar” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

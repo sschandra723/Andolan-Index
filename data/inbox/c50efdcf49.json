@@ -1,0 +1,60 @@
+{
+  "id": "c50efdcf49",
+  "url": "https://scroll.in/latest/1097302/thiruparankundram-lamp-row-contempt-plea-filed-against-collector-for-non-compliance-of-sc-order",
+  "title": "Thiruparankundram lamp row: Contempt plea filed against collector for non-compliance of SC order",
+  "outlet": "Scroll.in",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Thiruparankundram"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3736,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "tn-thiruparankundram-deepam-2026",
+    "new_movement": null,
+    "summary": "The Tamil Nadu government faces a Supreme Court order to light the Karthigai Deepam lamp at a disputed stone pillar, but officials claim they followed temple traditions by lighting it elsewhere, while BJP workers were arrested for protesting the non-compliance.",
+    "facts": [
+      {
+        "claim": "The Tamil Nadu government could not comply with the Supreme Court’s order because the Arulmigu Subramania Swamy temple administration refused to authorise the lighting of the lamp at the pillar as it would violate traditional rituals.",
+        "quote": "the Tamil Nadu government told the Supreme Court that it could not comply with the order because the Arulmigu Subramania Swamy temple administration had refused to authorise the lighting of the lamp at the pillar as it would violate traditional rituals."
+      },
+      {
+        "claim": "The collector said the district administration had completed the arrangements assigned to it, including deciding the composition of the team, its route and timing, in consultation with the temple’s executive officer, the Archaeological Survey of India and the police commissioner.",
+        "quote": "He also apologised to the court. The collector said the district administration had completed the arrangements assigned to it, including deciding the composition of the team, its route and timing, in consultation with the temple’s executive officer, the Archaeological Survey of India and the police commissioner"
+      },
+      {
+        "claim": "The lamp was subsequently lit at around 6 pm on Tuesday at the customary Deepa Mandapam near the Uchipillaiyar temple on the Hindu festival of Karthigai Deepam, instead of at the disputed stone pillar.",
+        "quote": "The lamp was subsequently lit at around 6 pm on Tuesday at the customary Deepa Mandapam near the Uchipillaiyar temple on the Hindu festival of Karthigai Deepam, instead of at the disputed stone pillar."
+      },
+      {
+        "claim": "Police registered cases against about 300 members of the Bharatiya Janata Party and Hindutva organisations for holding a protest on Tuesday against the administration’s failure to light the lamp at the disputed location.",
+        "quote": "the Madurai Police registered cases against about 300 members of the Bharatiya Janata Party and Hindutva organisations for holding a protest on Tuesday against the administration’s failure to light the lamp at the disputed location"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court allowed lighting the lamp at the disputed stone pillar as a one-time measure on Karthigai Deepam, but the temple administration refused to authorise it, leading to the current dispute.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "5 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "d53e0b4ecd",
+  "url": "https://www.hindustantimes.com/india-news/arunachal-anti-dam-activists-ebo-mili-otul-jerang-get-bail-in-pasighat-violence-case-101795704158045.html",
+  "title": "Arunachal anti-dam activists Ebo Mili, Otul Jerang get bail in Pasighat violence case",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Siang"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3549,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "siang-dam-protests",
+    "new_movement": null,
+    "summary": "Anti-dam activists Ebo Mili and Otul Jerang received bail in the October 23 Pasighat violence case related to protests against Arunachal's proposed Siang dam.",
+    "facts": [
+      {
+        "claim": "Anti-dam activists Ebo Mili and Otul Jerang have been granted bail in the October 23 Pasighat violence case amid protests against Arunachal’s proposed Siang dam.",
+        "quote": "Anti-dam activists Ebo Mili and Otul Jerang have been granted bail in the October 23 Pasighat violence case amid protests against Arunachal’s proposed Siang dam."
+      },
+      {
+        "claim": "The two activists, who have been leading protests against the proposed project, were arrested on October 24 after surrendering at a police station.",
+        "quote": "The two activists, who have been leading protests against the proposed project, were arrested on October 24 after surrendering at a police station."
+      },
+      {
+        "claim": "East Siang superintendent of police Pankaj Lamba had said that 26 people, including five juveniles, were arrested in connection with the violence that erupted during the October 23 anti-SUMP bandh.",
+        "quote": "East Siang superintendent of police Pankaj Lamba had said that 26 people, including five juveniles, were arrested in connection with the violence that erupted during the October 23 anti-SUMP bandh."
+      },
+      {
+        "claim": "The Adi Bane Kebang United (ABKU) and the Siang Indigenous Farmers’ Forum (SIFF) have been demanding the release of arrested protesters and the withdrawal of security forces from the Siang belt as preconditions for dialogue with the state government.",
+        "quote": "The Adi Bane Kebang United (ABKU) and the Siang Indigenous Farmers’ Forum (SIFF) have been demanding the release of arrested protesters and the withdrawal of security forces from the Siang belt as preconditions for dialogue with the state government."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Arunachal Pradesh's Siang Indigenous Farmers' Forum and Adi Bane Kebang United have been demanding the release of arrested protesters and withdrawal of security forces as preconditions for dialogue with the state government regarding the proposed Siang dam.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

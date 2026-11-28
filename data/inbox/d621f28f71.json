@@ -1,0 +1,64 @@
+{
+  "id": "d621f28f71",
+  "url": "https://www.hindustantimes.com/cities/pune-news/varsity-non-teaching-staff-strike-called-off-after-bhuse-s-assurance-sppu-hit-by-protest-101795721319475.html",
+  "title": "Varsity non-teaching staff strike called off after Bhuse’s assurance; SPPU hit by protest",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1618,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "panjab-university-staff-2026",
+    "new_movement": null,
+    "summary": "Non-teaching staff at Savitribai Phule Pune University (SPPU) suspended a statewide strike after meeting with state government, causing administrative delays and exam disruptions.",
+    "facts": [
+      {
+        "claim": "A statewide strike by non-teaching employees of state universities and affiliated colleges on Thursday brought administrative work at Savitribai Phule Pune University (SPPU) to a standstill, also disrupting the university’s examination schedule",
+        "quote": "A statewide strike by non-teaching employees of state universities and affiliated colleges on Thursday brought administrative work at Savitribai Phule Pune University (SPPU) to a standstill, also disrupting the university’s examination schedule"
+      },
+      {
+        "claim": "The morning examination session was delayed by around 30 minutes",
+        "quote": "The morning examination session was delayed by around 30 minutes."
+      },
+      {
+        "claim": "Non-teaching employees from various departments gathered outside the university’s main building and participated in the protest. They prevented offices from opening. Consequently, several university offices remained closed, affecting routine administrative work.",
+        "quote": "Non-teaching employees from various departments gathered outside the university’s main building and participated in the protest. They prevented offices from opening. Consequently, several university offices remained closed, affecting routine administrative work."
+      },
+      {
+        "claim": "The state government held a meeting with representatives of the employees’ joint action committee at Homi Bhabha State University on Thursday; afterward, the employees decided to suspend the day’s strike.",
+        "quote": "The state government held a meeting with representatives of the employees’ joint action committee at Homi Bhabha State University on Thursday; afterward, employees decided to suspend the day’s strike."
+      },
+      {
+        "claim": "Satish Waghmare, president of the Savitribai Phule Pune University Employees’ Union, said, \"It was decided that a meeting with the chief minister would be arranged during the upcoming winter session of the legislature. The joint action committee will announce its further agitation programme shortly.\"",
+        "quote": "Satish Waghmare, president of the Savitribai Phule Pune University Employees’ Union, said, \"It was decided that a meeting with the chief minister would be arranged during the upcoming winter session of the legislature. The joint action committee will announce its further agitation programme shortly.\""
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Non-teaching staff at SPPU suspended strike after state government meeting, impacting exams and admin; next steps include meeting with chief minister.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The state government held a meeting with representatives of the employees’ joint”"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

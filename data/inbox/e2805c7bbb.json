@@ -1,0 +1,74 @@
+{
+  "id": "e2805c7bbb",
+  "url": "https://www.sentinelassam.com/cities/guwahati-city/aasu-plans-statewide-protests-on-november-30-over-rising-prices-of-essentials",
+  "title": "AASU Plans Statewide Protests on November 30 Over Rising Prices of Essentials",
+  "outlet": "The Sentinel",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1024,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The All Assam Students' Union plans statewide protest marches on November 30 to demand measures to curb rising prices of essential commodities and lower market rates, accusing the government of failing to control prices and middlemen of exploiting consumers.",
+    "facts": [
+      {
+        "claim": "The All Assam Students' Union (AASU) will organise statewide protest marches on November 30",
+        "quote": "The All Assam Students' Union (AASU) will organise statewide protest marches on November 30"
+      },
+      {
+        "claim": "demanding measures to curb the rising prices of essential commodities and bring down market rates",
+        "quote": "demanding measures to curb the rising prices of essential commodities and bring down market rates"
+      },
+      {
+        "claim": "The protests will take place at district headquarters across Assam",
+        "quote": "The protests will take place at district headquarters across Assam"
+      },
+      {
+        "claim": "AASU president Utpal Sarma and general secretary Samiran Phukan said the unabated price rise had severely affected the common people",
+        "quote": "AASU president Utpal Sarma and general secretary Samiran Phukan said the unabated price rise had severely affected the common people"
+      },
+      {
+        "claim": "The student body accused the government of failing to control prices and alleged that the Food, Public Distribution and Consumer Affairs Department had failed to act effectively",
+        "quote": "The student body accused the government of failing to control prices and alleged that the Food, Public Distribution and Consumer Affairs Department had failed to act effectively"
+      },
+      {
+        "claim": "It also blamed middlemen for the persistent price rise and criticised the government for remaining indifferent to public grievances",
+        "quote": "It also blamed middlemen for the persistent price rise and criticised the government for remaining indifferent to public grievances"
+      },
+      {
+        "claim": "AASU said producers were struggling to receive remunerative prices while consumers were paying exorbitant rates in the market",
+        "quote": "AASU said producers were struggling to receive remunerative prices while consumers were paying exorbitant rates in the market"
+      },
+      {
+        "claim": "It urged the government to fulfil its responsibility of providing relief to the public and said the protests aimed to press for immediate action to bring down prices",
+        "quote": "It urged the government to fulfil its responsibility of providing relief to the public and said the protests aimed to press for immediate action to bring down prices"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The All Assam Students' Union is planning a statewide protest to address rising prices of essential commodities in Assam, targeting government departments and middlemen.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

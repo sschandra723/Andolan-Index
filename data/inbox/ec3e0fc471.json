@@ -1,0 +1,65 @@
+{
+  "id": "ec3e0fc471",
+  "url": "https://www.cnbctv18.com/india/meta-officials-meet-india-opposition-congress-protests-content-curbs-20041130.htm",
+  "title": "Meta officials meet India's opposition Congress amid protests on content curbs: Report",
+  "outlet": "CNBCTV18",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2783,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Meta executives met Congress to address protests over content moderation and alleged bias toward the ruling BJP, as youth wing activists clashed with police near Meta offices in multiple cities.",
+    "facts": [
+      {
+        "claim": "Meta executives met Congress to address protests",
+        "quote": "Meta’s top executives in India held closed-door talks with the country’s opposition Congress party to defuse protests against the US firm’s content moderation practices, four people familiar with the matter said."
+      },
+      {
+        "claim": "Youth Congress demanded account restoration and algorithm transparency",
+        "quote": "The Youth Congress has demanded that Meta restore accounts taken down on government orders and explain how its algorithms restrict posts"
+      },
+      {
+        "claim": "Protests involved clashes with police near Meta offices",
+        "quote": "its members have clashed with police near Meta’s offices in Hyderabad, Mumbai and Gurugram"
+      },
+      {
+        "claim": "Meta restricted 5.4 million posts/accounts in first half of 2026",
+        "quote": "Meta restricted more than 5.4 million posts or accounts under local laws in the first half of 2026, up from about 70,000 in all of 2025"
+      },
+      {
+        "claim": "Protesters used Zuckerberg posters in RSS uniform",
+        "quote": "posters and banners depicting Zuckerberg in a white shirt, khaki shorts and black cap, the traditional uniform of the Rashtriya Swayamsevak Sangh (RSS)"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Meta's content moderation practices in India have sparked protests, with youth activists demanding account restoration and algorithm transparency amid allegations of bias toward the ruling BJP.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Meta’s top executives in India held closed-door talks with the country’s opposit”",
+        "quote not in article: “Meta restricted more than 5.4 million posts or accounts under local laws in the ”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

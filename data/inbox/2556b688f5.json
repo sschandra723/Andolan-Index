@@ -1,0 +1,72 @@
+{
+  "id": "2556b688f5",
+  "url": "https://nagalandpost.com/mpsc-recruitment-row-msu-presidents-hunger-strike-enters-3rd-day/",
+  "title": "MPSC recruitment row: MSU president’s hunger strike enters 3rd day",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "hunger strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2551,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Mizo Students' Union president Laldinsanga began a hunger strike on November 25 demanding MPSC chairman R Lalramnghaka resign over alleged recruitment errors and administrative lapses, with the protest entering its third day.",
+    "facts": [
+      {
+        "claim": "Mizo Students’ Union (MSU) president Laldinsanga’s hunger strike demanding the resignation of Mizoram Public Service Commission (MPSC) chairman R Lalramnghaka entered its third day on Wednesday",
+        "quote": "Mizo Students’ Union (MSU) president Laldinsanga’s hunger strike demanding the resignation of Mizoram Public Service Commission (MPSC) chairman R Lalramnghaka entered its third day on Wednesday"
+      },
+      {
+        "claim": "Laldinsanga has been fasting outside the MPSC office since Monday",
+        "quote": "Laldinsanga has been fasting outside the MPSC office since Monday"
+      },
+      {
+        "claim": "He claimed that no government representative had approached him to address the demands",
+        "quote": "He claimed that no government representative had approached him to address the demands"
+      },
+      {
+        "claim": "The MPSC has committed more than 20 errors since the chairman assumed office",
+        "quote": "The MPSC has committed more than 20 errors since the chairman assumed office"
+      },
+      {
+        "claim": "The student body alleged that the issue was not linked to any single incident but reflected the commission’s functioning since Lalramnghaka assumed office on May 20, 2024",
+        "quote": "The student body alleged that the issue was not linked to any single incident but reflected the commission’s functioning since Lalramnghaka assumed office on May 20, 2024"
+      },
+      {
+        "claim": "It claimed the MPSC had issued at least 24 corrigenda and was facing four court cases during the period",
+        "quote": "It claimed the MPSC had issued at least 24 corrigenda and was facing four court cases during the period"
+      },
+      {
+        "claim": "Lalramnghaka, however, said he would step down \"if it was God’s will\"",
+        "quote": "Lalramnghaka, however, said he would step down \"if it was God’s will\""
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Mizo Students' Union president Laldinsanga began a hunger strike on November 25 demanding MPSC chairman R Lalramnghaka resign over alleged recruitment errors and administrative lapses, with the protest entering its third day.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

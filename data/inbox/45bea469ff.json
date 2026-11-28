@@ -1,0 +1,52 @@
+{
+  "id": "45bea469ff",
+  "url": "https://nenow.in/north-east-news/nagaland/nagaland-protests-rallies-banned-in-kohima-until-december-10.html",
+  "title": "Nagaland: Protests, rallies banned in Kohima until December 10",
+  "outlet": "Northeast Now",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1712,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Nagaland authorities banned protests and rallies in Kohima until December 10 to ensure security during President Murmu's visit and statehood celebrations.",
+    "facts": [
+      {
+        "claim": "Protests, rallies banned in Kohima until December 10",
+        "quote": "Dimapur: All forms of agitation, protest, procession, rally, dharna and unlawful assembly have been prohibited in Nagaland’s Kohima district with immediate effect until December 10."
+      },
+      {
+        "claim": "Banned to ensure security during President Murmu's visit and statehood celebrations",
+        "quote": "Kohima District Magistrate B Henok Buchem issued the order under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, in view of President Droupadi Murmu‘s proposed visit to Kohima district from November 30 to December 2, the Statehood Day celebration on December 1 at the Nagaland Civil Secretariat complex, and the expected influx of visitors during the Hornbill Festival."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Nagaland authorities banned protests in Kohima to manage security for President Murmu's visit and statehood celebrations amid Hornbill Festival preparations.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": [
+        "name “President Murmu” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

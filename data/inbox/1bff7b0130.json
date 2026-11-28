@@ -1,0 +1,78 @@
+{
+  "id": "1bff7b0130",
+  "url": "https://kashmirobserver.net/2026/11/27/jk-resident-doctors-refuse-to-call-off-strike/",
+  "title": "J&K Resident Doctors Refuse To Call Off Strike",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-27",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2702,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Resident doctors in Jammu and Kashmir continue their strike demanding uniform stipend structures and 7th Pay Commission benefits, refusing to end the protest without a formal written order from the government.",
+    "facts": [
+      {
+        "claim": "The ongoing strike by resident doctors across Jammu and Kashmir will continue despite what the protesting doctors described as a positive outcome of a high-level meeting with the Finance Department in Jammu on Friday",
+        "quote": "Srinagar- The ongoing strike by resident doctors across Jammu and Kashmir will continue despite what the protesting doctors described as a positive outcome of a high-level meeting with the Finance Department in Jammu on Friday, with the doctors insisting that they would not call off their agitation until a formal written order is issued."
+      },
+      {
+        "claim": "The meeting reportedly discussed a proposed stipend structure of around Rs 90,000 or above for Postgraduate (PG) doctors and approximately Rs 1.20 lakh for Senior Residents (SRs)",
+        "quote": "The meeting reportedly discussed a proposed stipend structure of around Rs 90,000 or above for Postgraduate (PG) doctors and approximately Rs 1.20 lakh for Senior Residents (SRs)."
+      },
+      {
+        "claim": "The authorities have sought time until Wednesday for final implementation or further communication on the issue",
+        "quote": "However, the authorities have sought time until Wednesday for final implementation or further communication on the issue, leaving the protesting doctors waiting for a formal decision."
+      },
+      {
+        "claim": "Representatives of the protesting doctors said the discussions were positive and that the proposed stipend amounts had been taken up during the meeting",
+        "quote": "Representatives of the protesting doctors said the discussions were positive and that the proposed stipend amounts had been taken up during the meeting."
+      },
+      {
+        "claim": "The indefinite strike, which began at GMC Jammu on November 19, has since spread to GMC Srinagar, Anantnag, Baramulla, Kathua, Rajouri, Doda and Handwara, besides several district hospitals",
+        "quote": "The indefinite strike, which began at GMC Jammu on November 19, has since spread to GMC Srinagar, Anantnag, Baramulla, Kathua, Rajouri, Doda and Handwara, besides several district hospitals."
+      },
+      {
+        "claim": "The resident doctors are demanding a uniform stipend structure across all government medical institutions in Jammu and Kashmir under the slogan “One State, One Pay”",
+        "quote": "The resident doctors are demanding a uniform stipend structure across all government medical institutions in Jammu and Kashmir under the slogan “One State, One Pay”, arguing that doctors performing similar duties should receive equal remuneration irrespective of their institution."
+      },
+      {
+        "claim": "Their demands also include implementation of 7th Pay Commission benefits, a minimum stipend of Rs 92,000 for PG doctors, full stipend during maternity leave and protection against punitive action for participating in the protest",
+        "quote": "Their demands also include implementation of 7th Pay Commission benefits, a minimum stipend of Rs 92,000 for PG doctors, full stipend during maternity leave and protection against punitive action for participating in the protest."
+      },
+      {
+        "claim": "On November 25, representatives of the resident doctors met Health and Medical Education Minister Sakina Itoo, who acknowledged that their demands were genuine but said the matter required detailed examination in view of its financial implications",
+        "quote": "On November 25, representatives of the resident doctors met Health and Medical Education Minister Sakina Itoo, who acknowledged that their demands were genuine but said the matter required detailed examination in view of its financial implications."
+      },
+      {
+        "claim": "The doctors have maintained that the strike will continue until the government issues a formal written order addressing their demands",
+        "quote": "The doctors have maintained that the strike will continue until the government issues a formal written order addressing their demands."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Resident doctors in Jammu and Kashmir have been striking since November 19 demanding uniform stipend structures and 7th Pay Commission benefits, with the strike spreading across multiple government medical institutions in the region.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "a0cbeb4fad",
+  "url": "https://kashmirobserver.net/2026/11/28/police-detain-social-activist-protesters-during-psi-exam-stir-in-jammu/",
+  "title": "Police Detain Social Activist, Protesters During PSI Exam Stir in Jammu",
+  "outlet": "Kashmir Observer",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1721,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Police detained social activist Deepika Singh Rajawat and others during protests in Jammu demanding postponement of the JKPSI exam and investigation into alleged irregularities in the FAA recruitment exam.",
+    "facts": [
+      {
+        "claim": "Police detained social activist Deepika Singh Rajawat and others during protests in Jammu",
+        "quote": "Jammu- Social activist and advocate Deepika Singh Rajawat was among some protesters detained by police on Friday night as they were demonstrating in support of the postponement of the Jammu and Kashmir Police Sub-Inspector (JKPSI) examination."
+      },
+      {
+        "claim": "demanding postponement of the JKPSI exam and investigation into alleged irregularities in the FAA recruitment exam",
+        "quote": "The government job aspirants were also demanding a thorough investigation into the alleged irregularities in the Finance Accounts Assistant (FAA) recruitment examination and postponement of the JKPSI examination scheduled for November 29, citing concerns over transparency and fairness in the recruitment process."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Deepika Singh Rajawat is a Jammu and Kashmir High Court advocate known for her legal work in the 2018 Kathua rape and murder case.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

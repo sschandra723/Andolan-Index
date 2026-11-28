@@ -1,0 +1,68 @@
+{
+  "id": "21a3359f25",
+  "url": "https://nenow.in/north-east-news/assam/assam-akhil-gogoi-protests-at-zubeen-kshetra-demands-rejection-of-prime-accuseds-bail-plea.html",
+  "title": "Assam: Akhil Gogoi protests at Zubeen Kshetra, demands rejection of prime accused’s bail plea",
+  "outlet": "Northeast Now",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1029,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Akhil Gogoi, a Raijor Dal chief and Sivasagar MLA, joined a protest at Zubeen Garg Kshetra in Sonapur demanding the rejection of the prime accused's bail plea in the case of late singer Zubeen Garg's death.",
+    "facts": [
+      {
+        "claim": "Akhil Gogoi, a Raijor Dal chief and Sivasagar MLA, joined a protest at Zubeen Garg Kshetra in Sonapur",
+        "quote": "Raijor Dal chief and Sivasagar MLA Akhil Gogoi on November 28 joined a protest and human chain at Zubeen Garg Kshetra in Sonapur, organised by the Zubeen Garg Nyay Samiti, demanding justice for late singer Zubeen Garg."
+      },
+      {
+        "claim": "more than a year has passed since Garg’s death but justice is yet to be delivered",
+        "quote": "Addressing the gathering, Gogoi said more than a year has passed since Garg’s death but justice is yet to be delivered."
+      },
+      {
+        "claim": "the Assam Chief Minister’s statement in the Legislative Assembly describing the incident as murder allegedly carried out by one person with the assistance of four others",
+        "quote": "Referring to the Assam Chief Minister’s statement in the Legislative Assembly describing the incident as murder allegedly carried out by one person with the assistance of four others,"
+      },
+      {
+        "claim": "Gogoi questioned the release of several accused from jail",
+        "quote": "Gogoi questioned the release of several accused from jail."
+      },
+      {
+        "claim": "the Supreme Court is scheduled to hold the final hearing on November 30 on the bail petition of the prime accused in the case",
+        "quote": "He said the Supreme Court is scheduled to hold the final hearing on November 30 on the bail petition of the prime accused in the case."
+      },
+      {
+        "claim": "Gogoi urged the Assam and Union governments to ensure that the bail plea is rejected",
+        "quote": "He urged the Assam and Union governments to ensure that the bail plea is rejected, maintaining that the prime accused should not be granted bail."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Akhil Gogoi, a Raijor Dal chief and Sivasagar MLA, joined a protest at Zubeen Garg Kshetra in Sonapur demanding the rejection of the prime accused's bail plea in the case of late singer Zubeen Garg's death.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/6",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “He said the Supreme Court is scheduled to hold the final hearing on November 30 ”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

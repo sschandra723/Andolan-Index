@@ -1,0 +1,70 @@
+{
+  "id": "092732e557",
+  "url": "https://www.thehindu.com/news/national/karnataka/aidso-leads-protest-against-magnet-school-scheme-adb-agreement/article71738009.ece",
+  "title": "AIDSO leads protest against magnet school scheme, ADB agreement",
+  "outlet": "The Hindu",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3010,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Villagers, parents and students in Karnataka staged a protest against the state government's magnet school scheme and ADB agreement, claiming it would close 45,326 government schools and undermine public education.",
+    "facts": [
+      {
+        "claim": "45,326 government schools will be closed",
+        "quote": "the remaining 45,326 schools will eventually be closed in the name of merger"
+      },
+      {
+        "claim": "49,000 government schools in the state",
+        "quote": "Of the nearly 49,000 government schools in the State"
+      },
+      {
+        "claim": "3,674 Karnataka Public Schools (KPS) retained",
+        "quote": "the Congress government has proposed to retain only 3,674 Karnataka Public Schools (KPS)"
+      },
+      {
+        "claim": "2,000 schools handed over to private institutions",
+        "quote": "hand over 2,000 schools to corporate companies and private institutions in the first phase"
+      },
+      {
+        "claim": "70,000 teacher posts vacant",
+        "quote": "more than 70,000 teacher posts are vacant"
+      },
+      {
+        "claim": "7,000 schools with one teacher",
+        "quote": "around 7,000 schools are functioning with a single teacher"
+      },
+      {
+        "claim": "21,000 school buildings require repairs",
+        "quote": "nearly 21,000 school buildings require repairs"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protest is part of a larger movement against the Karnataka government's education policy changes, which critics say prioritize corporate interests over public education.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

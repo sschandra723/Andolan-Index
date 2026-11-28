@@ -1,0 +1,50 @@
+{
+  "id": "00dca3f17b",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/kaithal-man-surrenders-day-after-killing-neighbour-101795462702154.html",
+  "title": "Kaithal man surrenders day after killing neighbour",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1075,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "A man surrendered to police after allegedly killing his neighbor in Kaithal, with the family refusing an autopsy and protesting.",
+    "facts": [
+      {
+        "claim": "A man surrendered to police after allegedly killing his neighbor in Kaithal",
+        "quote": "A day after a man was allegedly shot and killed outside his residence in Jhajanpur village of Kaithal, the accused surrendered before a court on Monday."
+      },
+      {
+        "claim": "The family refused an autopsy and staged a protest",
+        "quote": "The family refused an autopsy and staged a protest on Monday."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

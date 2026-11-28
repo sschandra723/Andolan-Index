@@ -1,0 +1,74 @@
+{
+  "id": "dbe7f61a09",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/hrtc-pensioners-threaten-statewide-stir-over-pending-dues-101795805455778.html",
+  "title": "HRTC pensioners threaten statewide stir over pending dues",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2627,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "HRTC pensioners in Himachal Pradesh threatened statewide protests over unpaid pension, medical reimbursements, and DA arrears, demanding resolution of pending financial dues.",
+    "facts": [
+      {
+        "claim": "HRTC pensioners threatened statewide protests",
+        "quote": "The retired employees warned that they would intensify their agitation across Himachal if their demands on pending DA arrears, pension, medical reimbursement and other dues are not met."
+      },
+      {
+        "claim": "HRTC pensioners demanded clearance of pending dues",
+        "quote": "The Himachal Road Transport Corporation (HRTC) pensioners on Friday gheraoed the office of the corporation’s managing director in Shimla, demanding clearance of pending dues, medical reimbursement bills, pension-related payments and other financial benefits."
+      },
+      {
+        "claim": "Pensioners have been deprived of benefits",
+        "quote": "He alleged that retired and serving HRTC employees had been deprived of benefits granted to employees of other government departments and questioned why transport corporation employees were being treated differently."
+      },
+      {
+        "claim": "Pensioners were not receiving installments of ₹50,000",
+        "quote": "Thakur said the previous BJP government led by Jai Ram Thakur had implemented the new pay scales but pensioners and serving HRTC employees were still deprived of installments of ₹50,000 each, which he said had been announced around five years ago."
+      },
+      {
+        "claim": "Nearly 40% of the workforce has health issues",
+        "quote": "Thakur said nearly 40% of the workforce was suffering from various health problems, including respiratory ailments, cancer and kidney-related diseases, while medical reimbursement bills continued to remain pending."
+      },
+      {
+        "claim": "₹20 crore approved for medical reimbursement",
+        "quote": "Thakur said the chief minister had earlier approved ₹20 crore for medical reimbursement, benefiting retired and serving employees, and had assured that bills related to serious illnesses would be cleared on priority as soon as they were forwarded by the respective units."
+      },
+      {
+        "claim": "HRTC management released 3% DA",
+        "quote": "Kumar said the management had recently released the pending 3% DA following government directions."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "HRTC pensioners in Himachal Pradesh are demanding resolution of pending pension, medical reimbursement, and DA arrears after being denied benefits compared to other government employees.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/7",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Thakur said nearly 40% of the workforce was suffering from various health proble”",
+        "quote not in article: “Kumar said the management had recently released the pending 3% DA following gove”",
+        "name “Himachal Pradesh” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "a0c489e8c8",
+  "url": "https://www.sentinelassam.com/cities/guwahati-city/transport-bodies-call-indefinite-strike-from-today-across-assam",
+  "title": "Transport bodies call indefinite strike from today across Assam",
+  "outlet": "The Sentinel",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2203,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Transport bodies in Assam called an indefinite strike from November 26, citing policy inconsistencies in Speed Limiting Devices (SLDs) and Vehicle Location Tracking Devices (VLTDs) installation and management.",
+    "facts": [
+      {
+        "claim": "indefinite statewide strike of commercial transport services from November 26",
+        "quote": "The All Assam Motor Transport Association and other private transport organisations across the state have called an indefinite statewide strike of commercial transport services from November 26"
+      },
+      {
+        "claim": "alleging policy inconsistencies and irregularities in the installation of Speed Limiting Devices (SLDs) and Vehicle Location Tracking Devices (VLTDs)",
+        "quote": "alleging policy inconsistencies and irregularities in the installation of Speed Limiting Devices (SLDs) and Vehicle Location Tracking Devices (VLTDs)"
+      },
+      {
+        "claim": "gave the government until November 25 to address its demands",
+        "quote": "the association said it had given the government until November 25 to address its demands"
+      },
+      {
+        "claim": "objected to disproportionate burden on vehicle owners and drivers",
+        "quote": "it described as the disproportionate burden placed on vehicle owners and drivers"
+      },
+      {
+        "claim": "monopoly in SLD installation since 2017",
+        "quote": "a monopoly in SLD installation since 2017 had left vehicle owners struggling to access the devices"
+      },
+      {
+        "claim": "demanded multiple authorised agencies for SLD installation",
+        "quote": "demanded that multiple authorised agencies be allowed to sell and install them"
+      },
+      {
+        "claim": "opposed testing vehicle speed by lifting vehicles with jacks",
+        "quote": "It also opposed testing vehicle speed by lifting vehicles with jacks"
+      },
+      {
+        "claim": "questioned SOP assigning DTO offices to upload SLD certificates",
+        "quote": "citing staff shortages and inadequate equipment"
+      },
+      {
+        "claim": "demanded one modern Automated Testing Station in every district",
+        "quote": "demanded at least one modern Automated Testing Station in every district"
+      },
+      {
+        "claim": "demanded one-month window for settling traffic challans",
+        "quote": "demanded a one-month window for settling traffic challans"
+      },
+      {
+        "claim": "demanded Transport Appellate Tribunals in every district",
+        "quote": "demanded Transport Appellate Tribunals in every district"
+      },
+      {
+        "claim": "demanded protection against harassment during certificate renewal",
+        "quote": "demanded protection against harassment during the renewal of fitness certificates, permits and PUC certificates"
+      },
+      {
+        "claim": "Assam's system depended on a single agency for VLTD installation",
+        "quote": "On VLTD installation, the association alleged that Assam's system depended on a single agency despite the Union Ministry of Road Transport and Highways having approved 168 agencies"
+      },
+      {
+        "claim": "demanded option of purchasing and installing VLTDs through multiple agencies",
+        "quote": "It demanded the option of purchasing and installing devices through multiple authorised agencies"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Transport bodies in Assam called an indefinite strike from November 26, citing policy inconsistencies in Speed Limiting Devices (SLDs) and Vehicle Location Tracking Devices (VLTDs) installation and management.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "10/14",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “demanded at least one modern Automated Testing Station in every district”",
+        "quote not in article: “demanded a one-month window for settling traffic challans”",
+        "quote not in article: “demanded Transport Appellate Tribunals in every district”",
+        "quote not in article: “demanded protection against harassment during the renewal of fitness certificate”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

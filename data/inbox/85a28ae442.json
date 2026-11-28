@@ -1,0 +1,52 @@
+{
+  "id": "85a28ae442",
+  "url": "https://www.greaterkashmir.com/politics/bukhari-for-strengthening-apni-partys-grassroots-presence-across-jammu-province-12841901",
+  "title": "Bukhari for strengthening Apni Party’s grassroots presence across Jammu province",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Jammu and Kashmir Apni Party president Syed Mohammad Altaf Bukhari emphasized the need for a political alternative that addresses people's concerns in Jammu and Kashmir, highlighting the restoration of full statehood as a key demand.",
+    "facts": [
+      {
+        "claim": "Jammu and Kashmir Apni Party president Syed Mohammad Altaf Bukhari said the prevailing political situation in Jammu and Kashmir demanded a responsible, progressive and people-oriented political alternative",
+        "quote": "Jammu and Kashmir Apni Party president Syed Mohammad Altaf Bukhari on Wednesday said the prevailing political situation in Jammu and Kashmir demanded a responsible, progressive and people-oriented political alternative that could rise above regional and political divisions and consistently champion the genuine interests of the people."
+      },
+      {
+        "claim": "Bukhari highlighted the restoration of full statehood to Jammu and Kashmir as a significant political demand",
+        "quote": "Highlighting the importance of democratic empowerment, Bukhari reiterated that the restoration of full statehood to Jammu and Kashmir remained a significant political demand."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Apni Party is advocating for Jammu and Kashmir's restoration of statehood, which was lost in 2019 when it was split into two union territories.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

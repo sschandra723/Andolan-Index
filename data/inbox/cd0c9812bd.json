@@ -1,0 +1,52 @@
+{
+  "id": "cd0c9812bd",
+  "url": "https://www.newsbytesapp.com/news/india/constitution-day-delhi-protest-opposes-sir-demands-gyanesh-kumar-removal/tldr",
+  "title": "Constitution Day Delhi protest opposes sir, demands Gyanesh Kumar removal",
+  "outlet": "NewsBytes",
+  "published": "2026-11-26",
+  "collected": "2026-11-27",
+  "suggested_movement": "anti-sir-2026",
+  "score": 4.0,
+  "matched": [
+    "Special Intensive Revision",
+    "Gyanesh Kumar",
+    "=CEC",
+    "electoral roll"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Delhi residents protested on Constitution Day against the Special Intensive Revision (SIR) voter list recheck, demanding removal of Gyanesh Kumar, the election commission's head.",
+    "facts": [
+      {
+        "claim": "Delhi residents protested on Constitution Day against the Special Intensive Revision (SIR) voter list recheck",
+        "quote": "Constitution Day Delhi protest opposes sir, demands Gyanesh Kumar removal"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Special Intensive Revision is the Election Commission's house-to-house recheck of India's voter lists. Voters must link themselves, or a parent, to the roll from their state's last such revision two decades ago.",
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

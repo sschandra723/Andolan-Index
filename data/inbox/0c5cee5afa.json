@@ -1,0 +1,58 @@
+{
+  "id": "0c5cee5afa",
+  "url": "https://www.thehindu.com/news/national/karnataka/forum-to-launch-indefinite-strike-against-school-adoption-scheme-in-karnataka/article71743087.ece",
+  "title": "Forum to launch indefinite strike against school adoption scheme in Karnataka",
+  "outlet": "The Hindu",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1222,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "The Government Schools Development Forum in Karnataka launched an indefinite strike demanding withdrawal of the government school adoption scheme and implementation of the RTE Act.",
+    "facts": [
+      {
+        "claim": "The Government Schools Development Forum is launching an indefinite protest at Freedom Park in Bengaluru from Thursday.",
+        "quote": "Demanding the immediate withdrawal of the government school adoption/mentorship scheme and the announcement of an action plan for the comprehensive implementation of the Right to Education (RTE) Act, the Government Schools Development Forum is launching an indefinite protest at Freedom Park in Bengaluru from Thursday."
+      },
+      {
+        "claim": "The forum stated that education is not an act of charity, and Article 21A was inserted through the 86th Constitutional Amendment in 2002.",
+        "quote": "Stating that education is not an act of charity, the forum pointed out that, through the 86th Constitutional Amendment in 2002, Article 21A was inserted, recognising free and compulsory education for all children up to the age of 14 as a fundamental right."
+      },
+      {
+        "claim": "The forum said the Congress-led UPA enacted the RTE Act but is now violating it in the State.",
+        "quote": "The forum said that while the Congress-led UPA had enacted the RTE Act, the party is now violating it in the State."
+      },
+      {
+        "claim": "The forum demanded the government immediately abandon the government school adoption scheme.",
+        "quote": "Handing over government schools to private managements or corporate entities is a dangerous development,” the forum said, demanding that the government immediately abandon the government school adoption scheme."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Government Schools Development Forum is demanding the withdrawal of the government school adoption scheme and implementation of the RTE Act in Karnataka.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ba2ba6afdb",
+  "url": "https://www.greaterkashmir.com/national/space-technologys-economic-impact-must-go-beyond-launches-manufacturing-jitendra-singh-12838211",
+  "title": "Space technology's economic impact must go beyond launches, manufacturing: Jitendra Singh",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2196,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Union Minister Jitendra Singh stated that India's space technology economic impact should include sectoral savings and efficiencies beyond launches and manufacturing, with the space economy projected to grow from USD 9 billion to USD 40-45 billion in a decade.",
+    "facts": [
+      {
+        "claim": "space technology's economic impact must be measured not only through rocket launches, satellite manufacturing, and commercial revenues but also through savings, efficiencies, and improved outcomes",
+        "quote": "The economic contribution of space technology must be measured not only through rocket launches, satellite manufacturing, and commercial revenues but also through the savings, efficiencies, and improved outcomes it generates across sectors on the ground"
+      },
+      {
+        "claim": "space-based applications help improve infrastructure planning, maintain project timelines, reduce costs, and minimise wastage and leakages",
+        "quote": "space-based applications help improve infrastructure planning, maintain project timelines, reduce costs, and minimise wastage and leakages"
+      },
+      {
+        "claim": "India's space economy is valued at nearly USD 9 billion and projected to grow to USD 40-45 billion in less than a decade",
+        "quote": "India's space economy, currently valued at nearly USD 9 billion, is set to grow to USD 40-45 billion in less than a decade"
+      },
+      {
+        "claim": "India's space ecosystem has expanded from single-digit startups to nearly 400-500 companies in a few years",
+        "quote": "India's space ecosystem has expanded from single-digit startups to nearly 400-500 companies in just a few years"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

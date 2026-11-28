@@ -1,0 +1,60 @@
+{
+  "id": "382baa9447",
+  "url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-speaks-to-protesting-asha-workers-from-japan-urges-them-to-call-off-stir/article71737689.ece",
+  "title": "Karnataka Chief Minister speaks to protesting ASHA workers from Japan, urges them to call off stir",
+  "outlet": "The Hindu",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2363,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka Chief Minister D.K. Shivakumar urged ASHA workers to withdraw their indefinite protest demanding ₹15,000 monthly honorarium and fulfillment of pending demands via video call from Japan.",
+    "facts": [
+      {
+        "claim": "Karnataka Chief Minister D.K. Shivakumar spoke to protesting ASHA workers at Bengaluru’s Freedom Park through a video call from Japan",
+        "quote": "Chief Minister D.K. Shivakumar on Tuesday (November 24, 2026) spoke to protesting ASHA workers at Bengaluru’s Freedom Park through a video call from Japan and urged them to withdraw their agitation."
+      },
+      {
+        "claim": "The Chief Minister promised to address ASHA workers' demands with the Finance Department during the Legislature session",
+        "quote": "During the video call, the Chief Minister said he would discuss their demands with the Finance Department during the Legislature session, as some of the issues involved other departments."
+      },
+      {
+        "claim": "ASHA workers demanded ₹15,000 monthly honorarium and fulfillment of pending demands",
+        "quote": "Demanding that the State government fix their monthly honorarium at ₹15,000 and fulfil their pending demands, members of the Karnataka Rajya Samyuktha ASHA Karyakarteyara Sangha had launched an indefinite day-and-night protest on November 17."
+      },
+      {
+        "claim": "The protest was ongoing as the Chief Minister was in Japan",
+        "quote": "The call came amid criticism from the protesters over his Japan visit while their agitation was under way."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka ASHA workers have been protesting for over a week demanding higher honorarium and fulfillment of pending demands, with the Chief Minister's Japan visit adding political tension to the situation.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": [
+        "name “Karnataka Chief Minister” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

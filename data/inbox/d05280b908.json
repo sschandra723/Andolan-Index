@@ -1,0 +1,52 @@
+{
+  "id": "d05280b908",
+  "url": "https://www.greaterkashmir.com/jammu/capture-bears-ensure-public-safety-or-face-protest-udhampur-congress-president-12847583",
+  "title": "Capture bears, ensure public safety or face protest: Udhampur Congress President",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 772,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "District Congress Committee Udhampur President Sumeet Magotra issued a 10-day ultimatum to the Wildlife Department after bear attacks injured at least five people in Panchari, Chulna area.",
+    "facts": [
+      {
+        "claim": "at least five persons were injured when two to three bears reportedly attacked villagers in the Chulna area at around 9:30 am on Friday",
+        "quote": "At least five persons were injured when two to three bears reportedly attacked villagers in the Chulna area at around 9:30 am on Friday,"
+      },
+      {
+        "claim": "Sumeet Magotra served a 10-day ultimatum on the Wildlife Department to take immediate and effective measures to capture the bears and ensure the safety of residents",
+        "quote": "Ramban, Nov 27: District Congress Committee (DCC) Udhampur President Sumeet Magotra on Friday expressed serious concern over repeated bear attacks in Chulna Panchayat of the Panchari area and served a 10-day ultimatum on the Wildlife Department to take immediate and effective measures to capture the bears and ensure the safety of residents."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "2/2",
+      "names_checked": true,
+      "problems": [
+        "name “District Congress Committee Udhampur President Sumeet Magotra” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

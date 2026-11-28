@@ -1,0 +1,61 @@
+{
+  "id": "a39f544189",
+  "url": "https://www.tribuneindia.com/news/india/anti-cec-protests-who-qualifies-as-a-journalist-sc-to-examine-issues-involving-protection-for-scribes/",
+  "title": "Anti-CEC protests: Who qualifies as a journalist? SC to examine issues involving protection for scribes",
+  "outlet": "The Tribune",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "anti-CEC protests",
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2582,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "The Supreme Court will examine who qualifies as a journalist and whether self-proclaimed reporters should have greater protection than accredited journalists during protests, following allegations of police misconduct against media covering anti-CEC demonstrations in Delhi.",
+    "facts": [
+      {
+        "claim": "The Supreme Court will consider who qualifies to be a journalist and whether accredited mediapersons should enjoy greater protection than self-proclaimed reporters while covering protests",
+        "quote": "The Supreme Court on Thursday said it will consider who qualifies to be a journalist and whether accredited mediapersons should enjoy greater protection than self-proclaimed reporters while covering protests."
+      },
+      {
+        "claim": "The Supreme Court asked a committee to examine petitions over the alleged detention of seven journalists, assault, and obstruction of journalists covering protests in Delhi on 10 and 11 October 2026",
+        "quote": "The top court asked the high-powered committee headed by former top court judge R Subhash Reddy to examine petitions over the alleged detention of seven journalists, assault, and obstruction of journalists covering protests in Delhi on 10 and 11 October 2026."
+      },
+      {
+        "claim": "The Delhi Police stated that reel-makers cannot automatically claim the protections given to the press while covering protests",
+        "quote": "Social media content creators cannot automatically claim the protections given to the press while covering protests, the Delhi Police submitted."
+      },
+      {
+        "claim": "The Delhi Police submitted that it had to be determined if reel-makers can be elevated to the status of journalists or reporters",
+        "quote": "It had to be determined if \"reel-makers can be elevated to the status of journalists or reporters\", the police said."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court is addressing concerns about journalist protection during anti-CEC protests in Delhi, following allegations of police misconduct against media covering demonstrations.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

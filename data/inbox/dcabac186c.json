@@ -1,0 +1,62 @@
+{
+  "id": "dcabac186c",
+  "url": "https://www.thehindu.com/news/cities/bangalore/rain-or-shine-asha-workers-continue-their-protest-seeking-better-pay/article71742548.ece",
+  "title": "Rain or shine, ASHAs continue their protest seeking better pay",
+  "outlet": "The Hindu",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5637,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "ASHAs in Bengaluru have been protesting for over 10 days demanding ₹15,000 monthly pay instead of current ₹7,000-8,000, citing undervalued work in public healthcare and lack of formal recognition.",
+    "facts": [
+      {
+        "claim": "ASHAs demand ₹15,000 monthly pay",
+        "quote": "an Accredited Social Health Activist (ASHA) asked, pointing to her son at Freedom Park in Bengaluru, where thousands of frontline workers have been protesting, demanding a monthly payment of ₹15,000."
+      },
+      {
+        "claim": "ASHAs earn ₹7,000-8,000 monthly",
+        "quote": "ASHAs receive around ₹7,000 to ₹8,000 a month, comprising a State government component of around ₹5,000 to ₹6,000 and a fixed Union government incentive of ₹2,000."
+      },
+      {
+        "claim": "ASHAs work more than 2-3 hours a day",
+        "quote": "Officially, our work is supposed to be for two to three hours, four to five times a week. But in my 10 years as an ASHA, there has not been a day when I have finished within three hours,"
+      },
+      {
+        "claim": "ASHAs face safety risks",
+        "quote": "We have to collect and handle the samples ourselves. What about our safety?"
+      },
+      {
+        "claim": "ASHAs seek formal recognition",
+        "quote": "When the National Rural Health Mission was launched in 2005, ASHAs were described as “community health volunteers” and were expected to contribute one to two hours a day. They say the designation has remained unchanged even as their responsibilities have expanded to cover maternal and child health, immunisation, nutrition support and disease surveillance."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "ASHAs, who are frontline public health workers, have been protesting for better pay and recognition since 2024, with the current protest entering its 10th day in November 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

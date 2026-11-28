@@ -1,0 +1,54 @@
+{
+  "id": "fa1987b673",
+  "url": "https://www.tribuneindia.com/news/jalandhar/aids-control-staff-to-begin-statewide-agitation-today/",
+  "title": "AIDS control staff to begin statewide agitation today",
+  "outlet": "The Tribune",
+  "published": "2026-11-22",
+  "collected": "2026-11-25",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2157,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Punjab AIDS Control Employees Welfare Association (PACEWA) employees announced a statewide agitation starting November 23, demanding a 20% salary hike and other benefits, with plans to stop uploading patient reports and boycott work from November 25.",
+    "facts": [
+      {
+        "claim": "Punjab AIDS Control Employees Welfare Association (PACEWA) employees announced a statewide agitation starting November 23",
+        "quote": "employees of the Punjab AIDS Control Employees Welfare Association (PACEWA) have announced a statewide agitation from November 23"
+      },
+      {
+        "claim": "demanding a 20% salary hike and other benefits",
+        "quote": "Besides the salary hike, the association is demanding implementation of health insurance, release of pending arrears, resolution of transfer related issues, clearance of various allowances."
+      },
+      {
+        "claim": "plans to stop uploading patient reports and boycott work from November 25",
+        "quote": "employees will stop uploading daily patient reports on the SOCH portal from November 23 and completely boycott work from November 25"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Punjab AIDS Control Employees Welfare Association (PACEWA) employees are demanding a 20% salary hike and other benefits after repeated assurances from the Health Department failed to resolve their issues.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

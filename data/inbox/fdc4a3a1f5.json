@@ -1,0 +1,86 @@
+{
+  "id": "fdc4a3a1f5",
+  "url": "https://www.sentinelassam.com/breakingnews/meecl-casual-employees-protest-outsourcing-order-demand-withdrawal-before-1st-december",
+  "title": "MeECL Casual Employees Protest Outsourcing Order, Demand Withdrawal Before 1st December",
+  "outlet": "The Sentinel",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3059,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "meghalaya-deficit-teachers-2026",
+    "new_movement": null,
+    "summary": "More than 160 casual employees of Meghalaya Energy Corporation Limited staged a protest demanding withdrawal of an October 23 order that places them under a manpower agency from December 1, fearing reduced wages and benefits.",
+    "facts": [
+      {
+        "claim": "More than 160 casual employees of the Meghalaya Energy Corporation Limited staged a protest at the corporation's headquarters in Lumjingshai, Meghalaya, on 24th November",
+        "quote": "More than 160 casual employees of the Meghalaya Energy Corporation Limited (MeECL) staged a protest at the corporation's headquarters in Lumjingshai, Meghalaya, on 24th November"
+      },
+      {
+        "claim": "demanding the withdrawal of an 23rd October order that places them under a manpower agency from 1st December",
+        "quote": "demanding the withdrawal of an 23rd October order that places them under a manpower agency from 1st December"
+      },
+      {
+        "claim": "The protesting employees are opposing a management decision requiring casual workers engaged under 30-day and 89-day arrangements to work through a manpower agency",
+        "quote": "The protesting employees are opposing a management decision requiring casual workers engaged under 30-day and 89-day arrangements to work through a manpower agency"
+      },
+      {
+        "claim": "The order, issued on 23rd October, is scheduled to take effect on December 1",
+        "quote": "The order, issued on 23rd October, is scheduled to take effect on December 1"
+      },
+      {
+        "claim": "Workers have demanded that the corporation withdraw the directive before its implementation",
+        "quote": "Workers have demanded that the corporation withdraw the directive before its implementation"
+      },
+      {
+        "claim": "Employees fear that moving their employment arrangements under an outside agency could affect their existing working conditions, particularly their wages and service-related benefits",
+        "quote": "Employees fear that moving their employment arrangements under an outside agency could affect their existing working conditions, particularly their wages and service-related benefits"
+      },
+      {
+        "claim": "The employees have appealed to Power Minister Timothy D. Shira and Chief Minister Conrad K. Sangma to intervene in the matter",
+        "quote": "The employees have appealed to Power Minister Timothy D. Shira and Chief Minister Conrad K. Sangma to intervene in the matter"
+      },
+      {
+        "claim": "More than 160 casual employees participated in the November 24 protest",
+        "quote": "More than 160 casual employees participated in the November 24 protest"
+      },
+      {
+        "claim": "Among those affected are around 28 Garo youths",
+        "quote": "Among those affected are around 28 Garo youths"
+      },
+      {
+        "claim": "The employees are engaged under different short-term contractual arrangements, including 89-day and 39-day contracts",
+        "quote": "The employees are engaged under different short-term contractual arrangements, including 89-day and 39-day contracts"
+      },
+      {
+        "claim": "Workers are concerned that the change could affect their existing service conditions and financial security",
+        "quote": "Workers are concerned that the change could affect their existing service conditions and financial security"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Meghalaya Energy Corporation Limited employees are protesting against a management decision to place them under a manpower agency from December 1, which they fear will reduce wages and benefits.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "11/11",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "18a256179d",
+  "url": "https://www.news9live.com/india/after-saurav-das-lookout-circulars-issued-against-cjp-leaders-dipke-ranka-over-mumbai-protest-3027956",
+  "title": "After Saurav Das, lookout circulars issued against CJP leaders Dipke, Ranka over Mumbai protest",
+  "outlet": "News9Live",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "Cockroach Janta Party",
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2956,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "anti-sir-2026",
+    "new_movement": null,
+    "summary": "Lookout circulars issued against Cockroach Janta Party leaders over Mumbai protest at Shivaji Park in October, after police denied permission for the gathering.",
+    "facts": [
+      {
+        "claim": "Lookout circulars issued against Cockroach Janta Party leaders Abhijit Dipke and Ashutosh Ranka",
+        "quote": "Lookout circulars have been issued against Cockroach Janta Party leaders Abhijit Dipke and Ashutosh Ranka in a case linked to the party’s October 2 protest at Mumbai’s Shivaji Park."
+      },
+      {
+        "claim": "The notices came to light after the Centre told the Delhi High Court that another party leader, Saurav Das, also faced a lookout circular",
+        "quote": "The notices came to light after the Centre told the Delhi High Court on Thursday that it had issued a circular against another CJP leader, Saurav Das, over alleged discrepancies in his passport records."
+      },
+      {
+        "claim": "The CJP went ahead with its protest after Mumbai Police denied permission for the gathering",
+        "quote": "The CJP went ahead with its protest after Mumbai Police denied permission for the gathering."
+      },
+      {
+        "claim": "The protesters demanded the resignation of Chief Election Commissioner Gyanesh Kumar",
+        "quote": "The protesters demanded the resignation of Chief Election Commissioner Gyanesh Kumar."
+      },
+      {
+        "claim": "Shivaji Park police registered an FIR on October 3",
+        "quote": "Shivaji Park police registered an FIR on October 3."
+      },
+      {
+        "claim": "They named the organisers and listed 400 to 500 unidentified participants",
+        "quote": "It named the organisers and listed 400 to 500 unidentified participants."
+      },
+      {
+        "claim": "Police invoked Sections 189 and 223 of the Bharatiya Nyaya Sanhita",
+        "quote": "Police invoked Sections 189 and 223 of the Bharatiya Nyaya Sanhita, which deal with unlawful assembly and disobedience of an order issued by a public servant."
+      },
+      {
+        "claim": "They also invoked provisions of the Maharashtra Police Act",
+        "quote": "They also invoked provisions of the Maharashtra Police Act."
+      },
+      {
+        "claim": "Das moved the Delhi High Court after immigration officials stopped him at Delhi airport on the night of November 23",
+        "quote": "Das moved the Delhi High Court after immigration officials stopped him at Delhi airport on the night of November 23 before he could board a flight to London."
+      },
+      {
+        "claim": "He said he was due to take part in a panel discussion in Oxford and learnt at the immigration counter that officials had flagged his passport",
+        "quote": "He said he was due to take part in a panel discussion in Oxford and learnt at the immigration counter that officials had flagged his passport."
+      },
+      {
+        "claim": "The Centre told the court that Mumbai Police had requested the circular against Das",
+        "quote": "The Centre told the court that Mumbai Police had requested the circular against Das."
+      },
+      {
+        "claim": "Additional Solicitor General Chetan Sharma told Justice Amit Mahajan that alleged discrepancies involving Das’s schooling, address and parentage in his passport records could raise questions about his Indian citizenship",
+        "quote": "Additional Solicitor General Chetan Sharma told Justice Amit Mahajan that alleged discrepancies involving Das’s schooling, address and parentage in his passport records could raise questions about his Indian citizenship."
+      },
+      {
+        "claim": "Senior advocate Akhil Sibal, who appeared for Das, said his client received a show-cause notice only after he reached the airport",
+        "quote": "Senior advocate Akhil Sibal, who appeared for Das, said his client received a show-cause notice only after he reached the airport."
+      },
+      {
+        "claim": "He questioned how immigration officials could stop Das from leaving the country without telling him about the circular or showing him an order restricting his travel",
+        "quote": "He questioned how immigration officials could stop Das from leaving the country without telling him about the circular or showing him an order restricting his travel."
+      },
+      {
+        "claim": "‘Nothing has been served on me. Somebody has to tell me that there is an LOC. How are citizens to be treated like this?’ Sibal argued",
+        "quote": "‘Nothing has been served on me. Somebody has to tell me that there is an LOC. How are citizens to be treated like this?’ Sibal argued."
+      },
+      {
+        "claim": "Sibal asked the Centre for a copy of the circular and sought details of when it was issued and which offence it related to",
+        "quote": "Sibal asked the Centre for a copy of the circular and sought details of when it was issued and which offence it related to."
+      },
+      {
+        "claim": "Sharma said the Centre could not provide a copy and that Das could challenge the circular in separate proceedings",
+        "quote": "Sharma said the Centre could not provide a copy and that Das could challenge the circular in separate proceedings."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Cockroach Janta Party (CJP) protested at Mumbai’s Shivaji Park on October 2, demanding Chief Election Commissioner Gyanesh Kumar’s resignation after Mumbai Police denied permission for the gathering.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "16/17",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘Nothing has been served on me. Somebody has to tell me that there is an LOC. Ho”"
+      ]
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

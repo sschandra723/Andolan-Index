@@ -1,0 +1,66 @@
+{
+  "id": "5cebc33704",
+  "url": "https://nenow.in/north-east-news/assam/assam-transport-association-withdraws-statewide-strike-gives-government-until-december-11-to-meet-demands.html",
+  "title": "Assam: Transport association withdraws statewide strike, gives government until December 11 to meet demands",
+  "outlet": "Northeast Now",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3405,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The All Assam Motor Transport Association temporarily withdrew its indefinite strike after the Transport Department agreed to one of six demands, setting December 11 as the deadline to address five remaining issues.",
+    "facts": [
+      {
+        "claim": "The All Assam Motor Transport Association temporarily withdrew its indefinite strike after the Transport Department agreed to one of six demands",
+        "quote": "The All Assam Motor Transport Association on Friday temporarily withdrew its indefinite strike across the state after the Transport Department agreed to one of its six demands."
+      },
+      {
+        "claim": "The association has set December 11 as the deadline for the government to address the remaining five demands",
+        "quote": "The association has set December 11 as the deadline for the government to address the remaining five demands."
+      },
+      {
+        "claim": "The association warned it would resume its agitation from December 14 if the outstanding issues remained unresolved",
+        "quote": "It warned that it would resume its agitation from December 14 if the outstanding issues remained unresolved."
+      },
+      {
+        "claim": "The association said it had received verbal assurances from the authorities regarding the five pending demands",
+        "quote": "During Thursday’s meeting, we were informed that the issues would be discussed with the higher authorities and resolved soon. They also acknowledged that the association’s five demands were genuine,"
+      },
+      {
+        "claim": "The association claimed nearly 90 per cent of vehicles were equipped with Speed Limiting Devices (SLDs)",
+        "quote": "He further claimed that nearly 90 per cent of vehicles were equipped with Speed Limiting Devices (SLDs)."
+      },
+      {
+        "claim": "The association said transport operators had been unable to obtain fitness certificates due to difficulties in uploading SLD and Vehicle Location Tracking Device (VLTD) details on the VAHAN portal",
+        "quote": "We already had SLD certificates, but the details were not uploaded on the VAHAN portal, which prevented us from obtaining fitness certificates. The VLTD details could also not be uploaded."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The All Assam Motor Transport Association is a state-level transport union that has been engaged in a prolonged strike over regulatory issues affecting commercial vehicles, including SLD and VLTD compliance.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

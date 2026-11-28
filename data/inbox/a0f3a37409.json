@@ -1,0 +1,77 @@
+{
+  "id": "a0f3a37409",
+  "url": "https://www.greaterkashmir.com/national/who-qualifies-as-a-journalist-sc-to-ponder-question-of-protection-for-scribes-12843411",
+  "title": "Who qualifies as a journalist? SC to ponder question of protection for scribes",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2405,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court will examine who qualifies as a journalist and whether accredited media persons should have greater protection than self-proclaimed reporters during protests, following allegations of excessive force against seven journalists in Delhi.",
+    "facts": [
+      {
+        "claim": "The Supreme Court said it will consider who qualifies to be a journalist and whether accredited media persons should enjoy greater protection than self-proclaimed reporters while covering protests.",
+        "quote": "The Supreme Court on Thursday said it will consider who qualifies to be a journalist and whether accredited media persons should enjoy greater protection than self-proclaimed reporters while covering protests."
+      },
+      {
+        "claim": "The top court relegated to the high-powered committee headed by former top court judge R Subhash Reddy to examine pleas over the alleged detention of seven journalists, assault, and obstruction of journalists covering protests in Delhi on 10 and 11 October 2026.",
+        "quote": "The top court relegated to the high-powered committee headed by former top court judge R Subhash Reddy to examine pleas over the alleged detention of seven journalists, assault, and obstruction of journalists covering protests in Delhi on 10 and 11 October 2026."
+      },
+      {
+        "claim": "Self-proclaimed journalists may not have the same protection as accredited journalists.",
+        "quote": "Self-proclaimed journalists may not have the same protection as accredited journalists, he then added."
+      },
+      {
+        "claim": "The Kerala Union of Working Journalists and the Delhi Union of Journalists, in their plea, submitted that journalists were forcibly removed from reporting sites, prevented from recording events, and subjected to physical force.",
+        "quote": "The Kerala Union of Working Journalists and the Delhi Union of Journalists, in their plea, submitted that journalists were forcibly removed from reporting sites, prevented from recording events, and subjected to physical force."
+      },
+      {
+        "claim": "Accredited journalists documenting the protests were restrained, dragged away, manhandled and detained despite displaying their press credentials.",
+        "quote": "According to the plea, accredited journalists documenting the protests were restrained, dragged away, manhandled and detained despite displaying their press credentials."
+      },
+      {
+        "claim": "Senior advocate PV Dinesh said seven journalists working with established organisations, not reel-makers, were taken into custody.",
+        "quote": "Senior advocate PV Dinesh said seven journalists working with established organisations, not reel-makers, were taken into custody."
+      },
+      {
+        "claim": "The Delhi Police earlier told the top court that social media 'reel-makers' and influencers cannot claim the same protections as journalists covering protests.",
+        "quote": "The Delhi Police earlier told the top court that social media 'reel-makers' and influencers cannot claim the same protections as journalists covering protests."
+      },
+      {
+        "claim": "In an affidavit, the city police submitted that journalists 'constitute a distinct category' from social media content creators who use cameras and microphones to make reels for commercial gain, arguing that the latter cannot automatically claim the protections afforded to the press while covering protests.",
+        "quote": "In an affidavit, the city police submitted that journalists 'constitute a distinct category' from social media content creators who use cameras and microphones to make reels for commercial gain, arguing that the latter cannot automatically claim the protections afforded to the press while covering protests."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court is addressing a legal question about journalist protections amid allegations of excessive force against journalists during protests in Delhi, following a plea by unions representing journalists.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/8",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “The Delhi Police earlier told the top court that social media 'reel-makers' and ”",
+        "quote not in article: “In an affidavit, the city police submitted that journalists 'constitute a distin”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

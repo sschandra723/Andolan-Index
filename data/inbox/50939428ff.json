@@ -1,0 +1,62 @@
+{
+  "id": "50939428ff",
+  "url": "https://theprint.in/india/jammu-police-detains-social-activist-some-demonstrators-during-psi-exam-protests/3111469/",
+  "title": "Jammu: Police detains social activist, some demonstrators during PSI exam protests",
+  "outlet": "ThePrint",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1848,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Police detained social activist Deepika Singh Rajawat during protests in Jammu demanding postponement of JKPSI exams and investigation into alleged irregularities in FAA recruitment.",
+    "facts": [
+      {
+        "claim": "Police detained social activist Deepika Singh Rajawat",
+        "quote": "As Deepika was leading the protests by government job aspirants and youth, she challenged the police to arrest her. As the situation continued, police detained Deepika along with a few others."
+      },
+      {
+        "claim": "Protests demanded postponement of JKPSI exams and investigation into alleged irregularities in FAA recruitment",
+        "quote": "The government job aspirants were also demanding a thorough investigation into the alleged irregularities in the Finance Accounts Assistant (FAA) recruitment examination and postponement of the JKPSI examination scheduled for November 29, citing concerns over transparency and fairness in the recruitment process."
+      },
+      {
+        "claim": "Protesters marched towards chief minister’s residence carrying candles",
+        "quote": "As the protests continued till late tonight, the protesters marched towards the chief minister’s residence carrying candles."
+      },
+      {
+        "claim": "Protesters staged dharna and raised slogans",
+        "quote": "A large contingent of police personnel was deployed to maintain law and order in the city. As police did not allow the protesters to move forward, they staged a dharna on the road and raised slogans such as “We want justice” and “J&K Police, SSB and BJP murdabad”."
+      },
+      {
+        "claim": "Deepika is a Jammu and Kashmir High Court advocate and activist",
+        "quote": "Deepika is a Jammu and Kashmir High Court advocate and activist, widely known for her early legal representation in the 2018 Kathua rape and murder case before being removed by the victim’s family later that year."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Protests in Jammu over JKPSI exam postponement and FAA recruitment irregularities, with activists demanding justice and linking the government to alleged misconduct.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

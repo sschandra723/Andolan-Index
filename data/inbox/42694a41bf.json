@@ -1,0 +1,88 @@
+{
+  "id": "42694a41bf",
+  "url": "https://www.hindustantimes.com/cities/kolkata-news/fresh-tension-at-kolkata-s-srfti-over-removal-of-makeshift-stage-set-up-by-protesting-students-101795839229362.html",
+  "title": "Fresh tension at Kolkata's SRFTI over removal of makeshift stage set up by protesting students",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "SRFTI"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2219,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "srfti-kolkata-protest-2026",
+    "new_movement": null,
+    "summary": "Protesters at Kolkata's SRFTI demanded the removal of a makeshift stage set up after alleged attacks on students during September campus clashes, leading to police deployment and a scuffle during the structure's removal.",
+    "facts": [
+      {
+        "claim": "Fresh tension broke out at the SRFTI here on Saturday over the removal of a makeshift stage in front of its administrative building, set up by a section of students protesting against alleged attacks on them during an event on the campus in September.",
+        "quote": "Fresh tension broke out at the SRFTI here on Saturday over the removal of a makeshift stage in front of its administrative building, set up by a section of students protesting against alleged attacks on them during an event on the campus in September."
+      },
+      {
+        "claim": "Heavy police deployment was made at the Satyajit Ray Film and Television Institute in the morning, as iron barricades were placed outside its main entrance by the security personnel, officials said.",
+        "quote": "Heavy police deployment was made at the Satyajit Ray Film and Television Institute in the morning, as iron barricades were placed outside its main entrance by the security personnel, officials said."
+      },
+      {
+        "claim": "The protesting students and police personnel also engaged in a scuffle while the temporary structure was being removed, they said.",
+        "quote": "The protesting students and police personnel also engaged in a scuffle while the temporary structure was being removed, they said."
+      },
+      {
+        "claim": "The agitators claimed that the makeshift stage was set up in front of the administrative building after the alleged attacks on September 27, following clashes between students and members of an RSS-affiliated organisation during an event on the campus.",
+        "quote": "The agitators claimed that the makeshift stage was set up in front of the administrative building after the alleged attacks on September 27, following clashes between students and members of an RSS-affiliated organisation during an event on the campus."
+      },
+      {
+        "claim": "The SRFTI had on November 19 issued a notice directing the protesting students to dismantle the temporary structure.",
+        "quote": "The SRFTI had on November 19 issued a notice directing the protesting students to dismantle the temporary structure."
+      },
+      {
+        "claim": "In a statement issued on Saturday morning, the premier institute said the \"illegal structure was removed with court intervention and support of the Kolkata Police\".",
+        "quote": "In a statement issued on Saturday morning, the premier institute said the \"illegal structure was removed with court intervention and support of the Kolkata Police\"."
+      },
+      {
+        "claim": "Earlier, the administration issued multiple verbal and written reminders to students for its removal, and formal notices against the illegal structure and unauthorised and illegal activities on the campus",
+        "quote": "Earlier, the administration issued multiple verbal and written reminders to students for its removal, and formal notices against the illegal structure and unauthorised and illegal activities on the campus"
+      },
+      {
+        "claim": "One of the protesting students alleged that they were not being allowed to enter the campus, as the entrance was closed and barricades were put up in front of it by the police.",
+        "quote": "One of the protesting students alleged that they were not being allowed to enter the campus, as the entrance was closed and barricades were put up in front of it by the police."
+      },
+      {
+        "claim": "The students' stir had intensified after a second alleged attack on them on October 4, amid demands for the resignation of Vice-Chancellor Santosh Ajmera.",
+        "quote": "The students' stir had intensified after a second alleged attack on them on October 4, amid demands for the resignation of Vice-Chancellor Santosh Ajmera."
+      },
+      {
+        "claim": "In mid-October, the SRFTI had rusticated six students for allegedly assaulting the vice-chancellor and vandalising his office, a charge denied by the protesters, who maintained that the stir remained peaceful.",
+        "quote": "In mid-October, the SRFTI had rusticated six students for allegedly assaulting the vice-chancellor and vandalising his office, a charge denied by the protesters, who maintained that the stir remained peaceful."
+      },
+      {
+        "claim": "The institute subsequently suspended academic activities and asked students to vacate the campus. The closure was later extended till December 11.",
+        "quote": "The institute subsequently suspended academic activities and asked students to vacate the campus. The closure was later extended till December 11."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "SRFTI students protested against alleged attacks on them during campus clashes with RSS-affiliated groups in September, leading to the rustication of six students and a campus closure until December 11.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "11/11",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "b0a5a5bcc4",
+  "url": "https://www.deccanherald.com/india/jammu-and-kashmir/jammu-police-detains-social-activist-some-demonstrators-during-psi-exam-protests-4234026",
+  "title": "Jammu: Police detains social activist, some demonstrators during PSI exam protests",
+  "outlet": "Deccan Herald",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1784,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Police detained social activist Deepika Singh Rajawat during protests in Jammu demanding postponement of the JKPSI exam and investigation into alleged irregularities in the FAA recruitment exam.",
+    "facts": [
+      {
+        "claim": "Police detained social activist Deepika Singh Rajawat",
+        "quote": "As Deepika was leading the protests by government job aspirants and youth, she challenged the police to arrest her. As the situation continued, police detained Deepika along with a few others."
+      },
+      {
+        "claim": "Protests demanded postponement of the JKPSI exam",
+        "quote": "Jammu and Kashmir Police Sub-Inspector (JKPSI) examination"
+      },
+      {
+        "claim": "Protests demanded investigation into alleged irregularities in FAA recruitment exam",
+        "quote": "the government job aspirants were also demanding a thorough investigation into the alleged irregularities in the Finance Accounts Assistant (FAA) recruitment examination"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The protests are part of ongoing demands for transparency in J&K's recruitment processes, linked to the broader context of political tensions in the region.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

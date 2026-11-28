@@ -1,0 +1,51 @@
+{
+  "id": "b49111e5a2",
+  "url": "https://www.cbc.ca/news/world/india-modi-meta-protest-9.7440253",
+  "title": "Indian police disperse protest outside Meta offices amid concern the company is censoring political opposition",
+  "outlet": "CBC.ca",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "TimeoutError: The read operation timed out",
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Indian police dispersed a protest outside Meta offices as concerns grew over the company's alleged censorship of political opposition.",
+    "facts": [
+      {
+        "claim": "Indian police dispersed a protest outside Meta offices",
+        "quote": "Indian police disperse protest outside Meta offices"
+      },
+      {
+        "claim": "as concerns grew over the company's alleged censorship of political opposition",
+        "quote": "amid concern the company is censoring political opposition"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

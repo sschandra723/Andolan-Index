@@ -1,0 +1,102 @@
+{
+  "id": "fd257c5dd6",
+  "url": "https://www.hindustantimes.com/india-news/driven-out-of-forests-56-displaced-elephants-run-into-politics-in-karnataka-101795711595250.html",
+  "title": "Driven out of forests, 56 displaced elephants run into politics in Karnataka",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-26",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Karnataka's forest department suspended moving 56 displaced elephants from coffee estates to Bhadra forests after protests by local legislators and residents in Chikkamagaluru, with elephants scattered across three districts.",
+    "facts": [
+      {
+        "claim": "Karnataka’s plan to move 56 elephants from Hassan’s coffee estates to Bhadra has stalled after protests by legislators and residents in Chikkamagaluru",
+        "quote": "Karnataka’s plan to move 56 elephants from Hassan’s coffee estates to Bhadra has stalled after protests by legislators and residents in Chikkamagaluru."
+      },
+      {
+        "claim": "The movement of 56 elephants out of Hassan’s coffee estates in Karnataka has run into a political roadblock, with the forest department temporarily suspending the operation after protests by legislators and residents in neighbouring Chikkamagaluru",
+        "quote": "The movement of 56 elephants out of Hassan’s coffee estates in Karnataka has run into a political roadblock, with the forest department temporarily suspending the operation after protests by legislators and residents in neighbouring Chikkamagaluru."
+      },
+      {
+        "claim": "The herd, meanwhile, has scattered across three districts, with 39 elephants in Mudigere, 13 back in Belur and four tuskers moving towards Kodagu as of November 26",
+        "quote": "The herd, meanwhile, has scattered across three districts, with 39 elephants in Mudigere, 13 back in Belur and four tuskers moving towards Kodagu as of November 26."
+      },
+      {
+        "claim": "The operation, launched after two people were killed in elephant attacks in Belur, began on November 21, following the capture of two tuskers on November 18 and 19",
+        "quote": "The operation, launched after two people were killed in elephant attacks in Belur, began on November 21, following the capture of two tuskers on November 18 and 19."
+      },
+      {
+        "claim": "One was shifted to the Mathigodu elephant camp in Nagarahole Tiger Reserve, while the other was released into the wild in Bandipur after being fitted with a radio collar",
+        "quote": "One was shifted to the Mathigodu elephant camp in Nagarahole Tiger Reserve, while the other was released into the wild in Bandipur after being fitted with a radio collar."
+      },
+      {
+        "claim": "The forest department then began guiding the remaining 56 elephants from Belur towards the Bhadra forests",
+        "quote": "The forest department then began guiding the remaining 56 elephants from Belur towards the Bhadra forests."
+      },
+      {
+        "claim": "Although the operation has been suspended, officials are continuing to monitor the herd and guide the elephants in Mudigere towards the Tatakola forest area, which adjoins reserve forests",
+        "quote": "Although the operation has been suspended, officials are continuing to monitor the herd and guide the elephants in Mudigere towards the Tatakola forest area, which adjoins reserve forests."
+      },
+      {
+        "claim": "Forest minister Ramalinga Reddy is scheduled to meet legislators from the affected districts on November 30 to discuss the issue",
+        "quote": "Forest minister Ramalinga Reddy is scheduled to meet legislators from the affected districts on November 30 to discuss the issue."
+      },
+      {
+        "claim": "Hassan district in-charge minister K M Shivalinge Gowda has defended the operation, arguing that Belur has barely 100 acres of forest and cannot provide adequate habitat for the elephants",
+        "quote": "Hassan district in-charge minister K M Shivalinge Gowda has defended the operation, arguing that Belur has barely 100 acres of forest and cannot provide adequate habitat for the elephants."
+      },
+      {
+        "claim": "However, Congress MLAs Nayana Motamma, T D Rajegowda and H D Thammaiah have opposed moving the herd towards Chikkamagaluru, which also faces frequent human-elephant conflict",
+        "quote": "However, Congress MLAs Nayana Motamma, T D Rajegowda and H D Thammaiah have opposed moving the herd towards Chikkamagaluru, which also faces frequent human-elephant conflict."
+      },
+      {
+        "claim": "Motamma, who represents Mudigere, submitted her resignation to the Assembly speaker on November 23, protesting against the movement of elephants into her constituency without consulting local elected representatives",
+        "quote": "Motamma, who represents Mudigere, submitted her resignation to the Assembly speaker on November 23, protesting against the movement of elephants into her constituency without consulting local elected representatives."
+      },
+      {
+        "claim": "She withdrew it after chief minister D K Shivakumar and senior Congress leaders intervened, but continued to demand assurances on public safety",
+        "quote": "She withdrew it after chief minister D K Shivakumar and senior Congress leaders intervened, but continued to demand assurances on public safety."
+      },
+      {
+        "claim": "I have to answer the people who elected me. I am not answerable merely to the government. If we cannot protect the people who elected us, what is the purpose of holding public office?",
+        "quote": "I have to answer the people who elected me. I am not answerable merely to the government. If we cannot protect the people who elected us, what is the purpose of holding public office?"
+      },
+      {
+        "claim": "Reddy, meanwhile, said elephants belonged in forests rather than coffee estates and cautioned legislators against politicising the issue",
+        "quote": "Reddy, meanwhile, said elephants belonged in forests rather than coffee estates and cautioned legislators against politicising the issue."
+      },
+      {
+        "claim": "These elephants belong to the forest and not to the coffee estates. Do not indulge in politics",
+        "quote": "These elephants belong to the forest and not to the coffee estates. Do not indulge in politics"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Elephant displacement in Karnataka has led to political resistance as communities fear inheriting human-elephant conflict, with forest officials and legislators debating habitat fragmentation and safe relocation.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "15/15",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

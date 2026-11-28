@@ -1,0 +1,65 @@
+{
+  "id": "b8552ce792",
+  "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-launch-delhi-chalo-protest-if-centre-fails-to-release-drought-relief-karnataka-cm-dk-shivakumar/article71753746.ece",
+  "title": "Karnataka to launch ‘Delhi Chalo’ protest if Centre fails to release drought relief: D.K. Shivakumar",
+  "outlet": "The Hindu",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2075,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Karnataka's Chief Minister D.K. Shivakumar announced a 'Delhi Chalo' protest if the Centre fails to release drought relief funds before December Assembly session, citing no financial assistance received for drought relief.",
+    "facts": [
+      {
+        "claim": "Karnataka would organise a ‘Delhi Chalo’ protest after the Assembly session in December if the Centre failed to release drought relief funds before the session concluded",
+        "quote": "Chief Minister D.K. Shivakumar on Saturday (November 28) said Karnataka would organise a ‘Delhi Chalo’ protest after the Assembly session in December if the Centre failed to release drought relief funds before the session concluded."
+      },
+      {
+        "claim": "The State had not received any financial assistance from the Union government for drought relief, and that no announcement had been made on the matter",
+        "quote": "He said the State had not received any financial assistance from the Union government for drought relief, and that no announcement had been made on the matter."
+      },
+      {
+        "claim": "Even today, the Union government has not given a single rupee, nor has it announced anything",
+        "quote": "‘Even today, the Union government has not given a single rupee, nor has it announced anything,’ he said, pointing out that Deputy Chief Minister G. Parameshwara had furnished the necessary details at a special Cabinet meeting."
+      },
+      {
+        "claim": "Karnataka has already submitted a report to the Centre, drawing attention to drought-related losses estimated at around ₹62,000 crore and seeking assistance of ₹22,400 crore",
+        "quote": "Karnataka has already submitted a report to the Centre, drawing attention to drought-related losses estimated at around ₹62,000 crore and seeking assistance of ₹22,400 crore."
+      },
+      {
+        "claim": "The State government, which earlier announced a one-time drought relief (input subsidy) of ₹2,500 each for affected farmers, has now decided to double it to ₹5,000 amid prevailing drought conditions",
+        "quote": "The State government, which earlier announced a one-time drought relief (input subsidy) of ₹2,500 each for affected farmers, has now decided to double it to ₹5,000 amid prevailing drought conditions."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Karnataka has reported severe drought conditions with over 57 lakh hectares of crops wilting and 226 taluks declared drought-hit, prompting the state to seek ₹22,400 crore in drought relief funds from the Centre.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “‘Even today, the Union government has not given a single rupee, nor has it annou”",
+        "name “December Assembly” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2fbe60185d",
+  "url": "https://www.greaterkashmir.com/kashmir/pg-doctors-continue-protest-at-gmc-baramulla-reject-verbal-assurance-12844553",
+  "title": "PG Doctors continue protest at GMC Baramulla, reject verbal assurance",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2455,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "PG doctors in Jammu and Kashmir continue a strike for fair stipend parity with other medical institutions, demanding written assurances after verbal promises from the health minister.",
+    "facts": [
+      {
+        "claim": "PG doctors protesting over the demand for a stipend hike at Government Medical College (GMC) Baramulla",
+        "quote": "PG doctors protesting over the demand for a stipend hike at Government Medical College (GMC) Baramulla on Wednesday refused to call off their agitation, which entered its fifth consecutive day at GMC Baramulla and its seventh day at other GMCs across Jammu and Kashmir."
+      },
+      {
+        "claim": "The protesting doctors insisted that the government translate its verbal assurance into a formal order",
+        "quote": "They said they would continue the strike until a written commitment was issued, maintaining that assurances alone could not address their longstanding demand for fair remuneration and parity with other medical institutions."
+      },
+      {
+        "claim": "PG doctors at AIIMS Jammu receive around Rs 40,000 more than their counterparts in GMCs across J&K",
+        "quote": "PG doctors at AIIMS Jammu receive around Rs 40,000 more than their counterparts in GMCs across J&K"
+      },
+      {
+        "claim": "PG doctors at SKIMS Soura draw approximately Rs 25,000 more",
+        "quote": "those at SKIMS Soura draw approximately Rs 25,000 more"
+      },
+      {
+        "claim": "The doctors also pointed out that their stipends were still being paid under the Sixth Pay Commission structure",
+        "quote": "The doctors also pointed out that their stipends were still being paid under the Sixth Pay Commission structure, even as the Eighth Pay Commission was approaching"
+      },
+      {
+        "claim": "The protesting doctors said they received only a verbal assurance",
+        "quote": "they said they had received only a verbal assurance, which had failed to address their concerns."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "PG doctors in Jammu and Kashmir have been striking for fair stipend parity with other medical institutions, demanding written assurances after verbal promises from the health minister.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

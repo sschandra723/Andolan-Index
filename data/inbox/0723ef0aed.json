@@ -1,0 +1,88 @@
+{
+  "id": "0723ef0aed",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
+  "title": "Thirupparankundram 'deepathoon' row highlights: Karthigai Deepam lit at traditional spot despite Supreme Court order",
+  "outlet": "The Hindu",
+  "published": "2026-11-24",
+  "collected": "2026-11-25",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "Karthigai Deepam"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-25",
+    "is_protest_in_india": true,
+    "movement": "tn-thiruparankundram-deepam-2026",
+    "new_movement": null,
+    "summary": "Hindu Munnani members protested in Chennai and Madurai after the Supreme Court allowed lighting Karthigai Deepam at a traditional spot instead of the designated 'deepathoon' stone pillar.",
+    "facts": [
+      {
+        "claim": "Hindu Munnani members stage 'road roko' at ECR junction",
+        "quote": "- November 24, 2026 21:21Hindu Munnani members stage 'road roko' at ECR junction Photo credit: L. Balachandar"
+      },
+      {
+        "claim": "Hindu Munnani State president warns of uprising against TVK government",
+        "quote": "- November 24, 2026 21:17Hindu Munnani State president warns of uprising against TVK government Slamming the TVK Government for stopping him from proceeding to Madurai for lighting of Karthigai Deepam atop Tirupparankundram Hill, Hindu Munnani State president Kadeshwara Subramaniam said in Tiruppur on Tuesday that the regime will collapse due to an uprising of people."
+      },
+      {
+        "claim": "Madras High Court passes John Doe order restraining anyone from calling for violation of 'deepathoon' order",
+        "quote": "- November 24, 2026 20:53Madras High Court passes John Doe order restraining \"the members of the general public\" (i.e., anyone) from calling for violating the November 20 Supreme Court order allowing the lighting of the lamp, as a \"limited one-time arrangement\", on the newly-identified ' deepathoon' (stone pillar) on Thirupparankundram hillock in Madurai for karthigai deepam."
+      },
+      {
+        "claim": "Police detain protesters outside Thirupparankundram temple",
+        "quote": "- November 24, 2026 20:44Police detain protesters outside Thirupparankundram temple Police personnel deployed for security at the Thirupparankundram foothills detained several protesters who gathered to stage a demonstration outside the Sri Subramaniaswamy Temple. The demonstrators, mostly affiliated with the BJP and other Hindu outfits, resisted arrest and attempted to damage public property, prompting police to forcefully detain and remove them from the site."
+      },
+      {
+        "claim": "We have followed age old practice and agama rules in lighting the deepam",
+        "quote": "- November 24, 2026 20:41We have followed age old practice and agama rules in lighting the deepam: temple authorities Shortly after the deepam was lit, the Arulmighu Subramanian Swamy Temple Executive Officer G. Selvi and Board of Trustees chairman V. Shanmugasundaram has jointly stated in a press release that the temple has followed the age old culture and agama rules in lighting the lamp atop the Thirupparankundram hillock on Tuesday (November 24, 2026)."
+      },
+      {
+        "claim": "Hindu Munnani stage protest in front of Chennai Central railway station",
+        "quote": "- November 24, 2026 19:27Hindu Munnani stage protest in front of Chennai Central railway station Members of the Hindu Munnani stage a protest on the road in front of Chennai Central railway station over the Karthigai Deepam lamp-lighting at the traditional spot despite the Supreme Court order. The protest led to heavy traffic congestion in the area."
+      },
+      {
+        "claim": "Karthigai deepam lit only at traditional spot atop Thirupparankundram hills",
+        "quote": "- November 24, 2026 19:09Karthigai deepam lit only at traditional spot atop Thirupparankundram hills The Supreme Court had allowed the lighting of the lamp at the 'Deepathoon' as a \"one-time arrangement\" this year. Besides, the Madurai Collector had, on Tuesday (November 24, 2026) submitted before the Madras High Court that the administration was taking steps to comply with the Supreme Court order."
+      },
+      {
+        "claim": "Police action against protestors",
+        "quote": "- November 24, 2026 18:49Police action against protestors Police remove devotees protesting at the Thirupparankundram foothills after the annual Karthigai Deepam lamp was lit at Uchipillayar temple, instead of the 'deepathoon' (stone pillar), as recently ordered by the Supreme Court — PTI"
+      },
+      {
+        "claim": "Minister C.T.R. Nirmal Kumar on Thirupparankundram maha deepam",
+        "quote": "- November 24, 2026 18:38Protest erupts as maha deepam was not lit at 'deepathoon' Protest erupts outside Thirupparankundram temple after the Karthigai Deepam was not lit at the ‘deepathoon’ as directed by the Supreme Court in its recent interim order. Police attempt to forcibly remove the protesters — PTI"
+      },
+      {
+        "claim": "T.N. BJP chief Nainar Nagenthran arrested",
+        "quote": "- November 24, 2026 15:19T.N. BJP chief Nainar Nagenthran arrested Nainar Nagenthran, who left his home in Tirunelveli district at 2.35 pm for Thirupparankundram, was arrested at Thatchanallur check-post on Tirunelveli City outskirts at 3.15 pm along with a group of party functionaries. They are being taken to the nearby marriage hall. Police team led by Assistant Commissioner of Police, Palayamkottai, Rajamurali Ramachandran has been deployed in front of the house of Mr. Nagenthran to stop him from going to Thirupparankundram to participate in Karthigai Deepam festival."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court had previously allowed lighting Karthigai Deepam at the 'Deepathoon' as a one-time arrangement, but the temple lit it at the traditional spot, triggering protests from Hindu Munnani and other groups.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/10",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “- November 24, 2026 20:53Madras High Court passes John Doe order restraining \"th”",
+        "quote not in article: “- November 24, 2026 20:41We have followed age old practice and agama rules in li”",
+        "quote not in article: “- November 24, 2026 19:09Karthigai deepam lit only at traditional spot atop Thir”"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

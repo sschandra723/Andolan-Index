@@ -1,0 +1,66 @@
+{
+  "id": "cd6f738761",
+  "url": "https://nagalandpost.com/china-japan-slam-donald-trumps-new-tariff-plans/",
+  "title": "China, Japan slam Donald Trump’s new tariff plans",
+  "outlet": "Nagaland Post",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3191,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "US proposed new tariffs targeting multiple countries, including China (20% tariff), Japan (up to 15%), and Singapore (20%), which have criticized the move as a pretext for political maneuvering and excess capacity claims.",
+    "facts": [
+      {
+        "claim": "US proposed new tariffs targeting multiple countries",
+        "quote": "The new tariffs, which are likely to take effect early next year, were announced Wednesday."
+      },
+      {
+        "claim": "China faces 20% tariff",
+        "quote": "China, one of the biggest trading partners of the US, is facing a 20 per cent tariff."
+      },
+      {
+        "claim": "Japan faces up to 15% tariff",
+        "quote": "Japan faces new US tariffs of up to 15 per cent."
+      },
+      {
+        "claim": "Singapore faces 20% tariff",
+        "quote": "Singapore, due to be hit by a 20 per cent tariff rate, said it was \"very disappointed\" with the US proposal."
+      },
+      {
+        "claim": "China criticized the move as a pretext for political maneuvering",
+        "quote": "\"China opposes its use as a pretext for political manoeuvring,\" Guo Jiakun, a spokesperson for the Ministry of Foreign Affairs, said at a regular press briefing."
+      },
+      {
+        "claim": "Japan stated it does not have excess capacity",
+        "quote": "\"Japan does not have any nonmarket policies or practices, or structural excess production capacity in the first place,\" Chief Cabinet Secretary Minoru Kihara told a regular news conference Thursday."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

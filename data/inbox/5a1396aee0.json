@@ -1,0 +1,58 @@
+{
+  "id": "5a1396aee0",
+  "url": "https://www.hindustantimes.com/india-news/bjp-sad-shiromani-akali-dal-reunion-can-the-alliance-alter-punjabs-political-landscape-101795511774440.html",
+  "title": "BJP-SAD reunion: Can the alliance alter Punjab's political landscape?",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "pu-bachao-morcha-2025",
+    "new_movement": null,
+    "summary": "The BJP and Shiromani Akali Dal (SAD) revived their alliance ahead of Punjab assembly elections after splitting in 2020 over farm laws, which had cost both parties significant electoral losses.",
+    "facts": [
+      {
+        "claim": "The alliance between the two parties ended after the SAD withdrew from the National Democratic Alliance (NDA) in 2020 in protest against the (now-withdrawn) three farm laws",
+        "quote": "The alliance between the two parties ended after the SAD withdrew from the National Democratic Alliance (NDA) in 2020 in protest against the (now-withdrawn) three farm laws"
+      },
+      {
+        "claim": "The two parties had first come together in the 1996 Lok Sabha elections",
+        "quote": "The two parties had first come together in the 1996 Lok Sabha elections"
+      },
+      {
+        "claim": "The BJP-SAD alliance won the highest number of assembly constituencies (AC) or parliamentary constituencies (PC) in six of the 12 elections held between 1996 and 2019",
+        "quote": "The BJP-SAD alliance won the highest number of assembly constituencies (AC) or parliamentary constituencies (PC) in six of the 12 elections held between 1996 and 2019"
+      },
+      {
+        "claim": "The two parties put together won just 4.3% and 7.7% of the ACs and PCs in the 2022 assembly and 2024 Lok Sabha elections",
+        "quote": "the two parties put together won just 4.3% and 7.7% of the ACs and PCs in the 2022 assembly and 2024 Lok Sabha elections"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The BJP-SAD alliance revival follows their 2020 split over farm laws, which led to significant electoral setbacks for both parties in Punjab.",
+    "confidence": 0.85,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

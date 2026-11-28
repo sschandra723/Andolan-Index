@@ -1,0 +1,61 @@
+{
+  "id": "f7988f9e33",
+  "url": "https://www.greaterkashmir.com/sports/ladakh-sports-policy-lg-v-k-saxena-distributes-over-rs-3-crore-among-242-sportspersons-12841545",
+  "title": "Ladakh Sports Policy: LG V K Saxena distributes over Rs 3 crore among 242 sportspersons",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": "ladakh-statehood",
+  "score": 2.0,
+  "matched": [
+    "Ladakh",
+    "Leh"
+  ],
+  "alternatives": [
+    "anti-sir-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1308,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Ladakh's Lt Governor distributed over Rs 3 crore in scholarships and cash awards to 242 sportspersons under the Ladakh Sports Policy, which requires prior approval from the State Election Commission due to the Model Code of Conduct.",
+    "facts": [
+      {
+        "claim": "distributed financial assistance exceeding Rs three crore among 242 outstanding sportspersons",
+        "quote": "Lt Governor V K Saxena on Wednesday distributed financial assistance exceeding Rs three crore among 242 outstanding sportspersons under the Ladakh Sports Policy, recognising their achievements and supporting their sporting pursuits."
+      },
+      {
+        "claim": "includes Rs 2.55 crore towards 12-month scholarships and Rs 52 lakh in cash awards",
+        "quote": "The assistance includes Rs 2.55 crore towards 12-month scholarships and Rs 52 lakh in cash awards, distributed with the prior approval of the State Election Commission in view of the Model Code of Conduct currently in force in the Union Territory, an official spokesman said."
+      },
+      {
+        "claim": "distributed with the prior approval of the State Election Commission in view of the Model Code of Conduct",
+        "quote": "The assistance includes Rs 2.55 crore towards 12-month scholarships and Rs 52 lakh in cash awards, distributed with the prior approval of the State Election Commission in view of the Model Code of Conduct currently in force in the Union Territory, an official spokesman said."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Ladakh, a union territory without a legislature since 2019, has been part of the statehood movement that seeks to restore its status as a state.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": [
+        "number 3 in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

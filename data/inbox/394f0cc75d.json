@@ -1,0 +1,66 @@
+{
+  "id": "394f0cc75d",
+  "url": "https://www.thehindu.com/news/national/karnataka/price-rise-ksrtc-fare-hike-trigger-bjp-protests-in-mysuru/article71743324.ece",
+  "title": "Price rise, KSRTC fare hike trigger BJP protests in Mysuru",
+  "outlet": "The Hindu",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 902,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "BJP protesters in Mysuru condemned Congress government's price hikes and KSRTC fare increases, accusing it of burdening common people and failing ASHA workers' demands.",
+    "facts": [
+      {
+        "claim": "BJP staged protests in different Assembly constituencies in Mysuru on Tuesday",
+        "quote": "The BJP staged protests in different Assembly constituencies in Mysuru on Tuesday, condemning the rise in prices of essential commodities and accusing the Congress government of increasing the financial burden on the common people."
+      },
+      {
+        "claim": "The protesters criticised the State government over the hike in the prices of milk and milk products and the increase in KSRTC bus fares",
+        "quote": "The protesters criticised the State government over the hike in the prices of milk and milk products and the increase in KSRTC bus fares."
+      },
+      {
+        "claim": "The protest in Krishnaraja Assembly constituency was led by Mysuru MP Yaduveer Krishnadatta Chamaraja Wadiyar and MLA T.S. Srivatsa",
+        "quote": "The protest in Krishnaraja Assembly constituency was led by Mysuru MP Yaduveer Krishnadatta Chamaraja Wadiyar and MLA T.S. Srivatsa"
+      },
+      {
+        "claim": "former MLA L. Nagendra led the agitation in Chamaraja constituency",
+        "quote": "former MLA L. Nagendra led the agitation in Chamaraja constituency."
+      },
+      {
+        "claim": "The protesters raised slogans against the Congress government, accusing it of failing to protect the interests of the common people",
+        "quote": "The protesters raised slogans against the Congress government, accusing it of failing to protect the interests of the common people."
+      },
+      {
+        "claim": "They also criticised the government over its alleged failure to address the demands of ASHA workers, who have been staging a strike for several days",
+        "quote": "They also criticised the government over its alleged failure to address the demands of ASHA workers, who have been staging a strike for several days."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "BJP protests in Mysuru over price hikes and KSRTC fare increases, with accusations against Congress government of burdening common people and failing ASHA workers' demands.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

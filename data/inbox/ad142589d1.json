@@ -1,0 +1,67 @@
+{
+  "id": "ad142589d1",
+  "url": "https://www.greaterkashmir.com/kashmir/dc-shopian-declares-official-residence-single-use-plastic-free-urges-wider-adoption-12836471",
+  "title": "DC Shopian declares official residence single-use plastic-free, urges wider adoption",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": "jaipur-sanitation-2026",
+  "score": 2.0,
+  "matched": [
+    "sanitation workers",
+    "safai"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2808,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Deputy Commissioner of Shopian declared his residence single-use plastic-free, launching a district-wide initiative under Swachh Bharat Mission 2.0 to reduce plastic use and improve waste management.",
+    "facts": [
+      {
+        "claim": "DC Shopian declared his official residence a Single-Use Plastic-Free Premises",
+        "quote": "A ‘SUP-Free’ signboard at the gate of Deputy Commissioner Shopian Charandeep Singh’s official residence sends out a message that the district administration wants residents, institutions and commercial establishments to take home: keeping single-use plastic out of everyday life."
+      },
+      {
+        "claim": "The initiative is called ‘Swachh Shopian Janbhagidari Abhiyan’",
+        "quote": "Singh has declared his official residence a Single-Use Plastic-Free Premises, leading by example as the district administration launched the ‘Swachh Shopian Janbhagidari Abhiyan’ on Monday to promote responsible waste management and public participation in keeping the town clean."
+      },
+      {
+        "claim": "The initiative is under Swachh Bharat Mission (Urban) 2.0",
+        "quote": "The initiative, launched under the Swachh Bharat Mission (Urban) 2.0, seeks to encourage households, government offices, commercial establishments and institutions to reduce the use of single-use plastics and adopt sustainable waste disposal practices."
+      },
+      {
+        "claim": "The programme includes waste segregation and home composting",
+        "quote": "At the launch programme, the Deputy Commissioner demonstrated waste management practices at his residence, including source segregation and home composting. He deposited wet waste into a compost pit, showing how kitchen and garden waste can be converted into organic manure."
+      },
+      {
+        "claim": "The programme features a four-bin waste segregation system",
+        "quote": "The programme also featured a demonstration of the four-bin waste segregation system, explaining the separation of household waste into wet waste, dry waste, sanitary waste and special-care waste, including batteries, expired medicines and chemical containers."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The district administration of Shopian has launched a single-use plastic reduction initiative under Swachh Bharat Mission 2.0 to promote sustainable waste management practices.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": [
+        "name “Deputy Commissioner of Shopian” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

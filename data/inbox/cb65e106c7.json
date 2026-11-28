@@ -1,0 +1,68 @@
+{
+  "id": "cb65e106c7",
+  "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-backed-candidates-lead-in-first-phase-of-panchayat-polls-in-three-districts-of-andhra-pradesh/article71746448.ece",
+  "title": "NDA-backed candidates lead in first phase of panchayat polls in three districts of Andhra Pradesh",
+  "outlet": "The Hindu",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2961,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The first phase of Gram Panchayat elections in three Andhra Pradesh districts saw TDP-backed candidates win most seats, with high turnout and some tensions at polling stations.",
+    "facts": [
+      {
+        "claim": "The first phase of Gram Panchayat elections in Chittoor, Annamayya and Sri Sathya Sai districts witnessed brisk polling on Thursday, followed by counting of votes from 2 p.m.",
+        "quote": "The first phase of Gram Panchayat elections in Chittoor, Annamayya and Sri Sathya Sai districts witnessed brisk polling on Thursday, followed by counting of votes from 2 p.m."
+      },
+      {
+        "claim": "In Annamayya district, 72 TDP-backed candidates and two YSRCP-backed candidates had won",
+        "quote": "According to reports available by 6 p.m., as many as 72 TDP-backed candidates and two YSRCP-backed candidates had won in Annamayya district."
+      },
+      {
+        "claim": "In Chittoor, six TDP-backed candidates were declared elected, while two TDP-backed candidates registered victories in Sri Sathya Sai district",
+        "quote": "In Chittoor, six TDP-backed candidates were declared elected, while two TDP-backed candidates registered victories in Sri Sathya Sai district."
+      },
+      {
+        "claim": "Turnout was brisk from the morning at most polling centres. By 11 a.m., Sri Sathya Sai district recorded 67.70% polling, followed by Annamayya with over 65% and Chittoor with 60.05%.",
+        "quote": "Turnout was brisk from the morning at most polling centres. By 11 a.m., Sri Sathya Sai district recorded 67.70% polling, followed by Annamayya with over 65% and Chittoor with 60.05%."
+      },
+      {
+        "claim": "In Annamayya district, tension occurred at polling locations where YSRCP-backed polling agents and leaders staged protests, alleging they were denied entry into polling stations",
+        "quote": "At Sambepalle mandal headquarters and Routhukunta, YSRCP-backed polling agents and leaders reportedly staged protests, alleging that they were being denied entry into polling stations."
+      },
+      {
+        "claim": "In Sri Sathya Sai district, tension prevailed at Kanaganapalle panchayat for nearly two hours. TDP supporters alleged that the police resorted to a lathi-charge when they tried to prevent a group of YSRCP cadres from entering a polling booth",
+        "quote": "In Sri Sathya Sai district, tension prevailed at Kanaganapalle panchayat for nearly two hours. TDP supporters alleged that the police resorted to a lathi-charge when they tried to prevent a group of YSRCP cadres from entering a polling booth."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": [
+        "name “Andhra Pradesh” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

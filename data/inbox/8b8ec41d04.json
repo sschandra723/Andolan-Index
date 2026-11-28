@@ -1,0 +1,47 @@
+{
+  "id": "8b8ec41d04",
+  "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmirs-selection-boards-official-x-handle-suspended-amid-anti-board-protests-over-cheating-case/article71747670.ece",
+  "title": "Jammu and Kashmir’s selection board’s official X handle ‘suspended’ amid anti-board protests over cheating case",
+  "outlet": "The Hindu",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Protests in Jammu and Kashmir over alleged cheating in selection board exams have led to the suspension of the official X handle of the Jammu and Kashmir selection board.",
+    "facts": [
+      {
+        "claim": "Protests in Jammu and Kashmir over alleged cheating in selection board exams",
+        "quote": "Jammu and Kashmir’s selection board’s official X handle ‘suspended’ amid anti-board protests over cheating case"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Jammu and Kashmir selection board is part of the statehood movement, which has been protesting since 2019 after J&K lost statehood.",
+    "confidence": 0.8,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

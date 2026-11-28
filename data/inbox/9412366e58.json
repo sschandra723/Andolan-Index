@@ -1,0 +1,52 @@
+{
+  "id": "9412366e58",
+  "url": "https://www.thehindu.com/news/national/karnataka/action-sought-against-author-during-hubballi-protest-over-remarks-on-basavanna/article71746535.ece",
+  "title": "Action sought against author during Hubballi protest over remarks on Basavanna",
+  "outlet": "The Hindu",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2731,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Protesters in Hubballi condemned author Ravi Hanj's remarks about 12th century social reformer Basavanna, demanding legal action under Bharatiya Nyaya Sanhita and IT Act.",
+    "facts": [
+      {
+        "claim": "protesters condemned Ravi Hanj's remarks about Basavanna",
+        "quote": "Members of various people’s organisations staged a protest in Hubballi on Thursday, condemning the derogatory remarks about 12th century social reformer Basavanna and statement concerning the Constitution."
+      },
+      {
+        "claim": "protesters demanded legal action against Ravi Hanj under Bharatiya Nyaya Sanhita and IT Act",
+        "quote": "They demanded registration of a case against Mr. Hanj under the relevant provisions of the Bharatiya Nyaya Sanhita and the Information Technology Act."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Protesters in Hubballi condemned author Ravi Hanj's remarks about 12th century social reformer Basavanna, demanding legal action under Bharatiya Nyaya Sanhita and IT Act.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "1/2",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “They demanded registration of a case against Mr. Hanj under the relevant provisi”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

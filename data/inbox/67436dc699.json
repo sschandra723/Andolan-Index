@@ -1,0 +1,70 @@
+{
+  "id": "67436dc699",
+  "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/protest-erupts-in-dhing-over-allegations-against-mp-devasish-sharma-and-former-mla",
+  "title": "Protest Erupts in Dhing Over Allegations Against MP Devasish Sharma and Former MLA",
+  "outlet": "The Sentinel",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1311,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Protesters in Dhing accused former MLA Sibamoni Bora of corruption and irregularities during her tenure, demanding an investigation into alleged electoral roll misconduct and other misconduct.",
+    "facts": [
+      {
+        "claim": "Political tensions surfaced in Dhing following a court case filed by former MLA Sibamoni Bora against newly elected MP Devasish Sharma",
+        "quote": "Political tensions surfaced in Dhing following a court case filed by former MLA Sibamoni Bora against newly elected MP Devasish Sharma"
+      },
+      {
+        "claim": "A section of people from the minority community levelled several allegations against the former legislator and demanded an investigation into alleged corruption and irregularities during her tenure",
+        "quote": "A section of people from the minority community levelled several allegations against the former legislator and demanded an investigation into alleged corruption and irregularities during her tenure"
+      },
+      {
+        "claim": "The protesters also raised slogans against Sibamoni Bora, Gaurav Gogoi, and Rakibul Hussain",
+        "quote": "The protesters also raised slogans against Sibamoni Bora, Gaurav Gogoi, and Rakibul Hussain"
+      },
+      {
+        "claim": "The speakers at the press conference alleged that names of suspected citizens were included in the electoral rolls during Sibamoni Bora's tenure as Block Development Officer of Batadrava Development Block",
+        "quote": "The speakers at the press conference alleged that names of suspected citizens were included in the electoral rolls during Sibamoni Bora's tenure as Block Development Officer of Batadrava Development Block"
+      },
+      {
+        "claim": "They further alleged irregularities in the execution of various development projects and utilisation of funds under the MLA's scheme during her tenure, calling for a thorough probe into the alleged misconduct",
+        "quote": "They further alleged irregularities in the execution of various development projects and utilisation of funds under the MLA's scheme during her tenure, calling for a thorough probe into the alleged misconduct"
+      },
+      {
+        "claim": "The participants urged Chief Minister Dr Himanta Biswa Sarma to order an investigation into the allegations of corruption, irregularities, and wrongful inclusion of names in the electoral rolls during the former MLA's tenure",
+        "quote": "The participants urged Chief Minister Dr Himanta Biswa Sarma to order an investigation into the allegations of corruption, irregularities, and wrongful inclusion of names in the electoral rolls during the former MLA's tenure"
+      },
+      {
+        "claim": "The gathering also expressed strong displeasure over the allegations levelled by Sibamoni Bora against MP Devasish Sharma, triggering renewed political debate in Dhing",
+        "quote": "The gathering also expressed strong displeasure over the allegations levelled by Sibamoni Bora against MP Devasish Sharma, triggering renewed political debate in Dhing"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Protesters in Dhing accused former MLA Sibamoni Bora of corruption and irregularities during her tenure, demanding an investigation into alleged electoral roll misconduct and other misconduct.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

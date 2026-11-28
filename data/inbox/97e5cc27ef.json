@@ -1,0 +1,98 @@
+{
+  "id": "97e5cc27ef",
+  "url": "https://theshillongtimes.com/2026/11/24/pakistan-journalists-in-balochistan-hold-protest-against-closure-of-media-offices-mass-layoffs/",
+  "title": "Pakistan: Journalists in Balochistan hold protest against closure of media offices, mass layoffs",
+  "outlet": "The Shillong Times",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3433,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": false,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Journalists in Pakistan's Balochistan province held a two-day protest sit-in against the closure of 11 media bureaus and mass layoffs, with former senator Nawabzada Haji Lashkari Raisani stating it affected 122 families' livelihoods.",
+    "facts": [
+      {
+        "claim": "Journalists in Pakistan’s Balochistan province held a two-day protest sit-in against the closure of 11 media bureaus and the mass layoff of media professionals",
+        "quote": "Quetta, Nov 24: Journalists in Pakistan’s Balochistan province held a two-day protest sit-in against the closure of 11 media bureaus and the mass layoff of media professionals, local media reported on Tuesday."
+      },
+      {
+        "claim": "The protest took place in front of the Quetta Press Club on Monday, at the call given by the Pakistan Federal Union of Journalists",
+        "quote": "The protest took place in front of the Quetta Press Club on Monday, at the call given by the Pakistan Federal Union of Journalists."
+      },
+      {
+        "claim": "Former Pakistani senator Nawabzada Haji Lashkari Raisani said the closure of 11 media bureaus had deprived 122 families of their livelihood",
+        "quote": "former Pakistani senator Nawabzada Haji Lashkari Raisani said the closure of 11 media bureaus had deprived 122 families of their livelihood."
+      },
+      {
+        "claim": "He said that action has not been taken yet against the killers of 40 journalists",
+        "quote": "He said that action has not been taken yet against the killers of 40 journalists."
+      },
+      {
+        "claim": "Earlier on November 3, journalists in Balochistan observed ‘Black Day’ to remember the November 3, 2007 emergency and protest against the forced dismissal of media professionals, the shutdown of media bureau offices in Balochistan, and non-payment and delayed payment of their salaries",
+        "quote": "Earlier on November 3, journalists in Balochistan observed ‘Black Day’ to remember the November 3, 2007 emergency and protest against the forced dismissal of media professionals, the shutdown of media bureau offices in Balochistan, and non-payment and delayed payment of their salaries, local media reported."
+      },
+      {
+        "claim": "Journalists wore black armbands, hoisted black flags at press clubs and held protests in Balochistan to highlight the challenges faced by the media industry in Pakistan",
+        "quote": "Journalists wore black armbands, hoisted black flags at press clubs and held protests in Balochistan to highlight the challenges faced by the media industry in Pakistan."
+      },
+      {
+        "claim": "Last month, an Islamabad-based media watchdog documented 97 violations against the media and its practitioners from October 2025 to August 2026",
+        "quote": "Last month, an Islamabad-based media watchdog documented 97 violations against the media and its practitioners from October 2025 to August 2026."
+      },
+      {
+        "claim": "Freedom Network’s latest annual Impunity Report 2026 titled ‘From Violence to Lawfare: Process as Punishment for Journalists’ stated, “About 10 cases a month (against media personnel), their nationwide spread and severity in the period showed that fewer violations did not mean greater safety.”",
+        "quote": "Freedom Network’s latest annual Impunity Report 2026 titled ‘From Violence to Lawfare: Process as Punishment for Journalists’ stated, “About 10 cases a month (against media personnel), their nationwide spread and severity in the period showed that fewer violations did not mean greater safety.”"
+      },
+      {
+        "claim": "The report authored by journalist Adnan Rehmat and Freedom Network Executive Director Iqbal Khattak was produced with technical assistance from International Media Support (IMS)",
+        "quote": "The report authored by journalist Adnan Rehmat and Freedom Network Executive Director Iqbal Khattak was produced with technical assistance from International Media Support (IMS)."
+      },
+      {
+        "claim": "Freedom Network said that at least 97 attacks and other violations were reported between October 2025 and August 2026, compared with 142 in the preceding cycle",
+        "quote": "Freedom Network said that at least 97 attacks and other violations were reported between October 2025 and August 2026, compared with 142 in the preceding cycle."
+      },
+      {
+        "claim": "Cases reported from October 2025 to August 2026 included one work-related killing, three attempted assassinations, 18 threats of murder or harm, 13 legal actions and 32 threats of legal actions as well as 11 assaults",
+        "quote": "Cases reported from October 2025 to August 2026 included one work-related killing, three attempted assassinations, 18 threats of murder or harm, 13 legal actions and 32 threats of legal actions as well as 11 assaults."
+      },
+      {
+        "claim": "Digital and independent journalists were targeted most often",
+        "quote": "Digital and independent journalists were targeted most often, according to the report."
+      },
+      {
+        "claim": "Victims or their families said that government authorities and officials were alleged instigators in nearly two-thirds of the cases",
+        "quote": "Victims or their families said that government authorities and officials were alleged instigators in nearly two-thirds of the cases."
+      },
+      {
+        "claim": "The National Cyber Crime Investigation Agency (NCCIA) used the Prevention of Electronic Crimes Act (PECA) against journalists to punish dissent as “central to this legal siege” of online journalism in Pakistan",
+        "quote": "The National Cyber Crime Investigation Agency (NCCIA) used the Prevention of Electronic Crimes Act (PECA) against journalists to punish dissent as “central to this legal siege” of online journalism in Pakistan."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Journalists in Balochistan protested against media bureau closures and layoffs, with a report noting 97 violations against media professionals from October 2025 to August 2026.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "14/14",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

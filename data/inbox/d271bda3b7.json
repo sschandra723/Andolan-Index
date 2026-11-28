@@ -1,0 +1,72 @@
+{
+  "id": "d271bda3b7",
+  "url": "https://www.greaterkashmir.com/national/4-indian-army-aircraft-land-on-gujarat-highway-in-strategic-demonstration-12844542",
+  "title": "4 Indian Army aircraft land on Gujarat highway in strategic demonstration",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1399,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Indian Army aircraft landed on a Gujarat highway during a strategic demonstration, showcasing potential for specialized military use of national highways.",
+    "facts": [
+      {
+        "claim": "Four aircraft of the Army successfully landed on the Amritsar-Jamnagar Economic Corridor (NH-754A) in Patan district of Gujarat on November 24",
+        "quote": "Four aircraft of the Army successfully landed on the Amritsar-Jamnagar Economic Corridor (NH-754A) in Patan district of Gujarat on November 24"
+      },
+      {
+        "claim": "The aircraft, comprising two fixed-wing microlight aircraft and two powered hang gliders, belonged to the Army’s Team Mountain Eagles",
+        "quote": "The aircraft, comprising two fixed-wing microlight aircraft and two powered hang gliders, belonged to the Army’s Team Mountain Eagles"
+      },
+      {
+        "claim": "They took off from Kandla Airport as part of the Wings of Valour and Unity Expedition 2026, organised by the Army Adventure Nodal Centre (AANC) at the Military College of Telecommunication Engineering (MCTE), Mhow",
+        "quote": "They took off from Kandla Airport as part of the Wings of Valour and Unity Expedition 2026, organised by the Army Adventure Nodal Centre (AANC) at the Military College of Telecommunication Engineering (MCTE), Mhow"
+      },
+      {
+        "claim": "The demonstration highlighted how specially designed stretches of national highways could potentially serve emergency and strategic requirements, in addition to their regular transportation functions",
+        "quote": "The demonstration highlighted how specially designed stretches of national highways could potentially serve emergency and strategic requirements, in addition to their regular transportation functions"
+      },
+      {
+        "claim": "Union Minister for Road Transport and Highways Nitin Gadkari congratulated Team Mountain Eagles, the National Highways Authority of India (NHAI) and other agencies involved in successfully conducting the exercise",
+        "quote": "Union Minister for Road Transport and Highways Nitin Gadkari congratulated Team Mountain Eagles, the National Highways Authority of India (NHAI) and other agencies involved in successfully conducting the exercise"
+      },
+      {
+        "claim": "The highway stretch has been designed to withstand a traffic loading of 170 million standard axles (MSA), with a 550 mm pavement crust and a 500 mm subgrade",
+        "quote": "The highway stretch has been designed to withstand a traffic loading of 170 million standard axles (MSA), with a 550 mm pavement crust and a 500 mm subgrade"
+      },
+      {
+        "claim": "The successful landing showcased the engineering capabilities of the corridor and its potential for specialised applications, subject to technical assessment and necessary safety clearances",
+        "quote": "The successful landing showcased the engineering capabilities of the corridor and its potential for specialised applications, subject to technical assessment and necessary safety clearances"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Indian Army conducted a strategic demonstration by landing aircraft on a Gujarat highway to showcase potential military use of national highways.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": [
+        "name “Indian Army” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "6718a54f05",
+  "url": "https://www.greaterkashmir.com/jammu-kashmir/allied-and-healthcare-students-stage-protests-across-jk-gmcs-demand-resolution-of-long-pending-stipend-issue-12845158",
+  "title": "Allied and healthcare students stage protests across J&K GMCs, demand resolution of long-pending stipend issue",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2397,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Students from Jammu and Kashmir's Government Medical Colleges staged protests demanding resolution of a year-long pending stipend issue, citing administrative delays despite submitting required documentation.",
+    "facts": [
+      {
+        "claim": "Students pursuing BSc Allied and Healthcare Sciences staged protests across all Government Medical Colleges in Jammu and Kashmir",
+        "quote": "Students pursuing BSc Allied and Healthcare Sciences, previously known as BSc Paramedical, staged protests on Friday across all Government Medical Colleges (GMCs) in Jammu and Kashmir, including GMC Jammu and GMC Srinagar, demanding the release of their long-pending stipends."
+      },
+      {
+        "claim": "The protest was organized to draw attention to an unresolved issue for nearly a year",
+        "quote": "In a statement, Sohail Kohli, President of the BSc Allied Healthcare Students, said the protest was organised to draw the attention of the concerned authorities towards an issue that has remained unresolved for nearly a year, despite the completion of all necessary administrative formalities by the respective Government Medical Colleges."
+      },
+      {
+        "claim": "The Health and Medical Education Department sought detailed information in 2025",
+        "quote": "He said the Health and Medical Education Department had, in 2025, sought detailed information and clarification from all GMCs regarding the number of eligible students and the estimated financial requirement for the proposed stipend allocation (HME-Acct/360/2022-02 CC-239203)."
+      },
+      {
+        "claim": "All GMCs submitted required information within the stipulated timeframe",
+        "quote": "In response, all Government Medical Colleges submitted the requisite information and relevant documentation within the stipulated timeframe."
+      },
+      {
+        "claim": "The matter has remained pending for a year with no conclusive response",
+        "quote": "However, despite the timely submission of all required details, the matter has remained pending for the past year, with no conclusive response or necessary action forthcoming from either the Finance Department or the Medical and Health Department, he said."
+      },
+      {
+        "claim": "Students urged authorities to intervene and expedite the resolution",
+        "quote": "Through Friday's peaceful protest, the students collectively urged the concerned authorities to intervene without further delay, expedite the pending administrative and financial clearances, and ensure the immediate resolution of the stipend issue."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students from Jammu and Kashmir's Government Medical Colleges have been protesting for over a year regarding delayed stipend payments, despite submitting all required documentation to the Health and Medical Education Department in 2025.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

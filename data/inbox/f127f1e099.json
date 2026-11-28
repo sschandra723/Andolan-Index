@@ -1,0 +1,49 @@
+{
+  "id": "f127f1e099",
+  "url": "https://www.deccanchronicle.com/southern-states/telangana/intuc-telangana-holds-dharna-for-protection-of-constitutional-and-workers-rights-2008269",
+  "title": "INTUC Telangana Holds Dharna for Protection of Constitutional and Workers’ Rights",
+  "outlet": "Deccan Chronicle",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "=INTUC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 0,
+    "fetch_note": "HTTPError: HTTP Error 403: Forbidden",
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "INTU Telangana held a dharna to protect constitutional and workers' rights.",
+    "facts": [
+      {
+        "claim": "INTU Telangana held a dharna",
+        "quote": "INTU Telangana Holds Dharna for Protection of Constitutional and Workers’ Rights"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.9,
+    "checks": {
+      "passed": false,
+      "quotes_found": "0/0",
+      "problems": [
+        "no article text, so nothing could be checked"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

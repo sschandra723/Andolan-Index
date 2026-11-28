@@ -1,0 +1,64 @@
+{
+  "id": "29afb8ac98",
+  "url": "https://www.greaterkashmir.com/pir-panjal/bsc-paramedical-interns-go-on-strike-over-demand-for-monthly-stipend-12846625",
+  "title": "B.Sc Paramedical interns go on strike over demand for monthly stipend",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-27",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1004,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "B.Sc Paramedical interns in Jammu and Kashmir have started a strike demanding a monthly stipend comparable to other medical staff, as they await a government decision on a proposal processed years ago but not yet finalized.",
+    "facts": [
+      {
+        "claim": "B.Sc Paramedical interns at some Government Medical Colleges across Jammu and Kashmir have launched an agitation demanding a monthly stipend on the lines of other medical practitioners and interns.",
+        "quote": "B.Sc Paramedical interns at some Government Medical Colleges across Jammu and Kashmir have launched an agitation demanding a monthly stipend on the lines of other medical practitioners and interns."
+      },
+      {
+        "claim": "The protesting students have been abstaining from work, raising concerns over the potential impact on patient care services in hospitals in the coming days.",
+        "quote": "The protesting students have been abstaining from work, raising concerns over the potential impact on patient care services in hospitals in the coming days."
+      },
+      {
+        "claim": "The agitation comes at a time when non-gazetted cadre employees of five newly established Government Medical Colleges are already on strike for the past 12 days.",
+        "quote": "The agitation comes at a time when non-gazetted cadre employees of five newly established Government Medical Colleges are already on strike for the past 12 days."
+      },
+      {
+        "claim": "At Government Medical College (GMC) Rajouri, the BSc Paramedical interns said a government proposal for granting them a stipend had been processed several years ago, but no concrete decision had been taken so far, leaving them waiting for what they termed their basic financial entitlement.",
+        "quote": "At Government Medical College (GMC) Rajouri, the BSc Paramedical interns said a government proposal for granting them a monthly stipend had been processed several years ago, but no concrete decision had been taken so far, leaving them waiting for what they termed their basic financial entitlement."
+      },
+      {
+        "claim": "The interns have appealed to the Jammu and Kashmir Government to intervene in the matter, expedite the pending proposal and fulfil their long-pending demand for a monthly stipend.",
+        "quote": "The interns have appealed to the Jammu and Kashmir Government to intervene in the matter, expedite the pending proposal and fulfil their long-pending demand for a monthly stipend."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "B.Sc Paramedical interns in Jammu and Kashmir are striking for a monthly stipend, citing a government proposal processed years ago but not yet finalized.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “At Government Medical College (GMC) Rajouri, the BSc Paramedical interns said a ”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

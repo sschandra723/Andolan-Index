@@ -1,0 +1,67 @@
+{
+  "id": "62d873b7e8",
+  "url": "https://theprint.in/india/day-after-uk-trip-blocked-cjps-saurav-das-accuses-govt-of-being-afraid-of-youth-led-movement/3108034/",
+  "title": "Day after UK trip blocked, CJP’s Saurav Das accuses govt of being afraid of youth-led movement",
+  "outlet": "ThePrint",
+  "published": "2026-11-24",
+  "collected": "2026-11-26",
+  "suggested_movement": "anti-sir-2026",
+  "score": 2.0,
+  "matched": [
+    "Cockroach Janta Party",
+    "=CJP"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Cockroach Janta Party leader Saurav Das accused the government of suppressing youth-led movement by blocking travel, restricting protests, and censoring social media, citing passport discrepancies and Meta's content filters.",
+    "facts": [
+      {
+        "claim": "Cockroach Janta Party co-convener Saurav Das accused the government of being afraid of the youth-led movement",
+        "quote": "Cockroach Janta Party co-convener Saurav Das on Tuesday accused the government of being afraid of the youth-led movement, alleging that it was trying to suppress the campaign by preventing its leaders from travelling abroad, restricting protests and censoring social media content."
+      },
+      {
+        "claim": "Das was allegedly stopped from travelling to the UK to attend an event at the University of Oxford",
+        "quote": "Das’ remarks came a day after he was allegedly stopped from travelling to the UK to attend an event at the University of Oxford, where he was invited to speak on the \"cockroach movement\"."
+      },
+      {
+        "claim": "Das received a one-page show-cause notice just five hours before his scheduled 1 am flight",
+        "quote": "he received a one-page show-cause notice just five hours before his scheduled 1 am flight, asking him to explain within seven days why his passport should not be impounded over alleged discrepancies in his place of birth."
+      },
+      {
+        "claim": "Das alleged that the government was resorting to questioning citizenship, Aadhaar cards and educational qualifications",
+        "quote": "Das alleged that the government, unable to find grounds to act against CJP leaders through agencies such as the Enforcement Directorate and the CBI, was resorting to questioning their citizenship, Aadhaar cards and educational qualifications."
+      },
+      {
+        "claim": "Das claimed Meta had deleted 60 lakh posts over the past few months and introduced filters that automatically remove content",
+        "quote": "Claiming large-scale censorship on social media, he alleged that Meta had deleted 60 lakh posts over the past few months and introduced filters that automatically remove content containing certain keywords."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Cockroach Janta Party leader Saurav Das accused the government of suppressing youth-led movement by blocking travel, restricting protests, and censoring social media, citing passport discrepancies and Meta's content filters.",
+    "confidence": 0.85,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

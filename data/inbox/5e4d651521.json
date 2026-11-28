@@ -1,0 +1,66 @@
+{
+  "id": "5e4d651521",
+  "url": "https://www.thehindu.com/news/national/karnataka/students-academicians-in-mysuru-back-asha-workers-stir/article71754133.ece",
+  "title": "Students, academicians in Mysuru back ASHA workers’ stir",
+  "outlet": "The Hindu",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2688,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Students and academicians in Mysuru supported ASHA workers' demand for a minimum monthly wage of ₹15,000, criticizing the government for failing to address their grievances despite having a ₹4.5 lakh crore budget.",
+    "facts": [
+      {
+        "claim": "Students under AIDSO staged a protest at Ramaswamy Circle demanding the State government fulfill ASHA workers' demands including a minimum monthly wage of ₹15,000",
+        "quote": "Extending their support to the ongoing agitation by ASHA workers, students under the banner of the All India Democratic Students’ Organisation (AIDSO) staged a protest at Ramaswamy Circle here on Saturday, demanding that the State government fulfil their demands, including a minimum monthly wage of ₹15,000."
+      },
+      {
+        "claim": "ASHA workers have been staging an indefinite protest at Freedom Park in Bengaluru for the past 12 days",
+        "quote": "Addressing the protesters, AIDSO State treasurer Subhash Bettadakoppa said ASHA workers had been staging an indefinite protest at Freedom Park in Bengaluru for the past 12 days, braving adverse weather conditions."
+      },
+      {
+        "claim": "Government has a budget of ₹4.5 lakh crore",
+        "quote": "He criticised the government for failing to fix a minimum monthly wage of ₹15,000 for ASHA workers despite having a budget of ₹4.5 lakh crore."
+      },
+      {
+        "claim": "ASHA workers provided essential services by visiting households for eight to ten hours a day",
+        "quote": "Senior writer N.A. Divakar condemned the description of workers’ demand for fair wages as ‘blackmail’, terming it an insult to ASHA workers who provided essential services by visiting households for eight to 10 hours a day."
+      },
+      {
+        "claim": "ASHA workers deserve a monthly wage of ₹40,000",
+        "quote": "E. Rathirao of the Federation Against Violence Against Women said ASHA workers had played a crucial role in saving lives by providing frontline services during the COVID-19 pandemic. Their demand for a monthly wage of ₹15,000 was inadequate, and they deserved ₹40,000, she said."
+      },
+      {
+        "claim": "Receiving wages commensurate with one’s work is a fundamental right",
+        "quote": "Retired professor of Women’s Studies Hemalatha H.M. said receiving wages commensurate with one’s work was a fundamental right."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Students and academicians in Mysuru have extended support to ASHA workers' indefinite protest demanding a minimum monthly wage of ₹15,000, which has been ongoing for 12 days at Freedom Park in Bengaluru.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

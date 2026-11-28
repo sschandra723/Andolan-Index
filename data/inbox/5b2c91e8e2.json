@@ -1,0 +1,74 @@
+{
+  "id": "5b2c91e8e2",
+  "url": "https://theprint.in/india/3-teenagers-killed-as-speeding-police-vehicle-hits-motorcycle-in-gondia-locals-stage-protest/3110423/",
+  "title": "3 teenagers killed as speeding police vehicle hits motorcycle in Gondia; locals stage protest",
+  "outlet": "ThePrint",
+  "published": "2026-11-27",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1741,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Three teenagers died in a collision with a speeding police vehicle in Maharashtra's Gondia district, prompting locals to protest the police's negligent driving.",
+    "facts": [
+      {
+        "claim": "Three teenagers riding a motorcycle were killed when a speeding police vehicle collided with their two-wheeler in Gondia district of Maharashtra",
+        "quote": "Three teenagers riding a motorcycle were killed when a speeding police vehicle collided with their two-wheeler in Gondia district of Maharashtra, prompting locals to block traffic at the accident site, officials said."
+      },
+      {
+        "claim": "The accident took place on the Gondia-Tirora Road near the Dandegaon Bus Stand within the jurisdiction of Gangazhari Police Station on Wednesday night",
+        "quote": "The accident took place on the Gondia-Tirora Road near the Dandegaon Bus Stand within the jurisdiction of Gangazhari Police Station on Wednesday night, they said."
+      },
+      {
+        "claim": "All three teenagers on the motorbike were killed on the spot",
+        "quote": "The impact of the collision was so severe that all three teenagers on the motorbike, Kartik Brijlal Bisen (14), Shivprasad Kamble and Jitendra Bawankar (both aged 16), were killed on the spot, police said on Thursday."
+      },
+      {
+        "claim": "Local residents gathered at the crash site and briefly disrupted traffic to protest the negligent driving of the police vehicle",
+        "quote": "Local residents gathered at the crash site and briefly disrupted traffic to protest the negligent driving of the police vehicle."
+      },
+      {
+        "claim": "Additional police force was deployed at Gangazhari under the guidance of Additional SP Abhay Dongre to maintain peace and order",
+        "quote": "Looking at the severity of the fatal accident and anger among people, additional police force was deployed on Thursday at Gangazhari under the guidance of Additional SP Abhay Dongre to maintain peace and order."
+      },
+      {
+        "claim": "Superintendent of Police Gorakh Bhamare assured a fair probe into the accident",
+        "quote": "Superintendent of Police Gorakh Bhamare assured a fair probe into the accident."
+      },
+      {
+        "claim": "Local MLA Vinod Agrawal promised to make efforts to arrange financial help from the government for the kin of the deceased",
+        "quote": "Local MLA Vinod Agrawal promised to make efforts to arrange financial help from the government for the kin of the deceased."
+      },
+      {
+        "claim": "Police have registered a case against Amit Mahule, who was driving the offending vehicle, under Bharatiya Nyaya Sanhita (BNS) sections related to rash driving and causing death by negligence",
+        "quote": "police have registered a case against Amit Mahule, who was driving the offending vehicle, under Bharatiya Nyaya Sanhita (BNS) sections related to rash driving and causing death by negligence."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "A fatal police vehicle collision in Maharashtra's Gondia district led to local protests against police negligence.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "5e3ba31ba1",
+  "url": "https://www.sentinelassam.com/breakingnews/shillong-ropeway-project-vpp-leader-dr-batskhem-myrboh-rejects-allegations-of-instigating-protests",
+  "title": "Shillong Ropeway Project: VPP Leader Dr Batskhem Myrboh Rejects Allegations of Instigating Protests",
+  "outlet": "The Sentinel",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "ropeway"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2685,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "shillong-ropeway-2026",
+    "new_movement": null,
+    "summary": "VPP leader Dr Batskhem Myrboh rejected allegations that his party instigated protests against the Shillong ropeway project in Meghalaya, stating the party supports public movements without organizing them.",
+    "facts": [
+      {
+        "claim": "VPP leader Dr Batskhem Myrboh rejected allegations that the party was behind protests against the proposed Shillong ropeway project in Shillong, Meghalaya.",
+        "quote": "Guwahati: The Voice of the People Party (VPP) leader Dr Batskhem Myrboh on 28th November rejected allegations that the party was behind protests against the proposed Shillong ropeway project in Shillong, Meghalaya."
+      },
+      {
+        "claim": "Dr Batskhem Myrboh rejected suggestions that the Voice of the People Party was organising or instigating protests against the proposed Shillong ropeway project.",
+        "quote": "Dr Batskhem Myrboh rejected suggestions that the Voice of the People Party was organising or instigating protests against the proposed Shillong ropeway project."
+      },
+      {
+        "claim": "He clarified that the party's support for public movements should not be interpreted as an attempt to initiate, control or hijack demonstrations.",
+        "quote": "He clarified that the party's support for public movements should not be interpreted as an attempt to initiate, control or hijack demonstrations."
+      },
+      {
+        "claim": "According to Myrboh, the VPP's position was based on its willingness to stand with people whenever genuine issues affecting the public required attention.",
+        "quote": "According to Myrboh, the VPP's position was based on its willingness to stand with people whenever genuine issues affecting the public required attention."
+      },
+      {
+        "claim": "He maintained that supporting people raising concerns was different from being responsible for starting their protests.",
+        "quote": "He maintained that supporting people raising concerns was different from being responsible for starting their protests."
+      },
+      {
+        "claim": "Myrboh described repeated attempts to blame the VPP for public protests as a lazy approach.",
+        "quote": "Myrboh described repeated attempts to blame the VPP for public protests as a lazy approach."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "VPP leader Dr Batskhem Myrboh rejected allegations that his party instigated protests against the Shillong ropeway project in Meghalaya, stating the party supports public movements without organizing them.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

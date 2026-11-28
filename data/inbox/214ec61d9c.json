@@ -1,0 +1,84 @@
+{
+  "id": "214ec61d9c",
+  "url": "https://www.indianewsnetwork.com/en/amazon-workers-gig-allies-stage-nationwide-strikes-india-20261128",
+  "title": "Amazon Workers and Gig Allies Stage Nationwide Strikes in India",
+  "outlet": "India News Network",
+  "published": "2026-11-27",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4258,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "gig-workers-strike-2025",
+    "new_movement": null,
+    "summary": "Amazon workers and gig sector allies staged nationwide strikes in India under 'Make Amazon Pay' campaign, demanding safer conditions, union recognition, and protection from surveillance. Amazon claims it offers competitive pay and benefits but has continued layoffs amid reports of extreme heat and health issues.",
+    "facts": [
+      {
+        "claim": "Protests by Amazon workers and their allies have taken place in over 23 locations across India as part of a global campaign called 'Make Amazon Pay'",
+        "quote": "Protests by Amazon workers and their allies have taken place in over 23 locations across India as part of a global campaign called 'Make Amazon Pay.'"
+      },
+      {
+        "claim": "The campaign has garnered support from various trade unions and organisations representing workers in the gig and platform sectors",
+        "quote": "This initiative, which aims to secure the rights of warehouse and delivery staff, coincides with Black Friday and Cyber Monday. The campaign has garnered support from various trade unions and organisations representing workers in the gig and platform sectors."
+      },
+      {
+        "claim": "Workers are raising concerns that include demands for safer working conditions, recognition of their right to unionise, and protection against extreme surveillance practices",
+        "quote": "Workers are raising a series of concerns that include demands for safer working conditions, recognition of their right to unionise, and protection against extreme surveillance practices."
+      },
+      {
+        "claim": "According to a report by UNI Global Union, the strikes aim to bring attention to the hazardous working conditions faced by Amazon employees",
+        "quote": "According to a report by UNI Global Union, the strikes aim to bring attention to the hazardous working conditions faced by Amazon employees."
+      },
+      {
+        "claim": "Amazon stated that it is committed to offering competitive compensation and regularly assesses its wages in comparison to industry standards",
+        "quote": "Amazon stated that it is committed to offering competitive compensation and regularly assesses its wages in comparison to industry standards."
+      },
+      {
+        "claim": "Amazon further highlighted that employees receive various benefits in accordance with Indian law, including Provident Fund and health insurance",
+        "quote": "Amazon further highlighted that employees receive various benefits in accordance with Indian law, including Provident Fund and health insurance."
+      },
+      {
+        "claim": "Reports indicate that Amazon India is continuing to downsize, having conducted rounds of layoffs among its workforce, which includes over 150,000 employees",
+        "quote": "Reports indicate that Amazon India is continuing to downsize, having conducted rounds of layoffs among its workforce, which includes over 150,000 employees."
+      },
+      {
+        "claim": "The protests follow a recent incident where warehouse conditions became dire during one of the worst heatwaves in recorded history",
+        "quote": "The protests follow a recent incident where warehouse conditions became dire during one of the worst heatwaves in recorded history."
+      },
+      {
+        "claim": "Workers suffered from extreme heat, leading to fainting and other health crises",
+        "quote": "workers suffered from extreme heat, leading to fainting and other health crises"
+      },
+      {
+        "claim": "Allegations also surfaced that employees were discouraged from taking necessary breaks, exacerbating the risk to their health",
+        "quote": "Allegations also surfaced that employees were discouraged from taking necessary breaks, exacerbating the risk to their health"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Amazon workers in India are part of a global campaign demanding better conditions, following similar strikes in North America and amid rising concerns about heat-related health issues and surveillance practices.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "9/10",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “Amazon stated that it is committed to offering competitive compensation and regu”"
+      ]
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

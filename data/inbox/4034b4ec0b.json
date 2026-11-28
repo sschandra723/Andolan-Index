@@ -1,0 +1,88 @@
+{
+  "id": "4034b4ec0b",
+  "url": "https://www.thehindu.com/news/national/karnataka/kannada-organisations-oppose-merger-of-rural-schools/article71747091.ece",
+  "title": "Kannada organisations oppose merger of rural schools",
+  "outlet": "The Hindu",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1536,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Kannada organisations in Belagavi oppose closing rural schools under Karnataka's magnet school model, citing concerns over language preservation and education access.",
+    "facts": [
+      {
+        "claim": "Kannada organisations in Belagavi have opposed the closure of some rural schools under the Karnataka Public Schools magnet model.",
+        "quote": "Kannada organisations in Belagavi have opposed the closure of some rural schools under the Karnataka Public Schools magnet model."
+      },
+      {
+        "claim": "The central committee of Kannada organisations will hold various meetings to decide the future course of protest.",
+        "quote": "The central committee of Kannada organisations will hold various meetings to decide the future course of protest."
+      },
+      {
+        "claim": "The State government is closing down rural schools in the name of merger of schools under the magnet school model.",
+        "quote": "The State government is closing down rural schools in the name of merger of schools under the magnet school model."
+      },
+      {
+        "claim": "The State government has not cancelled the scheme, despite repeated protests by student organisations.",
+        "quote": "The State government has not cancelled the scheme, despite repeated protests by student organisations,"
+      },
+      {
+        "claim": "We are seriously concerned about the closure of thousands of Kannada-medium schools under the magnet school scheme.",
+        "quote": "We are seriously concerned about the closure of thousands of Kannada-medium schools under the magnet school scheme."
+      },
+      {
+        "claim": "It has now become imperative to launch an intense struggle against these actions",
+        "quote": "It has now become imperative to launch an intense struggle against these actions,"
+      },
+      {
+        "claim": "We have also appealed to all Kannada organisations to take a serious view of the State government’s move to hand over government schools to private entities under the adoption scheme.",
+        "quote": "We have also appealed to all Kannada organisations to take a serious view of the State government’s move to hand over government schools to private entities under the adoption scheme."
+      },
+      {
+        "claim": "This is not acceptable",
+        "quote": "This is not acceptable,"
+      },
+      {
+        "claim": "Public safety and law and order, education, healthcare and job creation are the primary responsibilities of any government.",
+        "quote": "Public safety and law and order, education, healthcare and job creation are the primary responsibilities of any government."
+      },
+      {
+        "claim": "No government can wash its hands off its responsibilities",
+        "quote": "No government can wash its hands off its responsibilities,"
+      },
+      {
+        "claim": "The ruling government must consistently formulate initiatives to protect land, water and language of the State and to ensure the upliftment of the lives of the Kannada people",
+        "quote": "The ruling government must consistently formulate initiatives to protect land, water and language of the State and to ensure the upliftment of the lives of the Kannada people,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Kannada organisations oppose Karnataka's magnet school model closures, arguing it threatens Kannada language education and school infrastructure.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "10/11",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “We have also appealed to all Kannada organisations to take a serious view of the”"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

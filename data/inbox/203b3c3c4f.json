@@ -1,0 +1,72 @@
+{
+  "id": "203b3c3c4f",
+  "url": "https://www.greaterkashmir.com/kashmir/pg-senior-resident-doctors-seek-pay-parity-with-skims-aiims-12839027",
+  "title": "PG, Senior Resident Doctors seek pay parity with SKIMS, AIIMS",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-25",
+  "collected": "2026-11-25",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "equal pay"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2187,
+    "fetch_note": null,
+    "drafted": "2026-11-25",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Postgraduate and Senior Resident doctors in Jammu and Kashmir have intensified protests demanding pay parity with SKIMS Srinagar and AIIMS Jammu through a uniform salary structure, with demonstrations spreading to multiple government medical colleges and district hospitals.",
+    "facts": [
+      {
+        "claim": "Postgraduate (PG) and Senior Resident doctors across Jammu and Kashmir have intensified their agitation over stipend enhancement and pay disparities",
+        "quote": "Postgraduate (PG) and Senior Resident doctors across Jammu and Kashmir have intensified their agitation over stipend enhancement and pay disparities, with protests spreading to several Government Medical Colleges and district hospitals as they demand a uniform salary structure and parity with doctors at SKIMS Srinagar and AIIMS Jammu."
+      },
+      {
+        "claim": "The agitation entered its fifth consecutive day at GMC Srinagar and sixth day at GMC Jammu",
+        "quote": "The agitation entered its fifth consecutive day at GMC Srinagar and sixth day at GMC Jammu on Tuesday"
+      },
+      {
+        "claim": "The Association of Indian Medical Students and Resident Doctors (AIMSA) pressing for implementation of 7th Pay Commission recommendations and enhanced remuneration for PG and Senior Resident doctors",
+        "quote": "The Association of Indian Medical Students and Resident Doctors (AIMSA) pressing for implementation of 7th Pay Commission recommendations and enhanced remuneration for PG and Senior Resident doctors."
+      },
+      {
+        "claim": "The demands include abolition of the existing 6th Pay Commission-based structure and implementation of 7th CPC Level 10 for PG residents",
+        "quote": "AIMSA placed a series of demands before the government, including abolition of the existing 6th Pay Commission-based structure and implementation of 7th CPC Level 10 for PG residents"
+      },
+      {
+        "claim": "Enhancement of the basic pay of Senior Residents to ₹67,700, bringing it at par with Senior Residents at SKIMS Srinagar and other central medical institutions",
+        "quote": "enhancement of the basic pay of Senior Residents to ₹67,700, bringing it at par with Senior Residents at SKIMS Srinagar and other central medical institutions"
+      },
+      {
+        "claim": "Grant of 20 per cent Non-Practising Allowance to PG residents and Senior Residents",
+        "quote": "grant of 20 per cent Non-Practising Allowance to PG residents and Senior Residents"
+      },
+      {
+        "claim": "Resident doctors at Sub-District Hospital Sopore also staged a protest, seeking equal pay and recognition",
+        "quote": "Resident doctors at Sub-District Hospital Sopore also staged a protest, seeking equal pay and recognition."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Doctors in Jammu and Kashmir are demanding pay parity with SKIMS Srinagar and AIIMS Jammu through a uniform salary structure, including implementation of 7th Pay Commission recommendations and enhanced remuneration for PG and Senior Resident doctors.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "7/7",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

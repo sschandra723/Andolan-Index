@@ -1,0 +1,67 @@
+{
+  "id": "63adc07a39",
+  "url": "https://www.hindustantimes.com/india-news/delhi-police-denies-permission-for-skms-march-to-jantar-mantar-on-farmers-protest-anniversary-101795658949387.html",
+  "title": "Delhi Police denies permission for SKM's march to Jantar Mantar on farmers' protest anniversary",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": "farmers-india-us-trade-2026",
+  "score": 2.0,
+  "matched": [
+    "=SKM",
+    "farmers"
+  ],
+  "alternatives": [
+    "neet-jantar-mantar-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3214,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "farmers-india-us-trade-2026",
+    "new_movement": null,
+    "summary": "Delhi Police denied permission for SKM's planned march to Jantar Mantar on the sixth anniversary of the farmers' protest, citing no application received under Section 163 of the BNSS.",
+    "facts": [
+      {
+        "claim": "Delhi Police denied permission for SKM's planned march to Jantar Mantar on the sixth anniversary of the farmers' protest",
+        "quote": "Police said that no application has been received and no permission has been granted for the farmers' protest march."
+      },
+      {
+        "claim": "The march was scheduled for Thursday",
+        "quote": "The Delhi Police has denied permission to the Samyukta Kisan Morcha’s (SKM) proposed protest march from Kali Bari to Jantar Mantar, scheduled for Thursday."
+      },
+      {
+        "claim": "The march would mark six years since the beginning of the farmers' protest",
+        "quote": "The farmers’ organisation had planned the march to mark six years since the beginning of the farmers’ protest."
+      },
+      {
+        "claim": "Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, prohibits unauthorised gatherings",
+        "quote": "Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, is currently in force in the New Delhi district, prohibiting unauthorised gatherings, processions, demonstrations, speeches, sloganeering and dharnas."
+      },
+      {
+        "claim": "DCP (New Delhi) Sachin Sharma stated no application for permission has been received",
+        "quote": "Information has been received that Samyukta Kisan Morcha and other activists are planning a protest march from Kali Bari to Jantar Mantar on November 26. No application for permission has been received and no permission has been granted for the said march,"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Delhi Police denied permission for SKM's march to Jantar Mantar on the sixth anniversary of the farmers' protest, citing no application received under Section 163 of the BNSS.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 10,
+    "importance_reason": "1 outlet in the last 48 hours."
+  }
+}

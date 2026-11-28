@@ -1,0 +1,102 @@
+{
+  "id": "319d2eb0e2",
+  "url": "https://scroll.in/latest/1097336/sc-to-review-protection-for-self-proclaimed-versus-accredited-journalists-during-protests",
+  "title": "SC to review protection for ‘self-proclaimed’ versus accredited journalists during protests",
+  "outlet": "Scroll.in",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3298,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court will review whether accredited journalists have greater protection than 'self-proclaimed' journalists during protests, following petitions by Kerala Union of Working Journalists over Delhi Police detaining journalists covering protests demanding Chief Election Commissioner Gyanesh Kumar's resignation.",
+    "facts": [
+      {
+        "claim": "The Supreme Court said it would examine whether accredited journalists enjoy greater protection than 'self-proclaimed' journalists while covering protests",
+        "quote": "The Supreme Court on Thursday said that it would examine whether accredited journalists enjoy greater protection than \"self-proclaimed\" journalists while covering protests, Bar and Bench reported."
+      },
+      {
+        "claim": "The court was hearing petitions filed by the Kerala Union of Working Journalists over the Delhi Police’s alleged illegal detentions and forcible removal of journalists covering protests demanding the resignation of Chief Election Commissioner Gyanesh Kumar in the national capital in October",
+        "quote": "The court was hearing petitions filed by the Kerala Union of Working Journalists over the Delhi Police’s alleged illegal detentions and forcible removal of journalists covering protests demanding the resignation of Chief Election Commissioner Gyanesh Kumar in the national capital in October."
+      },
+      {
+        "claim": "The protests were organised by the Cockroach Janta Party political campaign, the Opposition parties and student groups",
+        "quote": "The protests were organised by the Cockroach Janta Party political campaign, the Opposition parties and student groups."
+      },
+      {
+        "claim": "Demonstrations had also been held in June and July at Jantar Mantar against alleged exam irregularities",
+        "quote": "Demonstrations had also been held in June and July at Jantar Mantar against alleged exam irregularities."
+      },
+      {
+        "claim": "The bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana disposed of the union’s plea about the alleged detention and manhandling of seven journalists, sending them to the court-appointed inquiry committee",
+        "quote": "The bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana disposed of the union’s plea about the alleged detention and manhandling of seven journalists, sending them to the court-appointed inquiry committee, Bar and Bench reported."
+      },
+      {
+        "claim": "In the aftermath of the youth protests in July, the Supreme Court on August 20 had formed an inquiry committee to investigate the alleged police excesses during the demonstrations and violence against security forces",
+        "quote": "In the aftermath of the youth protests in July, the Supreme Court on August 20 had formed an inquiry committee to investigate the alleged police excesses during the demonstrations and violence against security forces."
+      },
+      {
+        "claim": "The court asked what qualified as a journalist and should professional accreditation or institutional affiliation determine the protection for journalists",
+        "quote": "On Thursday, the court asked what qualified as a journalist and should professional accreditation or institutional affiliation determine the protection for journalists."
+      },
+      {
+        "claim": "The court observed that journalistic freedom must be balanced with the need to maintain public order",
+        "quote": "The court observed that journalistic freedom must be balanced with the need to maintain public order, Bar and Bench reported."
+      },
+      {
+        "claim": "The bench added that it would examine larger constitutional questions, while individual allegations of police excesses were to be reviewed by the inquiry committee",
+        "quote": "The bench added that it would examine larger constitutional questions, while individual allegations of police excesses were to be reviewed by the inquiry committee."
+      },
+      {
+        "claim": "On November 18, the Delhi Police told the Supreme Court that social media influencers, content creators and reel-makers are not entitled to avail the benefits of an order allowing journalists to cover protests unhindered",
+        "quote": "On November 18, the Delhi Police told the Supreme Court that social media influencers, content creators and reel-makers are not entitled to avail the benefits of an order allowing journalists to cover protests unhindered."
+      },
+      {
+        "claim": "The police said that there is a difference between accredited journalists and \"reel-makers and social media influencers or unruly elements\", which it argued were not covered by the court’s order exempting media personnel from restrictions imposed by the Delhi Police to regulate the movement of those present at the protest sites",
+        "quote": "The police said that there is a difference between accredited journalists and \"reel-makers and social media influencers or unruly elements\", which it argued were not covered by the court’s order exempting media personnel from restrictions imposed by the Delhi Police to regulate the movement of those present at the protest sites."
+      },
+      {
+        "claim": "The police said that it did not knowingly obstruct any journalist from carrying out their duties",
+        "quote": "The Delhi Police has, at no point, sought to obstruct, impede or interfere with the bona fide discharge of journalistic duties, whether during the protests in question or otherwise,"
+      },
+      {
+        "claim": "The police claimed that some protestors carried filming equipment and falsely identified themselves as professional journalists",
+        "quote": "The police claimed that some protestors carried filming equipment and falsely identified themselves as professional journalists."
+      },
+      {
+        "claim": "The Delhi Police detained at least 11 journalists covering the protests on October 11",
+        "quote": "The Delhi Police detained at least 11 journalists covering the protests on October 11."
+      },
+      {
+        "claim": "Journalists from Scroll, The Indian Express Hindi, The Caravan, Newslaundry, Peek TV, The Quint, the Navbharat Times, Reuters, Alt News, Boom Live, Molitics, 24 News, Asianet News and Reporter TV were among those detained",
+        "quote": "Journalists from Scroll, The Indian Express Hindi, The Caravan, Newslaundry, Peek TV, The Quint, the Navbharat Times, Reuters, Alt News, Boom Live, Molitics, 24 News, Asianet News and Reporter TV were among those detained."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court is reviewing journalist protection during protests following petitions by Kerala Union of Working Journalists over Delhi Police detaining journalists covering protests demanding Chief Election Commissioner Gyanesh Kumar's resignation.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "15/15",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "e96a94e34e",
+  "url": "https://www.greaterkashmir.com/opinion/the-chair-and-the-citizen-12847553",
+  "title": "The Chair and the Citizen",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The article describes the emotional and systemic challenges faced by ordinary citizens interacting with institutions, highlighting a lack of respectful treatment and accountability in public services, without specifying a particular protest movement.",
+    "facts": [
+      {
+        "claim": "The article describes the emotional and systemic challenges faced by ordinary citizens interacting with institutions, highlighting a lack of respectful treatment and accountability in public services, without specifying a particular protest movement.",
+        "quote": "The quiet agony of the ordinary citizen in a world where power can seem increasingly distant from responsibility."
+      },
+      {
+        "claim": "The article describes the emotional and systemic challenges faced by ordinary citizens interacting with institutions, highlighting a lack of respectful treatment and accountability in public services, without specifying a particular protest movement.",
+        "quote": "Living at some distance from the centres of power, I watch the world arrive each day through a screen."
+      },
+      {
+        "claim": "The article describes the emotional and systemic challenges faced by ordinary citizens interacting with institutions, highlighting a lack of respectful treatment and accountability in public services, without specifying a particular protest movement.",
+        "quote": "We were told that honesty mattered, that education opened doors, that institutions protected the vulnerable, and that leadership carried an obligation to serve."
+      },
+      {
+        "claim": "The article describes the emotional and systemic challenges faced by ordinary citizens interacting with institutions, highlighting a lack of respectful treatment and accountability in public services, without specifying a particular protest movement.",
+        "quote": "A question could feel like an intrusion. A request for clarification could be received as a challenge."
+      },
+      {
+        "claim": "The article describes the emotional and systemic challenges faced by ordinary citizens interacting with institutions, highlighting a lack of respectful treatment and accountability in public services, without specifying a particular protest movement.",
+        "quote": "The unspoken arrangement seemed clear, authority deserved deference; the citizen should be grateful for attention."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.8,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

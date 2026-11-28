@@ -1,0 +1,60 @@
+{
+  "id": "4d4028b716",
+  "url": "https://www.hindustantimes.com/cities/chandigarh-news/haryana-farmer-leaders-unite-to-protest-against-sugarcane-prices-101795462224759.html",
+  "title": "Haryana farmer leaders unite to protest against sugarcane prices",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-24",
+  "collected": "2026-11-24",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "sugarcane"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3052,
+    "fetch_note": null,
+    "drafted": "2026-11-24",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Haryana farmer leaders formed a unified front to protest against sugarcane prices, aiming to close sugar mills and demand ₹600 per quintal.",
+    "facts": [
+      {
+        "claim": "Haryana farmer leaders formed a unified front",
+        "quote": "This is the first time since the 2020-21 agitation against the farm laws that farmer leaders from different ideologies met jointly at Neem Sahib Gurudwara, Kaithal to decide on a possible unity"
+      },
+      {
+        "claim": "Aim to close sugar mills",
+        "quote": "the gathering decided to fight the ongoing movement demanding the sugarcane price of ₹600 per quintal"
+      },
+      {
+        "claim": "Demand ₹600 per quintal",
+        "quote": "the gathering decided to fight the ongoing movement demanding the sugarcane price of ₹600 per quintal"
+      },
+      {
+        "claim": "Plan to stop harvesting and lock mills",
+        "quote": "farmers have so far decided to stage protests at 14 sugar mills across the state, planning also to stop harvesting and lock the mills"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Haryana farmers formed a unified coalition to protest against sugarcane prices, following a government hike to ₹430 per quintal, with demands for ₹600 per quintal.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

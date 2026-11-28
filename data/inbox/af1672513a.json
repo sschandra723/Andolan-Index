@@ -1,0 +1,62 @@
+{
+  "id": "af1672513a",
+  "url": "https://www.thehindu.com/news/national/kerala/congress-workers-in-palakkad-send-gooseberries-to-kasaragod-mp-rajmohan-unnithan-in-protest/article71746780.ece",
+  "title": "Congress workers in Palakkad send gooseberries to Kasaragod MP Rajmohan Unnithan in protest",
+  "outlet": "The Hindu",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 910,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "blo-sir-workload-2025",
+    "new_movement": null,
+    "summary": "Congress workers in Palakkad sent gooseberries to Kasaragod MP Rajmohan Unnithan as a protest against his remarks criticizing Vadakara MP Shafi Parambil, claiming his support had unsettled him.",
+    "facts": [
+      {
+        "claim": "Congress workers staged a novel protest against Kasaragod MP Rajmohan Unnithan",
+        "quote": "Congress workers here staged a novel protest against Kasaragod MP Rajmohan Unnithan, over his controversial remarks against Vadakara MP Shafi Parambil."
+      },
+      {
+        "claim": "A group of Congress workers at Vandazhi sent a parcel of gooseberries (nellikka) to Mr. Unnithan",
+        "quote": "A group of Congress workers at Vandazhi sent a parcel of gooseberries (nellikka) to Mr. Unnithan, accompanied by a sarcastic note suggesting that he perform Nellikkathalam (treatment with gooseberry) three times a day."
+      },
+      {
+        "claim": "The note mocked Mr. Unnithan, claiming that Mr. Parambil’s growing public support had unsettled him",
+        "quote": "The note mocked Mr. Unnithan, claiming that Mr. Parambil’s growing public support had unsettled him."
+      },
+      {
+        "claim": "Mr. Unnithan’s remarks against Mr. Parambil have triggered resentment among Congress workers",
+        "quote": "Mr. Unnithan’s remarks against Mr. Parambil have triggered resentment among Congress workers."
+      },
+      {
+        "claim": "What began as a war of words on social media has now spilled over into direct protests",
+        "quote": "What began as a war of words on social media has now spilled over into direct protests."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Congress workers in Palakkad sent gooseberries to Kasaragod MP Rajmohan Unnithan as a protest against his remarks criticizing Vadakara MP Shafi Parambil, claiming his support had unsettled him.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 0,
+    "importance_reason": "No special signals."
+  }
+}

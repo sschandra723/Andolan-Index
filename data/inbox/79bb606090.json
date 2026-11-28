@@ -1,0 +1,78 @@
+{
+  "id": "79bb606090",
+  "url": "https://www.thehindu.com/news/cities/Madurai/cpim-residents-protest-demanding-closure-of-tasmac-shop/article71752019.ece",
+  "title": "CPI(M), residents protest demanding closure of Tasmac shop",
+  "outlet": "The Hindu",
+  "published": "2026-11-27",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1137,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Over 100 CPI(M) functionaries and residents protested in Dindigul demanding closure of a Tasmac shop near health and religious institutions, with police deployed and traffic jam reported.",
+    "facts": [
+      {
+        "claim": "Over 100 CPI(M) functionaries on Friday staged a protest demanding the closure of a Tasmac shop located on Dindigul-Palani road in Dindigul.",
+        "quote": "Over 100 CPI(M) functionaries on Friday staged a protest demanding the closure of a Tasmac shop located on Dindigul-Palani road in Dindigul."
+      },
+      {
+        "claim": "The protest was led by former Dindigul MLA and senior CPI(M) leader K. Balabharathi.",
+        "quote": "The protest was led by former Dindigul MLA and senior CPI(M) leader K. Balabharathi."
+      },
+      {
+        "claim": "CPI(M) functionaries and the local residents participated in the protest demanding the closure of the Tasmac shop.",
+        "quote": "CPI(M) functionaries and the local residents participated in the protest demanding the closure of the Tasmac shop."
+      },
+      {
+        "claim": "They said the Tasmac shop was located close to a primary health centre, a Siddha hospital, an Anganwadi centre, a fair-price shop and religious institutions.",
+        "quote": "They said the Tasmac shop was located close to a primary health centre, a Siddha hospital, an Anganwadi centre, a fair-price shop and religious institutions."
+      },
+      {
+        "claim": "The residents complained that similar protests were staged earlier and several representations had been made to the authorities concerned in this regard.",
+        "quote": "The residents complained that similar protests were staged earlier and several representations had been made to the authorities concerned in this regard."
+      },
+      {
+        "claim": "However, despite the representations made to the authorities demanding the closure of the Tasmac shop, no action had been taken by the authorities so far, they said.",
+        "quote": "However, despite the representations made to the authorities demanding the closure of the Tasmac shop, no action had been taken by the authorities so far, they said."
+      },
+      {
+        "claim": "A large number of police personnel were deployed.",
+        "quote": "A large number of police personnel were deployed."
+      },
+      {
+        "claim": "The protest caused a traffic jam in the area.",
+        "quote": "The protest caused a traffic jam in the area."
+      },
+      {
+        "claim": "The protesters dispersed after the authorities assured the residents that the issue would be brought to the notice of the higher authorities and appropriate action would be taken.",
+        "quote": "The protesters dispersed after the authorities assured the residents that the issue would be brought to the notice of the higher authorities and appropriate action would be taken."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": null,
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "9/9",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

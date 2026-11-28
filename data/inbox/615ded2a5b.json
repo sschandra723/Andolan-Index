@@ -1,0 +1,58 @@
+{
+  "id": "615ded2a5b",
+  "url": "https://www.thehindu.com/videos/asha-workers-karnataka-continue-their-protest-seeking-better-pay/article71750855.ece",
+  "title": "ASHA workers in Karnataka continue their protest seeking better pay",
+  "outlet": "The Hindu",
+  "published": "2026-11-27",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 521,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "ASHA workers in Karnataka have been protesting for 11 days at Freedom Park in Bengaluru, demanding better pay, recognition and acknowledgement of their work in the public healthcare system despite being classified as 'volunteers'.",
+    "facts": [
+      {
+        "claim": "As the ASHA workers’ protest in Bengaluru enters its 11th day",
+        "quote": "As the ASHA workers’ protest in Bengaluru enters its 11th day"
+      },
+      {
+        "claim": "the sit-in at Freedom Park continues despite rain and difficult conditions",
+        "quote": "the sit-in at Freedom Park continues despite rain and difficult conditions"
+      },
+      {
+        "claim": "The protest highlights the crucial role ASHA workers play in the public healthcare system, handling a wide range of responsibilities while continuing to be classified as “volunteers”",
+        "quote": "The protest highlights the crucial role ASHA workers play in the public healthcare system, handling a wide range of responsibilities while continuing to be classified as “volunteers”"
+      },
+      {
+        "claim": "Their demands centre on better remuneration, recognition and acknowledgement of the work they do",
+        "quote": "Their demands centre on better remuneration, recognition and acknowledgement of the work they do"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "ASHA workers are community health workers in India's public healthcare system who are classified as volunteers despite performing critical health services.",
+    "confidence": 0.9,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

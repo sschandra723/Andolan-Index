@@ -1,0 +1,62 @@
+{
+  "id": "0f2bd95ae2",
+  "url": "https://www.greaterkashmir.com/jammu-kashmir/jkssb-moves-ahead-with-psi-examination-preparations-amid-protests-issues-candidate-guidelines-12848457",
+  "title": "JKSSB moves ahead with PSI examination preparations amid protests, issues candidate guidelines",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 4324,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "The Jammu and Kashmir Services Selection Board (JKSSB) is proceeding with PSI examination preparations despite protests from candidates demanding postponement of the November 29 exam.",
+    "facts": [
+      {
+        "claim": "JKSSB is moving ahead with preparations to conduct the written examination as scheduled on November 29",
+        "quote": "Jammu and Kashmir Services Selection Board (JKSSB) is moving ahead with its preparations to conduct the written examination as scheduled on November 29."
+      },
+      {
+        "claim": "Candidates have been directed to reach examination centres at least two hours before gate closing time for biometric authentication",
+        "quote": "candidates have been directed to reach their respective examination centres at least two hours before the gate closing time to complete mandatory biometric fingerprint authentication, facial recognition, security checks and frisking."
+      },
+      {
+        "claim": "The Board has made biometric authentication compulsory with an authentication hologram required on the Admit Card",
+        "quote": "The Board has made biometric authentication compulsory, with an authentication hologram required to be affixed to the Admit Card. Candidates without the hologram will not be permitted to enter the examination hall."
+      },
+      {
+        "claim": "JKSSB has prohibited mobile phones, smartwatches, Bluetooth devices, earphones, cameras, calculators, pen drives, electronic gadgets, books, notes, loose papers, wallets, handbags, jewellery and other materials that could be used for unfair means",
+        "quote": "JKSSB has strictly prohibited mobile phones, smartwatches, Bluetooth devices, earphones, cameras, calculators, pen drives, electronic gadgets, books, notes, loose papers, wallets, handbags, jewellery and other materials that could be used for unfair means."
+      },
+      {
+        "claim": "Candidates have been asked to carry the original printed Admit Card along with the prescribed declaration/undertaking and original photo identity proof",
+        "quote": "Candidates have been asked to carry the original printed Admit Card along with the prescribed declaration/undertaking and original photo identity proof."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The JKSSB PSI examination is a key recruitment process for the Jammu and Kashmir police force, and the protests reflect tensions over examination scheduling amid demands for postponement.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 40,
+    "importance_reason": "4 outlets in the last 48 hours."
+  }
+}

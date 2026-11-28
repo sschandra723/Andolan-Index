@@ -1,0 +1,64 @@
+{
+  "id": "facd37f42d",
+  "url": "https://theprint.in/india/amid-agitation-by-anganwadi-workers-odisha-govt-hikes-their-remuneration-by-rs-2000-a-month/3111435/",
+  "title": "Amid agitation by Anganwadi workers, Odisha govt hikes their remuneration by Rs 2,000 a month",
+  "outlet": "The Print",
+  "published": "2026-11-27",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2788,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Odisha government announced a Rs 2,000 monthly remuneration hike for Anganwadi workers and Rs 1,000 for helpers after five-day sit-in protest demanding better pay and job regularization.",
+    "facts": [
+      {
+        "claim": "Odisha government announced a Rs 2,000 hike in the monthly remuneration of Anganwadi workers",
+        "quote": "The Odisha government on Friday announced a Rs 2,000 hike in the monthly remuneration of Anganwadi workers and a Rs 1,000 increase for helpers, along with an increase in ex-gratia assistance and retirement benefits."
+      },
+      {
+        "claim": "Anganwadi workers and helpers have been staging a sit-in protest for five days",
+        "quote": "Thousands of Anganwadi workers and helpers have been staging a sit-in protest for five days in Bhubaneswar to press for their seven-point charter of demands, which includes a hike in remuneration to Rs 18,000 a month and regularisation of jobs."
+      },
+      {
+        "claim": "The government decided to hike the monthly remuneration of Anganwadi workers to Rs 12,000 from Rs 10,000",
+        "quote": "With the approval of Chief Minister Mohan Charan Majhi, the government has decided to hike the monthly remuneration of Anganwadi workers to Rs 12,000 from Rs 10,000, and the amount will be Rs 6,000 from Rs 5,000 for helpers."
+      },
+      {
+        "claim": "The ex-gratia assistance payable in the event of the death of a working Anganwadi worker or helper has been doubled from Rs 2 lakh to Rs 4 lakh",
+        "quote": "Acknowledging the valuable contribution of Anganwadi workers in implementing various government welfare schemes at the grassroots level, Parida said the government was pleased to double the ex-gratia assistance payable in the event of the death of a working Anganwadi worker or helper."
+      },
+      {
+        "claim": "The retirement financial assistance under the exit policy has been trebled to Rs 3 lakh for Anganwadi workers",
+        "quote": "The retirement financial assistance under the exit policy has been trebled. Anganwadi workers will now receive Rs 3 lakh upon retirement, compared to the earlier Rs 1 lakh."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Odisha government implemented a remuneration hike for Anganwadi workers following a five-day sit-in protest demanding better pay and job regularization.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "4/5",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “With the approval of Chief Minister Mohan Charan Majhi, the government has decid”"
+      ]
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

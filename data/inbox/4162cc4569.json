@@ -1,0 +1,83 @@
+{
+  "id": "4162cc4569",
+  "url": "https://www.greaterkashmir.com/pir-panjal/despite-cs-assurance-non-gazetted-employees-of-5-new-gmcs-continue-strike-across-jk-12841906",
+  "title": "Despite CS’ assurance, non-gazetted employees of 5 new GMCs continue strike across J&K",
+  "outlet": "Greater Kashmir",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "hunger strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2429,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "jk-statehood-2026",
+    "new_movement": null,
+    "summary": "Non-gazetted employees of five new Jammu and Kashmir Government Medical Colleges continue strike demanding immediate notification of service recruitment rules, which have been pending for nearly seven years.",
+    "facts": [
+      {
+        "claim": "non-gazetted cadre employees of five newly established Government Medical Colleges across Jammu and Kashmir continued their agitation",
+        "quote": "non-gazetted cadre employees of five newly established Government Medical Colleges across Jammu and Kashmir continued their agitation"
+      },
+      {
+        "claim": "employees have been on strike for the last nine days",
+        "quote": "The employees, who are on strike for the last nine days"
+      },
+      {
+        "claim": "employees are demanding immediate notification of service recruitment rules, which have remained pending since the establishment of these medical colleges nearly seven years ago",
+        "quote": "are demanding immediate notification of service recruitment rules, which have remained pending since the establishment of these medical colleges nearly seven years ago"
+      },
+      {
+        "claim": "this is the third agitation by the employees over the issue this year",
+        "quote": "This is the third agitation by the employees over the issue this year"
+      },
+      {
+        "claim": "the ongoing strike has affected healthcare services across the five medical colleges",
+        "quote": "The ongoing strike has affected healthcare services across the five medical colleges"
+      },
+      {
+        "claim": "employees are abstaining from duties except emergency services",
+        "quote": "employees are abstaining from duties except emergency services"
+      },
+      {
+        "claim": "elective surgeries have been delayed, while outpatient department (OPD) services have also been hit",
+        "quote": "Elective surgeries have been delayed, while outpatient department (OPD) services have also been hit"
+      },
+      {
+        "claim": "Chief Secretary Sajjan Singh Yadav assured employees that the entire process would be completed within one month",
+        "quote": "He informed them that the Health and Medical Education Department had submitted the draft service recruitment rules to the Finance Department for further processing. The Chief Secretary assured the employees that the entire process would be completed within one month"
+      },
+      {
+        "claim": "employees said they will continue strike until the service recruitment rules are formally notified",
+        "quote": "We welcome the assurance given by the Chief Secretary, but the Coordination Committee has already decided that the strike will continue until the recruitment rules are notified"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Non-gazetted employees of five new Jammu and Kashmir Government Medical Colleges have been striking for nearly seven years over pending service recruitment rules, with this being their third agitation this year.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "8/9",
+      "names_checked": true,
+      "problems": [
+        "quote not in article: “non-gazetted cadre employees of five newly established Government Medical Colleg”",
+        "name “Kashmir Government Medical Colleges” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

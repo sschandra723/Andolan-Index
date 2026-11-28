@@ -1,0 +1,58 @@
+{
+  "id": "1e6015f888",
+  "url": "https://ddnews.gov.in/en/indias-poverty-turnaround-golds-fragile-rebound-and-bangladeshs-garment-wage-protests/",
+  "title": "India’s Poverty Turnaround, Gold’s Fragile Rebound, and Bangladesh’s Garment Wage Protests",
+  "outlet": "DD News",
+  "published": "2026-11-26",
+  "collected": "2026-11-27",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-27",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Finance Minister Nirmala Sitharaman described India's poverty reduction efforts over the past decade, highlighting schemes like Swachh Bharat and Jan Dhan accounts that helped nearly 50 crore people move out of poverty. The article also covers gold's rebound from a 14-month low and Bangladesh's garment wage protests.",
+    "facts": [
+      {
+        "claim": "Finance Minister Nirmala Sitharaman described India's poverty reduction efforts over the past decade",
+        "quote": "Finance Minister Nirmala Sitharaman argued that poverty is multidimensional: a family may earn more, but without a toilet, safe drinking water, healthcare, a secure home or access to financial services, it remains vulnerable and can easily slip back into poverty."
+      },
+      {
+        "claim": "highlighting schemes like Swachh Bharat and Jan Dhan accounts that helped nearly 50 crore people move out of poverty",
+        "quote": "This approach, she noted, has helped nearly 50 crore Indians move out of poverty over the past decade."
+      },
+      {
+        "claim": "Gold's rebound from a 14-month low",
+        "quote": "Gold, long seen as the ultimate safe-haven asset, recently fell to its lowest level in 14 months, briefly touching levels last seen in September 2025 after dropping more than 8% this month."
+      },
+      {
+        "claim": "Bangladesh's garment wage protests",
+        "quote": "continuing wage protests in Bangladesh’s garment industry despite a government-approved pay hike."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The article reports on India's poverty reduction strategies and their impact, as well as economic trends in gold and Bangladesh's garment sector, but does not indicate a major new development for a specific protest movement.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

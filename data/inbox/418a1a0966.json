@@ -1,0 +1,86 @@
+{
+  "id": "418a1a0966",
+  "url": "https://www.thehindu.com/news/cities/Madurai/melur-farmers-protest-over-periyar-water-release/article71750927.ece",
+  "title": "Melur farmers protest over Periyar water release",
+  "outlet": "The Hindu",
+  "published": "2026-11-27",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3305,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Farmers in Melur, Tamil Nadu protest over water distribution from Periyar dam, alleging exclusion from water allocation and demanding immediate release for drinking purposes.",
+    "facts": [
+      {
+        "claim": "farmers from Melur surrounding District Collector Nishant Krishna over alleged exclusion of their region from Periyar dam water distribution",
+        "quote": "The farmers’ grievance redress meeting held at Madurai Collectorate on Friday (November 27, 2026) witnessed protests, with farmers from Melur surrounding District Collector Nishant Krishna over alleged exclusion of their region from Periyar dam water distribution."
+      },
+      {
+        "claim": "water was being supplied to Cumbum valley and to Kallandiri from Peranai, while bypassing Melur",
+        "quote": "Stating that Melur was a traditional ayacut area of the dam, he said water was being supplied to Cumbum valley and to Kallandiri from Peranai, while bypassing Melur."
+      },
+      {
+        "claim": "farmers relied heavily on livestock for their livelihood",
+        "quote": "Emphasising that the farmers relied heavily on livestock for their livelihood, he demanded the immediate release of water for drinking purposes."
+      },
+      {
+        "claim": "water had been unilaterally released for a single crop irrigation in Kallandiri area without consulting both single-crop and double-crop farmers",
+        "quote": "A group of farmers from Melur surrounded the Collector, alleging that water had been unilaterally released for a single crop irrigation in Kallandiri area without consulting both single-crop and double-crop farmers."
+      },
+      {
+        "claim": "farmers would stage a road blockade if water was not released for Melur within a week",
+        "quote": "Another farmer, Palanisamy, threatened that if water was not released for Melur within a week, the farmers would stage a road blockade."
+      },
+      {
+        "claim": "drought compensation for Madurai on a par with the Cauvery delta",
+        "quote": "He also demanded drought compensation for Madurai on a par with the Cauvery delta and blamed unchecked exploitation by the Department of Geology and Mining for the failure of seasonal rains in the district."
+      },
+      {
+        "claim": "allocation of ₹3.8 crore three months ago for canal maintenance in Melur, but WRD failed to carry out repairs",
+        "quote": "Chidambaram, another farmer, said despite the allocation of ₹3.8 crore three months ago for canal maintenance in Melur, the Water Resources Department (WRD) had failed to carry out repairs, thus preventing water supply to tail-end areas."
+      },
+      {
+        "claim": "20 feet of silt accumulation in Vaigai dam had severely reduced its storage capacity",
+        "quote": "Highlighting the crisis in Usilampatti region, a farmer, Kalaiyazhagan, said 20 feet of silt accumulation in Vaigai dam had severely reduced its storage capacity, obstructing water flow to the 58-Village Canal, and affecting agricultural activity in Usilampatti."
+      },
+      {
+        "claim": "WRD Assistant Executive Engineer’s office had been demolished to make way for Kalaignar Centenary Library",
+        "quote": "A Usilampatti farmer, P. Bhagavan, said the WRD Assistant Executive Engineer’s office had been demolished to make way for he Kalaignar Centenary Library."
+      },
+      {
+        "claim": "farmers unable to cultivate for a year and lacked funds to extend November 30 deadline for repaying cooperative bank crop loans",
+        "quote": "Manavala Kannan, urged the administration to extend the November 30 deadline for repaying cooperative bank crop loans, saying the farmers were unable to cultivate for a year and lacked funds."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers in Melur, Tamil Nadu are protesting over water distribution from Periyar dam, alleging exclusion from water allocation and demanding immediate release for drinking purposes.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": false,
+      "quotes_found": "10/10",
+      "names_checked": true,
+      "problems": [
+        "name “Tamil Nadu” in the summary does not appear in the article"
+      ]
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}

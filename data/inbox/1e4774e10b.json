@@ -1,0 +1,74 @@
+{
+  "id": "1e4774e10b",
+  "url": "https://www.thehindu.com/news/cities/Madurai/tmb-foundation-mssrf-demonstrate-impact-of-pilot-coastal-development-project-in-thoothukudi/article71751555.ece",
+  "title": "TMB Foundation, MSSRF demonstrate impact of pilot coastal development project in Thoothukudi",
+  "outlet": "The Hindu",
+  "published": "2026-11-27",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1703,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "TMB Foundation and MSSRF held a workshop in Thoothukudi to review outcomes from a coastal development pilot project in two villages, sharing community experiences and lessons learned.",
+    "facts": [
+      {
+        "claim": "TMB Foundation in partnership with M.S. Swaminathan Research Foundation (MSSRF) has organised a project outcome dissemination workshop in Thoothukudi",
+        "quote": "TMB Foundation in partnership with M.S. Swaminathan Research Foundation (MSSRF) has organised a project outcome dissemination workshop in Thoothukudi, to review the outcomes and key learnings from the pilot initiative implemented in the coastal villages of Keela Vaippar and Pattinamarudhur in the district."
+      },
+      {
+        "claim": "Community representatives from Pattinamarudhur and Keela Vaippar shared their experiences and changes observed at household and village levels",
+        "quote": "Community representatives from Pattinamarudhur and Keela Vaippar shared their experiences and changes observed at household and village levels, a press release issued on Friday said."
+      },
+      {
+        "claim": "As part of the workshop, community reflection booklets documenting experiences, early changes and lessons from two the villages were released",
+        "quote": "As part of the workshop, community reflection booklets documenting experiences, early changes and lessons from two the villages were released, providing a field based account of the implementation process and community perspectives."
+      },
+      {
+        "claim": "A documentation film capturing the pilot journey was also screened",
+        "quote": "A documentation film capturing the pilot journey was also screened."
+      },
+      {
+        "claim": "Velvizhi, Director, Fisheries and Livelihoods Programme, MSSRF presented the project approach, implementation process, emerging outcomes, key learnings and next course of actions",
+        "quote": "During the programme, Velvizhi, Director, Fisheries and Livelihoods Programme, MSSRF presented the project approach, implementation process, emerging outcomes, key learnings and next course of actions."
+      },
+      {
+        "claim": "She highlighted that developing resilient fishing villages requires a long-term integrated and collective approach that brings together communities, government departments, research institutions and development partners",
+        "quote": "She highlighted that developing resilient fishing villages requires a long-term integrated and collective approach that brings together communities, government departments, research institutions and development partners."
+      },
+      {
+        "claim": "Saravanan, project director of District Rural Development Agency emphasised the importance of adopting an integrated approach for the development of villages, rather than addressing livelihood and social needs through separate interventions",
+        "quote": "Saravanan, project director of District Rural Development Agency emphasised the importance of adopting an integrated approach for the development of villages, rather than addressing livelihood and social needs through separate interventions."
+      },
+      {
+        "claim": "TMB Foundation’s CEO Muthiah, highlighted the longstanding partnership between TMB Foundation and MSSRF and emphasised the importance of collaborative efforts in strengthening fishing communities",
+        "quote": "TMB Foundation’s CEO Muthiah, highlighted the longstanding partnership between TMB Foundation and MSSRF and emphasised the importance of collaborative efforts in strengthening fishing communities."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "TMB Foundation and MSSRF conducted a workshop in Thoothukudi to review outcomes from a coastal development pilot project in two villages, focusing on community experiences and lessons learned.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "8/8",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

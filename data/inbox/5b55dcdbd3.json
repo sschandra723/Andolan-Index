@@ -1,0 +1,60 @@
+{
+  "id": "5b55dcdbd3",
+  "url": "https://www.hindustantimes.com/cities/others/mpsc-recruitment-row-msu-president-s-hunger-strike-enters-third-day-101795602360086.html",
+  "title": "MPSC recruitment row: MSU president's hunger strike enters third day",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-25",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "hunger strike"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 2675,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "Mizo Students' Union president Laldinsanga's hunger strike demanding Mizoram Public Service Commission chairman R Lalramnghaka's resignation entered its third day, citing over 20 recruitment errors since the chairman took office in May 2024.",
+    "facts": [
+      {
+        "claim": "hunger strike entered third day",
+        "quote": "Aizawl, Mizo Students' Union president Laldinsanga's hunger strike demanding the resignation of Mizoram Public Service Commission chairman R Lalramnghaka entered its third day on Wednesday"
+      },
+      {
+        "claim": "demanding resignation",
+        "quote": "demanding that Lalramnghaka take \"moral responsibility\" for what he described as repeated errors and lapses in the commission's recruitment process"
+      },
+      {
+        "claim": "over 20 recruitment errors",
+        "quote": "The MPSC has committed more than 20 errors since the chairman assumed office"
+      },
+      {
+        "claim": "since chairman took office in May 2024",
+        "quote": "the commission's functioning since Lalramnghaka assumed office on May 20, 2024"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Mizo Students' Union president Laldinsanga has been fasting outside the MPSC office since Monday, demanding the resignation of Mizoram Public Service Commission chairman R Lalramnghaka over alleged recruitment errors and administrative lapses.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "255c775f0c",
+  "url": "https://www.hindustantimes.com/india-news/journalist-status-cannot-be-self-conferred-supreme-court-says-on-delhi-anti-cec-protest-pleas-101795701935754.html",
+  "title": "‘Journalist status cannot be self-conferred’, Supreme Court says on Delhi anti-CEC protest pleas",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": "anti-sir-2026",
+  "score": 3.0,
+  "matched": [
+    "anti-CEC protests",
+    "=CEC"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 5189,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "The Supreme Court questioned whether self-proclaimed journalists should get the same protection as accredited reporters during hearings on police excesses in Delhi's anti-CEC protests.",
+    "facts": [
+      {
+        "claim": "The Supreme Court questioned whether individuals who describe themselves as journalists on digital platforms should enjoy the same protections as accredited media professionals",
+        "quote": "The Supreme Court on Thursday questioned whether individuals who describe themselves as journalists on digital platforms should enjoy the same protections as accredited media professionals, saying the status of a journalist cannot be self-conferred."
+      },
+      {
+        "claim": "The court said the protection available to journalists would depend on the nature of their professional credentials and the circumstances in which they sought such protection",
+        "quote": "The court said the protection available to journalists would depend on the nature of their professional credentials and the circumstances in which they sought such protection."
+      },
+      {
+        "claim": "The bench observed that a journalist’s status cannot be self-conferred",
+        "quote": "But we are in the realm of atomised individuals doing journalism. A journalist’s status cannot be self-conferred."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "The Supreme Court is addressing whether self-proclaimed journalists during Delhi's anti-CEC protests should have the same protections as accredited journalists, following allegations of police excesses.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "3/3",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

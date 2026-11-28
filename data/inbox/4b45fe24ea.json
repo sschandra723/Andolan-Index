@@ -1,0 +1,58 @@
+{
+  "id": "4b45fe24ea",
+  "url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-calls-tvk-kallakurichi-mlas-arrest-a-victory-for-aiadmks-sustained-agitations/article71753633.ece",
+  "title": "Palaniswami calls TVK Kallakurichi MLA’s arrest a victory for AIADMK’s sustained agitations",
+  "outlet": "The Hindu",
+  "published": "2026-11-28",
+  "collected": "2026-11-28",
+  "suggested_movement": null,
+  "score": 0,
+  "matched": [],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 776,
+    "fetch_note": null,
+    "drafted": "2026-11-28",
+    "is_protest_in_india": true,
+    "movement": "new",
+    "new_movement": null,
+    "summary": "AIADMK leader Palaniswami called the arrest of a Kallakurichi TVK legislator in a harassment case against a woman IAS officer a 'victory' for his party's sustained agitations, while AMMK leader Dhinakaran said the arrest was due to the TVK regime's inability to delay it further.",
+    "facts": [
+      {
+        "claim": "AIADMK general secretary Edappadi K. Palaniswami has claimed that the arrest of the Kallakurichi TVK legislator in connection with a case of harassment of a woman IAS officer marked a \"victory\" for his party’s \"sustained agitations.\"",
+        "quote": "AIADMK general secretary Edappadi K. Palaniswami has claimed that the arrest of the Kallakurichi TVK legislator in connection with a case of harassment of a woman IAS officer marked a \"victory\" for his party’s \"sustained agitations.\""
+      },
+      {
+        "claim": "In a post on social media, he said his party would ensure that all those who had spread lies about the matter would be brought to book. It would also secure justice for the woman officer.",
+        "quote": "In a post on social media, he said his party would ensure that all those who had spread lies about the matter would be brought to book. It would also secure justice for the woman officer."
+      },
+      {
+        "claim": "AMMK general secretary T.T.V. Dhinakaran, meanwhile, said the TVK regime went ahead with the arrest only because it could not put it off any further.",
+        "quote": "AMMK general secretary T.T.V. Dhinakaran, meanwhile, said the TVK regime went ahead with the arrest only because it could not put it off any further."
+      },
+      {
+        "claim": "He called for action against those who allegedly tried to suppress the incident, despite holding positions of power that enabled them to act against the offence.",
+        "quote": "He called for action against those who allegedly tried to suppress the incident, despite holding positions of power that enabled them to act against the offence."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "AIADMK leader Palaniswami framed the arrest of a TVK legislator in a harassment case against a woman IAS officer as a victory for his party's sustained agitations, while AMMK leader Dhinakaran attributed the arrest to the TVK regime's inability to delay it further.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "4/4",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 15,
+    "importance_reason": "A movement not tracked yet."
+  }
+}

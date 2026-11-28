@@ -1,0 +1,66 @@
+{
+  "id": "8c83724f6a",
+  "url": "https://www.tribuneindia.com/news/india/farmers-protest-nationwide-on-6-years-of-delhi-agitation-press-for-msp-law/",
+  "title": "Farmers protest nationwide on 6 years of Delhi agitation, press for MSP law",
+  "outlet": "The Tribune",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": "farmers-india-us-trade-2026",
+  "score": 3.0,
+  "matched": [
+    "Samyukta Kisan Morcha",
+    "=SKM",
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 3348,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "farmers-india-us-trade-2026",
+    "new_movement": null,
+    "summary": "Farmers across India staged nationwide protests on the sixth anniversary of their movement against the three farm laws, demanding a legal guarantee for minimum support price (MSP) at 50% above cultivation costs, implementation of 2021 Centre assurances, and withdrawal of the proposed India-US trade agreement.",
+    "facts": [
+      {
+        "claim": "Farmers staged nationwide protests",
+        "quote": "Farmers’ organisations under the Samyukta Kisan Morcha (SKM) staged protests across the country on Thursday"
+      },
+      {
+        "claim": "Demands include MSP law at 50% above cultivation costs",
+        "quote": "The principal demand of the protesting farmers is the law guaranteeing MSP for all crops at 50 per cent above the comprehensive cost of cultivation, commonly referred to as the C2+50 per cent formula, along with assured procurement"
+      },
+      {
+        "claim": "Protests mark sixth anniversary of movement against farm laws",
+        "quote": "The nationwide agitation, held at more than 100 locations, marked the sixth anniversary of the farmers’ movement that began on November 26, 2020, against the three farm laws, which were subsequently repealed"
+      },
+      {
+        "claim": "Farmers demand withdrawal of India-US trade agreement",
+        "quote": "They also demanded the withdrawal of the proposed India-US trade agreement"
+      },
+      {
+        "claim": "Centre gave written assurances in December 2021",
+        "quote": "The unions said the Centre had given written assurances on December 9, 2021, following which the year-long agitation was called off"
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers have been protesting for six years since the 2020 repeal of the three farm laws, demanding MSP guarantees and implementation of 2021 Centre assurances, while opposing the India-US trade deal.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

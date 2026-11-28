@@ -1,0 +1,67 @@
+{
+  "id": "0b7d9a82aa",
+  "url": "https://www.hindustantimes.com/india-news/lamp-not-lit-deepathoon-hindu-outfits-stage-protest-in-thiruparankundram-scuffle-with-cops-karthigai-deepam-madurai-stone-pillar-101795526360067.html",
+  "title": "Hindu outfits protest, BJP slams Vijay govt after Karthigai Deepam not lit at SC-approved spot",
+  "outlet": "Hindustan Times",
+  "published": "2026-11-24",
+  "collected": "2026-11-25",
+  "suggested_movement": "tn-thiruparankundram-deepam-2026",
+  "score": 2.0,
+  "matched": [
+    "Thiruparankundram",
+    "Karthigai Deepam"
+  ],
+  "alternatives": [
+    "tn-hospital-workers-2026"
+  ],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 6000,
+    "fetch_note": null,
+    "drafted": "2026-11-25",
+    "is_protest_in_india": true,
+    "movement": "tn-thiruparankundram-deepam-2026",
+    "new_movement": null,
+    "summary": "Hindu groups and BJP leaders protested in Thiruparankundram after Tamil Nadu's government lit the Karthigai Deepam at the customary spot despite a Supreme Court order designating a different location.",
+    "facts": [
+      {
+        "claim": "Tamil Nadu's government lit the Karthigai Deepam at the customary spot",
+        "quote": "District authorities lit the ceremonial lamp at the Deepa Mandapam at the Uchipillayar Kovil, a hilltop shrine on the Thiruparankundram Hill at 6pm."
+      },
+      {
+        "claim": "Supreme Court designated 'Deepathoon' for the lighting",
+        "quote": "The top court had designated ‘Deepathoon’, the disputed stone pillar on the Thiruparankundram hill, for the lighting of the lamp as part of a one-time arrangement this year."
+      },
+      {
+        "claim": "Hindu groups staged a protest",
+        "quote": "Devotees and members of Hindu organisations who were gathered in large numbers, staged a protest demanding that ceremonial lamp be lit at the Deepathoon."
+      },
+      {
+        "claim": "BJP leaders criticized the government",
+        "quote": "BJP's national general secretary BL Santhosh also targeted the Madurai DM. \"The TVK government will face both civilisational and legal challenge. They have bit more than they can chew,\" Santhosh said in a tweet in Tamil."
+      },
+      {
+        "claim": "Tamil Nadu Law Minister was criticized",
+        "quote": "Tamil Nadu BJP president Nainar Nagendran was briefly detained on his way Thiruparankundram to visit the Thiruparankundram Murugan Temple. He alleged he was stopped from offering prayers despite the absence of a legally valid prohibitory order."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Tamil Nadu government lit Karthigai Deepam at customary spot despite Supreme Court order for different location, sparking protests from Hindu groups and BJP leaders.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "5/5",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 20,
+    "importance_reason": "2 outlets in the last 48 hours."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "cf3864500f",
+  "url": "https://www.thehindu.com/news/national/karnataka/farmers-protest-demanding-release-of-bhadra-water-in-shivamogga/article71746334.ece",
+  "title": "Farmers protest demanding release of Bhadra water in Shivamogga",
+  "outlet": "The Hindu",
+  "published": "2026-11-26",
+  "collected": "2026-11-26",
+  "suggested_movement": null,
+  "score": 1.0,
+  "matched": [
+    "farmers"
+  ],
+  "alternatives": [],
+  "ai": {
+    "model": "ollama:qwen3:4b",
+    "read_chars": 1533,
+    "fetch_note": null,
+    "drafted": "2026-11-26",
+    "is_protest_in_india": true,
+    "movement": "karnataka-sugarcane-2025",
+    "new_movement": null,
+    "summary": "Farmers in Shivamogga blocked Nehru Road to protest drought-induced drying of areca plantations, demanding water release from Bhadra reservoir to prevent crop loss.",
+    "facts": [
+      {
+        "claim": "Farmers demanding the release of water from the Bhadra reservoir to save crops drying up due to drought blocked Nehru Road in Shivamogga and picketed the office of School Education Minister and Shivamogga district in-charge Madhu Bangarappa on Thursday.",
+        "quote": "Farmers demanding the release of water from the Bhadra reservoir to save crops drying up due to drought blocked Nehru Road in Shivamogga and picketed the office of School Education Minister and Shivamogga district in-charge Madhu Bangarappa on Thursday."
+      },
+      {
+        "claim": "The farmers, under the banner of the Karnataka Rajya Raitha Sangha, began their protest in front of the Deputy Commissioner’s office in the city on Wednesday. On the second day, they decided to picket the Minister’s office.",
+        "quote": "The farmers, under the banner of the Karnataka Rajya Raitha Sangha, began their protest in front of the Deputy Commissioner’s office in the city on Wednesday. On the second day, they decided to picket the Minister’s office."
+      },
+      {
+        "claim": "The protesters said areca plantations were drying up due to a lack of rainfall. If the plantations did not get water at the earliest, farmers could lose their well-grown trees.",
+        "quote": "The protesters said areca plantations were drying up due to a lack of rainfall. If the plantations did not get water at the earliest, farmers could lose their well-grown trees."
+      },
+      {
+        "claim": "Raitha Sangha general secretary Manjunath said farmers who had nurtured their plantations for five to six decades now faced the threat of losing them to drought.",
+        "quote": "Raitha Sangha general secretary Manjunath said farmers who had nurtured their plantations for five to six decades now faced the threat of losing them to drought."
+      },
+      {
+        "claim": "They criticised the Chief Minister and other Ministers for failing to respond to the farmers’ concerns.",
+        "quote": "They criticised the Chief Minister and other Ministers for failing to respond to the farmers’ concerns."
+      },
+      {
+        "claim": "The protesters demanded that all elected representatives, irrespective of party affiliation, respond to the agitation and ensure that water was released from the reservoir.",
+        "quote": "The protesters demanded that all elected representatives, irrespective of party affiliation, respond to the agitation and ensure that water was released from the reservoir."
+      }
+    ],
+    "signals": {
+      "detentions": false,
+      "deaths": false,
+      "injuries": false,
+      "internet_shutdown": false,
+      "court_order": false,
+      "new_city": false
+    },
+    "background_note": "Farmers in Shivamogga are protesting drought conditions affecting areca plantations, demanding water release from Bhadra reservoir to prevent crop loss.",
+    "confidence": 0.95,
+    "checks": {
+      "passed": true,
+      "quotes_found": "6/6",
+      "names_checked": true,
+      "problems": []
+    },
+    "importance": 30,
+    "importance_reason": "3 outlets in the last 48 hours."
+  }
+}
